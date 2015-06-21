@@ -1,0 +1,458 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１２.０８
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ 摩托羅拉、Lutris攜手實現企業行動網的夢想
+
+■ 嵌入式Linux－未來行動電話的靈魂
+
+■ IBM S/390 Linux主機攻佔日本、北歐
+
+■ Linux叢集系統進攻高階市場
+
+■ 來一客Linux口味的披薩！
+
+■ 開發嵌入式Linux，Windows嘛也通─Embedix SDK
+
+■ Motif研發網站啟用 提供開發者交流資訊
+
+■ Source Forge搭售伺服器硬體，VA Linux利潤新來源
+
+
+═《編者的話》═══════════════════════
+
+Motorola與開放原始碼社群Lutris科技公司攜手，實現企業行動網的
+夢想！！
+
+行動通信大廠Motorola與開放原始碼軟體的Lutris科技公司在四日宣
+佈了一項企業行動網路解決方案的合作方案。雙方的合作架構在Moto
+rola的iDEN網路系統上，並由Lutris所開發的Enhydra 網際網路伺服
+器連接企業的資料庫；手機的支援則是以Motorola未來的J2ME平台手
+機為主。兩邊的合作一共整合了三項關鍵技術：無線通信、網際網路
+以及Java！這項策略聯盟將提供高品質的企業用途開放原始碼應用，
+以及在無線通訊設備上開發商用等級、高投資報酬率的應用程式。開
+放原始碼吹起的旋風，將帶領企業行動網的夢想起飛了！
+
+Palmi，讓手機不只是手機！韓國軟體開發商以嵌入式Linux作為下一
+代的行動電話IMT-2000的作業系統，這款名為Palmi 的手機，將時下
+熱門的行動電話與PDA整合在一起，還加入了動畫、MP3、影像電話與
+VoIP等多媒體功能；另外它應用了藍芽﹙BlueTooth﹚ 技術，所以還
+具備網路遊戲機的功能。這麼「炫」的玩意，只有在OpenScope 中才
+看得到喔！IBM S/390 Linux主機先是進駐日本CSK-Net資料中心，又
+在近日攻佔北歐最大的ISP 和電信公司Telia的Web主機，驅逐七十部
+昇陽主機。這兩項合作案，可說是歐洲第一次重大的商業Linux 部署
+。究竟IBM S/390有什麼致命的吸引力？且看本期OpenScope的報導！
+
+迎接電子商務時代，Linux 叢集系統進攻高階市場！電子商務非常需
+要不中斷系統，越來越多企業在尋求高效能、穩定、低成本的全天候
+線上服務系統，於是Linux叢集逐漸受到重視。NTT ComWare正藉由在
+大型Unix系統的經驗，推出高階Linux叢集系統LocalCluster ，其功
+能可媲美商業Unix系統，LocalCluster將引爆市場對Linux 叢集系統
+的需求。還記得Linux進駐日本Lawson 便利商店嗎？現在連披薩店都
+擁抱Linux了！進銷存MaxSpeed公司和收銀系統設計商OneSystem公司
+，正逐步推行全面應用Linux ，為披薩業者提供全功能的銷售點系統
+。以上只是本期許多精采報導的一部份，閱讀OpenScope ，攫取全方
+位資訊！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+
+═《本期新聞》═══════════════════════
+
+■ 摩托羅拉、Lutris攜手實現企業行動網的夢想
+
+馮文龍/編譯
+2000/12/06
+
+行動通信大廠摩托羅拉與開放原始碼社群的Lutris科技公司在4日宣
+佈最新企業行動網路解決方案的合作方案，並已簽訂合作備忘錄。
+
+------
+
+摩托羅拉與 Lutris在4日宣布策略聯盟，發表最新企業行動網路解決
+方案的合作計畫，此策略聯盟預期將能夠提供高品質的企業用途開放
+原始碼應用，以及在無線通訊設備上開發商用等級、高投資報酬率的
+應用程式。
+
+這次策略聯盟，雙方的合作架構在摩托羅拉的iDEN網路系統上，並由
+Lutris所開發的Enhydra 網際網路伺服器連接企業的資料庫。在手機
+的支援上則是以摩托羅拉未來的J2ME平台手機為主，這項解決方案預
+期可在明年的第一季問世，並由iDEN的網路經營者包括美國的Nextel
+,Southern LINC以及加拿大的Clearnet通信公司推出服務。
+
+摩托羅拉除了提供業界的首款J2ME技術的手機作為這次合作的平台外
+並且還提供了一個加強的開發支援方案，以方便在iDEN手機上的應用
+開發。而Lutris 及開放原始碼Enhydra社群則為這次的合作帶來專屬
+的獨立軟體零售商﹙ISV﹚、加值型經銷商﹙VAR﹚以及有Java程式技
+術的系統整合業者。
+
+Bill Werner，摩托羅拉的iDEN 用戶事業群總經理表示「這項努力整
+合了三項關鍵技術，無線通信、網際網路以及 Java 」，摩托羅拉及
+Lutris還進一步地整合了具備J2ME 技術的iDEN 手機與模擬程式以及
+Enhydra應用伺服器。
+
+Lutris科技是一家提供開放原始碼的公司，Enhydra.org 就是由這家
+公司所創始，Enhydra 是一個網際網路應用伺服器的開發計劃，支援
+Java、XML以及無線通信技術，Lutris 並提供完整的支援服務及教育
+訓練。
+
+相關網址：
+1、Motorola及Lutris實現利用行動電話存取企業網路的構想
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-05-004-20-PR-EM
+2、關於iDeveloper
+   https://commerce.motorola.com/idenonline/ideveloper/program/program_index.cfm
+
+──────────────────────────────
+■ 嵌入式Linux－未來行動電話的靈魂
+
+馮文龍/編譯
+2000/12/04
+
+韓國軟體開發商以嵌入式Linux為下一代的行動電話IMT-2000 塑造靈
+魂。這款名為「Palmi」的手機，由PalmPalm、SK Telecom 以及漢城
+大學共同開發。
+
+------
+
+Palmi 的靈魂﹙作業系統﹚是Tynux﹙嵌入式Linux作業系統﹚，它將
+時下熱門的行動電話與個人數位助理整合在一起，此外還加入了許多
+多媒體功能，像是動畫、MP3、影像電話與VoIP等先進功能。Palmi另
+外還有一項值得一提的功能，它應用了藍芽﹙BlueTooth ﹚技術，使
+得它也具備了網路遊戲機的功能。
+
+這款手機的配備包括了：藍芽套件﹙供應商：Zeen﹚、 QT/Embedded
+﹙供應商：挪威Trolltech﹚、遊戲﹙供應商：Mdream﹚、以及Opera
+瀏覽器。在硬體規格上Palmi的心臟是StrongARM SA1110 206MHz處理
+器，還包括了四英吋的LCD 顯示器、藍芽介面、聲音編碼器、序列及
+USB埠等。
+
+Palmi 的等級與整合微軟口袋型PC的Sagem WA3050以及Symbian-base
+的設備，像是易利信R380同級。諾基亞也不落人後，本周也發布了其
+互動媒體事業群將為其9210手機開發MPEG-4 video Emblaze(TM)以及
+電信級的影像伺服器與閘道器。
+
+相對於在易利信及諾基亞的EPOC平台而言，大多手機上的應用都朝向
+支援LInux以及微軟的作業環境，但EPOC仍有其優勢，EPOC 是專門設
+計的即時作業系統，在記憶體的管理效能上有非常好的表現。
+
+就市場而言，從WAP 以及GPRS普及的跡象顯示，行動通信的市場的擴
+展目前似乎遭遇了瓶頸，上周Sagem 就調降了7%的市場預估。但無論
+如何，行動通信市場仍舊是目前最熱門的市場之一。
+
+相關網址：
+1、Linux、MP3、藍芽共處一室
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-02-025-06-PS-EM-HW
+2、韓國廠商開發首款Linux手機
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-30-003-21-PS
+
+──────────────────────────────
+■ IBM S/390 Linux主機攻佔日本、北歐
+
+蕭喜那/編譯
+2000/12/07
+
+IBM S/390 Linux主機在11月22日攻佔日本CSK-Net資料中心，又在近
+日攻佔北歐最大的ISP和電信公司Telia的Web主機，驅逐七十部昇陽
+主機。這兩項合作案，在日本、歐洲都是破天荒頭一遭，IBM以Linux
+攻佔大型商業主機的雄心可見一斑。
+
+------
+
+IBM於11月22日宣布與日本的CSK-Net合作，CSK-Net將在其資料中心
+的Web伺服器平台上，使用運作TurboLinux的IBM S/390伺服器，該公
+司將是日本第一家在主機上運作Linux應用軟體的公司。
+
+繼日本之後，IBM近日宣布將與北歐最大的ISP和電信公司Telia合作
+，Telia將換掉原先使用的七十部用於Web主機的昇陽伺服器，而改用
+單一的IBM S/390 G6伺服器，這部伺服器可以自動成為一千五百台以
+上虛擬Linux伺服器的主機。這項合作案可說是歐洲第一次重大的商
+業Linux部署，無疑地，這將是潮流的開始。
+
+IBM S/390的優點之一，是可以將所有重大任務的過程與UNIX和Linux
+應用軟體合併在單一的平台上，因此減低了成本。另外一項優點是，
+它可以自動管理負載的分散和資源的配置，以回應預期之外所增加的
+處理負載。如此，可以讓使用者擴充處理能力，而無須關閉系統。
+
+IBM S/390 G6主機和一部11.4 terabyte的IBM企業存儲伺服器﹙Ente
+rprise Storage Server, Shark ﹚將提供Telia的顧客商業和消費者
+層級的網際網路服務，以及提供網路協定／虛擬私有網路﹙Internet
+ Protocol/Virtual Private Network, IP/VPN﹚服務等。IBM指出，
+這項交易大約值三百萬美元，系統能力增加之後，將帶來更大的收益
+。
+
+根據IBM的新聞稿，基於管理的目的，Telia所使用的每一部虛擬伺服
+器，對個別的顧客而言，都是獨立的機器。同時，IBM也會提供一項
+圖形工具，如此，Telia的系統管理員可以擁有管理整個主機的單一
+界面。
+
+相關網址：
+1、龐大的Linux主機在歐洲最大的Linux布署中，驅逐七十部昇陽主機
+   http://eltoday.com/article.php3?ltsn=2000-12-07-001-01-PS
+2、IBM S/390成為日本第一部Linux主機
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-22-005-04-NW-HE-SV
+
+──────────────────────────────
+■ Linux叢集系統進攻高階市場
+
+謝良奇/編譯
+2000/12/06
+
+電子商務時代來臨，越來越多企業在尋求高效能、穩定、低成本的全
+天候線上服務系統，尤其是在 Web、郵件伺服器等必要系統的需求。
+Linux 叢集系統低成本、高效能的優勢逐漸受到重視，甚至進而擴展
+到以往僅由大型Unix叢集系統佔據的高階市場。
+
+------
+
+由於電子商務非常需要不中斷系統，Linux 叢集系統的高效能、低成
+本就成為用戶最佳的投資對象。然而小規模的 Linux叢集系統，價格
+上比起Windows NT沒有優勢，在大規模的叢集系統上，Unix又具有絕
+佳可靠性。因此過去Linux叢集系統主要仍侷限在中階市場。
+
+然而目前Linux已逐漸邁向大規模的叢集系統市場。NTT ComWare正藉
+由在大型Unix系統的經驗，推出高階Linux叢集系統 LocalCluster，
+其功能可媲美商業Unix系統。
+
+此外，日前高效能Linux解決方案供應商TurboLinux，亦與Hitachi合
+作，為東京一家網路服務供應商Mega開發大型Linux叢集系統，以1.5
+Terabyte儲存容量的高效能系統，為超過十萬名組織用戶提供全天候
+的線上服務。
+
+Hitachi資深工程師 Satoshi Kawamura表示，該公司乃經由在Unix叢
+集系統的經驗，揉合TurboLinux的軟體解決方案，開發出此叢集系統
+，相信以該系統媲美Unix的高穩定性，將引發市場對 Linux叢集系統
+的高度需求。
+
+除了日本市場，目前高備載的 Linux叢集系統市場已有多項新產品問
+市、釋出。例如 Silicon Graphics正與SuSE Linux合作，在Linux版
+本中搭載原為SGI的IRIX版Unix開發的FailSafe高備載系統。Lineo最
+近則發表採用 CompactPCI架構的高備載解決方案Availix，以因應電
+訊應用系統，為 Linux叢集系統在通訊、嵌入式系統等垂直市場的進
+一步推展。
+
+相關網址：
+1、Linux叢集市場持續發展
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-05-019-06-NW-HE
+2、日本Linux叢集系統商業進入全盛期
+   http://www.nikkeibp.asiabiztech.com/wcs/leaf?CID=onair/asabt/fw/118642
+3、日本主要網際網路服務供應商採行具1.5 Terabyte儲存容量的Turbolinux叢集伺服器
+   http://eltoday.com/article.php3?ltsn=2000-12-05-001-01-PS
+
+──────────────────────────────
+■ 來一客Linux口味的披薩！
+
+張書銘/編譯
+2000/12/06
+
+進銷存與收銀系統設計商MaxSpeed公司和OneSystem 公司，逐步推行
+全面應用Linux，為披薩業者提供全功能的銷售點系統。
+
+------
+
+提供連鎖商銷售點系統﹙Point Of Sale, POS﹚的MaxSpeed公司，最
+近開始進行一連串的開發，全面應用 Linux做為產品作業系統。同時
+多家披薩連鎖商也開始捨舊系統，選擇採用Linux的新產品。
+
+MaxSpeed公司的業務是以建構銷售點系統，提供連鎖商能夠於管理中
+心處理多家銷售點的進銷存資訊能力為主。因此系統面對同時湧入大
+量資訊時，保持穩定性是很重要的。
+
+MaxSpeed公司在觀測市場時，認為Linux承襲了大部分 UNIX的特性，
+而且擁有更多參與研究的社群人士提供技術研究成果，在發展性上較
+其他系統絕不遜色。同時在價格上更便宜，十分適合連鎖商店小成本
+的需求，因此決定開始採用Linux。
+
+當然除了小成本的考量外，來自對手的壓力也是重要因素，在 POS系
+統市場上，MaxSpeed必須面對像IBM這樣大型競爭者，在IBM也大力開
+發Linux相關產品的情況下，MaxSpeed自然也不會落於人後。
+
+另外，堪稱POS系統市場老前輩的OneSystem公司，則是早在1996年起
+就開始轉向Linux。原本OneSystem的產品是採用Xenix ﹙針對英特爾
+硬體開發的UNIX﹞，但是客戶認為在硬體售後服務上得不到足夠支援
+，迫使OneSystem改採SCO UNIX。但在面對使用 SCO UNIX每年必須付
+出的高額授權費下，OneSystem公司最後決定改用Linux以降低成本。
+
+而目前美國有多家披薩連鎖商，包括必勝客﹙Pizza Hut ﹚、達美樂
+、Donato's Pizza Inc.等都開始應用使用Linux 的POS系統。普遍反
+應顯示，在穩定性上比舊有系統毫不遜色，而且在功能上更為齊備，
+因此將會逐漸汰換舊系統，改採使用Linux的新系統。
+
+相關網址：
+1、Linux成為披薩的平台
+   http://linuxtoday.com/news_story.php3?ltsn=2000-03-25-006-04-PS
+2、調味料、起士、Linux
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-05-007-04-PS-BZ-DP
+
+──────────────────────────────
+■ 開發嵌入式Linux，Windows嘛也通─Embedix SDK
+
+馮文龍/編譯
+2000/12/07
+
+Lineo發表了一套在微軟視窗作業系統上的軟體開發工具Embedix，這
+使得微軟視窗作業平台上的系統開發者不須安裝及設定 Linux，即可
+開發嵌入式Linux環境下的系統。
+
+------
+
+Lineo是開發嵌入式Linux作業系統的領導廠商之一，六日推出一套在
+微軟視窗作業環境下執行的軟體開發工具﹙ Software  Development
+Kit﹚Embedix。Embedix將可幫助習慣於在Windows作業環境下開發程
+式的設計師更易於轉變為開發嵌入式Linux的應用程式設計師。
+
+Embedix SDK提供了在Windows作業環境下一個具備即時回應的虛擬開
+發環境，支援英特爾為主的X86系列處理器以及PowerPC處理器，所提
+供的開發工具使得開發者能夠很容易地開發不同嵌入式Linux 設備的
+程式。
+
+目前的 SDK 是2.0版，並具備了許多特色，包括了主機作業系統支援
+Linux、視窗NT以及視窗2000，應用了 Lineo 獨有的程式庫縮減技術
+﹙LIPO﹚，具備整合式開發環境及即時作業環境支援，Embedix 目標
+精靈、超過一百個經過最佳化處理的Linux原始碼套件，支援Linux多
+核心技術﹙Multi-Kernel﹚，另外像是編譯器、除錯器以及側錄程式
+、支援特殊主機板的套件及側錄檔等一應俱全。
+
+Embedix 可說是專門針對處理器速度、記憶體及儲存裝置大小要求嚴
+苛的嵌入式Linux系統提供最佳的開發環境。
+
+Lineo這套SDK 2.0目前已開始供貨，市場單一授權售價五千四百九十
+五美元，在外加五千美元就可得到另外的五個授權版本。這個售價包
+含了三十天的免費安裝及設定支援，一年內的免費更新升級以及自由
+地存取專門為此SDK開發環境所設置的網站。
+
+相關網址：
+1、Lineo發行Windows版的嵌入式Linux作業系統軟體開發工具
+   http://www.lineo.com/news_events/announcements/2000/12.06-2.html
+2、關於Embedix SDK 2.0
+   http://www.lineo.com/products/embedix_sdk/features.html
+
+──────────────────────────────
+■ Motif研發網站啟用 提供開發者交流資訊
+
+張書銘/編譯
+2000/12/06
+
+Imperial軟體科技公司宣佈成立Motifdeveloper.com網站，提供UNIX
+與Linux開發者更多關於Motif免費的資源以及討論園地。Motif 雖然
+可說是UNIX/Linux上的重要圖形化介面工具，但是過去缺乏專門的討
+論區，因此Imperial軟體科技公司認為Motifdeveloper.com網站可以
+成為開發者的最好去處。
+
+------
+
+Imperial軟體科技公司五日宣佈成立了Motifdeveloper.com網站，讓
+使用 Motif的開發者以及用戶有一個專門的討論區以及資源中心。儘
+管Motif是極重要且使用者極多的一套GUI工具組，但過去並沒有一個
+專門的討論中心，因此Imperial軟體科技公司決定提供一個園地，讓
+大眾能迅速的尋找到有關於Motif的消息。
+
+原本Motif並未開放原始碼，直到今年年中才由Open Group改變Motif
+的版權宣告，開放原始碼。Motif主要用於設計GUI界面的程式，像是
+UNIX就提提供Motif函式庫，利用Motif函式庫設計出來的視窗環境就
+稱為X Window System。此外，利用Motif的函式庫也可完成許多多媒
+體的操作軟體，因此在開放原始碼後，成為不少 Linux開發者的參考
+樣本，為Linux帶來不少新契機。
+
+但是由於在開放後，缺乏提供資訊給開放原始碼社群的交流環境，因
+此Open Group的一員Imperial軟體科技公司決定把原本的MW3﹙Motif
+on the World Wide Web﹚移植到 Motifdeveloper.com網站上，專門
+提供開放原始碼社群人士進行交流，同時也隨時提供最新資源以供下
+載。
+
+Imperial軟體科技公司執行長表示，目前UNIX/Linux上雖然陸續推出
+許多GUI開發工具，但Motif仍是UNIX上使用最廣泛的一套，加上包括
+昇陽、惠普、IBM、視算科技﹙SGI﹚與康柏等公司仍大力投注在UNIX
+工作站上，因此使用Motif的開發遠景仍值得期待。
+
+相關網址：
+1、Imperial軟體科技成立Motifdeveloper.com網站
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-05-020-04-PR-SW
+2、Imperial軟體科技將MW3移植到Motifdeveloper.com
+   http://www.motifdeveloper.com/news/news1.html
+
+──────────────────────────────
+■ Source Forge搭售伺服器硬體，VA Linux利潤新來源
+
+沈美君/編譯
+2000/12/06
+
+或許是無心差柳柳成蔭，VA Linux原來用以節省開放原始碼計畫發展
+成本的 Source Forge網站，反而成為創造利潤的利器。 VA Linux公
+司以「SourceFroge Onsite」平台搭售伺服器硬體，提供企業聯合開
+發解決方案。
+
+------
+
+被IDC評為第四大 Linux伺服器銷售廠商的VA Linux，於12月5日宣布
+，將以伺服器硬體搭售「Source Forge」平台，提供企業內部的線上
+聯合發展解決方案，使原來用以節省計畫發展開銷的Source Forge，
+反而成為Va Linux開源的助力。
+
+「Source Forge」是VA Linux協助經營的網站，用以主持許多開放原
+始碼計畫的發展，網站其實就等於一個聯合開發的環境，提供許多相
+關工具，例如臭蟲追蹤、版本演進紀錄、討論區、文件管理、原始碼
+下載或電子郵件溝通等服務，位於世界各地的程式設計師，可以透過
+這個平台一起發展開放原始碼計畫，Source Forge也因而享有盛名。
+
+VA Linux將Source Forge平台包成軟體套件，與硬體伺服器和支援服
+務一同包裝起來，成為「SourceForge Onsite」，企業可以透過此種
+方案，來創造內部的聯合計畫發展環境。VA Linux副總裁John T. Ha
+ll表示，程式設計師們各自所發展的軟體套件，對合作伙伴來說將更
+為透明可見，此外，還可以達到基礎元件的重複使用，節省成本、提
+高生產力。
+
+以知識管理的層面而言， VA Linux的 SourceForge Onsite可協助企
+業累積 Know-How ，透過聯合發展平台的訊息追蹤機制，將會降低計
+畫發展經驗隨著工程人員的離職而流失的機率。管理階層也更容易透
+過平台，來監控專案的發展進度及狀況，做適時的調配。
+
+同時，惠普﹙HP﹚子公司之一的Agilent Technologies，也在12月5
+日與VA Linux簽署了合作契約，為第一個採用SourceForge OnSite的
+公司。欲獲得更多資訊，請至www.sourceforge.net閱讀。
+
+相關網址：
+1、VA Linux欲由程式設計師社群網站創造利潤
+   http://news.cnet.com/news/0-1003-200-4009292.html?tag=st.ne.ron.lthd
+2、VA Linux釋出線上合作發展平台
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-05-016-06-PS-BZ-CY
+3、程式設計師搭上獲利列車
+   http://www.business2.com/content/magazine/vision/2000/07/25/14831
+4、Source Forge官方網站
+   http://www.sourceforge.net
+
+──────────────────────────────
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

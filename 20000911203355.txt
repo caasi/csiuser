@@ -1,0 +1,478 @@
+網基科技  
+╭════════════════════════════╮
+
+    《 OpenScope    開放視界電子報》   ２０００.０９.１１
+
+╰════════════════════════════╯
+        ---  http://www.cyberworksolution.com  ---
+
+
+
+═《編者的話》═══════════════════════
+
+XML是一個新興的技術標準，即時通訊平台是一項令人矚目的網路應
+用系統，而開放原始碼則是資訊界人人都在注意的新方向--當這三者
+碰撞在一起，會產生怎麼樣的化學反應？Jabber.com的技術顧問委員
+會成立後，便網羅了數位頗富知名的Linux業界精英擔任顧問，令人
+更對其未來的發展感到好奇。要想知道Jabber.com的發展與影響，請
+密切注意OpenScope的後續報導。
+
+台灣有一直想赴美國上市的Linux公司，不過中國大陸早在今年年初
+就有這樣一家公司了！藍點Linux是大陸銷售名列第一的軟體，銷售
+量還在微軟的Office 2000之上呢！這家公司到底有何獨到之處？此
+外，Linux上的語音資料傳送一直是個重要的問題，現在藍波公司與
+紅帽公司合作推出了企業級的解決方案。苦於四處搜尋Linux上的應
+用軟體嗎？到Linux2order.com上去找，就再也不必零星收集了！不
+過本期OpenScope為您搶先報導的高階備援伺服器叢集軟體LocalClus
+ter、以及價廉物美的Linux網路安全防護軟體CRYPTOAdaim，可能還
+沒那麼快在Linux2Order.com上亮相喔！
+
+另外，部分讀者可能是透過個人發報站台訂閱，若您只想收到不含廣
+告的純文字版本，可直接寄一封標題為「subscribe」的信到：
+openscope@cyberworksolution.com即可訂閱。
+
+══════════════════════════════
+
+
+═《本期內容》═══════════════════════
+
+■ XML通訊平台公司Jabber.com  網羅大批Linux業界精英
+
+■ 藍點的威力─中國大陸第一家美國上市Linux公司
+
+■ 為藍波戴上紅帽  Linux上的語音資料傳送解決方案
+
+■ 到Linux2order.com去下載包山包海的Linux軟體!
+
+■ iQlinux.com─Linux社群的秘密花園
+
+■ PolyServe發表高階備援伺服器叢集軟體LocalCluster
+
+■ CRYPTOAdaim─高貴不貴的Linux網路安全防護軟體
+
+■ 讓Linux系統與Notebook更省電 Transmeta廣獲大廠支持
+
+
+═《本期新聞》═══════════════════════
+
+■ XML通訊平台公司Jabber.com  網羅大批Linux業界精英
+
+蕭喜那/編譯
+2000/09/11
+
+Jabber.com是Webb互動服務的子公司，提供唯一以XML為基礎、開放
+原始碼的即時通訊作業平台。宣布組成技術顧問委員，共網羅了五名
+網路運算業中備受尊敬與具有多年實務經驗的科技菁英，包括紅帽的
+現任CTO─Michael Tiemann 等人。
+
+------
+
+Jabber.com是Webb互動服務的子公司，於八月底宣布成立Jabber.com
+技術顧問委員會，首批被任命的三名成員包括Craig Burton、Rohit 
+Khare、Stephen Williams，而於九月初又宣布加入兩名成員，即紅
+帽的CTO─Michael Tiemann與前蓮花研發部副總裁─David P. Reed
+。
+
+Jabber.com技術顧問委員會的成員將在科技決策、產品決策與規劃上
+，協助Jabber.com與Jabber開放原始碼運動。Jabber.com的總經理─
+Andre Durand指出，該公司在以XML為基礎的即時通訊﹙Instant Mes
+saging: IM﹚與開放原始碼佔有策略上的優勢，將於下一代網際網路
+基礎建設上，成為關鍵的一部分，而這些技術顧問知道如何架構、定
+位與應用哪些科技，可以重新定義以XML為基礎的IM，使其成為網際
+網路通訊中非常重要的組件。
+
+Jabber.com技術顧問委員會的成員都是業界備受尊敬的科技專家，他
+們具有多年在網路運算業的實務經驗。Craig Burton是知名的網路服
+務業的分析家，是Novell的創始成員之一，並在一九八九年合創Burt
+on Group。Rohit Khare在網際網路與全球資訊網的標準建立過程上
+，扮演相當重要的角色，是全球資訊網標準制定委員會的創始成員之
+一，並且是4k Associates and KnowNow的執行長。Stephen William
+s美國線上﹙AOL﹚的Buddylist伺服器﹙1.x版本﹚的設計與架構者，
+這個伺服器被八百萬以上的人所使用，是AOL的非常成功的即時通訊
+軟體﹙Instant Messenger﹚的先驅。
+
+紅帽的CTO─Michael Tiemann與前蓮花公司研發部副總裁─David P.
+ Reed是新加入的技術顧問。
+
+Michael Tiemann對於Jabber.com的看法是，Jabber代表XML文件的即
+時路由﹙routing﹚所缺少的基礎建設中，一個相當重要的組件。他
+認為以Jabber在促進各種不同的設備與網際網路之間的即時通訊的能
+力，對於嵌入式設備業而言，是非常有利的。
+
+相關網址：
+1、紅帽 CTO 與前蓮花主管加入 Jabber.com技術顧問委員會
+   http://linuxtoday.com/news_story.php3?ltsn=2000-09-07-021-04-PR
+2、Jabber.com宣布組成技術顧問委員會
+　 http://www.jabber.com/news/release_083100.shtml
+
+──────────────────────────────
+■ 藍點的威力─中國大陸第一家美國上市Linux公司
+
+黃翔祺/編譯
+2000/09/11
+
+在去年引起全世界注目，首先將Linux核心﹙Kernel﹚中文化的藍點
+公司，目前推出兩款新Linux產品，包括繼承去年銷售冠軍優良血統
+的 Bluepoint Linux 2.0及最受到目前通訊及網路產品注目的嵌入式
+Linux 系統─藍點嵌入！﹙BluePoint Embedded！﹚，更進一步擴大
+藍點軟體在大陸軟體的影響力。
+
+------
+
+根據最新的報導，藍點公司所出版的Bluepoint Linux 1.0軟體，在
+大陸軟體雜誌所做的軟體銷售排行中，名列第一，第二及第三的軟體
+分別為工程用軟體─Tianhe Mechanical CAD及微軟的Office 2000。
+
+藍點軟體技術﹙深圳﹚有限公司BluePoint Software (Shenzhen) Co
+.,LTD創立於1999年9月，是中國專門從事Linux平臺相關業務及其應
+用的高科技軟體公司，同時也是大陸少數能夠建立完整的網上服務及
+電子商務系統的專業技術公司。目前，藍點軟件公司之下有幾個主要
+的產品線，一、Linux系統，二、FreeBSD系統，三、嵌入式 Linux 
+系統，四、網路相關應用系統。
+
+藍點目前在Linux發展上，繼承了Bluepoint Linux 1.0的優良傳統，
+Bluepoint現在推出Bluepoint Linux 2.0 。Bluepoint Linux 2.0的
+特點主要是在其Linux的核心﹙kernel﹚完全中文化，加強其多重起
+動管理機制，更完整的硬體支援，及圖形顯示加速、輸入法支援、功
+能強大的文書軟體支援等優值功能，在北京八月十八號推出後，短短
+兩週就獲得大陸軟體銷售之首。
+
+另外一子公司─藍點軟體技術﹙深圳﹚有限公司，所推出的產品─「
+藍點嵌入！﹙BluePoint Embedded！﹚」，是專門為了網際網路通訊
+產品所設計的軟體系統，可廣泛用於Set-top Box、WebTV和Thin-Cli
+ent等設備中。其系統特性是針對記憶體佔用降至300K以下，因此，
+特別適合記憶體用量小的網路設備中。
+
+廠商採用此藍點嵌入式方案，可大大減少設備製造商在軟體方面的開
+發和投入，並可以更快的進入市場(time-to-market advantage)，搶
+佔當前中國剛剛興起的資訊家電市場。目前合作廠商包括：英特爾、
+國家半導體、Cirrus Logic、Winbond等國際知名廠商。
+
+目前，Bluepoint Linux部門，已經在美國上市﹙交易代號：blpt﹚
+，而目前受到全世界注目的Bluepoint Embedded Linux部門也計畫明
+年以第二類股票在香港上市，在大陸努力推廣Linux系統下，加上 Bl
+uepoint在Linux系統及嵌入式系統努力，預料Bluepoint將成為中國
+最重要的軟體公司之一。 
+
+相關網址：
+1、藍點獲電腦週刊票選冠軍
+   http://linuxtoday.com/news_story.php3?ltsn=2000-09-05-020-04-PS
+2、藍點軟件銷售冠軍報導
+   http://linuxtoday.com/news_story.php3?ltsn=2000-08-03-018-06-PR-CY
+3、藍點Linux 2.0報導
+   http://www.bluepoint.com.cn/info/news/news-details23.htm
+4、嵌入式藍點報導
+   http://www.bluepoint.com.cn/info/news/news-details27.htm
+
+──────────────────────────────
+■ 為藍波戴上紅帽  Linux上的語音資料傳送解決方案
+
+張書銘/編譯
+2000/09/11
+
+隨著網際網路應用愈來愈廣泛，任何人都可以享受愈來愈多Internet
+帶來的便利，各種多媒體的應用服務也應運而生。為了使這些服務能
+    發揮最大的效率。Blue Wave系統公司與多家廠商聯手推出了 Vo
+ice/Fax/Data over IP的解決方案。
+
+------
+
+過去的語音傳輸是靠PSTN﹙線路交換式﹚的方式運作，當使用者撥完
+電話並接通時，兩個端之間成了專用的電路，可以獨享頻寬，不像網
+際網路上有頻寬壅塞的問題。
+
+在ComStruct的系統中將可利用不同的作業系統，包括 Windows NT、
+Solaris、以及 Linux。並且提供120組組頻道供語音、傳真以及符合
+V.90標準的資料傳送使用。相較於傳統的技術﹙PSTN﹚而言每路語音
+佔用的頻寬為64Kbps；一條T1只能提供24路64Kbps的語音使用的情形
+下。ComStruct無疑替語音資料的傳送找到一條更好的出路。
+
+Voice over IP ﹙VoIP﹚是一種為了能在網際網路上順利使用語音而
+開發的協定。因為品質良好的語音資料量大，但網路頻寬不一定夠，
+可能使語音傳遞的過程發生延遲。要降低延遲，卻又不大幅改變現有
+網路架構便成為VoIP的目標。目前封包交換式﹙packet  switching
+﹚的網際網路上，無論使用的是 TCP或 UDP，都無法保證提供對延遲
+時間敏感的語音或影像資料足夠的頻寬以及可容忍的延遲時間，因此
+在語音的應用上，並不理想。
+
+而 Blue Wave系統公司則在考量到企業對語音、傳真以及資料交換的
+多重需求下，與紅帽以及Telogy軟體等多家通訊以及軟硬體廠商聯合
+研發可以因應這些多重需求的解決方案。並預期11日到14日在亞特蘭
+大展出研究的成果─ComStruct Voice/Fax/Data over IP解決方案。
+
+相關網址：
+1、Blue Wave全新企業語音/傳真/資料處理解決方案登場
+   http://linuxtoday.com/news_story.php3?ltsn=2000-09-07-017-04-PR-HW
+2、Blue Wave公司簡介
+   http://www.bluews.com/about/corp_overview.htm
+3、ComStruct企業解決方案
+   http://www.bluews.com/info/vonfall
+
+──────────────────────────────
+■ 到Linux2order.com去下載包山包海的Linux軟體!
+
+蕭喜那/編譯
+2000/09/11
+
+Linux2order.com近日成立，該公司提供線上最大的Linux應用軟體資
+源中心，該網站上可供下載的Linux程式超過5000項，使用者可以免
+費下載，或是購買定製的CD-ROM。該網站節省使用者搜尋軟體與等待
+下載的時間，正是其設立的最大目的。
+
+------
+
+Linux2order.com是一家以全球資訊網為基礎的公司，供應Linux作業
+系統所用的應用軟體與utility，該公司的網站於9月6日正式公開，
+它提供網際網路上可供下載的Linux程式，不僅種類廣泛，並且保證
+所有的應用軟體都是最新的版本。
+
+Linux2order.com位於美國猶他州的Provo，在該公司的網站上，使用
+者可以瀏覽超過5000個的Linux項目、閱讀評論、以及選擇最符合他
+們需要的應用軟體。所有的項目都可以免費下載，或者也可以12.95
+美元加上運費的方式，將你所須要的軟體燒在一片定製的CD－ROM上
+。該公司預計在今年年底時可以提供將近7000項的應用軟體。
+
+Linux2order.com把Linux的程式放在自己的伺服器上，這使得該公司
+可以提供定製的軟體套件，並且運用它獨特的1-click，收集所有被
+點選的檔案，以成為一個可供下載的單一檔案，如此一來，可以大幅
+加快下載的速度。
+
+Linux2order.com將Linux項目分成下列幾類：商業與金融、網際網路
+應用軟體、通訊、資料庫、多媒體、網路連線作業、遊戲、試算表與
+utility。該公司的網站特色，包括購物車、所有應用軟體的評論以
+及每一個項目的預估下載時間等。
+
+該公司的網站提供Linux使用者一個中心地，他們可以不用再花時間
+去搜尋特定的Linux軟體，還可以不用再等待看似永遠不會結束的下
+載時間。這些惱人的挫折，正是Linux2order.com所要克服的。
+
+相關網址：
+1、Linux2order.com成立，供應種類最廣泛的Linux應用軟體
+     http://linuxtoday.com/news_story.php3?ltsn=2000-09-07-005-04-PR
+2、關於Linux2order.com
+　 http://www.linux2order.com/frame.html?about.html
+
+──────────────────────────────
+■ iQlinux.com─Linux社群的秘密花園
+
+黃翔祺/編譯
+2000/09/11
+
+隨著微軟官司逐漸邁入尾聲，似乎代表著微軟軟體王國，也將走入歷
+史，未來的軟體世界終將會屬於自由開放的Linux。iQLinux.Com為了
+服務Linux社群的獨特需求而創立。在網站上，提供Linux使用者的特
+殊需求服務，並媒和其工作機會。
+
+------
+
+iQLinux.Com是一個為了滿足Linux社群特殊需求所創立的網站。在iQ
+Linux.com網站中，可以讓數個Linux社群彼此溝通，透過電子商務機
+制滿足其主要需求，重要的是在網站上提供各種機制，透過該網站，
+雙方都因而可以減少不必要的交易成本。
+
+除了在軟體產業及軟體發展上，Linux有極大的影響力之外，Linux對
+於生活形態及組織架構也有極大的影響。在Linux發展的初期，Linux
+社群的電腦玩家們，有的是電腦公司的程式設計人員，有些則是銀行
+的資料庫維護人員，不管職業為何，大家投入Linux的目的，只為了
+興趣，這樣的傳統逐漸演變成為Linux社群的一種工作模式─Free Ag
+ent。
+
+整個Linux社群就是以這樣方式組織起來，其中某軟體的程式設計玩
+家白天在某專屬的軟體公司工作，晚上則繼續寫作自由軟體。Linux 
+目前的領導人Linus Torvalds現在白天在全美達晶片公司上班，晚上
+還是繼續為Linux發展貢獻心力，而這樣的情形對於Linux發展來說，
+是很普通的事。
+
+iQLinux.Com就是為了滿足Linux社群特殊需求所創立的網站。在iQLi
+nux.com網站中，可以讓數個Linux社群彼此溝通，透過電子商務機制
+滿足其主要需求，主要機制包括：讓Linux使用者﹙主要是中小企業
+﹚可以得到程式設計人員及顧問的協助，建立公司的資訊系統。另外
+一個重要功能是，讓程式設計人員及顧問可以在網站上彼此聯絡建立
+虛擬團隊，服務Linux的使用者。更重要的是在網站上提供各種機制
+，透過該網站，雙方都因而可以減少不必要的交易成本。
+
+iQLinux由一群印度裔的加拿大人所創立，當初創立iQLinux的主要目
+的是為了服務Linux社群。但隨著Linux使用快速增加，其創新的觀念
+及對於linux的執著，受到Linux社群廣大的好評。最近，iQlinux.Co
+m最引起市場注目的是：IQlinux.Com併購了另一家linux網站─Linux
+Fool.com該網站主要是提供Linux使用者常見問題的解答，一般認為
+透過這樣的併購案將大大增強iQlinux在Linux社群的影響力。
+
+相關網址：
+1、IQLinux.com 併購Linuxfool.com網站
+   http://linuxtoday.com/news_story.php3?ltsn=2000-09-07-022-04-PR
+2、iQlinux網站介紹
+   http://osopinion.com/Opinions/MarkKuharich/MarkKuharich1.html
+
+──────────────────────────────
+■ PolyServe發表高階備援伺服器叢集軟體LocalCluster
+
+藍雲紋/編譯
+2000/09/11
+
+LocalCluster伺服器叢集軟體，為各種伺服器平台提供高備援﹙High
+ Availability﹚及負載平衡。目前LocalCluster先推出Linux版，隨
+即也將陸續提供昇陽、Solaris、Windows2000，和FreeBSD版。
+
+------
+
+分散式伺服器叢集科技廠商PolyServe，宣佈自即日起提供 LocalClu
+ster軟體解決方案，提供高備援及負載平衡給網路、檔案、電子郵件
+、和 TCP/IP 等各項伺服器。
+
+PolyServe是一家專為網際網路為基礎的應用軟體和服務，研發高效
+能、高備援網路伺服器軟體產品的公司。它利用自己1999年底出版的
+Understudy建造了LocalCluster。
+
+在完全分散的網路叢集解決方案，與整合資料叢集解決方案的市場中
+，LocalCluster 是唯一的高備援軟體產品。主要提供的功能有：失
+敗偵測，自動略錯，復原後能重新整合到叢集中，對網路、電子郵件
+、檔案傳輸、電子商務、TCP/IP應用的服務監視，為網路與檔案內容
+的自動分散做資料複製，為高應答應用軟體提供負載平衡解決方案，
+分散操作與集中管理。
+
+不論由哪部主機來服務請求，它都能夠透過叢集中的伺服器複製網路
+資料，來確保用戶端可以看見相同的資料。由於網路及軟體叢集是用
+軟體做成的，價格將降到很低。由於不須要網路管理者人為操作，以
+達到叢集中的所有檔案同步化，LocalCluster也可為使用者節省許多
+時間和人力。
+
+刪除了資訊科技的硬體與管理固定成本，服務水準也就跟著提升了，
+而企業的電子商務成長率也將隨著加速。此外，它支援多種作業系統
+平台，和容易維護等特質，也讓顧客受益。
+
+剛開始，LocalCluster先提供Linux版，隨即也將陸續提供昇陽、Sol
+aris、Windows2000、和FreeBSD版。PolyServe希望將高備援伺服器
+的科技，普及到小企業、教育單位和剛起步的電子商務網站。
+
+相關網址：
+1、PolyServe發表LocalCluster高備援伺服器叢集軟體
+   http://linuxtoday.com/news_story.php3?ltsn=2000-09-07-019-04-PR-HE
+2、關於PoluServe
+   http://www.polyserve.com/about_us.html
+3、關於本區叢集
+   http://www.polyserve.com/localcluster.html
+
+──────────────────────────────
+■ CRYPTOAdaim─高貴不貴的Linux網路安全防護軟體
+
+張書銘/編譯
+2000/09/11
+
+在網路上的攻擊活動愈來愈多樣化，一個小的動作可能就會帶來無可
+彌補的損失。為了保護網路安全無虞，全新的防護軟體 CRYPTOAdaim
+5.0即將推出，提供Linux使用者圖形化界面的網路安全防護軟體，最
+令使用者高興的，就是這套CRYPTOAdaim相當的廉價，CRYPTOAdaim只
+要82495美元。
+
+------
+
+看過許多的駭客討論書籍的人通常都會非常驚訝，現實中的入侵活動
+常常不比電影中的神奇─小孩子動動滑鼠就可以到五角大廈裡發射核
+子武器。事實上，許多的入侵活動都是從沒有管理好的匿名系統或是
+沒有好好注意自己密碼的安全開始的。因此，過去迷信密碼的系統，
+或是有提供匿名登入的系統實在像是一個捧著大筆金錢的三歲小孩一
+樣，人人都會去打他的主意。
+
+以美國電腦安全協會最近一次的調查指出，過去一年份間，百分之九
+十以上的電腦用戶﹙包括企業或個人用戶﹚曾遭到各種形式的攻擊。
+其中更有高達百分之七十五的用戶因此遭到了金融損失。這對北美的
+數位經濟造成了相當的危害。因此各家開發電腦安全軟體的公司無不
+希望開發出足以因應這種情況的防護軟體來搶佔市場。
+
+因此，CRYPTOcard公司推出了以SUA﹙Strong User Authentication
+﹚技術開發的 CRYPTOAdaim 5.0。提供 Linux使用者圖形化界面的網
+路安全防護軟體。CRYPTOAdaim 5.0 除了可以對網路上的匿名存取做
+有效的控管，也針對各種WEB程式，如ASP或JSP 等提供監控，避免經
+由這些程式的漏洞造成危害；同時也對微軟的Exchange 5.5提供額外
+的安全階層管理。因此，這套軟體可說是滿足了網站、電子郵件的安
+全業務需求。
+
+另外，最令使用者高興的，就是這套 CRYPTOAdaim相當的廉價，在網
+路安全防護相當知名的RSA Security，一年份的使用執照費高達五萬
+多美元。若以一台可供一千人同時上線的伺服器五年份的使用執照來
+計算，CRYPTOAdaim只要82495美元；RSA Security卻高達264272美元
+。平均下來， CRYPTOAdaim每人每年要花16.5美元，RSA Security每
+人每年則付了52.85美元。因此 CRYPTOcard公司很有信心的表示，無
+論在價格或是安全性上，都可以在市場上傲視群倫。
+
+相關網址：
+1、網路安全捨我其誰？
+   http://linuxpr.com/releases/2508.html
+2、CRYPTOcard公司簡介
+   http://www.cryptocard.com/about/about.htm
+
+──────────────────────────────
+■ 讓Linux系統與Notebook更省電 Transmeta廣獲大廠支持
+
+馮文龍/編譯
+2000/09/11
+
+Hitachi及IBM相繼宣告採用全美達﹙Transmeta﹚晶片，使得這個在
+今年初才上市的晶片顯得炙手可熱，其技術的核心在於把微處理器複
+雜且所費不貲的部分轉移到軟體上而不是在矽晶片上。Crusoe是Tran
+smeta晶片家族首先在行動通信上推出的產品，它可以降低電力的消
+耗並延長電池的使用壽命。
+
+------
+
+Transmeta晶片在千禧年的年初正式公諸於世，其主要贊助人Linus T
+rovalds可能比晶片技術的本身還要出名。
+
+Transmeta技術的核心在於把微處理器複雜且所費不貲的部分轉移到
+軟體上而不是在矽晶片上。Crusoe是Transmeta晶片家族首先在行動
+通信上推出的產品，它可以降低電力的消耗並延長電池的使用壽命。
+是否會對Intel造成的市場威脅，現在說似乎還嫌太早，但不可諱言
+的，Transmeta的出現已經不是在價格成本上與Intel一較長短，而是
+在技術上也將與Intel的帶領的技術趨勢互別苗頭。
+
+Crusoe的能力在於「變形碼」，它可以將Intel的x86指令及轉換成為
+「非常長字元指令」，以供以Crusoe為基礎的硬體閱讀。其目前的兩
+顆晶片TM5400及TM3120分別為筆記型電腦及以Linux為基礎的網際網
+路設備所設計。
+
+據來自廣達電腦的消息來源指出，IBM極有可能在其ThinkPad 240 X
+系列的筆記型電腦上採用，IBM已經完成其原型機的展示，在年底並
+有小量的Crusoe進貨。廣達電腦並表示，它們也接獲來自Gateway及A
+OL的Transmeta網站設備的訂單。另一個筆記型電腦大廠Hitachi也已
+正式宣佈將從11月起生產Transmeta為主的筆記型電腦，同時也將生
+產Crusoe Linux的網際網路設備。
+
+市場似乎為Transmeta打開了一條小縫，但離對英特爾造成威脅似乎
+還有一段路要走。
+
+相關網址：
+1、日立將在11月生產Transmeta筆記型電腦
+   http://www.theregister.co.uk/content/1/13086.html
+2、IBM將在年底推出Crusoe TM5400晶片 ThinkPad筆記型電腦
+   http://www.theregister.co.uk/content/2/13045.html
+3、Transmeta公佈Crusoe晶片
+   http://www.pcworld.com/pcwtoday/article/0,1510,14848,00.html
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型為「細明體」，如果您使用Outlook收看我們的電子
+   報，新聞格式可能亂掉，請在Outlook的工具→選項→閱讀中，將
+   文字格式改為「細明體」，即可順利閱讀我們的新聞。
+
+※ 這是【OpenScope  開放視界】電子報。若您不想訂閱，請來信：
+   openscope@cyberworksolution.com，標題寫：unsubscribe即可。
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.cyberworksolution.com﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
+ 

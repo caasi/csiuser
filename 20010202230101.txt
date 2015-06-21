@@ -1,0 +1,513 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０２.０２
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+═《本期內容》═══════════════════════
+
+■ IBM加碼30億美元投入Linux研發
+
+■ IBM於LinuxWorld宣布多項支援開放原始碼計畫
+
+■ OSDL正式上路，資助Jabber計劃
+
+■ 提升網管便利性 BSDi與Plesk合作開發新管理工具
+
+■ 新一代Beowulf技術出爐 且看Scyld說分明
+
+■ Sun推出Linux版本分散式資源管理軟體─Sun Grid Engine
+
+■ ThinkGeek使用Zelerate電子商務解決方案
+
+■ 微軟表示：Linux只是成不了氣候的免費作業系統
+
+═《編者的話》═══════════════════════
+
+藍色巨人再度發威，宣佈再投入30億美元研發Linux！
+
+IBM繼去年底宣佈投入10億美元研發Linux之後，近日再次宣佈接下來
+的三年內，他們還要砸下最少30億美元開發新的Linux 服務技術。這
+些新的服務技術將鎖定在協助客戶在 Linux上建立以及執行電子化企
+業營運解決方案，將電子商務系統完全移植到Linux上。另外，IBM於
+LinuxWorld 2001會中再宣佈支援多項開放原始碼計畫，在IBM甫宣布
+的Linux策略中，包括了推出可執行現有Linux應用軟件的全新64位元
+處理器伺服器，還有使用Intel高階IA-64 處理器架構的Linux工作站
+，和 Linux 版本的IBM Domino、及Tivoli系統管理軟體等。IBM在新
+的世紀對Linux的支持可說是更上一層樓！
+
+開放原始碼開發實驗室﹙OSDL﹚正式向企業界開放了！OSDL的第一個
+計劃是可延展性﹙scalability﹚的計劃，目的在於提升Linux作業系
+統支援16個64位元處理器的能力，並具備近直線型的執行績效；近日
+又支援第二個計劃-- Jabber的開放原始碼即時訊息計劃，以XML為基
+礎，此計劃的目標在於提供Jabber 在Linux作業系統上的可分級性。
+從事叢集技術研究的Scyld公司，最近公開了新一代叢集技術Beowulf
+，Beowulf技術主要指平行計算的電腦群架構，由Scyld開發的第二代
+Beowlf技術是開放原始碼軟體架構的叢集系統，包括了最新的 Linux
+核心、函式庫以及其他叢集系統的必要工具，提供了更簡易的架設與
+管理環境，同時也擁有更高的安全性與系統彈性。
+
+最後， Sun推出Linux版本分散式資源管理軟體─Sun Grid Engine；
+OSDN的電子商務網站ThinkGeek 將採用開放原始碼的電子商務應用軟
+體供應商Zelerate，最新的電子商務解決方案Zelerate AllCommerce
+。OpenScope為您提供最新最重要的開放原始碼新聞！
+
+由於發報流程更新版本造成的疏失， 造成1月31日許多讀者收到多封
+當日的 OpenScope電子報，因此作業流程上的疏失造成您的困擾，我
+們深感抱歉，在此非常感謝您的訂閱，並希望您繼續支持 OpenScope
+開放視界電子報。
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ IBM加碼30億美元投入Linux研發
+
+李孟諺/編譯
+2001/02/01
+
+在去年底已經宣佈要投入十億美元研發Linux的IBM，今天再次宣佈三
+年內還要砸下三十億美元來研發新的 Linux服務。這些新的服務主要
+是協助客戶在Linux上安裝以及執行電子化企業營運 ﹙e-business﹚
+ 解決方案。
+
+------
+
+藍色巨人IBM繼去年底宣佈投入十億美元研發Linux之後，今天在巴黎
+的一場Linux 展覽會場上，再次宣佈接下來的三年內，他們還要砸下
+最少三十億美元開發新的Linux 服務技術。這些新的服務技術將鎖定
+在協助客戶在Linux上建立以及執行電子化企業營運﹙e-business﹚
+解決方案。
+
+IBM歐、非洲暨中東地區首席經理Mike Lawrie表示，新的技術服務是
+將電子商務系統完全移植到Linux 上，而且在這個投資計劃中有二十
+億美元將用在歐洲地區。
+
+自從去年IBM擁抱Linux之後，便認為Linux是電子商務的關鍵。IBM科
+技暨策略部副總裁Irving Wladawsky-Berger 指出，我們的客戶已經
+能夠迅速的接受Liunx 應用在電子化企業營運。現在除了對他們的軟
+硬體產品提供完整的Linux 服務，我們將投入更多資金確保我們的客
+戶的電腦系統能夠由Linux運作。
+
+這項新的投資計劃內容包括讓Linux 電子化企業營運方案能夠使他們
+的客戶在不同的Linux 作業平臺下操作。透過開放原始碼咨詢，教育
+他們的客戶增加對開放原始碼的興趣；及接觸開放原始碼社群。 IBM
+也會強化他們與其他業者的交流，諸如SuSE、Red Hat、Linuxcare等
+業者。希望電子化企業營運方案能完全在Linux下執行。
+
+對於IBM一再砸下大量經費研發Linux，以及大動作的推廣Linux ，其
+他業者的反應又是如何？ IDC系統軟體研發部副總Dan Kusnetzky 表
+示，簡單又方便操作的環境是促使使用者接受Linux的主因。從IBM不
+斷的研發出新的服務與系統支援來看，IBM的確想把Linux打入目前作
+業系統以及伺服器應用的主流市場。
+
+相關網址：
+1、IBM推動Linux應用在電子化企業營運 
+   http://linuxpr.com/releases/3256.html
+2、IBM還要在Linux投資最少三十億美元 
+   http://idg.net/ic_393662_1794_9-10000.html
+
+──────────────────────────────
+■ IBM於LinuxWorld宣布多項支援開放原始碼計畫
+
+沈美君/編譯
+2001/01/31
+
+年度盛會LinuxWorld 2001在一月三十一日展開，IBM再宣布多項支援
+開放原始碼計畫，推出利用中介層LAE來執行現有Linux應用軟件的全
+新64位元處理器伺服器，並使用英特爾高階IA-64處理器架構的Linux
+工作站，和Linux版本的IBM Domino、及Tivoli系統管理軟體。
+
+------
+
+LinuxWorld 2001 研討會本週三﹙一月三十一日﹚於紐約展開，除了
+有較多關於核心kernel 2.4的示範應用外，IBM 總裁 Sam Palmisano
+在為大會揭開序幕的同時，也承諾多項在軟、硬體方面對開放原始碼
+作業系統的支援。
+
+在過去一年裡，IBM全面擁抱Linux的策略，讓藍色巨人在軟體應用、
+硬體伺服器或顧問服務各面向，都以發展 Linux相關應用為最高優先
+序，不但計畫將IBM眾多的軟體應用移植到Linux上，旗下從NetVista
+到S/390主機伺服器，都可採用Linux為作業系統。除此之外，IBM 也
+對開放原始碼社群，釋出 Journaling File System﹙JFS﹚檔案系統
+技術。
+
+IBM甫宣布的Linux策略，除了推出可執行現有 Linux應用軟件的全新
+64位元處理器伺服器﹙利用中介軟體 middleware「LAE」來處理﹚、
+使用英特爾高階IA-64 處理器架構的Linux工作站，以及Linux版本的
+IBM Domino、及Tivoli系統管理軟體。
+
+為使目前的Linux應用軟體也能在採用 64-processor的伺服器上執行
+，達到提高效能的目的，IBM以eServer x430 為第一部實驗「Linux
+Application Environment﹙LAE，Linux 應用軟體執行環境﹚」的伺
+服器機種。IBM 伺服器採用Dynix Unix-like作業系統，而LAE則位於
+此作業系統上層，作為中介，讓目前專門為32-bit Intel-based所發
+展的Linux應用軟體，可以不需經過重新編譯﹙compile﹚，直接在64
+-processor的伺服器上執行。
+
+此外，IBM總裁Palmisano也將在開幕致詞時，討論IBM最新的Linux環
+境發展工具，以及IBM用來內嵌於路由器和其他通訊設備的「PowerNP
+」網路處理器。
+
+相關網址：
+1、IBM將於LinuxWorld盛會宣布多項支援開放原始碼計畫
+   http://news.cnet.com/news/0-1003-201-4656230-0.html?tag=mn_hd
+2、LinuxWorld 2001研討會即將展開
+   http://www.zdnet.com/sp/stories/news/0,4538,2679503,00.html
+3、LinuxWorld年度盛會有哪些值得期待的大事
+   http://www.linuxworld.com/linuxworld/expo01ny/lw-expo01ny-preshow.html
+
+──────────────────────────────
+■ OSDL正式上路，資助Jabber計劃
+
+蕭喜那/編譯
+2001/01/30
+
+開放原始碼開發實驗室﹙Open Source Development Lab, OSDL ﹚正
+式向企業界開放了！初期主要贊助Linux 可延展性的研究，而開放原
+始碼即時傳訊平台Jabber也在首波發展的計劃之列。
+
+------
+
+由包括HP、Intel、IBM、NEC 等19家廠商所贊助的開放原始碼實驗室
+﹙Open Source Development Lab, OSDL ﹚正式運作了，並且獲得這
+19家廠商2400萬美元資金挹助。OSDL座落於奧瑞岡州波特蘭西邊的高
+科技園區計算中心，鄰近IBM的Beaverton園區，佔地一萬一千英呎。
+ 第一個OSDL的計劃是可延展性﹙scalability ﹚的計劃，目的在於
+提升Linux 作業系統支援16個64位元處理器的能力，並具備近直線型
+的執行績效。第二個計劃則是Jabber的開放原始碼即時訊息計劃，它
+以XML為基礎，此計劃的目標在於提供Jabber在Linux作業系統上的可
+延展性。
+
+未來在全球各地都將成立開放原始碼實驗室，屆時，這些實驗室將被
+連結在一起，以提供一個統一的虛擬開發環境。在2001年，預期將會
+在美國之外成立1至2個實驗室。目前，OSDL有五十部雙向的伺服器、
+六部4向的伺服器、以及一部8向的伺服器，這些只是初步的硬體配備
+，將來會視開發人員的需求，增加額外的硬體。
+
+贊助OSDL的廠商除了HP、Intel、IBM、NEC 四家之外，原始的成員還
+包括 Caldera、Dell、Linuxcare、LynuxWorks、紅帽、SGI、SuSE、
+TurboLinux、VA Linux 等，後續加入的則有Miracle Linux、松下、
+Covalent 等，最近才加入的有Computer Associates、富士、與日立
+。OSDL的管理方面，除了有全職的董事和幕僚之外，也有獨立的董事
+會與主管人員。
+
+OSDL是產業界第一個獨立、非營利性的實驗室，它成立的目的在於提
+供開發人員利用高階、「企業級」硬體的機會，因此使得企業級的開
+放原始碼計劃可以被開發與測試。OSDL的網站是www.osdl.org。
+
+相關網址：
+1、Jabber計劃被新成立的開放原始碼開發實驗室選為Linux計劃
+   http://www.jabber.com/news/release_012601.shtml
+2、創新的地點──Linux測試實驗室在奧瑞岡州的Beaverton成立了
+　 http://linuxtoday.com/news_story.php3?ltsn=2001-01-24-005-06-PS-CY-HE    
+3、開放原始碼實驗室向企業界開放；開放原始碼測試得到重大鼓舞
+　 http://linuxtoday.com/news_story.php3?ltsn=2001-01-24-001-20-NW-HE
+
+──────────────────────────────
+■ 提升網管便利性 BSDi與Plesk合作開發新管理工具
+
+張書銘/編譯
+2001/01/31
+
+隨著伺服器市場上BSD系統的抬頭，許多網路管理程式也開始針對BSD
+系統進行支援。在伺服器系統開發上有豐富經驗的BSDi公司，為了完
+成一套最適合BSD系統使用的網管程式，決定與Plesk公司合作，共同
+研發BSA﹙BSD Server Administrator﹚網管工具。
+
+------
+
+BSDi公司日前宣佈將與 Plesk公司合作，進行網路管理工具的開發。
+BSDi公司原本以提供BSD作業系統以及伺服器程式為主，但面對BSD系
+統使用者逐漸增加，提供簡單易學的管理工具成為市場趨勢。因此，
+BSDi選擇與在開發網管工具上有豐富經驗的 Plesk公司聯手，研發最
+適合BSD系統用的網管程式。
+
+由於過去 Plesk公司針對多種UNIX/Linux平台推出網管程式，像昇陽
+Solaris、紅帽、Slackware Linux、FreeBSD、BSD/OS等， 因此對於
+各平台的網路效能、安全機制上的能力瞭若指掌。這次與BSDi合作，
+主要也是以Plesk公司產品Plesk Server Administrator﹙PSA﹚為開
+發雛型進行改良。
+
+PSA在BSDi的BSD/OS上已經推出到1.3.0版，同時在硬體效能上也有相
+當優異的表現，僅須搭配Pentium 100MHz以上的機器做為伺服器就足
+以應付一般的伺服器工作。因此，據BSDi人員表示，兩方的開發重點
+將放在遠端控管以及簡化網管的操作上。
+
+根據Plesk與BSDi目前公開的資料顯示，預期 BSA將以PSA 1.3.1為藍
+本進行開發，除了更簡明的圖形界面環境外，包括多重網域管理、更
+新SSL認證、DNS組態等多項工作都可以透過遠端控制，讓網管人員無
+需經常性的留守在伺服器主機旁以避免主機發生問題。同時， BSA也
+可以解決多種不同伺服器程式的管理，提供郵件伺服器、FTP 、 DNS
+ Server、Apache等伺服器，與 FrontPage extensions 、SSI、SSL
+、CGI、PHP3等的支援。
+
+相關網址：
+1、BSDi與Plesk合作開發網管程式
+   http://www.bsdtoday.com/2001/January/News397.html
+2、關於BSDi
+   http://www.bsdi.com/company/
+
+──────────────────────────────
+■ 新一代Beowulf技術出爐 且看Scyld說分明
+
+張書銘/編譯
+2001/01/31
+
+從事叢集技術研發的Scyld公司，於 1月底釋出了架設第二代Beowulf
+叢集系統用的商業版軟體與相關文件。Scyld公司表示，二代Beowulf
+技術提供了更簡易的架設與管理環境，同時也擁有更高的安全性與系
+統彈性。
+
+------
+
+由 Scyld開發的第二代Beowlf技術則指以開放原始碼軟體架構的叢集
+系統，包括了最新的 Linux核心、函式庫以及其他叢集系統的必要工
+具。
+
+根據Beowulf Mailing List上的討論，所謂 Beowulf技術，主要指平
+行計算的電腦群架構，通常是由一台伺服端和一台以上用戶端透過乙
+太網路或其他網路連接的系統。而利用多台PC進行平行運算，甚至可
+以負擔必須使用超級電腦才能應付的大量運算工作，同時降低成本。
+
+事實上，Scyld 在去年10月間就已經先行嘗試推出部份原件，提供大
+眾試驗性的應用，雖然效能上確實有很好的表現，但是在架設上則有
+相當多的批評。因為當時在安裝的過程以及相關文件都過於複雜。例
+如新的開機管理系統Two Kernel Monte以及伺服端與客戶端上安裝方
+式的不同都沒有詳細說明，因此被新聞評為“只有專家才會用”的系
+統。
+
+因此在新的商業版中 Scyld除了提供了更完整的文件外，也將針對安
+裝過程進行簡化。據Linuxworld的工作人員試用後表示，即使是沒有
+充分經驗的人員，也能在10到15分鐘間，完成第二代 Beowulf叢集系
+統的架設。
+
+而為了提供採用Scyld第二代叢集系統的使用者更完善的服務，Scyld
+與多家軟體商與網站洽談合作案，包括 MPI-Softtech 、 Wolfram、
+Backbone Networks、NAMD以及Veridian等，以推廣第二代Beowulf技
+術的應用與服務層面。
+
+相關網址：
+1、Scyld推出首套第二代Beowulf技術作業系統
+   http://eltoday.com/article.php3?ltsn=2001-01-30-001-13-PS
+2、Scyld Beowulf
+   http://www.scyld.com/page/products/beowulf/
+
+──────────────────────────────
+■ Sun推出Linux版本分散式資源管理軟體─Sun Grid Engine
+
+謝良奇/編譯
+2001/02/01
+
+昇陽旗下的分散式資源管理軟體─Sun Grid Engine，推出Solaris版
+本以來廣受採用，現已推出 Linux平台的版本。可集合利用異質性網
+路環境空置計算資源的 Sun Grid Engine，能夠提供使用者單一的系
+統計算存取端點，可作為未來高效能平台的選擇之一。
+
+------
+
+昇陽原供Solaris平台的Sun Grid Engine軟體，從去年 9月推出以來
+，已被七十個國家、超過一千個組織下載。在獲得如此成果之後，這
+套用來充份運用網路環境中空置計算資源的分散式管理軟體，現在已
+經推出Linux版本。
+
+專用以利用閒置計算資源的Sun Grid Engine，去年 9月推出Solaris
+版本，獲得相當大的成果。現推出的Linux版本，採用與Solaris相同
+的原始碼基礎，此套分散式管理軟體將不獨可使用在Solaris、Linux
+環境，甚至還能運用於Solaris、Linux的混合異質性網路。
+
+Sun Grid Engine 是可優化異質性網路環境軟、硬體利用的分散式管
+理軟體。透過集結計算場域內網路伺服器、桌上工作站，該軟體可釋
+出網路環境內隱含的計算能力，提供使用者單一的計算存取端點。此
+外，Sun Grid Engine 可分散計算工作負載，同時增加系統生產力，
+從根本改善技術計算的經濟效益。Sun Grid Engine 有助於解決如何
+對單一計算問題運用最大資源，並在技術市場內達成絕佳擴充能力。
+
+「計算場域」是一個由任意數量計算資源組成的環境，環境內所有的
+計算資源，如工作站、伺服器等皆由網路相連，並以特殊的管理軟體
+協同運作，整個環境對所有用戶就如同單一的計算整體。而Sun Grid
+Engine等管理軟體可就計算資源管理，提供必要的控制，以提供使用
+者單一的系統存取端點。
+
+利用像是Sun Grid Engine等分散式資源管理﹙DRM﹚軟體建立的「計
+算場域」，昇陽預料會是未來高效能計算的選擇平台之一。Sun Grid
+Engine提供的高擴充性、輕巧，可協助企業追趕網路效應所帶來，產
+業面臨資料、用戶、設備、服務各方的劇增需求。
+
+Sun Grid Engine 是分散式管理軟體工具Gridware系列之一，該系列
+其餘產品尚包括供 Sun Grid Engine使用的加強型排程及策略管理軟
+體，寰宇資源監視器 ﹙Global Resources Director﹚。該系列工具
+皆由昇陽於去年7月併購Gridware時取得。
+
+相關網址：
+1、Linux版Sun Grid Engine軟體現已推出
+   http://linuxtoday.com/news_story.php3?ltsn=2001-01-31-040-04-NW-SV-SW
+2、Sun Grid Engine 5.2軟體
+   http://linuxtoday.com/news_story.php3?ltsn=2000-09-28-007-04-NW-HE-SV
+
+──────────────────────────────
+■ ThinkGeek使用Zelerate電子商務解決方案
+
+李孟諺/編譯
+2001/01/31
+
+開放原始碼的電子商務應用軟體供應商Zelerate今日宣佈OSDN的電子
+商務網站ThinkGeek將採用該公司最新的電子商務解決方案Zelerate
+AllCommerce。該軟體功能強大，除了應用在WAP、Linux、Solaris、
+UNIX與WindowsNT 操作介面，並且加強了統計分析、客戶服務與運算
+系統的整合。
+
+------
+
+一直在開放原始碼的電子商務應用方面居於領導地位的廠商Zelerate
+，今天宣佈 OSDN 的電子商務網站 ThinkGeek將採用其電子商務軟體
+Zelerate AllCommerce。
+
+Zelerate AllCommerce是開放原始碼的電子商務應用，它提供的核心
+模組能夠支援各種規模的電子商務。它的核心模組有四大管理功能包
+括目錄存貨管理、訂單管理、物流管理以及管理系統。
+
+Zelerate AllCommerce的作業平臺不但提供WAP功能，還可應用在WAP
+、Linux、Solaris、UNIX與WindowsNT 操作介面。對於各類報表管理
+、產品訂購、統計分析、行銷規劃等電子商務所需的功能，提供完整
+的解決方案。
+
+為了確保在尖峰時刻的訊息暢通，Zelerate使用雙層伺服器技術，隨
+時檢視網站上訊息的可信度。此外、為了增進網站的效率與降低管理
+成本，Zelerate也提供客戶服務的模組能讓ThinkGeek 透過單一介面
+管理客戶服務。對於客戶來說，它提供更方便的線上比價、產品目錄
+、訂單追蹤以及商品訊息等功能。
+
+採用Zelerate AllCommerce的ThinkGeek 網站從1999年成立以來，已
+經擁有許多程式設計者、IT專家以及開放原始碼社群的忠誠客戶群。
+OSDN電子商務部資深副總裁Douglas Schatz表示期盼這套軟體能夠滿
+足他們第一季的需求，並且希望它提供整合的功能，無論在採買管理
+、銷售管理、客戶服務、訂單業務等方面都能對他們業務的成長有所
+幫助。
+
+相關網址：
+1、Zelerate軟體應用在ThinkGeek電子商務網站
+   http://linuxpr.com/releases/3247.html
+2、什麼是Zelerate AllCommerce
+   http://www.zelerate.com/html/eng/233-AA.shtml
+3、Zelerate網站
+   http://www.zelerate.org
+4、ThinkGeek網站
+   http://www.thinkgeek.com
+
+──────────────────────────────
+■ 微軟表示：Linux只是成不了氣候的免費作業系統
+
+沈美君/編譯
+2001/02/01
+
+微軟公司﹙Microsoft﹚對Linux的態度可謂一日三變，日前微軟總裁
+Steve Ballmer才對 Morgan Stanley Dean Witter﹙摩根史坦利添惠
+﹚表示「Linux為頭號勁敵」，不過微軟產品經理Doug Miller似乎不
+太同意這個說法，直指Linux只是成不了氣候的免費作業系統。
+
+------
+
+Miller 直言Linux產業將會在今年底前逐漸衰退，並且要大家注意三
+個觀察指標，分別為Linux日趨平緩的成長率、產業主流對使用Linux
+為作業系統的興趣降低，以及Linux 司的股價大跌。「免費的東西沒
+有多少價值，」Miller認為免費無法成就獲利模式，而最新發表的核
+心2.4也不敷企業高階需求，再加上他認為Linux還有許多安全上的問
+題，這些都是要慎重考慮是否採用Linux的因素。
+
+針對Miller 的言論，有不少Linux廠商及開放原始碼社群提出反駁。
+Linux顧問公司Olliance執行長Meynier表示，「free」代表的不是毫
+無價值或不需成本，除了有部分「免費」的意義之外，free代表的是
+程式發展者和客戶有較高的自主權，有助於提升軟體水平，具有能力
+的研發者甚至可以創造出更高的軟體價值，以符合自身的需求，他認
+為IBM與Red Hat就經營出Linux的加值服務獲利模式。
+
+Miller抨擊核心2.4 缺乏企業所需要的特質，「根據發展者及套件廠
+商的警告訊息，可以想見的是，kernel 2.4還有很長的一段路要走。
+」有社群指稱Miller這番評論下得太早，因為核心2.4 的確是在起步
+階段，缺乏嚴謹的系統管理工具，但是研發工作仍持續地在進行中，
+有些發展者甚至邀請Miller參與在紐約舉行的LinuxWorld大會，準備
+展示一些企業解決方案來駁倒他的攻擊。
+
+另外，Miller還以IDC的預測數據作為引證，表示Linux這兩季在伺服
+器作業系統的成長，表現普普，而且 UNIX和Novel還有下滑的趨勢，
+「但是在同時，Windows 卻以快於任何一種作業系統的速率成長」。
+對於這項說法，IDC 持保守態度，指出這項報告尚未完成，也還沒公
+布，值得玩味的是，IDC經理 Al Gillen說Linux是持續地在成長，趨
+勢並沒有減緩。
+
+對於這場口舌之戰，VA Linux總裁Larry Augustin認為，這只是微軟
+慣用來模糊使用者焦點的伎倆，目的是為了打擊強勁對手。微軟正在
+進行的.NET策略，能不能在網路相關及伺服器應用市場，扳回霸主地
+位，與Linux同台對擂？拭目以待。
+
+相關網址：
+1、微軟表示：Linux只是成不了氣候的免費作業系統
+   http://linuxtoday.com/news_story.php3?ltsn=2001-01-31-039-04-NW-BZ-MS
+2、Microsoft在LinuxWorld上發表驚人之語
+   http://linuxtoday.com/news_story.php3?ltsn=2001-01-31-030-04-PS-MS
+3、微軟：Linux成長下滑
+   http://linuxtoday.com/news_story.php3?ltsn=2001-01-31-008-06-PS-MS
+
+──────────────────────────────
+
+═＊活動快報＊═══════════════════════
+
+OpenScope成立以來，訂戶數即將逼近一萬大關， 因此編輯小組們想
+要更瞭解各位讀者的閱讀需求與對這份電子報的看法，希望您能踴躍
+參與問卷調查活動。為了感謝諸位支持 OpenScope的讀者提供寶貴的
+意見以及熱情參與， OpenScope將抽出六十五名幸運讀者，贈送精美
+獎品。此次問卷調查活動將到2月18日截止， 請即刻連結至電子報的
+首頁www.openscope.net參加！   
+  
+※獎品內容※ 
+‧掌握最新脈動： PC Home 最新雜誌一期　10名
+‧珍貴收藏版本： LINUX JOURNAL中文版創刊號　25名
+‧高貴品味實用： OpenScope霧銀紀念名片盒　30名
+ 
+◎感謝以下單位提供贊助：
+  PC Home電腦家庭雜誌
+  天充文化
+
+══════════════════════════════
+
+─＊全版廣告＊───────────────────────
+
+《零客情報Linuxer雜誌》
+取得國際Linux Format及Maximum Linux雜誌授權
+現正特價中，還附送雙光碟！
+詳情請上網www.tsmedia.com
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界 零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

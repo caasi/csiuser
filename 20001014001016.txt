@@ -1,0 +1,474 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１０.１３
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Sysnopsys全力支援Linux  全球各大EDA工具商跟進！
+
+■ Linux在印度廣受歡迎
+
+■ Napster或Gnutella？Mojo Nation要建立新數位國度！
+
+■ 新版Sendmail出爐 挑戰微軟Exchange 2000
+
+■ PostgreSQL主要領導人加入Great Bridge公司
+
+■ 「自由標準團體」發表LDPS  致力解決Linux相容問題
+
+■ Lineo發表新版Busy Box 獲IBM與3Com採用
+
+■ 更進步的Linux叢集解決方案─Scyld Beowulf Scalable
+
+
+═《編者的話》═══════════════════════
+
+Linux系統與日新月異的半導體設計有什麼關係?可能誰也不會想到，
+在電子設計自動化軟體的領域，Linux會以黑馬姿態取代NT ，成為眾
+多大廠積極採用的作業系統！
+
+美商新思科技(Synopsys, Inc)在電子設計自動化﹙EDA﹚方面是業界
+第二把交椅，僅次於益華(Cadence Design Systems)，包括摩托羅拉
+和德州儀器等大廠都採用其產品作為解決方案，台灣眾多IC  Design
+公司也是新思公司的客戶。最近，新思宣佈將其設計工具一一移植到
+Linux平台上，並預言在未來數年內Linux將成為其成長最快的產品線
+平台。除了新思以外，其他許多EDA大廠也發表跟進的消息， 並表示
+Windows  NT將不會是EDA產品主要的作業平台；執業界龍頭的益華也
+同樣看好Linux平台上的EDA軟體發展。本期 OpenScope為您報導的這
+則消息，值得所有關注半導體設計領域的朋友們注意！ 
+
+由於其開放和免費的特性，除了在功能上迅速發展外， Linux也間接
+幫助了原先在資訊科技上並不發達的國家，縮短開發中國家與先進國
+家在科技應用上的差距。在亞洲方面，除了中國大陸大幅採用 Linux
+外，另一個古老的國家印度也因為採用Linux而受益；印度的Linux社
+群日前即在Bangalore  IT.COM 2000大會上展示實力。而印度在這方
+面的積極發展，更值得正為科技政策傷腦筋的台灣新政府密切注意！
+
+另一方面，目前廣泛流行的檔案分享系統除了Napster、 Gnutella以
+外，日前又出現了開放原始碼軟體Mojo Nation；Mojo Nation以虛擬
+貨幣進行交易及開放原始碼的特性，正受到業界人士的關切。此外，
+Sendmail是一套廣為採用的開放原始碼電子郵件系統，目前推出了以
+Web 介面為主的Sendmail  Switch新版，這是否會對微軟的Exchange
+2000造成威脅？ 而另一套著名的開放原始碼資料庫軟體 PostgreSQL
+，其重要領導者最近加入了以 PostgreSQL 為主要服務領域的 Great
+Bridge公司，可望使PostgreSQL在企業領域的應用獲得更多的助益。 
+
+上期OpenScope為您報導過Linux  Standard Base組織推動的Linux標
+準統一運動；言猶在耳，自由標準團體﹙Free Standards Group﹚又
+聯合二十三家廠商推出Linux 開發平台規格﹙ Linux  Developement
+Platform Specification,LDPS﹚。在嵌入式裝置方面，Lineo推出最
+新的嵌入式Linux「Busy Box」0.47版，使OEM廠商能針對需求加以客
+製化，讓嵌入式Linux 獲得更有效的發展。最後，在廣受矚目的高階
+叢集系統應用方面，Scyld Computing公司以Linux為基礎的開放原始
+碼軟體Beowulf作為核心，推出了新的叢集解決方案；Linux所支援的
+高效能、高延展性特色，將可望在叢集系統領域益加大放光彩！
+
+另外，部分讀者可能是透過個人發報站台訂閱，若您只想收到不含廣
+告的純文字版本，可直接寄一封標題為「subscribe」的信到：
+openscope@cyberworksolution.com即可訂閱。
+
+
+═《本期新聞》═══════════════════════
+
+■ Sysnopsys全力支援Linux  全球各大EDA工具商跟進！
+
+謝良奇/編譯
+2000/10/11
+
+Synopsys 宣佈在Linux 作業系統上提供電子設計自動化﹙EDA﹚高階
+ASIC設計的完整工具。這家專精於EDA 的公司成功的移植其產品線於
+Linux平台，使得Linux更向前跨入了晶片設計的領域。
+
+------
+
+本週Synopsys 公佈其在Linux上移植其ASIC設計流程的整套工具，包
+括了Design 編譯器及其他熱門的晶片設計工具。自此Linux將正式坐
+上電子設計自動化的第二把交椅，並有可能讓Windows NT在晶片設計
+界成為歷史名詞。
+
+Synopsys這次移植的產品包括了Behavioral編譯器、Design編譯器、
+Module 編譯器、FPGA 編譯器、PrimeTime、TetraMax 以及Scirocco
+VHDL模擬器等，目前僅有Physical編譯器及Epic實體驗證工具尚未名
+列榜上。
+
+Synopsys的營運長Raul Camposano 認為，在未來的兩年，Linux產品
+線將可佔該公司百分之十到百分之二十的營業額，剩下的則由UNIX及
+NT的FPGA設計的產品線包辦。該公司的發言人也表示「沒有理由不用
+Linux」。
+
+不光只是Synopsys，其他的公司也對這個市場虎視眈眈，Avanti這家
+在Linux上提供Polaris Verilog模擬器、Nova-Explore RTL設計分析
+工具以及Hercules 實體驗證工具的公司產品經理也表示「Linux將取
+代NT，並與UNIX互補」。Cadence Design Systems Inc 的副總Rahul
+ Razdan也表示，愈來愈多的需求顯示Linux將在FPGA設計領域以外的
+侵蝕NT市場，該公司的產品包括NC-Verilog及Verilog-XL模擬程式。
+
+在用戶市場，繪圖晶片的供應商Nvidia 擁有四百部的Linux伺服器組
+，負責VCS 的模擬，這家原本以UNIX為主的公司原本打算使用NT的產
+品，但評估後發現NT與他們所慣用的UNIX系統差距過大，他們最後還
+是決定採用與Unix非常相似的Linux。
+
+相關網址：
+1、Synopsis將Linux帶入全系列的ASIC設計流程
+   http://www.eet.com/story/OEG20001009S0011
+2、Synopsis擴充其在Linux上的高階設計工具
+   http://linuxtoday.com/news_story.php3?ltsn=2000-10-10-002-20-PR-EM-SW
+
+──────────────────────────────
+■ Linux在印度廣受歡迎
+
+葉志博/編譯
+2000/10/13
+
+印度Linux社群在IT.COM 2000展覽中大放異彩，在所有參展廠商中最
+受注目，吸引最多民眾參觀，這顯示出Linux 在印度資訊科技界中，
+已逐漸佔得一席之地，受歡迎程度可見一般。
+
+------
+
+Bangalore IT.COM 2000 展覽是亞洲資訊科技界的一大盛會，不論是
+展覽規模或參觀人次，都遠遠超越其他在亞洲地區舉辦的展覽。這次
+展覽主題為"Linux動力"，顯示出Linux在印度受到廣大的回應，接受
+程度相當高，其潛力實不可限量。
+
+Linux能在印度擁有如此受歡迎的成績，主要原因在於Linux固有的開
+放原始碼精神。幫助玩家和學生不需要購買盜版軟體，就能使用穩定
+且功能強大的作業系統，進而成為Linux 擁戴者。也由於這股年輕的
+強大勢力，無形中助長Linux 在印度的推廣工作，讓更多企業意識到
+Linux的強大效能，在去年，Linux還是「百聞不如一見」，而今年已
+經變成「看Linux的力量多麼強大」，其普及程度可見一斑。
+
+而"教育"是影響下一代發展最重要的途徑之一。Linux 在教育系統中
+種下種子，讓學子們提早在大學課程中接觸到Linux ，更加快了推廣
+的腳步。瞭解Linux 作業系統，讓年輕人在畢業後就擁有一項絕佳的
+謀生技能，繼續創造出更多以Linux 為基礎的軟體，滿足資訊科技企
+業對高品質設計人才的需求，讓Linux的觸腳延伸到世界每個角落。
+
+以賓州大學主導的Puente計畫為例。這是一項由學生自願發起，並擔
+任管理、運作和經營工作的計畫，主要目的在於消彌各國資訊發展的
+差距，特意選擇在厄瓜多爾和印度個別成立了社群科技中心﹙ CTC﹚
+，其服務對象包括：學生、社群成員、非政府組織和非營利性團體。
+
+相關網址：
+1、印度Linux社群在IT.COM 2000中大放異彩
+   http://linuxpr.com/releases/2681.html
+2、縮短數位科技的差距，Linux在印度逐漸擴張版圖
+   http://linuxtoday.com/news_story.php3?ltsn=2000-10-11-001-06-OP-CY
+
+──────────────────────────────
+■ Napster或Gnutella？Mojo Nation要建立新數位國度！
+
+謝良奇/編譯
+2000/10/11
+
+繼引起一陣旋風的 Napster之後，一套分散式的檔案分享軟體正蓄勢
+待發。Autonomous Zone Industries所推出的 Mojo Nation，以透過
+電子貨幣Mojo為基礎的交易機制，取代過去的自由傳輸模式，有如一
+個具體而微的數位內容自由市場。
+
+------
+
+您用過 Napster等檔案共享軟體嗎？現在網路上出現另一套功能強大
+的檔案共享服務─Mojo Nation。Mojo Nation是一套全球性發表、有
+加密保護功能的開放原始碼軟體，以分散式運算、檔案共享，以及獨
+特的市場運作機制等三項技術為基礎，創造出使用者自主的檔案分享
+市場。
+
+Autonomous Zone Industries所推出的 Mojo Nation，是一套點對點
+的分散式系統，可允許網路上任何一台電腦，與其它電腦溝通，卻不
+需經由一般的中央伺服器。Mojo Nation所使用的agent軟體，採開放
+原始碼，預定在十一月釋出，可免費下載。目前已有兩千位使用者，
+正在進行該軟體的測試。
+
+Autonomous Zone Industries執行長Jim McCoy，原本就職於Yahoo，
+於五月離開 Yahoo後，結合其密碼學與數位付款機制上的專長，創立
+該公司及Mojo Nation。
+
+Mojo Nation 自有一套獨特的內容市場交易機制，用戶必須使用名為
+Mojo的貨幣，進行數位內容的買賣。Mojo Nation 會員可經由對社群
+貢獻資源或提供服務，來獲得Mojo，例如提供資料存放的磁碟空間、
+執行 Mojo Nation的軌跡或中繼服務等，當獲得足夠Mojo時，使用者
+即可購買所需的檔案。
+
+不同於Napster等檔案共享軟體，Mojo Nation特殊的分散式技術，將
+使用者上傳的檔案，拆解成數千個部份，再分散儲存在會員提供的磁
+碟空間。除了提高傳輸效能外，由於使用者不再擁有整個檔案，免除
+以往在分享模式中，過份重視檔案擁有者，而忽略分享過程中其它的
+資源提供者。在Mojo Nation 中，只要是有助於分享過程的使用者，
+都可以獲得回報。
+
+Jim McCoy表示，Napster的法律問題，主要癥結是因為分享檔案由使
+用者所掌握，Napster無法消除侵權檔案。相反的，Mojo Nation則可
+利用軌跡服務找尋該檔案的區塊，于以刪除或註銷，因此不會有侵權
+上的困擾。
+
+相關網址：
+1、什麼是Mojo Nation？
+   http://www.mojonation.net/docs/technical_overview.shtml
+2、Mojo解決方案
+   http://www.salon.com/tech/view/2000/10/09/mojo_nation/index.html
+
+──────────────────────────────
+■ 新版Sendmail出爐 挑戰微軟Exchange 2000
+
+張書銘/編譯
+2000/10/13
+
+在電子商務中，郵件的遞送向來都扮演著很重要的角色，無論是單據
+的傳遞或是其他確認訊息，都必須仰賴電子郵件來完成。因此，要為
+企業樹立一個良好的電子商務環境，就必須準備一套良好的郵件伺服
+器才行。
+
+------
+
+在微軟視窗系統風行的時候，企業間如果採用微軟產品，那麼群組軟
+體的選擇上則多半採用微軟的Exchange，或是Lotus Notes 等。但是
+在評估它們在郵件管理的效能上，Lotus Notes 複雜無比的管理環境
+令人望之卻步；而Exchange呢？從前一代的5.5版到Exchange 2000都
+一樣問題重重，而且系統效能實在不能說太好，即使採用高階硬體，
+一樣是相當的慢，對於時間就是金錢的使用者而言，並不能充分令人
+感到滿意。
+
+同樣的，知名的郵件伺服器供應商Sendmail公司在較早推出的伺服器
+管理軟體，表現亦不甚佳，因為管理環境實在是太複雜了，讓很多管
+理者感到相當頭大。因此為了滿足使用者的種種要求，Sendmail公司
+針對它們的郵件伺服器產品做出了許多的改良，以滿足客戶在 Lotus
+Notes與Exchange上無法獲得的部分。首先是在介面的部分，Sendmai
+lSwitch2.1 ﹙ 適用於多種 UNIX/Linux ﹚ 以及 Sendmail Advance
+dMessage Server﹙適用於NT平台﹚都改採用WEB介面以簡化管理流程
+。
+
+其次，Sendmail公司在它們的郵件遞送代理程式伺服器的產品中提供
+了新的程式開發環境，以供管理人員能開發自己的郵件控管程式，以
+滿足各企業間有可能不同權限的控管模式。另外，Sendmail公司也提
+供內建掃毒程式，包括 Brightmail's   Anti-Spam  及  InterScan
+VirusWall等，保護郵件安全性。
+
+相關網址：
+1、Sendmail提供更安全的企業電子郵件服務
+   http://www.zdnet.com/intweek/stories/news/0,4164,2638271,00.html
+2、忘了Exchange 2000吧
+   http://www.zdnet.com/sp/stories/column/0,4712,2637925,00.html
+
+──────────────────────────────
+■ PostgreSQL主要領導人加入Great Bridge公司
+
+謝良奇/編譯
+2000/10/12
+
+Bruce Momjian、Tom Lane、Jan Wieck，這三位開放原始碼社群中的
+重量級開發者，同時也是PostgreSQL的主要領導人，加入一家以提供
+PostgreSQL上開放原始碼解決方案的公司─Great Bridge，將有助提
+升對採用開放原始碼企業用戶的支援能力。
+
+------
+
+Great Bridge本月11日宣布，三位開放原始碼社群中的重量級開發者
+，包括Bruce Momjian、Tom Lane、Jan Wieck，受雇加入該公司，擔
+任Great Bridge的高階職位。此舉有助加強Great Bridge與數以千計
+開放原始碼開發者間的連繫，為企業採用開放原始碼技術，提供有力
+支援。
+
+於今年二月剛成立的Great Bridge，主要提供以PostgreSQL為基礎的
+開放原始碼解決方案。PostgreSQL是一套先進的開放原始碼資料庫。
+Great Bridge的目的在於以極低的成本，提供今日電子企業創立者，
+一套企業級的資料庫和相關工具，完全開放原始碼，企業用戶不再受
+制於封閉的廠商解決方案。
+
+Great Bridge總裁及執行長Robert Gilbert表示， Momjian三人提供
+該公司開放原始碼開發的技術專長，也是該公司為企業採用開放原始
+碼軟體，建立強大支援系統的有力背書。
+
+Bruce Momjian等三人，為 PostgreSQL國際開發指導委員會的成員之
+一。Momjian 加入該公司後，作為資料庫開發的副總裁，未來將持續
+管理PostgreSQL關鍵專案，對開放原始碼社群提供支援。擔任高等軟
+體工程師的 Lane、Wieck，則負責Great Bridge的開放原始碼軟體開
+發。
+
+PostgreSQL 全球開發團隊領導人，也是發起人之一的Momjian表示，
+Great Bridge將是開放原始碼社群的主要貢獻者，加速開放原始碼的
+發展過程。該公司也將增加PostgreSQL的使用者基礎，促使其進入市
+場。
+
+未來Momjian三人將幫助 Great Bridge建立技術支援團隊，並領導開
+放原始碼的專案開發，以符合企業用戶的需要。該公司計劃下個月開
+始PostgreSQL 資料庫應用軟體的商業支援服務，包括Postgre 7.0及
+一系列技術支援方案。
+
+相關網址：
+1、PostgreSQL主要領導人加入Great Bridge挑戰企業領域內專有廠商
+   http://linuxtoday.com/news_story.php3?ltsn=2000-10-11-010-06-PR-HE
+2、Great Bridge的簡介
+   http://www.greatbridge.com/about/index.html
+
+──────────────────────────────
+■ 「自由標準團體」發表LDPS  致力解決Linux相容問題
+
+蕭喜那/編譯
+2000/10/12
+
+自由標準團體﹙Free Standards Group﹚昨日發表第一版的Linux 開
+發平台規格﹙ Linux Developement Platform Specification, LDPS
+﹚，以致力於解決Linux不同版本之間的不相容性。
+
+------
+
+自由標準團體﹙Free Standards Group﹚於十月十一日在亞特蘭大舉
+行的第三屆Linux展覽＆會議年會上，發表全新第一版的Linux開發平
+台規格﹙LinuxDevelopement Platform Specification, LDPS﹚。
+
+LDPS主要是用於解決在Linux 應用軟體和各種不同的Linux OS之間的
+不相容性，不相容的問題使得許多公司不敢貿然採用Linux ，而可能
+重蹈UNIX一直不能統一的覆轍。
+
+LDPS的出現則意味著Linux開發人員將擁有標準化的工具、kernels、
+和庫藏查詢系統﹙libraries﹚，他們的工作即使跨越其他的Linux，
+還是可以運作地相當完好。
+
+自由標準團體指出，開發人員藉由LDPS，可以在不同的Linux 上更快
+速地寫出軟體，並且發行出去，這些Linux 包括 Caldera OpenLinux
+2.4、 Conectiva Linux 5.1 、Corel Linux OS Second Edition 、
+Debian GNU/Linux 2.2、Linux-Mandrake 7.0、 Red Hat Linux 6.2
+、SuSE Linux 6.4 和 TurboLinux 6.0等。
+
+自由標準團體是非營利性的組織，成立的宗旨在於藉由標準的開發、
+使用和通過，以加速開放原始碼科技的使用和接受度。
+
+有二十三個組織支持LDPS ，包括主要的Linux 經銷公司例如Caldera
+Systems 、Corel 、紅帽、SuSE Linux AG 、TurboLinux和VA Linux
+Systems等，以及IBM、昇陽 、Atipa Linux Solutions、The Debian
+Project、Linuxcare、Linux for Power PC、LinuxMall.com、Linux
+Professional Institute、The Open Group及SAP AG。
+
+相關網址：
+1、第一個Linux開發平台規格發表了 
+   http://linuxtoday.com/news_story.php3?ltsn=2000-10-11-017-04-PS-CY
+2、自由標準團體發表Linux開發平台規格 (LDPS) 
+　 http://linuxtoday.com/news_story.php3?ltsn=2000-10-11-015-06-PR-CY
+3、自由標準團體藉由Linux開發平台規格，尋求增進可攜性
+   http://linuxtoday.com/news_story.php3?ltsn=2000-10-11-002-20-NW-CY
+
+──────────────────────────────
+■ Lineo發表新版Busy Box 獲IBM與3Com採用
+
+沈美君/編譯
+2000/10/11
+
+以Linux為基準的嵌入式系統又有進展了。Lineo 發表嵌入式Linux系
+統「Busy Box 0.47 」最新版，為即時、高可用性的嵌入式應用解決
+方案，使OEM能針對需求加以客製化。
+
+------
+
+IBM 於日前發表的 Linux 手錶「wristwatch 」，與3Com的Internet
+Radio ，都與Busy Box 有關。Lineo於十月十日再接再厲，發表嵌入
+式Linux 系統「 Busy Box 0.47」最新版，為即時、高可用性的嵌入
+式應用解決方案，使OEM能針對需求加以客製化，更展示Linux的應用
+範疇越來越廣，從大型伺服器到小型智慧裝置，無所不在。
+
+Lineo的BusyBox，將許多常用的UNIX工具，組合為相當小的單一可執
+行檔，許多常用的指令，像是 fileutils、 shellutils、findutils
+textutils、grep、gzip、 tar等，在Busy Box完全與POSIX相容的嵌
+入式系統中都可以使用。
+
+雖然Busy Box因為將大小最佳化，而無法達到全功能，但是以模組為
+發展概念卻能容易地將所需工具include或exclude，加以compile 即
+可。使用者若欲創造一個工作環境，只要加進 kernel、shell、以及
+editor即可。
+
+Lineo營運長Bob Waldie表示，Lineo在Open Source及嵌入式Linux產
+業，是起步非常早的發展先驅，因為瞭解回饋社群的重要性，所以或
+發起、或支援數個開放原始碼計畫的進行，並使許多企業受益， IBM
+與3Com就是很好的例子。
+
+除了Busy Box 之外，Lineo 支援的開放原始碼發展計畫尚有：Tiny-
+Login，為嵌入式認證機制，包含使用者登入、更改密碼， Busy Box
+內也有相關應用。以及 uCLibc：給嵌入式系統使用的 C 函式庫，和
+uClinux：為 Linux/Micro-controller 計畫，Linux 2.0的移植﹙除
+了記憶體管理單位之外﹚以及PoPToP，與Microsoft 相容的虛擬私有
+網路﹙VPN﹚。
+
+相關網址：
+1、Lineo發表嵌入式Linux系統「Busy Box 0.47」最新版
+   http://www.newsforge.com/article.pl?sid=00/10/10/163228&amp;mode=thread
+2、Lineo官方首頁
+   http://opensource.lineo.com/
+3、BusyBox官方首頁
+   http://busybox.lineo.com/
+
+──────────────────────────────
+■ 更進步的Linux叢集解決方案─Scyld Beowulf Scalable
+
+蕭喜那/編譯
+2000/10/10
+
+Scyld Computing 公司近日推出Scyld Beowulf Scalable運算軟體，
+Scyld Beowulf是下一代的Beowulf系統，Beowulf 型式的叢集系統早
+在一九九九四年由NASA的科學家所展示，並受到全球的歡迎，新一代
+的Scyld Beowulf可說是解決密集運算應用軟體時最佳的方法。
+
+------
+
+Scyld Computing 公司近日推出Scyld Beowulf Scalable運算軟體，
+Scyld Beowulf 軟體提供簡化的叢集整合與設定、最少的管理、和無
+縫隙的scalability。
+
+Beowulf 型式的叢集系統是將在開放原始碼作業系統下運作的多部電
+腦，連接成網絡，以形成一部具有平行處理能力的超級電腦。 Scyld
+Beowulf是下一代的Beowulf作業系統。它包括一個改良的Linux 核心
+﹙ kernel ﹚、函式庫、以及特別針對叢集設計的工具等等。 Scyld
+Beowulf 系統提供一個穩定的、標準的、備有支援的作業平台，以用
+於裝置先進的叢集應用軟體。
+
+Scyld Beowulf改良了Linux核心，它的特色在於可以讓使用者從叢集
+的前端電腦的叢集節點上，開始、觀察、和控制過程，並且支援標準
+的Linux 界面和工具。如此一來，這個叢集在使用者或開發人員的眼
+裏，看起來就比較像是一部單一、具有多個處理器的電腦。這將減少
+叢集應用的開發、測試、訓練、和管理的成本。
+
+Scyld的技術長暨創辦人Donald Becker，在一九九四年就構思與展示
+Beowulf，當時他是美國航太總署的科學家。從那時起，Beowulf型式
+的叢集就已經廣受全世界的歡迎與採用。
+
+紅帽董事長Bob Young對於Becker不斷地開發下一代Beowulf的努力讚
+賞有加，他指出Scyld在這項科技上不斷地精進，使Beowulf成為眾所
+公認，解決密集運算應用軟體時最佳的方法。
+
+相關網址：
+1、Scyld Beowulf引進 Scalabl高性能運算新科技 
+   http://www.prweb.com/releases/2000/prweb18864.htm
+2、Scyld Beowulf Scalable Computing 概述
+　 http://www.scyld.com/clustering_overview.html
+
+
+═《互動信箱》═══════════════════════
+
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型為「細明體」，如果您使用Outlook收看我們的電子
+   報，新聞格式可能亂掉，請在Outlook的工具→選項→閱讀中，將
+   文字格式改為「細明體」，即可順利閱讀我們的新聞。
+
+※ 這是【OpenScope  開放視界】電子報。若您不想訂閱，請來信：
+   openscope@cyberworksolution.com，標題寫：unsubscribe即可。
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.cyberworksolution.com﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
+

@@ -1,0 +1,471 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１１.１０
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Borland推動Kylix計劃 加速Linux企業應用
+
+■ Linux 2.4版下月初將問世
+
+■ Gartner分析師質疑Win2000的安全效能
+
+■ Sendmail整合IBM eServer系列，提供高備援郵件系統
+
+■ 順應潮流，IBM致力發展Linux Appliance伺服器
+
+■ 網基與TurboLinux結盟，共推中高階企業網路解決方案
+
+■ BlueCat Linux新增多媒體功能
+
+■ Linux Journal雜誌推出國際中文版
+
+
+═《編者的話》═══════════════════════
+
+原本在微軟視窗下的程式有無可能移植到Linux 上呢？全球程式開發
+工具的重量級廠商Borland說可能— 而且明年應該就會有成熟的工具
+出現！
+
+Borcon會議於本月4日到7日在澳洲正式舉行。與會的廠商們紛紛展現
+出對Linux市場的強烈企圖，重心在於讓Linux全面進入企業與電子商
+務推行兩方面。而這次會議的龍頭Borland公司，則表示將在 2001年
+積極推動Kylix計劃，將Delphi與C++ Builder「Linux化」； 原本這
+兩套程式語言都是視窗介面的開發工具，現在更希望也能讓微軟視窗
+上的軟體簡單地移植到Linux 平台來。這樣的發展，會不會讓廣大的
+程式設計師有「傑克，這真是太神奇了！」的感覺呢？
+
+扥瓦茲的第三個女兒即將呱呱落地了！Linux2.4版終於千呼萬喚始出
+來，可望於下個月發行。 Linux2.4版對Linux來說是一個重大的里程
+碑，這次改版是針對商業用途，對Linux 來說，將是第一個被認可為
+商業使用的版本。雖然由於開放原始碼的特性引發諸多意見，以致進
+度延遲，且功能仍受某些人質疑，但新生命的誕生絕對是令扥瓦茲及
+Linux社群相當興奮的！Linux近來的功績還不只於此，全球知名的資
+訊權威Gartner顧問公司資深分析師John Pescatore指出，以Windows
+2000系列作為連網伺服器仍有安全上的問題，相對的， Linux商業套
+件在未來五年裡將是最安全的伺服器選擇。請看本期 OpenScope電子
+報對此事的相關報導！
+
+你常在收發e-mail時抱怨傳輸品質及砍不完的廣告信件嗎？或是時常
+擔心隱私被侵犯？開放原始碼軟體的Sendmail公司在電子郵件即將成
+為最大媒介的趨勢之下，宣佈將整合IBM的eServer系列產品，開發新
+的郵件系統解決方案，提供高備援能力、建立良好的訊息傳送及接收
+環境等服務，讓你收發e-mail時輕鬆愉快又無後顧之憂。 IBM真可算
+是Linux和企業界最夠意思的朋友，繼推出「 Small Business Suite 
+for Linux 」，針對中小企業Linux伺服器的套裝軟體後，IBM又融合
+Linux技術發展appliance伺服器，協助客戶以更輕鬆更有效益的模式
+，來發展電子商務事業，有越來越多的伺服器供應商也跟上了 IBM的
+腳步，投入這個市場。
+
+最後，網基科技最近宣佈與全球成長最迅速的Linux品牌 TurboLinux
+結盟，共推Linux 中高階企業網路解決方案，值得您注意。還有其他
+精采的報導跟最新消息，都在這期的OpenScope電子報中。OpenScope
+電子報將帶你搭乘開放原始碼的資訊高速列車，你千萬不要錯過喲！
+
+另外，部分讀者可能是透過個人發報站台訂閱，若您只想收到不含廣
+告的純文字版本，可直接寄一封標題為「subscribe」的信到：
+openscope@cyberworksolution.com即可訂閱。
+
+
+═《本期新聞》═══════════════════════
+
+■ Borland推動Kylix計劃 加速Linux企業應用
+
+張書銘/編譯
+2000/11/08
+
+Borcon會議於本月4日至7日在澳洲舉行，這次會議匯聚了多家軟體與
+系統供應商，業者們無不對Linux上的市場寄予厚望。Borland並宣佈
+將於明年推行Kylix計劃，以推動Delphi以及C++ Builder兩套程式語
+言工具的Linux 化為目標，這對開發原始碼的運動而言將會是一大助
+力。
+
+------
+
+以Borland 公司為首，並號召多家廠商參與的Borcon會議於本月4至7
+日間在澳洲正式舉行。這個會議除了探討Borland 公司的開發方針與
+營運策略外，也討論各種解決方案以及平台技術的推行和開發。因此
+對廠商而言可說是重要的交流管道之一。
+
+在今年會議中，值得注意的一點是各家廠商都開始把Linux 當作下一
+波發展的主軸，無論是解決方案或是程式開發業者都表現出這樣的企
+圖心。同時各家廠商也對分散式物件導向運算、應用程式伺服器以及
+資料庫方面的議題進行熱烈討論。從這樣的方向來看，廠商們的目標
+是把重心放在讓 Linux全面進入企業與電子商務推行兩方面上。
+
+而在Borcon會議中，Borland公司也表現出對於Linux的高度期待。在
+議程當中，Borland公司表示將於2001年開始推行一項稱為Kylix的計
+劃。這個計劃是以推動Delphi以及 C++ Builder兩套程式語言工具的
+Linux化為目標，同時也要提供其他更多的快速程式開發工具﹙RAD﹚
+給Linux的使用者。
+
+Borland公司表示，Delphi及C++ Builder都是視窗介面的開發工具，
+而在微軟視窗系統上，它們的開發能力也被證明完全不遜於VB。因此
+公司方面認為在需要視窗介面程式開發的 Linux上，它們可以有很高
+的競爭力。同時它們也能讓微軟視窗上許多軟體簡單地移植到 Linux
+上來，對於提高Linux的使用率有很大的幫助。
+
+而目前Borland公司已開始積極尋求與使用Delphi及C++ Builder為微
+軟視窗開發程式的的社群合作，希望它們也為 Linux開發程式。這對
+開發原始碼的運動而言將會是一大助力。
+
+相關網址：
+1、Borland公司於Borcon 2000會議中揭露對Linux方略
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-07-005-04-NW-BZ-SW
+2、Borcon 2000會議記錄及相關資訊
+   http://www.borland.com.au/borcon2000/
+
+──────────────────────────────
+■ Linux 2.4版下月初將問世
+
+謝良奇/編譯
+2000/11/09
+
+千呼萬喚之中，Linux 2.4終於在Linux之父Torvalds的宣告下可望於
+下個月商業發行，這是在VA Linux及紅帽股票公開發行後的首次更新
+版本。
+
+------
+
+對Linux來說，2.4版核心的發表可說是一個重要的里程碑。這次的改
+版是以針對商業的用途為出發點，例如強化對於對稱式多處理器架構
+﹙SMP﹚的支援，提供對USB 介面的支援以及重寫網路層﹙OSI國際組
+織定義網路的通信協定架構共有七層﹚等。
+
+著名的 IT 產業研究機構Gartner集團副總便表示，這對Linux來說將
+是第一版被認可為商業使用的版本。
+
+包括Linux 的創始者在內的許多開發小組成員，忙於在網路上透過告
+示欄、郵件群組、論壇等來回地討論一些程式碼的細節，雖然這難免
+造成一些爭議以及蜂擁而來的建議，使得進度延遲，但這正是開放原
+始碼有別於專屬系統的地方。從某些角度來說，開放原始碼可說打通
+了某些技術發展的任督二脈，也符合達爾文適者生存的進化論精神。
+
+Linux 2.4 的發行較預期晚了將近一年，但是卻可能是廣被商業所採
+用的版本，包括IBM、康柏、惠普等大廠都正打算將2.4版作為其主要
+系統。但 IBM LInux 技術中心協理 Dan Frye也相對表示：「我們同
+意Linux 2.4版有較佳的延展性，但我們並不會隨它的音樂起舞」、
+「 Linux正在逐漸成熟，我們不視它為突非猛進。」通路商也表示，
+2.4 版對大客戶來說可能較具實質意義，「對小客戶來說，我們尚未
+發現有何利基」。
+
+然而，不論業界的看法如何，對Torvalds來說，他的希望只是「我非
+常期待我的第三個女兒能在本月的稍晚誕生，如果她能再提早一點誕
+生的話，那將是一件令人興奮的事。」
+
+相關網址：
+1、開放原始碼LInux 2.4版
+   http://www.crn.com/Components/Search/Article.asp?ArticleID=19970
+2、Torvalds公開表示，Linux2.4將在12月問世
+   http://www.techweb.com/wire/story/TWB20001108S0008
+
+──────────────────────────────
+■ Gartner分析師質疑Win2000的安全效能
+
+沈美君/編譯
+2000/11/09
+
+Gartner顧問公司的一位資深分析 John Pescatore 指出，以Windows
+2000系列作為連網伺服器，仍有安全上﹙security﹚的問題，建議企
+業最好等待明年末，微軟將發行Service Pack來修正安全臭蟲，屆時
+的Windows 2000會較為可靠。
+
+------
+
+據保守估計，全世界的web server﹙網頁伺服器﹚幾乎有二分之一到
+三分之二的比例，使用Linux作為系統平台，更顯出Linux對產業的影
+響，是透過它最擅長的部分：網路服務。而Linux的競爭對手Windows
+2000，顯然在安全上還受到不小的質疑。
+
+Gartner顧問公司的一位資深分析John  Pescatore指出，以 Windows
+2000系列作為連網伺服器，仍有安全上﹙security﹚的問題，建議企
+業最好等待明年末，微軟將發行Service Pack來修正安全臭蟲，屆時
+的Windows 2000會較為可靠。
+
+Pescatore表示，Windows  2000與Windows NT比較起來，在安全方面
+已有長足進步，不過和許多商業等級的Unix系統平台比較起來，例如
+HP-UX或Sun Solaris，還是不及格，許多Windows 2000內嵌的元件仍
+尚未經過足夠的安全測試，陸續被發現有安全臭蟲﹙security  bugs
+﹚。微軟於2001年末將會釋出安全修正套件﹙Service Pack﹚，使用
+修正﹙patch﹚過的Windows 2000對企業而言，將會是較佳的選擇。
+
+此外， Pescatore更直言，經由專業公司發行、有統一單位作控管的
+Linux商業套件﹙managed Linux﹚，在未來五年裡將會是最具安全性
+的伺服器選擇。與「managed Linux」相對的是「random Linux 」，
+指可由網路上自由下載的Linux  source，但「managed Linux」是經
+由像是紅帽等專業公司所發行的商業版本，對安全及效能都可作較佳
+的調整和測試，相對而言是更適合企業的伺服器解決方案。
+
+在巴黎舉行的NetWorld+Interop 2000盛會中，Penguin Computing執
+行長Sam Ockman亦對Linux伺服器市場表樂觀， Ockman指出，企業若
+以Linux 及開放原始碼作為網路及基本架構的解決方案，將來幾乎不
+用作任何汰換，並且，因為開放原始碼社群的特性所致，全世界有許
+多程式設計師致力於修正臭蟲，Linux 在安全上的漏洞可以最快的速
+度被找出、除去。
+
+「Linux 對產業的影響，是透過它最擅長的部分：網路服務，而非以
+大量行銷廣告來企圖取代所有的作業系統。」 Ockman針對Linux的優
+勢提出這樣的闡釋，並表示，未來Linux 伺服器市場，將經由銷售客
+製化的網路伺服器、及線上安全機制而獲利。
+
+相關網址：
+1、以Windows 2000系列作為網頁伺服器還是不夠安全？
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-07-001-06-SC-MR-MS 
+2、Penguin Computing執行長Sam Ockman表示：Linux將會是伺服器市場最大贏家
+   http://www.firstlinux.net/article.php3?sid=1044
+3、NetWorld+Interop 2000官方網站
+   http://www.interop.fr/
+
+──────────────────────────────
+■ Sendmail整合IBM eServer系列，提供高備援郵件系統
+
+張書銘/編譯
+2000/11/08
+
+在這個網路已經發展到逐漸成為日常用品的時代，透過網路來得到訊
+息也變成現代人交換資訊最重要的方式。網路傳訊業的龍頭Sendmail
+公司宣佈，將整合IBM的eServer系列產品，提供高品質、高備援的郵
+件系統。
+
+------
+
+在眾多的網路訊息交換方式當中，最普遍的就是電子郵件。根據 IDC
+的評估顯示，到西元2005年時，平均每天將會有三十五億封的電子郵
+件透過網路傳遞。這顯示出電子郵件將成為生活的必要工具，因此提
+昇服務品質勢必成為最重要的課題。
+
+面對電子郵件即將成為最大資訊媒介的趨勢，Sendmail公司宣佈將整
+合IBM的eServer系列產品，開發新的郵件系統解決方案。根據 IBM公
+司與 Sendmail的合約，Sendmail 將配合 eServer來推出 Switch2.1
+Rounting及Sendmail Advanced Message Server hosting solutions
+，分別針對各種階層面對大量郵件時可能的問題進行處理。
+
+Sendmail針對高階使用者，如大型ISP業者，將配合eServer zSeries
+，強調低消費及可靠的處理能力，以面對大量傳輸也能確保穩定傳送
+品質為訴求；而對中階使用層，則配合使用AIX 5L的 pSeries，提供
+高備援能力，以建立良好的訊息傳送以及接收環境；至於小型的服務
+供應商與中小企業則以使用WIN 2000或Linux的xSeries為主，以提供
+它們快速建立區域網路的郵件系統為目的。
+
+不過目前 Sendmail與IBM雖然已經擬定好各種方案，但是也決定採取
+蓮花公司 Domino message server軟體與Switch2.1 Rounting共存的
+方式，以擴大它們的市場空間。
+
+相關網址：
+1、Sendmail宣佈將與IBM合作提供網路訊息傳遞解決方案
+   http://eltoday.com/article.php3?ltsn=2000-11-07-001-13-PS   
+2、IBM與Sendmail
+   http://www.sendmail.com/news/pr/ibm/#platform
+
+──────────────────────────────
+■ 順應潮流，IBM致力發展Linux Appliance伺服器
+
+葉志博/編譯
+2000/11/08
+
+有鑑於越來越多企業傾向採用Linux相關產品，市場漸趨成熟，IBM遂
+融合Linux技術發展appliance伺服器，協助客戶以更輕鬆、更有效益
+的模式，來發展其電子商務事業，並有更多主要伺服器供應商投入這
+個行列。
+
+------
+
+IBM推出以Linux為架構的WebSphere電子商務組合4.1版，協助企業採
+購及銷售產品、建構商品目錄，及執行顧客忠誠度管理計畫。主要訴
+求在於協助企業以Linux伺服器，發展B2b或B2C 事業，且同時享有易
+於建構、易於管理、高效益及低成本四項特性。目前WebSphere 僅提
+供並支援Red Hat，往後將包含Caldera、SuSE及Turbolinux等四家主
+要Linux供應商。
+
+這個訊息只是IBM將Linux融入其產品及服務的初步行動，為網路服務
+供應商、應用軟體服務供應商及電子通訊等市場的客戶，提供更多經
+濟又有效益的選擇。由於Linux 程式碼具有可任意傳遞及修改的兩大
+特性，促使Linux贏得眾多設計師的支持及採用。根據IDC的研究報告
+，過去的一年中，有四成的新伺服器作業系統為Linux 架構，預料往
+後四年Linux將成為成長最快速的程式語言。
+
+當然，不只IBM 意識到這個趨勢，甲骨文（Oracle）也將Linux 引入
+電子商務軟體的領域。甲骨文將其應用軟體伺服器移植成Linux 架構
+，讓客戶建構其電子商務網站處理網路交易，並監控瀏覽器及後方資
+料庫間的工作流量。
+
+IBM 另一項以Linux 架構的產品xSeries 135 伺服器，不但易於使用
+且穩定性高，使客戶能夠釋放原本被牽制的資源，並轉入其他投資。
+此外，對於第一次採用xSeries 135伺服器的企業，即使缺乏Linux技
+術人員，也能夠完成建構的動作。IBM 並表示在2001年後，會有更多
+的電子商務軟體如：WebSphereSuite Pro及eMarketplace，在 Linux
+ 架構上執行。
+
+相關網址：
+1、Linux Appliance伺服器大行其道
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-07-007-06-NW-BZ-HW
+2、IBM伸展觸鬚至電子商務伺服器
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-07-012-04-PS-BZ
+
+──────────────────────────────
+■ 網基與TurboLinux結盟，共推中高階企業網路解決方案
+
+涂敏怡/報導
+2000/11/10
+
+Linux 領導廠商美商拓林思﹙TurboLinux﹚今日在台灣發表最新的企
+業級叢集系統解決方案TurboLinux Cluster Server 6 ，同時宣佈網
+基科技等數家廠商為其企業級策略夥伴。網基科技表示，未來將整合
+TurboLinux產品及技術支援，共同運用於企業網路應用解決方案。
+
+------
+
+全球成長最快速的Linux 廠商美商拓林思﹙TurboLinux﹚，今日在台
+灣發表最新的企業級叢集系統解決方案TurboLinux Cluster Server6
+，同時宣佈網基科技等數家廠商為其企業級策略夥伴。
+
+TurboLinux亞太地總裁兼總經理Ashok Pandey表示：「這是本公司在
+亞太地區的重要一步，與亞太地區主要硬體、軟體與解決方案廠商的
+合作，將為客戶提供物超所值的Linux解決方案。」
+
+網基科技執行長周文楷認為，基於網路產業分工的共同理念，網基科
+技與TurboLinux都在尋求軟、硬體的策略聯盟夥伴，在此次策略聯盟
+中，「網基科技將扮演系統整合與解決方案提供者，將TurboLinux的
+數項產品推廣到企業網路應用市場。未來我們將與TurboLinux保持密
+切合作，共同以網路技術產品與中高階企業解決方案滿足客戶需求。
+」周文楷說。
+
+目前TurboLinux在台灣的合作夥伴包括IBM 、戴爾、美商甲骨文台灣
+分公司，以及網基科技、零壹科技、華電聯網、敦陽科技在內的數家
+本地業者。網基科技將整合TurboLinux Cluster Server及 Enfuzion
+於其解決方案中，並以此提供對內容網站、入口網站、娛樂網站等，
+與電子商務客戶的最佳支援。
+
+TurboLinux Cluster Server是第一套負載平衡與高可用性的Linux產
+品，曾被Linux Journal雜誌推舉為最佳網路解決方案，也是IT 2000
+Sydney Conference 中企業級的最佳產品；而Enfuzion可運用於大型
+網站，藉著「平行運算」﹙parametric execution﹚功能，能將企業
+現有的網路架構直接轉換成高速的超級電腦。 
+
+TurboLinux自1992 年成立至今，已成為Linux的主要國際知名品牌，
+也是成長最快速的Linux 公司。根據IDC的資料指出，該公司98~99年
+之間的成長率達500%。TurboLinux也是亞太地區的領導廠商，近來在
+亞太地區的動作更加積極，於1999年三月推出第一套中文化的 Linux
+作業系統版本，並在今年九月來台成立分公司。
+
+相關網址：
+1、美商拓林思台灣分公司
+   http://www.turbolinux.com/taiwan
+2、網基科技
+   http://www.cyberworksolution.com
+
+──────────────────────────────
+■ BlueCat Linux新增多媒體功能
+
+蕭喜那/編譯
+2000/11/09
+
+LynuxWorks公司的BlueCat Linux即將增加多媒體功能了，來自Metro
+Link的Metro-Media 就是這項利器，它所具備的多媒體功能，將使得
+BlueCat  Linux的使用者可以開發內建MPEG視訊的裝置，對於嵌入式
+應用軟體而言，將帶來影音新世界。
+
+------
+
+LynuxWorks和 Metro Link 兩家公司近日宣布合作案，Metro Link的
+X視窗系統Metro-Media將正式在LynuxWorks的BlueCat  Linux上運作
+，此舉將給嵌入式應用軟體增加多媒體功能。
+
+LunuxWorks是開放原始碼和即時嵌入式解決方案的供應商，而 Metro 
+Link則擅長圖形顯示科技解決方案，提供嵌入式、Linux和 Unix等作
+業系統所用。
+
+Metro-Media和BlueCat Linux的結合，使得開發人員可以將MPEG視訊
+嵌入他們的目標裝置中。 Metro-Media的特點包括影像記錄和顯示、
+音訊記錄和播放、硬體加速MPEG 1和MPEG 2支援、全面運轉視訊記錄
+和播放、以及具有即時支援的全面運轉視訊記錄和播放等。
+
+同時， Metro Link也將旗下的緊急任務X伺服器、Metro-X和其他X視
+窗系統產品等，接到BlueCat Linux上。
+
+最新版本的Blue Cat的以一個通用的程式碼庫為基礎，在所有嵌入式
+CPU家族中，這個程式碼庫具有一致性與耐測的性能和功能。BlueCat
+Linux 3.0提供通用Linux  AIPs、開發工具、開機選項、跨不同處理
+器間的功能與耐測性能和穩定性。
+
+相關網址：
+1、BlueCat Linux新增多媒體功能
+   http://www.metrolink.com/press/11-07-00.html
+2、關於Metro-Media
+　 http://www.metrolink.com/productindex.html
+
+──────────────────────────────
+■ Linux Journal雜誌推出國際中文版
+
+洪文華/報導
+2000/11/10
+
+美國SSC公司發行的Linux Journal雜誌授權國內出版業者─天充文化
+，推出〈凌客誌Linux  Journal〉國際中文版，於2000年11月正式推
+出創刊號。美國Linux Journal發行至今己屆六年多，以Linux的相關
+產業報導見長。
+
+------
+
+天充文化事業機構自去年推出Linuxer國際中文版，獲得國內Linux愛
+好者的支持。經過近一年的爭取，再度取得美國 SSC﹙ Specialized
+Systems Consultants,Inc. ﹚公司所發行的Linux Journal授權，推
+出〈凌客誌Linux Journal〉國際中文版。Linux社群在網路上討論此
+消息，表達出樂觀其成的態度，還有網友表示，如果能做到和國際版
+同步發行更好。
+
+鑑於Linuxer國際中文版的定位為Linux學習情報誌，讀者群為中初階
+之Linux愛好者，無法完全滿足Linux社群以及產業面持續擴大之需求
+，因此天充文化推出《Linux  Journal》國際中文版，提供讀者與企
+業更多的選擇。
+
+天充文化成立於 1993年3月，自92年起陸續發行了多本雜誌，包括：
+〈新視界NEW ViSiON〉雜誌、〈麥客情報Macworld Chinese〉雜誌、
+〈.net網路生活〉雜誌、〈數位視界Digi Vision〉雜誌 、〈零客情
+報Linuxer〉雜誌、〈新玩意兒T3〉雜誌，及〈凌客誌Linux Journal
+Chinese 〉雜誌等，天充文化計畫於明年年底前開發分眾雜誌商品達
+十種以上。
+
+相關網址：
+1、凌客誌Linux Journal Chinese 
+   http://www.tsmedia.com/home/newmag_lj.html
+2、Linux Journal國際中文版「凌客誌」11月創刊上市
+   http://linuxfab.cx/indexNewsData.php?NEWSID=2978 
+
+──────────────────────────────
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope 開放視界】電子報。若您想取消訂閱，請來信：
+openscope@cyberworksolution.com，信件主旨：unsubscribe。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
+
+

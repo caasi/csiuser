@@ -1,0 +1,371 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０１.１７
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ 首套大型主機XML資料庫  支援SuSE Linux
+
+■ 最新版LinuxPPC出爐！  成功跨足Mac領域
+
+■ IBM拉近AIX、Linux距離  進一步靠攏Linux陣營
+
+■ Turbolinux+Linuxcare  共商合併大議
+
+■ 中國第一個64位元Linux實驗室成立  推動亞洲64位元Linux發展
+
+■ O'Reilly將於七月舉行  Open Source+Perl會議
+
+
+═《編者的話》═══════════════════════
+
+第一套支援大型主機的 XML 資料庫誕生！Tamino XML 資料庫將支援
+S/390大型主機上的SuSE Linux作業系統。 
+
+Tamino XML 資料庫將支援 IBM 超大型主機 S/390大型主機上的SuSE
+ Linux作業系統，這是第一套支援大型主機的 XML 資料庫。這意味
+著Software AG的Tamino XML 資料庫已把超大型主機列入支援的對象
+，它的用戶將可為其既存的超大型系統應用程式，開發以XML 為主的
+介面，並據此向全球的電子商務進軍。 S/390 與 Linux 的組合，以
+及Software AG與SuSE Linux AG的組合能為客戶帶來什麼好處呢？請
+看我們的報導。 
+
+最新版LinuxPPC成功跨足Mac！最新版的LinuxPPC 作業系統已經可以
+成功地在蘋果Powerbook G4 Titanium 電腦上執行，包括了雙處理器
+的G4、Cube G4以及Firewire Powerbook G4。此外，IBM 將推出專供
+Linux應用軟體使用的AIX工具套件，透過該套件，應用軟體開發者可
+建立、包裝Linux應用軟體，以便在IBM的UNIX系統─AIX 上執行使用
+。IBM 整合UNIX/Linux的作業系統策略，除了藉AIX 提供用戶更自由
+地選用所需應用軟體，更可視為藍色巨人進一步靠攏Linux 陣營的象
+徵。最後，你想知道Turbolinux與Linuxcare 會不會合併嗎？還有許
+多精采的報導，OpenScope提供您最有品質的資訊新聞！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+
+═《本期新聞》═══════════════════════
+
+■ 首套大型主機XML資料庫  支援SuSE Linux
+
+馮文龍/編譯
+2001/01/16
+
+Tamino XML 資料庫現支援 S/390 大型主機﹙mainframe﹚上的 SuSE 
+Linux 作業系統。這是第一套支援大型主機的 XML資料庫，採用的是
+IBM S/390上的SuSE企業伺服器。
+
+
+------
+
+這套作業系統是 IBM為S/390超大型主機向SuSE訂製的Linux作業系統
+。這意味著Software AG的 Tamino XML資料庫已把超大型主機列入了
+支援的對象。它的用戶將可為自己既存的超大型系統應用程式，開發
+XML為主的介面，並藉此向全球的電子商務進軍。
+
+客戶選擇S/390與Linux的組合，即表示客戶選擇了具備高可用度與高
+可擴充性的平台。Software AG與 SuSE Linux AG 的組合則是整合了
+Tamino的效能以及Linux的穩定性。
+
+Tamino XML資料庫則是Software AG的核心XML資料庫平台，也是第一
+套可供以XML開發、運算處理以及儲存文件的完整的XML架構平台。它
+的定位已不只是在一個新的資料庫及 XML引擎，它同時還能存取既存
+的資料庫內容。而這些技術都是應用開放的標準介面，例如TCP/IP、
+HTTP以及XML等。
+
+目前採用Tamino的成功案例包括了Genius Software GmbH & Co. KG
+在電子加值鏈﹙Electronic Value-Added Chain﹚上的應用、Magis
+應用在化工業的電子資料交換以及瑞典的St Gallen大學應用在AIDS
+醫學資料的分析上。
+
+Software AG與SuSE Linux的策略夥伴關係，已成功地建立在資料庫
+的開發、支援及銷售上，並已行之有年。而經由SuSE與IBM的密切合
+作，Software AG也正將目標朝向將其服務及產品提供對開放原始碼
+更廣泛的支援。
+
+相關網址：
+1、Tamino XML資料庫支援IBM S/390上的SuSE Linux作業系統
+   http://sourcewire.com/General/Frames.php?page=Releases/ShowRelease.php?id=10
+2、關於Tamino
+   http://www.softwareag.co.uk/products/
+
+──────────────────────────────
+■ 最新版LinuxPPC出爐！  成功跨足Mac領域
+
+馮文龍/編譯
+2001/01/15
+
+舊金山Macworld Expo 消息來源指出，最新版的LinuxPPC作業系統已
+經可以成功地在蘋果Powerbook G4 Titanium 電腦上執行，包括了雙
+處理器的G4、Cube G4以及Firewire Powerbook G4。
+
+------
+
+LinuxPPC 2000 Q4 是最新版的LinuxPPC作業系統，包括系統核心、X
+Windows以及LinuxPPC 安裝程式均已成功地在PowerBook G4 上從CD-
+ROM啟動。從邏輯電路板的層次上看，PowerBook G4非常類似於Power
+Mac G4 Cube。
+
+最新版的LinuxPPC作業系統已經可以成功地在蘋果電腦Powerbook G4
+Titanium電腦上執行，包括了雙處理器的G4、Cube G4以及 Firewire
+ Powerbook G4。不但如此，舊型Mac如Power Mac 8500以及WorkGrou
+p Server 7250也可以執行 PowerPPC作業系統，但舊作業系統則不支
+援新的機種。
+
+LinuxPPC公司位於美國的威斯康辛州，從公司的名稱看就知道它就是
+LinuxPPC作業系統的開發者與發行人。這家公司最近的一次LinuxPPC
+安全挑戰擂台中，給了微軟 Windows 2000 系統一個重擊，一台執行
+LinuxPPC的Power Mac 9500以較佳的結果擊敗在 500MHz PIII上執行
+Windows 2000的系統。
+
+在舊金山的這次MacWorld Expo 中，LinuxPPC 總計發出了1,000套的
+LinuxPPC 2000 Q4安裝CD-ROM。這次的活動已在本月12日結束，總計
+三天的時間。MacWorld Expo是由IDG集團所策劃，蘋果總裁Steve Jo
+bs並在開幕儀式中為本次的大會致詞，揭開所有活動的序幕。
+
+相關網址：
+1、LinuxPPC 2000 Q4成功於蘋果電腦上執行
+   http://www.linuxppc.com/press/index.php3?archive=pbg4titanium
+2、關於LinuxPPC公司
+   http://www.linuxppc.com/company/
+
+──────────────────────────────
+■ IBM拉近AIX、Linux距離  進一步靠攏Linux陣營
+
+謝良奇/編譯
+2001/01/15
+
+IBM將推出專供Linux應用軟體使用的AIX 工具套件，透過該套件，應
+用軟體開發者可建立、包裝Linux應用軟體，以便在IBM的UNIX系統─
+AIX上執行使用。IBM 整合UNIX/Linux的作業系統策略，除藉此讓AIX
+得以提供 Linux的特有彈性，帶給用戶更多自由，更可視為藍色巨人
+進一步靠攏Linux陣營的象徵。
+
+------
+
+IBM將以推出供Linux應用軟體使用的AIX工具套件，作為靠攏Linux的
+最新策略。IBM日前宣佈將於15日推出的AIX工具套件，內含多套開放
+原始碼軟體，可供應用軟體開發者為執行AIX的IBM eServer系統，包
+裝、建立Linux應用程式。
+
+該AIX工具套件提供給Linux應用軟體開發者，包含AIX 4.3.3及AIX5L
+設計的一系列開放原始碼及 GNU軟體，作為發展環境基礎，套件內含
+重新編譯的Gnome、KDE桌面環境，此外像是Emacs、Samba等軟體，以
+及一些常見開發工具如gcc、g++等亦一應具全。
+
+IBM 的用意在於整合Linux的彈性與AIX的先進延展性及其它特色，如
+工作負載管理、系統管理工具、叢集軟體、32及64位元應用程式界面
+等。IBM 的UNIX市場、產品管理副總裁Tilak Agerwala表示，該產品
+將維持開放原始碼，在開發電子商業解決方案時，可提供用戶更多彈
+性。
+
+為回應用戶對於同時具有充份自由及投資保障的平台需求，IBM 希望
+藉由AIX 5L免除用戶對於封閉解決方案的憂慮。Agerwala指出，透過
+AIX 5L，用戶將能更自由地選用所需應用軟體。
+
+資深分析師Claybrook認為，IBM 的策略將有助鞏固AIX作為開放、具
+產業實力的UNIX作業系統，IBM 整合Linux/UNIX的作業系統策略，加
+上囊括簡單到複雜的作業支援，可讓用戶配合自身需求作出選擇。
+
+持續去年與TurboLinux、紅帽等主要Linux廠商的合作，IBM此舉可視
+為企圖靠攏Linux陣營的象徵。日前IBM更進一步擴大與TurboLinux的
+合作。依照協議，包括DB2通用資料庫、WebSphere電子商務應用伺服
+器、Lotus Domino 協同軟體在內的多項IBM解決方案，未來將包含在
+TurboLinux的Linux版本中，由TurboLinux、IBM共同推出、銷售。
+
+相關網址：
+1、藍色巨人讓AIX、Linux更形親密
+   http://linuxtoday.com/news_story.php3?ltsn=2001-01-12-005-21-NW-EL-HE
+2、Turbolinux與藍色巨人擴展合作關係
+   http://www.internetnews.com/bus-news/article/0,,3_556421,00.html
+
+──────────────────────────────
+■ Turbolinux+Linuxcare  共商合併大議
+
+沈美君/編譯
+2001/01/16
+
+在一片不景氣聲中，Turbolinux和Linuxcare兩家Linux公司正在商議
+合併計畫案，結合turbolinux的產品線與Linuxcare的支援服務，希
+望在彼此有專長服務領域的合作下，創造雙贏的局面。
+
+------
+
+輸在Linux發展起跑點上的Turbolinux和Linuxcare兩家公司，這一個
+月來正在討論合併計畫，一位來自Linuxcare的發言人於1月13日證實
+了這個消息，並表示，合約尚未簽訂，不過將在未來的兩個星期內發
+佈官方消息。
+
+Turbolinux公司有自己的 Linux套件產品，主要針對企業用戶在資料
+庫等高階軟體需求上，最近與 IBM簽約，在Turbolinux Linux套件中
+，包含叢集技術軟體﹙ clustering tools ﹚，主要在亞洲推廣；而
+Linuxcare公司的核心服務，是對市面上所有的Linux套件提供技術支
+援服務，例如Turbolinux、紅帽、SuSE和Caldera等，也包括範圍相
+當廣的硬體平台服務。
+
+不過，這兩家公司在1999年底，當投資者對開放原始碼的狂熱正處於
+高峰時，沒有抓住機會拓展版圖，反而輸給紅帽、VA Linux Systems
+、Caldera Systems這幾家公司。Turbolinux與Linuxcare於是計畫合
+併，結合Turbolinux的產品線與 Linuxcare的支援服務，希望在彼此
+有專長服務領域的合作下，創造雙贏的局面。
+
+但有分析師指出，這樣的併購案能否成功，還是個疑問。Giga Infor
+mation Group分析師Stacey Quandt 指出，這兩家公司在個別領域都
+沒有獨特的表現，這樣的結合並不能成為一個更具有優勢的競爭者，
+「很難看得出兩家公司合併以後有什麼樣的真正價值，Turbolinux在
+其他的 Linux套件上，並沒有真正的技術專家， 也看不出來OEM廠商
+積極支持他們的叢集技術產品。」
+
+在人事的異動方面，Linuxcare的發言人表示，「任何合併計畫，都
+有可能裁員。」Turbolinux和Linuxcare的併購案是否能為兩家公司
+帶來新生的機會，我們拭目以待。
+
+相關網址：
+1、Turbolinux和Linuxcare將要合併了嗎？
+   http://www.zdnet.com/enterprise/stories/linux/0,12249,2674107,00.html
+2、Turbolinux與Linuxcare共商合併大議
+   http://www.vnunet.com/News/1116314
+
+──────────────────────────────
+■ 中國第一個64位元Linux實驗室成立  推動亞洲64位元Linux發展
+
+謝良奇/編譯
+2001/01/16
+
+為進一步在亞洲地區推廣64位元Linux系統，Donovan Systems 先後
+於馬來西亞、中國大學成立64位元的Linux實驗室，以鼓勵學生投入6
+4位元Linux應用軟體的開發。
+
+------
+
+鑑於64位元計算架構與Linux結合的未來發展，Donovan Systems日前
+於中國的北京技術及商業大學﹙BTBU﹚設立中國第一個64位元 Linux
+實驗室，教授64位元Linux課程，並鼓勵學生開發64位元Linux應用軟
+體。
+
+Donovan Systems為亞洲第一家Linux伺服器製造商，專門設計、製造
+64位元Linux伺服器，此外更發展世界第一套64位元中文Linux系統─
+Chinese Penguin64。事實上，為了在亞洲推動64位元Linux成為新一
+代計算標準，Donovan早在去年11月就與馬來西亞的 Sunway學院合作
+，設置馬來西亞第一個64位元Linux計算實驗室Penguin64 Lab。
+
+Donovan在馬來西亞及中國先後成立兩個64位元Linux相關實驗室，教
+授64位元Linux課程，鼓勵64位元Linux應用軟體開發，皆為該公司在
+亞洲設立Linux資源實驗室，以推動亞洲64位元Linux發展的策略之一
+。除了對實驗室提供Linux伺服器、相關專門技術外，Donovan更提供
+獎學金，促進64位元Linux的應用軟體發展。
+
+Donovan此次與北京技術及商業大學合作設置的64位元Linux資源實驗
+室，將特別著重在由Donovan發展的全球第一套64位元中文Linux系統
+，名為Chinese Penguin64。
+
+Donovan執行長Gary Foong表示，開放原始碼的Linux，結合64位元處
+理提供的計算能力、卓越的記憶體定址，能帶給中國莫大的優勢。北
+京技術及商業大學的學生將可獲得最先進的技術知識。當中國的學術
+體系、企業因Linux的低成本、穩固性等特點，逐漸接受Linux時，學
+生將發現學習64位元Linux技術的價值。
+
+該實驗室配有20台Donovan的64位元Linux伺服器，其中包括18台內有
+300MHz UltraSPARC-IIi 處理器的Endeavor伺服器，是處理高網路流
+量的理想網路伺服器。除此之外，另有兩台 Impresa伺服器。以上伺
+服器皆已預先安裝Chinese Penguin64作業系統及紅帽Linux。
+
+相關網址：
+1、Donovan Systems於中國大學成立64位元Linux資源實驗室
+   http://linuxpr.com/releases/3158.html
+2、Donovan Systems、Sunway學院宣佈成立馬來西亞第一個64位元Linux計算實驗室
+   http://www.donovan.com/n20.html
+
+──────────────────────────────
+■ O'Reilly將於七月舉行  Open Source+Perl會議
+
+沈美君/編譯
+2001/01/15
+
+由O'Reilly & Associates 主辦的第三屆開放原始碼大會、以及第五
+屆Perl資訊大會，將於2001年的7月23日至28 日在加州聖地牙哥舉行
+，屆時歡迎各界相關領域的人員，針對主題提出演講計畫，或參與大
+會的議程。
+
+------
+
+O'Reilly & Associates 於1月12日宣布，將於7月23日至28日，在加
+州聖地牙哥﹙San Diego, California﹚舉行第三屆的「Open Source
+ Convention 」﹙開放原始碼資訊大會﹚，同時舉行第五屆的「 Per
+l Conference」﹙Perl資訊大會﹚。
+
+兩個大會為期分別為五天，由O'Reilly &Associates主辦。O'Reilly
+& Associates對提供許多電腦技術的前線資訊不遺餘力，技術人員大
+部分都對O'Reilly技術出版品不陌生﹙以動物為封皮﹚。舉辦資訊大
+會的目的，是為了將具有革命性的新技術、創新概念，來創造新的產
+業機會，討論的範圍從網路、Linux 、開放原始碼，到最近成為熱門
+話題的P-to-P，都涵蓋在內。
+
+O'Reilly & Associates向各界菁英提出邀請函，希望在Open Source
+及Perl程式語言領域有所專長的人員，可根據O'Reilly &Associates
+所列出的建議主題，為兩個資訊大會貢獻研究心得或實務經驗，提出
+演講計畫的最後期限為2月1日，被採用的演講計畫將於3月1日公布。
+
+不論是開放原始碼或Perl資訊大會，參與對象都是針對相關領域的程
+式設計師、發展者、技術人員而設計，五天的議程中，前兩天都是為
+初階或有經驗的使用者，提供基礎的知識介紹，後三天的議程，焦點
+放在交叉議程的座談會上，針對各種不同的新技術和問題提出討論。
+
+相關網址：
+1、O'Reilly&Associates將舉行「Open Source及Perl Conference」
+   http://linuxpr.com/releases/3151.html
+2、O'Reilly第五屆Perl Conference
+   http://conferences.oreilly.com/perl5/
+3、O'Reilly第三屆Open Source Software Convention
+   http://conferences.oreilly.com/oscon2001/call.html
+4、Open Source大會的演講建議議題
+   http://conferences.oreilly.com/oscon2001/call.html
+5、Perl大會的演講建議議題
+   http://conferences.oreilly.com/perl5/
+
+──────────────────────────────
+
+＊編輯手記
+
+剛剛跨完一個快樂的新年，對學生們來說，接下來的日子可不好過，
+因為令人害怕的期末考一科一科接踵而來，對Sharon來說，一月總是
+又漫長又痛苦，為了搶救學分大作戰，我向Open Scope小組告假一星
+期，所以害得Kelly和 Tumi也像在考期末考一樣忙碌。不只如此，對
+網基來說，為了讓許多工作能在春節前完成，整個公司的人都像在考
+期末考，雖然很累，但是一想到接下來能夠休息一個星期之久，再辛
+苦大家也拼了！每個人在春節都有不同的計劃，有人要出國，有人要
+返鄉團圓，更有人希望能睡到深處無怨尤，將去年一年沒法睡的都補
+回來。不知道你們的春節計劃是什麼呢？在這邊Open Scope先祝大家
+新年快樂、恭喜發財喲！願大家在寒冬中有一個溫暖的春節假期。﹙
+Sharon Lin﹚
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

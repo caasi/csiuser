@@ -1,0 +1,459 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１２.２２
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ HP與Sprint PCS合組無線Openmail策略聯盟
+
+■ Sendmail併購Nascent 整合無線通訊與E-Mail服務
+
+■ Simplewire採用Jabber無線簡訊平台
+
+■ Eazel的Nautilus軟體獲昇陽solaris採用
+
+■ Dell聯合Eazel 提供Linux使用者更好的應用程式
+
+■ 開放原始碼的OpenNMS 解放系統管理軟體
+
+■ 開放原始碼資料庫來勢洶洶
+
+■ OpenBSD、NetBSD上ftpd的蟲蟲危機
+
+
+═《編者的話》═══════════════════════
+
+隨著惠普的Openmail納入PCS的企業專用無線Web﹙Wireless Web for
+Business﹚計劃中，是否代表著無線通訊的開放原始碼軟體大戰即將
+開打？ 
+
+使用惠普的Openmail  Anywhere解決方案，員工可以在任何時間、地
+點，以無線方式存取公司的電子郵件、查詢人名及管理資訊等，而且
+Openmail支援開放原始碼的Linux，可以替代微軟的Outlook Express
+；Sendmail公司眼見Openmail逐漸坐大也不甘示弱，收購了以無線通
+訊見長的 Nascent科技，並致力於開發支援多種協定的郵件管理伺服
+器。另外一家提供無線簡訊服務的公司Simplewire公司則是與Jabber
+公司合作，建立一套整合無線網路及行動通信設備於單一介面的無線
+訊息平台，看來無線訊息軟體應用市場，將是明年眾廠商兵家必爭之
+地。 Eazel公司最近動作頻頻，先是宣佈和昇陽合作，昇陽的Solari
+s作業系統的GNOME2.0桌面環境，將使用Eazel的主力產品Nautilus 
+；而入股Eazel的戴爾電腦，也在宣佈未來的營運方向時，提出將與E
+azel共同開發Linux 上的應用程式，以提昇市場競爭力。在與業界兩
+大巨人合作下，由蘋果電腦員工組成的Eazel，未來應有不錯的發揮
+空間。 
+
+此外，本期 OpenScope新聞為您介紹開放原始碼的系統管理解決方案
+OpenNMS ；開放原始碼資料庫軟體由於功能、效率上的演進，目前已
+逐漸受企業用戶重視，以及OpenBSD、 NetBSD因ftpd程式緩衝區溢位
+的問題所遇到的蟲蟲危機。耶誕節將至，歡迎各位在歡度佳節之餘，
+也不忘收看 OpenScope開放視界電子報，並給我們誠摯的建議與指教
+，這對小編們將是最好的耶誕禮物！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+
+═《本期新聞》═══════════════════════
+
+■ HP與Sprint PCS合組無線Openmail策略聯盟
+
+蕭喜那/編譯
+2000/12/21
+
+惠普的Openmail Anywhere解決方案，加上Sprint PCS的企業無線Web
+，這二者的策略聯盟，將給企業帶來隨時隨地、無線上網的便利。使
+用Sprint PCS的網路電話，透過Sprint PCS的全CDMA、全數位的全國
+性網路，就可以達成Openmail Anywhere的目標了！此外， Openmail
+可以支援Linux，如果公司內部已經建置Openmail，可選擇建置Linux
+作為伺服器平台，取代微軟Outlook所需的NT4或Win2k伺服器。
+
+------
+
+惠普與Sprint  PCS宣布結成策略聯盟，將惠普的Openmail Anywhere
+解決方案納入Sprint  PCS的企業專用無線 Web  Wireless Web  for
+Business﹚計劃中。使用Sprint PCS的網路電話，透過Sprint PCS的
+全CDMA、全數位的全國性網路，就可達成Openmail  Anywhere的目標
+了。此外，只要多一個人使用支援Linux的Openmail，非微軟Outlook
+，Linux就會多增加另一個企業利基點。
+
+Openmail可以支援Linux，即公司內部已經建置Openmail 的，可選擇
+建置Linux作為伺服器平台，取代微軟Outlook所需的NT4或Win2k伺服
+器。對於那些公司內部已經建置惠普的Openmail  Anywhere的員工而
+言，他們可以在任何時間、任何地點，利用這項組合以無線的方式存
+取公司的電子郵件、在他們的目錄中查詢人名、以及管理公司的資訊
+等，這項無線裝置即是Sprint PCS的網路電話，並且透過Sprint PCS
+的全CDMA、全數位的全國性網路進行連線。
+
+Openmail Anywhere解決方案，採用惠普的Praesidium Virtualvault 
+Web伺服器平台，經由公司內部的防火牆，提供安全的遠端存取。 當
+Sprint PCS的企業顧客在存取他們公司的電子郵件時，將享有此項內
+建的安全措施所帶來的好處，他們可以使用Sprint PCS的網路電話，
+或是透過Sprint PCS無線web連接上網的膝上型電腦。
+
+惠普與Sprint PCS計畫提供無線資料解決方案給財星雜誌2000的企業
+客戶，同時，這兩家公司也計畫透過Openmail的轉售商與ASPs，將這
+項解決方案賣給中小企業。這項合作案將在接下來的幾個月內，開始
+行銷給重要的幾家大公司。
+
+在99年年初， Openmail是第一個可用於Linux的商業電子郵件程式，
+Openmail 6.0  Linux版在99年8月的第二屆LinuxWorld會議與博覽會
+中，贏得最佳展示大獎。
+
+相關網址：
+1、HP與Sprint PCS合作銷售無線Openmail給財星雜誌2000的公司，Linux可能獲利
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-20-002-06-PS-BZ-HE
+2、Openmail anywhere，可信任的網際網路電子郵件存取
+　 http://www.hp.com/security/solutions/openmail-anywhere/papers/brief/
+
+──────────────────────────────
+■ Sendmail併購Nascent 整合無線通訊與E-Mail服務
+
+張書銘/編譯
+2000/12/20
+
+當提供網路訊息服務﹙Internet Messaging﹚的Sendmail遇上了無線
+通訊業的行家Nascent科技，會產生怎樣的火花呢？Sendmail 於19日
+宣佈併購 Nascent科技，以加強它們在無線通訊產品上的傳訊服務能
+力。同時，這項併購案的背後也顯示了Sendmail即將把開放原始碼的
+風氣帶入無線通訊領域。
+
+------
+
+在傳統網路訊息服務上擁有一席之地的Sendmail將大力開展無線通訊
+的市場，Sendmail公司於19日併購了Nascent公司。Nascent科技過去
+開發了不少用於無線通訊設備收取電子郵件的軟體，因此在無線通訊
+設備傳訊服務上遇到許多強敵的Sendmail決定經由併購，以突破強敵
+環伺的局面。
+
+目前在無線通訊設備電子郵件收發方面已經有不少大廠開發屬於自己
+的軟體，包括惠普公司的 Openmail、昇陽公司的iPlanet等；同時也
+有不少企業選擇使用這兩套軟體。因此Sendmail受到相當大的競爭壓
+力，雖然目前使用無線設備收取電子郵件，受限於頻寬以及下游廠商
+的支援能力，還無法普及。但根據Ericsson公司評估，預計在2003年
+手機上網的比例將超越個人電腦。為了能在這個市場佔得一席之地。
+Sendmail選擇購入在這方面已有相當經驗的Nascent科技。
+
+根據Sendmail公司表示，目前開發的目標，是開發支援多種協定﹙包
+括POP與IMAP﹚與介面﹙WebMail、WAP及iMode﹚的郵件管理伺服器。
+以搶佔後端市場為優先，而在新版本的Sendmail中也會將 Nascent開
+發的Web收發電子郵件軟體加入Sendmail的核心中。
+
+值得注意的是，Sendmail公司雖然支持開放原始碼，但對自 Nascent
+科技公司取得的技術部分則尚未表示是否開放。Sendmail公司表示，
+儘管部分元件極具開放價值，但牽扯到Sendmail基礎架構的部分仍待
+評估。
+
+相關網址：
+1、開放原始碼的軟體公司進軍無線通訊業
+   http://news.cnet.com/news/0-1006-200-4219535.html
+2、Sendmail併購Nascent科技公司
+   http://www.businesswire.com/webbox/bw.121900/203540182.htm
+
+──────────────────────────────
+■ Simplewire採用Jabber無線簡訊平台
+
+馮文龍/編譯
+2000/12/20
+
+以發展無線簡訊平台為主的Jabber，繼之前與紅帽合作嵌入式 Linux
+系統的無線簡訊架構，在19日又與 Simplewire﹙ 提供簡訊服務的廠
+商﹚簽訂合作協議。
+
+------
+
+無線簡訊﹙Wireless Instant Messaging ﹚ 提供雙向呼叫器或行動
+電話上的短訊服務﹙SMS﹚。以提供無線簡訊服務的Simplewire ，一
+個月內已經是第二次與開放原始碼廠商合作。
+
+Simplewire的目標在建立一套整合無線網路及行動通信設備於單一介
+面的無線訊息平台。Simplewire的角色可能是扮演介於行動通信設備
+及網際網路之間或位於不同網路的無線通信設備間的閘道器。
+
+Simplewire服務的一個主要元件是無線設備的資訊表現能力，包括了
+開機狀態、地理座標或訊號強度，據此，訊息可以被藉由不同路由到
+不同的目的地，這項技術同時能允許訊息直接送往使用者的桌面或自
+動地轉送到無線通信設備上。
+
+Jabber.com的創始者Andre Durand表示「無線訊息、設備與設備間通
+信以及應用程式間的信息傳遞是我們跨入2001年看到最大的無線訊息
+應用市場。」而與Simplewire的合作正符合Jabber的無線通信策略。
+
+Jabber在今年9月與Linux的大廠紅帽簽訂合作協議，Jabber將其即時
+的信息平台架構於紅帽嵌入式Linux之上，這使得嵌入式Linux應用系
+統開發者更容易開發具備即時訊息與XML路由功能的應用程式。
+
+Jabber與Simplewire雙方的合作細節並未進一步透露，但雙方在市場
+上的合作以及相互的結合產品與服務以進軍企業用戶市場的方向是可
+以確認的。
+
+相關網址：
+1、Simplewire與Jabber.com簽訂無線簡訊服務合作協定
+   http://alllinuxdevices.com/news_story.php3?ltsn=2000-12-19-001-03-NW-WL
+2、Jabber與紅帽合作發展嵌入式Linux上的無線信息架構
+   http://alllinuxdevices.com/news_story.php3?ltsn=2000-09-26-008-03-PL-RH
+
+──────────────────────────────
+■ Eazel的Nautilus軟體獲昇陽solaris採用
+
+蕭喜那/編譯
+2000/12/19
+
+Linux軟體與服務開發業者Eazel，近日宣布與昇陽的合作案，昇陽將
+在solaris作業環境中的GNOME2.0桌面中，使用Eazel的Nautilus軟體
+。同時它們也會在全球推廣Eazel NUE﹙ Network User Environment
+﹚的應用。
+
+------
+
+Eazel是軟體與服務開發業者，該公司的主力產品為Nautilus ，近日
+Eazel宣布與昇陽合作，昇陽將在專供該公司Solaris作業環境所用的
+GNOME2.0桌面使用者環境中，使用 Eazel 的Nautilus軟體。GNOME和
+Nautilus的結合將提供Linux和Solaris使用者可以跨越這二個平台，
+而擁有相同的、易於使用的使用者環境。
+
+Eazel所開發的Nautilus軟體，可以讓Linux使用者管理他們的電腦檔
+案、檢視文件、瀏覽全球資訊網、以及使用Eazel 的線上服務。昇陽
+會在它自己的電腦上使用Nautilus，昇陽電腦的預設作業環境不是使
+用Linux，而是Solaris作業系統。
+
+昇陽與Eazel的合作方式是，它將協助Eazel的業務拓展。例如，它會
+促銷Eazel的軟體，讓昇陽的顧客可使用某些Eazel的服務，改善軟體
+的使用說明，讓非英語系的人們也可以使用Nautilus，並在Nautilus
+內部增加可以檢視StarOffice和微軟Office檔案的功能。
+
+此外，昇陽和Eazel將會加速採用 Eazel Network User Environment
+﹙NUE﹚， 它是一個具備完整網際網路優點的新層級的使用者環境。
+之前的使用者環境都只是針對單一的桌面和應用軟體所設計，但 NUE
+讓本地端和遠端的內容、社群、商業、和網際網路服務等，都成為使
+用者經驗的一部分。另外， NUE也創造出一個易用使用的新標準，可
+以讓使用者不用再執行複雜和煩瑣的系統管理工作，例如系統備份和
+軟體升級等。
+
+昇陽和 Eazel的合作目標在於促進一個更好的電腦環境的成長與應用
+，它們將致力於確保殘障人士也可以使用GNOME桌面，促進GNOME桌面
+環境的國際化和本地化，以及在全球各地推廣NUE，並創作支援GNOME
+環境的使用說明文件等。
+
+相關網址：
+1、Eazel宣布昇陽將在Solaris作業環境中採用Nautilus軟體
+   http://linuxpr.com/releases/3085.html
+2、Eazel的Linux軟體移往昇陽的Solaris
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-18-012-04-PS-GN
+
+──────────────────────────────
+■ Dell聯合Eazel 提供Linux使用者更好的應用程式
+
+張書銘/編譯
+2000/12/20
+
+知名的電腦製造商戴爾電腦公司入股程式供應商 Eazel公司後，正式
+提出新的經營方向。在1999年排名第四大 Linux伺服器供應商的戴爾
+公司，將與Eazel共同開發Linux平台上的應用程式，以提昇在 Linux
+伺服器市場上的競爭力。
+
+------
+
+甫推出最新圖形化界面系統的 Eazel公司將與伺服器供應商戴爾電腦
+共同進行新的程式開發工作。這項計劃整合 Eazel的新產品Nautilus
+﹙鸚鵡螺﹚檔案管理系統，為Linux 用戶提供更易於使用的環境。
+
+今年8 月間的LinuxWorld博覽會上，戴爾電腦執行長Michael Dell表
+態支持 Linux。由於網路發達，企業想要透過網路經營將成為趨勢。
+而 Linux的安全性以及Linux成本比微軟Windows低的特性，可以刺激
+更多用戶採用Linux伺服器。因此戴爾電腦公司便開始針對Linux進行
+多項開發案，包括與紅帽結盟；與Linuxcare、Open Sales 合作，一
+起配套銷售電子商務軟體等。
+
+而為了提昇在Linux伺服器上應用程式不足的問題，戴爾電腦與Eazel
+合作，開發專屬的程式以及服務項目，以提高市場競爭力。在合作案
+的規劃中，整合了 Eazel的鸚鵡螺檔案管理系統與和 Eazel的服務機
+制，鸚鵡螺可以提供檔案與數位多媒體存取、應用程式執行環境以及
+WEB 存取等服務，讓使用者能在同一介面下做更多樣化的工作。
+
+戴爾公司的產品將會隨機安裝 Linux作業系統與鸚鵡螺，但由於鸚鵡
+螺是屬於GNOME開發團隊的成果，因此使用KDE的使用者目前無緣嘗試
+這個環境。在售後服務的部分，合作案中提到戴爾公司產品的使用者
+也有機會使用 Eazel多項線上服務，包括線上最新軟體安裝以及線上
+硬碟的服務等。
+
+而在最近雜誌訪談中，Michael Dell指出雖然戴爾的桌上型個人電腦
+產品佔了年度利潤的三分之一，但未來將把焦點轉移到行動裝置、伺
+服器與售後服務上，而Linux會是搭配該公司新產品的最佳選擇。
+
+相關網址：
+1、戴爾帶來開放原始碼的應用程式
+   http://www2.itworld.com/cma/ett_article_frame/0,2848,1_3606,00.html
+2、Eazel與Dell合作 讓電腦更好用
+   http://eltoday.com/article.php3?ltsn=2000-12-04-001-01-PS
+
+──────────────────────────────
+■ 開放原始碼的OpenNMS 解放系統管理軟體
+
+謝良奇/編譯
+2000/12/21
+
+日前公開的OpenNMS，是開放原始碼專案OpenNMS組織為解決當前企業
+管理解決方案在技術上演進緩慢的問題，所推出的下一代企業管理軟
+體。強調低成本、用戶可按需要自行修改、更重要的是 OpenNMS的推
+出代表開放原始碼普及又更進一步。
+
+------
+
+開放原始碼的觸角已延伸至系統管理解決方案，日前公開的最新開放
+原始碼系統管理解決方案─ OpenNMS，讓封閉原始碼軟體廠商，如惠
+普、組合國際等，必須面對一個棘手問題，那就是：封閉原始碼軟體
+是否能追上開放原始碼技術演進的快速腳步。
+
+以開發下一代企業管理軟體為主的開放原始碼專案OpenNMS.org，於6
+日公開OpenNMS解決方案的0.4.0暫定版本，此為一套功能性網路管理
+產品，採開放原始碼自由下載。OpenNMS 的目的在解決當前傳統封閉
+軟體在技術演進遭遇的挑戰，希望透過開放原始碼獨特的測試、系統
+功能加強迅速等，給予用戶最進步的技術。
+
+在一份與searchEnterpriseLinux的對談中，OpenNMS.org共同發起人
+Steve Giles 認為，演進速度乃是商業解決方案的最大問題，如Open
+View、Tivoli幾乎花6年時間才達到分散式功能，而OpenNMS 1.0版自
+開始設計，到如今不過一年。他補充說，商業軟體的緩慢演進，使得
+企業IT人員無法追趕外界技術的快速變化。這是傳統封閉軟體的嚴重
+缺陷，在此方面開放原始碼軟體具有絕對優勢。
+
+至於OpenNMS與商業產品的功能比較， Steve Giles舉例表明OpenNMS
+功能上不僅不遜於 Open View、Tivoli等產品，在系統及管理兩方面
+的整合上更有過於這些商業軟體。其次，與 Caldera Systems仍在測
+試階段的新管理產品相比，雖然兩者皆為開放原始碼，但著眼的領域
+不同，Caldera Systems 的軟體是用以管理Linux網路，OpenNMS則除
+了管理Cisco路由器外，更可管理IBM大型主機。
+
+對於過去只接觸過封閉管理工具的管理者，Steve Giles 樂觀的表示
+，他們將免除過去受限制的軟體使用方式，不再需要購買任何東西，
+自行修改軟體也不用看廠商臉色，對於他們來說，這是全新的體驗。
+
+相關網址：
+1、OpenNMS瞄準主流
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-20-009-04-PS-EL-SW
+2、OpenNMS向開放原始碼社群公開"測試動力"版本
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-06-010-04-PR-SW
+
+──────────────────────────────
+■ 開放原始碼資料庫來勢洶洶
+
+謝良奇/編譯
+2000/12/20
+
+覺得讓封閉資料庫的幾家老大哥廠商綁得受不了了嗎？如今各方的開
+放原始碼資料庫，不僅讓用戶大省荷包，更可照自家需要修改程式碼
+，改善軟體功能，開放原始碼資料庫大方進駐企業應用領域的日子已
+經不遠。
+
+------
+
+過去數年間，開放原始碼資料庫從後追趕各家封閉原始碼廠商，隨著
+企業對網際網路應用軟體快速和低成本的需要，開放原始碼遠低於封
+閉原始碼產品的價格、可自行修改程式碼滿足自身需求的優點，逐漸
+受到企業應用的青睞，如今開放原始碼資料庫已逐漸趕上，甚至超越
+封閉原始碼資料庫的腳步。
+
+開放原始碼資料庫程式碼可由用戶自行修改，以及遠低於封閉原始碼
+軟體的成本，正改變以往資料庫系統市場，由少數領導者雄霸的局面
+，如甲骨文等。此外，開發者不斷加強軟體效能、改善，加上 Linux
+作業系統的普及後，提供用戶一致化的平台組合，亦是促成開放原始
+碼資料庫逐步成長的原因之一。
+
+當前各開放原始碼資料庫廠商動作頻頻，例如上週五Great Bridge宣
+布推出包含PostgreSQL及各式服務、支援的整合版本。知名的 MySQL
+，則由Nusphere、Abriasoft搭載各版本並銷售支援服務。Abriasoft
+於上週亦釋出整合SSL的MySQL產品Abria SQL Standard 2.1。
+
+開放原始碼在功能、效率上的演進，已成為企業拿來取代封閉系統的
+選擇。如Gazos Creek Group在考慮如甲骨文、IBM等廠商產品後，最
+終仍採用Abriasoft版的MySQL。
+
+即使如此，在財務上，開放原始碼資料庫的不佳表現，讓許多分析師
+依舊主張開放原始碼資料庫在組織市場毫無獲利。對此NuSphere技術
+長D. Britton Johnston 表示，這是華爾街容易誤判的評效指標所致
+，華爾街是以產品授權收益作為主要評效指標，但開放原始碼資料庫
+的獲利並非來自於產品授權費用。
+
+開放原始碼資料庫Berkeley DB 散布者，也是Sleepycat Software銷
+售、市場副總裁Michael Olsin 指出，開放原始碼資料庫公司當前迫
+切要作的，是開發使用開放原始碼資料庫的應用軟體，並找出從開發
+、裝置、服務這些應用軟體獲利的方法。Johnston也認為，開放原始
+碼資料庫的核心價值將會在企業市場中逐漸明朗。
+
+相關網址：
+1、開放原始碼資料庫開發者看見光明未來
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-20-008-04-OP-CY-SW
+2、開放原始碼資料庫逐步確立立足點
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-19-014-04-PS-BZ-SW
+
+──────────────────────────────
+■ OpenBSD、NetBSD上ftpd的蟲蟲危機
+
+馮文龍/編譯
+2000/12/21
+
+Kristian Vlaardingerbroek 在4日公佈了OpenBSD上ftpd程式緩衝區
+溢位的問題，同樣的問題也發生在NetBSD上。修正已經在當日完成，
+並可在網路上取得。
+
+------
+
+Kristian Vlaardingerbroek 在4日公佈了OpenBSD上ftpd程式緩衝區
+溢位的問題，同樣的問題也發生在NetBSD上。 OpenBSD以及NetBSD發
+生的蟲蟲危機是由replydirname()函式造成的，由於設計上一個位元
+組的誤差，使得系統的安全性受到威脅。
+
+這項錯誤目前已經透過OpenBSD 的勘誤郵件清單發布修正，修正檔目
+前存於 OpenBSD及 NetBSD 網站的cvs樹中。事實上，ftpd在OpenBSD
+2.6版以上及 NetBSD 1.5版上並未被設定為起始啟動狀態，但因為這
+是個常用程式，管理員通常會設定它為起始啟動狀態。
+
+replydirname() 函式是由NetBSD在1997年的9月開發出來，用來確認
+回應碼是符合RFC979標準的，OpenBSD則是在1998年的7月將ftpd納入
+。從BugTrap以及Trustix的報告看來，由於Linux/86的記憶體四個位
+元組調校，Linux/86應該未受波及。
+
+ftpd的錯誤對系統來說並非致命的錯誤，但由於此錯誤已被公開討論
+，使OpenBSD的開發者發出修正建議的忠告。NetBSD以及OpenBSD的管
+理者在未下載並安裝修正的檔案前，最好能先關閉fptd的功能，並儘
+快到NetBSD及OpenBSD的網站下載修正檔案。
+
+相關網址：
+1、OpenBSD的失誤
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-20-004-20-SC-BD
+2、NetBSD及OpenBSD在ftpd上的錯誤
+   http://www.bsdtoday.com/2000/December/Security366.html
+
+──────────────────────────────
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

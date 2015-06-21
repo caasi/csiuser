@@ -1,0 +1,484 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１０.１１
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Linux各門派 是否能夠一統江湖？
+
+■ MS Exchange看招─開放又免費的PHPgroupware來了！
+
+■ ActiveState推出新一代Perl程式發展工具組PDK 2.0
+
+■ 重量級又GPL的開放原始碼開發工具─Suneido現身！
+
+■ 以開放原始碼為架構的DNS─BIND 9.0登場!
+
+■ InfoWorld的十大創新人物  Stallman榜上有名
+
+■ Cnation公司釋出網路開發程式BingoX原始碼
+
+■ Linux開放架構PDA 眾家廠商合作力推
+
+
+═《編者的話》═══════════════════════
+
+越來越多的Linux套件出現，這是Linux百花齊放的時代。但這種僅奉
+Kernel共主卻諸子百家爭鳴的現象，是不是映證了《莊子‧天下篇》
+的觀察：「道術將為天下裂」？
+
+的確有可能。為了不讓Linux這個蓬勃發展的作業平台步入Unix 分裂
+的後塵，許多的產業領袖發出呼籲，希望Linux 能夠維持版本相容、
+規格統一的理想。Linux Standard Base﹙LSB﹚組織希望協調告家套
+件廠商的開發工作，讓Linux 世界能有起碼共通的基礎，以便利相關
+的硬體支援與加值資訊服務得以發展。 本期OpenScope電子報為您報
+導了TurboLinux新任執行長Paul Tomas對這個議題的想法，希望能夠
+提供您一些思考的方向。
+ 
+企業內部通訊群組向來是 MS Exchange 的天下，連較早發展的Lotus
+Notes也在MS Exchange積極搶占市場的攻勢下，逐漸淡出江湖。但是
+新的競爭者出現了─開放原始碼，功能強大，發展迅速，這的確該讓
+微軟提心吊膽了。除了與Apache計劃相關的Jetspeed作業群組計劃外
+，本期OpenScope電子報為您介紹的PHPgroupware 系統，從功能上看
+來的確堪當「The MS Exchange Killer」稱號。
+
+而與Perl開發計劃密切相關的重量級廠商 ActiveState，日前也推出
+Perl程式工具PerlDev 2.0 ；這套強大的工具，是否將使Perl這個廣
+受歡迎的開放原始碼程式語言再創佳績，值得程式設計人員們關注。
+此外，SuneidoSoftware推出的Suneido內含程式語言、資料庫、使用
+者介面、報表框架四大部份，兼具物件導向的特色，值得企業資訊開
+發人員張大眼睛注意。而網路上歷久彌新的網域名稱伺服器BIND最近
+則推出9.0 版，看來老幹新枝都各有表現，這也正是開放原始碼軟體
+生命力旺盛的表現。
+ 
+推動自由軟體發展不遺餘力的Richard Stallman ，最近被InfoWorld
+選為對網路及EC最有貢獻的十大人物之一。 Cnation公司最近將網路
+開發工具BongoX的原始碼開放出來，也引起使用Apache、Perl作為開
+發工具人士的關切。最後，PalmPalm、Opera及TrollTech等廠商合作
+進行的Linux開放架構PDA越來越受矚目，也許未來流行的PDA ，真有
+可能是以Linux為基礎發展的喔！
+
+另外，部分讀者可能是透過個人發報站台訂閱，若您只想收到不含廣
+告的純文字版本，可直接寄一封標題為「subscribe」的信到：
+openscope@cyberworksolution.com即可訂閱。
+
+
+═《本期新聞》═══════════════════════
+
+■ Linux各門派 是否能夠一統江湖？
+
+沈美君/編譯
+2000/10/09
+
+TurboLinux執行長Paul Thomas指出，目前市面上眾多的Linux套件，
+經由各廠商的協力合作，將會逐漸整合為單一版本，將獲利價值定位
+在「服務提供」層面，而非系統本身的銷售，目前以Linux Standard
+Base組織為軸心，來整合各家廠商，促成統一規格的理想。
+
+------
+
+初學者面對琳瑯滿目的各種 Linux套件，常不知如何著手選擇；版本
+歧異，使企業對 Linux解決方案的接受度仍然偏低。不過，眾領導廠
+商已有合作共識，將以 Linux Standard Base組織為軸心，協力促成
+版本相容、規格統一的理想。
+
+TurboLinux 於今年六月新上任的執行長Paul Thomas指出，目前市面
+上眾多的 Linux套件，將由各廠商的協力合作，逐漸整合為單一版本
+，將獲利價值定位在「服務提供」層面，而非系統本身的銷售。
+
+Thomas 表示，「Standardization﹙標準化﹚」看似與 Linux社群的
+開放、自由價值觀背道而馳，但為了實務上的需求，仍為必經之路。
+以當年Unix分裂成支援各種不同硬體規格的版本為例，當初每家廠商
+為每種所發展的伺服器提供合用的Unix版本，但比起單一版本，且能
+安裝於多數硬體上的Windows NT，市場佔有率便無法提升。
+
+此外，不同Linux套件間的技術相容性，也會降低企業對Linux解決方
+案接受度。目前主要的四家Linux廠商：紅帽、TurboLinux、 SuSE及
+Caldera System ，在各自發行的Linux套件上，使用的核心、部分應
+用軟體以及軟體更新機制是相同的，不過在使用者介面和檔案位置就
+略有差異了。
+
+Thomas表示，廠商經由提供 Linux「服務」及「應用軟體」而來的收
+益，才是真正的價值利基所在。例如紅帽於九月宣布的訂閱服務﹙su
+bscription service﹚，以單機單月為計算方式，繳交9.95美元，就
+可以獲得軟體的版本修正及更新服務。而Caldera 更以減輕企業資訊
+管理部門的負擔為發展目標。
+
+廠商們並不是孤軍奮鬥來達到規格一致的理想。「 Linux  Standard
+Base」組織便是以促進版本間相容性為目的而存在，市場上可以看見
+的 Linux 相關廠商，幾乎都是LSB的會員，如紅帽、Caldera、Corel
+、The Debian Project、IBM、LinuxCare、MandrakeSoft、The Open
+Group、Turbolinux、SuSE. GmbH、VA Linux、SGI等等。
+
+相關網址：
+1、Red Hat 與 SuSE 總裁的訪談摘要
+   http://www.infoworld.com/articles/hn/xml/00/10/06/001006hnlinuxceo.xml
+2、Linux 廠商指出，各 Linux 版本將會走向統一之路
+   http://news.cnet.com/news/0-1003-200-2948506.html?tag=st.ne.1003.thed.ni
+3、Linux Standard Base 組織官方網頁
+   http://www.linuxbase.org/
+4、Red Hat 的市場新契機：訂閱服務可提供顧客軟體更新或修正版本
+   http://news.cnet.com/news/0-1003-200-2841538.html
+
+──────────────────────────────
+■ MS Exchange看招─開放又免費的PHPgroupware來了！
+
+沈美君/編譯
+2000/10/10
+
+phpGroupWare 計畫的測試版釋出，號稱是可與MS Exchange媲美的殺
+手級軟體，針對成為頂級企業內部網路、應用軟體架構網路的群組軟
+體而設計。以PHP寫成，跨平台、完全以web 介面呈現，不但有Email
+、行事曆、檔案管理等功能，更具備擴充的特性，可針對需求來撰寫
+add-on﹙附加﹚應用系統，嵌於phpGroupWare之上。
+
+------
+
+Open Source 上好用的 Groupware﹙群組軟體﹚不少，最近又有一個
+ phpGroupWare 計畫的測試版釋出，號稱是可與 MS Exchange媲美的
+殺手級軟體：「the MS Exchange Killer」。phpGroupWare目的是成
+為頂級的企業內部網路以及應用軟體架構網路的群組軟體，該軟體以
+PHP 寫成，跨平台、完全以 web 介面呈現，不但有Email、行事曆、
+檔案管理、討論洁B書籤管理、訂閱系統、存貨系統、人力資源管理
+等等功能，更具備擴充特性，可針對需求來撰寫add-on﹙附加﹚應用
+系統，嵌於phpGroupWare之上。
+
+phpGroupWare最初被稱為「webdistro」，由Joesph Engo所發展，原
+來只是拿來作為Joesph和女朋友作為溝通使用的home network；後來
+Dan Kuykendall 加入研發團隊，於是將計畫改名為 phpGroupWare。
+phpGroupWare可提供企業、教育機關及個人使用者一個安全、且具擴
+充彈性的web-based群組環境，可依需求在phpGroupWare 上發展適用
+的應用軟體。
+
+phpGroupWare計畫由兩個部分所組成，「phpGroupWare Project」是
+主要的群組環境核心系統，而「phpGroupWare Application Porject
+」則為附加應用程式的集合統稱。核心「phpGroupWare Project」包
+含E-Mail、Usenet新聞討論群、行事曆、備忘錄及檔案管理等功能。
+
+而在附加應用程式集合計畫「phpGroupWare Application Porject」
+方面，以物件導向為設計理念，配合Session、Database、Templates
+、Authentication等應用，則提供書籤管理、Trouble Ticket系統、
+聊天室、討論區、新聞發佈、FTP客戶端、Napster客戶端、Resource
+Booking 系統﹙例如預定會議、飯店、發展計畫等﹚等。
+
+相關網址：
+1、可與 MS Exchange 媲美的殺手級軟體：PHPgroupware 測試版發行
+   http://linuxtoday.com/news_story.php3?ltsn=2000-10-07-005-21-OS-BZ-MS
+2、phpgroupware.org 發展組織官方網頁
+   http://www.phpgroupware.org/
+3、Clear River Technologies 公司官方網頁
+   http://www.clearrivertech.com/
+
+──────────────────────────────
+■ ActiveState推出新一代Perl程式發展工具組PDK 2.0
+
+葉志博/編譯
+2000/10/10
+
+ACtiveState近日發表新一代的Perl發展工具組「PDK 2.0」。新一代
+PDK最大的特點在於，不論在Unix或Windows平台，甚至在網站伺服器
+上，使用者都可以透過網路，進行線上除錯Perl程式，協助程式設計
+師迅速地發展、除錯，以及建構程式碼。
+
+------
+
+ActiveState推出Perl Dev Kit 2.0﹙PDK﹚，結合發展視窗Perl程式
+設計所需工具，並支援ActivePerl 5.6和視窗2000，融合易學易用的
+特色及更多強大功能，讓Perl設計師體驗物超所值的享受。
+
+ActiveState 是開放原始碼軟體設計的領導者之一，同時也是Perl程
+式語言的創造者，根據使用者的反應及建議，將所有程式設計師所需
+的工具，結合為新一代Perl程式發展工具。利用遠端Unix 或Windows
+平台，使用者在本地端對程式進行除錯的工作，則是PDK 2.0 最重要
+的特色。
+
+除了遠端除錯，PDK 2.0還有許多功能，如：PerlDebugger 提供遠端
+伺服器除錯服務，PerlApp 將程式轉變為可單獨執行，PerlCOM 則可
+設計出Perl語言分散式軟體，VPM 幫助您不論在近端或遠端，都可以
+管理Perl安裝工作，尚有PerlCtrl、PerlSvc等。
+
+欲安裝PDK 2.0，必須具備下列條件：ActivePerl、 ActivePerl 5.6 
+build 618以上、PerlWSAPI ，以及O'Reilly網站伺服器2.0以上版本
+。ActiveState公司網站也提供七天試用版，PDK 1.2.4版使用者僅需
+三十塊美金便可升級至2.0版。
+
+相關網址：
+1、ActiveState發表PDK 2.0程式發展工具組
+   http://news.linuxprogramming.com/news_story.php3?ltsn=2000-09-21-001-03-DT
+2、PDK 2.0 簡介，七天試用版、升級版和教育、企業許可。
+   http://www.activestate.com/Products/Perl_Dev_Kit/index.html
+
+──────────────────────────────
+■ 重量級又GPL的開放原始碼開發工具─Suneido現身！
+
+謝良奇/編譯
+2000/10/10
+
+Suneido Software以GPL授權推出的Suneido，是一套開放原始碼的應
+用程式平台，其特色在於完全整合的一系列工具，包括物件導向語言
+、主從式資料庫、使用者介面及報表框架，能免去企業資訊系統開發
+時，拼湊整合各類工具的困擾。
+
+------
+
+又有一套重量級的開放原始碼軟體誕生，名叫 Suneido。Suneido 由
+Suneido Software以開放原始碼推出，是一套完全整合的應用程式平
+台，其中包括物件導向語言、主從式資料庫、使用者介面以及報表框
+架，透過 Suneido，軟體開發人員能以簡易、快速的方式，製作開發
+及維護功能強大的企業軟體系統。
+
+以GPL開放原始碼授權釋出的Suneido，是著眼於企業應用軟體及資訊
+系統，所設計的發展平台，內含程式語言、資料庫、使用者介面、報
+表框架四大部份，特色在於完全整合軟體開發中所需的各項工具。
+
+Suneido Software的技術長McKinlay表示，以往開發者必須在不同來
+源的工具整合上，花費極大心力，Suneido 的最大優勢即針對絕大多
+數開發工具所欠缺的整合系統，將企業軟體開發所需的工具一次整合
+，免去使用者拼湊不同來源工具的麻煩。
+
+此外，McKinlay認為，Suneido 的定位為企業所需的資訊系統，大多
+數語言並不適合此方面的應用。與C、C++、Java等一般性語言相比，
+這套開發工具更能快速、簡易的開發該領域內的資訊系統。
+
+與VB、Delphi等整合性開發環境作比較，盡管該類型開發工具的視覺
+化設計，能加速介面的開發，一旦要著手應用程式核心，它們的語言
+卻顯得過時而無力，除此之外，VB、Delphi更缺乏強大的報表支援。
+對此，Suneido 提供一套完整的物件導向語言，加上內含的報表框架
+，彌補此類型工具的缺點，使企業資訊系統開發更加簡單快速。
+
+Suneido目前能在微軟 Windows 95、98、ME、NT及2000上執行。至於
+其它作業系統如對Linux的支援，由於在開發之初Suneido已經有移植
+Linux的考量，McKinlay亦認為，以目前Linux上應用程式開發工具的
+缺乏，正是該公司進入此市場的大好機會，Suneido 的開放原始碼授
+權，將有助於Linux社群的接納。
+
+相關網址：
+1、Suneido─新開放原始碼語言及資料庫
+   http://www.newsforge.com/article.pl?sid=00/10/08/1621239&amp;mode=thread
+2、瀏覽Suneido
+   http://www.suneido.com/overview.htm
+
+──────────────────────────────
+■ 以開放原始碼為架構的DNS─BIND 9.0登場!
+
+葉志博/編譯
+2000/10/10
+
+BIND 9.0終於登場，以開放原始碼為架構，支援DNSSEC和IPv6等協定
+繼續為全球網路使用者提供服務。歷經多次改版，BIND脫胎換骨，擁
+有全新的架構，支援更多的網路通訊網域協定，更加強安全性。
+
+------
+
+從一九八三年起，BIND就負責將全球網路的網域名稱﹙Domain name
+﹚轉換為網路協定位址﹙IP address﹚，是網路上最普遍使用的網域
+名稱伺服器，在這十七年間，已發表過八個版本。為了支援所有的新
+協定，並考量往後的相容性，網路軟體協會﹙ISC﹚決定改寫 BIND，
+拋棄8.0 版的包袱，以開放原始碼為架構，支援DNSSEC和IPv6等協定
+，並提高安全性，賦予BIND全新的生命！
+
+舉凡電子郵件、檔案傳輸、網站瀏覽，就少不了BIND﹙柏克萊網路名
+稱網域﹚，因為它負責將網域名稱自動轉換為網路協定位址。舊版的
+BIND為了支援更多的新網域協定，只針對部份做改變，忽略了系統的
+整體性，及往後的相容性，它的架構已不適合做其他更進一步的發展
+，尤其是新標準所要求的條件。
+
+BIND 9.0不但是第一個以開放原始碼為架構的網域名稱伺服器，並支
+援DNSSEC、IPv6和IETF所制定的TSIG等安全機制，以模組化程式碼執
+行安全稽核工作，而且首次以外包的發展模式，確保系統內部的一致
+性。附帶一提，「nslookup」功能將不會在BIND 9.0上出現，取而代
+之的是「dig」語法，但基於許多使用者對「nslookup」 的青睞，或
+許在往後的版本還會復出。
+
+相關網址：
+1、網路軟體協會委託Nominum，賦予BIND新生命
+   http://www.newsalert.com/bin/story?StoryId=CoDV8WbKbyta1mJK
+2、BIND 9.0程式設計師專訪
+   http://www.newsforge.com/article.pl?sid=00/10/05/0147249&amp;mode=thread
+
+──────────────────────────────
+■ InfoWorld的十大創新人物  Stallman榜上有名
+
+謝良奇/編譯
+2000/10/09
+
+InfoWorld 以對網際網路及電子商務具有象徵性的貢獻為考量，遴選
+出十大創新人物，GNU專案的創始者 Richard Stallman也榜上有名。
+Stallman於七０年代開始，致力於推廣自由軟體理念，讓更多人能自
+由使用免費的作業系統及應用軟體。
+
+------
+
+繼Networkcomputing.com日前所選出的資訊產業十大人物之後，著名
+的 InfoWorld也針對網際網路及電子商務，遴選出最具貢獻的十大創
+新人物，入榜者包括： Tim Berners-Lee 、 Eric Brewer 、 James
+Gosling、Apache Software Foundation、Jeff Hawkins、Tim Howes
+、 PaulMockapetris 、 Charles  Stack 、 Richard  Stallman 、
+Phil Zimmerman。
+
+InfoWorld 的這份名單，是以使得網路經濟成為可能為考量標準，來
+評選出具有技術性貢獻的人物。InfoWorld 執行製作表示，他們所選
+出的十大創新人物，皆是曾有助於網際網路在企業應用上，成為更為
+安全，易於管理的強力工具，此外，名單中的許多人，也曾為維護網
+際網路的開放與自由而奮戰。
+
+該份名單中最特別的是Richard  Stallman，他是GNU專案的創始者，
+該專案發展出的技術已成為 Linux的核心，並進一步推廣自由作業系
+統的概念。
+
+早於七０年代，Stallman已經參與 MIT的某個自由軟體社群，在該社
+群結束後，他進入 MIT的人工智慧實驗室，並萌生創建自由軟體社群
+的念頭。於是 Stallman在1983年發起專案，後來並衍生為Linux的基
+礎，後來更設計出 GPL，以保護及推廣他的自由軟體理念。
+
+Stallman認為，未來仍然模糊不明，解決當前自由軟體推展目標的混
+亂情況，是 Stallman首要的工作。他說，GNU專案最大的改進之處，
+並非技術層面，而是社會及政治方面。人們過去總是認為自由軟體是
+個可笑的東西，我們已經證明他們錯了。
+
+除了此份名單外，InfoWorld同時在名為 Hall of Fame以及 Ones to
+Watch 的兩篇文章中，分別表彰五位歷史上的貢獻者，與介紹五名未
+來的科技新星。
+
+相關網址：
+1、InfoWorld公布電子企業十大創新人物
+   http://www.businesswire.com/webbox/bw.100600/202800055.htm
+2、電子企業改革者
+   http://www.infoworld.com/news/innovators.html
+3、明日之星
+   http://www.infoworld.com/articles/hn/xml/00/10/09/001009hno2w.xml
+4、名望及容耀的數位之路
+   http://www.infoworld.com/articles/hn/xml/00/10/09/001009hnintro.xml
+
+──────────────────────────────
+■ Cnation公司釋出網路開發程式BingoX原始碼
+
+黃翔祺/編譯
+2000/10/09
+
+網路技術服務廠商Cnation ，今日宣布將提供該公司開發出來的網路
+開發工具BingoX。由Perl語言寫成，建立於Apache網路伺服器的Bing
+oX已被多家知名廠商採用，這次BingoX程式碼的公開，除了代表開放
+原始碼潮流的勝利之外，也代表程式共享時代的來臨。
+
+------
+
+網路技術服務廠商Cnation ﹙http://www.cnation.com﹚今天宣布將
+提供該公司所開發出來的網路開發工具BingoX。BingoX被該公司用來
+開發其客戶的網路系統超過三年了，廣受市場肯定，現在Cnation 終
+於公開其原始碼。
+
+Cnation 為網際網路技術服務廠商，提供超過70家的廠商顧問及網路
+開發服務，該公司所開發的核心領域主要健康、汽車、Y 世代網站等
+，提供技術支援包括B2B、B2C等服務等。
+
+這次Cnation所公開的BingoX 產品是以Perl語言寫成的網路開發工具
+，將提供網路工程師，快速開發網站及網路資料庫的功能，該公司表
+示，由於BingoX是由物件導向程式所組合成的，將增加程式使用效率
+，並使得程式的編修更加簡單。 
+
+目前使用BingoX開發網站的公司包括Fox Interactive、BizRate.com
+、ProductBuzz、 Capcom 及eToys.com，市場分析師表示，BingoX原
+始碼的公開將擺脫過去網路設計師「購買」或「自建」二分選項，而
+邁向程式碼共享的階段。
+
+相關網址：
+1、Cnation 公開 BingoX 原始碼
+   http://www.newsalert.com/bin/story?StoryId=CoDV8WbKbyta1mtq
+2、Cnation 公司
+   http://opensource.cnation.com/
+
+──────────────────────────────
+■ Linux開放架構PDA 眾家廠商合作力推
+
+馮文龍/編譯
+2000/10/10
+
+Royal達文西系列PDA將推出DV6及DV7 Linux架構的PDA 產品，能讓客
+戶主動選擇適用的軟體；而Opera、PalmPalm以及TrollTech三家公司
+也在近日宣佈了一項針對Linux使用者的無線PDA發展計劃。
+
+------
+
+在以Linux為基本架構的PDA上，移植程式變成非常地容易，這使得用
+戶在選擇適用軟體的選擇性上將顯得更主動與廣泛。Royal DV PDA的
+Linux作業系統，將由CompanionLink公司提供，該公司評估開發者將
+可以十倍於舊有架構的開發速度開發應用程式。
+
+達文西PDA 在功能上包括了四個主要部分，並整合於一個整合式環境
+中，這四個部分分別是：個人資訊管理﹙PIM ﹚，如行事曆，工作排
+程、聯絡簿，以及自動與PC作資料同步、格式同步﹙當欄位改變時﹚
+，此外還有與其他PIM軟體的同步功能，包括了Outlook、ACT!、Palm
+Desktop、以及 Lotus Organizer、Schedule+等。即使不是一個 DIY
+使用者，也能從網路上數以萬計的免費軟體中取得自己所需的軟體。
+
+另外，PalmPalm、Opera以及TrollTech 在上週五的一項無線PDA合作
+計劃上宣佈合作，分別扮演行銷，提供瀏覽器介面以及Qt／嵌入式圖
+形化工具等角色。這款PDA將在Linux的架構上發展，所需的系統資源
+非常地節省，僅需要640KB到最大5MB的記憶體。TrollTech 的執行長
+Nord表示，由於Qt/Embedded 的好處，使得HTML的檢視器僅需20行的
+程式碼就可完成。
+
+在這次的合作中，TrollTech將自己定位為提供嵌入式Linux系統上客
+戶導向的應用軟體成品例如行事曆，作業排程等；PalmPalm則在行銷
+上扮演舉足輕重的角色，初期將著重在韓國，繼之中國大陸及日本；
+而Opera這家總部設在挪威的公司則提供自家的 Opera 瀏覽器，支援
+Flash-Player以及軟體加掛的功能。
+
+相關網址：
+1、Royal推出Linux架構PDA
+   http://linuxtoday.com/news_story.php3?ltsn=2000-10-08-001-20-PS
+2、TrollTech提供嵌入式Linux客戶導向的軟體成品
+   http://alllinuxdevices.com/news_story.php3?ltsn=2000-09-25-001-03-NW-HH-WL
+
+═《編後語》==═══════════════════════
+
+不知從什麼時候開始，大家漸漸習慣以辦公室為家了。倒也不是真的
+住在辦公室裡，只是在一天工作結束後，不自覺的會想多待在公司一
+會兒。也許就在心情放鬆的那一刻，玩樂的念頭自然而然會盤據在心
+頭吧！
+
+週一晚上發完報，我和 kelly不甘寂寞地拿著剛買到手的大頭貼相機
+到處取景。先是獨照，然後是倆倆合照﹙當然少不了tumi啦﹚，最後
+再拉著網基其他留下來加班的同事一起拍照留念。此時早已把時間和
+工作了一天的緊張疲累都拋得老遠，三個小女子在凌晨12點半的辦公
+室裡大聲小聲地喳呼、吆喝著；我的粉紅豹跟阿尼玩偶成了搶手道具
+，而隨拍隨顯像的大頭貼則大大滿足了我們急於看到成果的欲望。
+
+就這樣，一張又一張地拍，帶著新鮮感，也?雜著對隔天花火節的期
+待心情。直到網路上傳來老大關懷的訊息：「這麼晚了還不快回家！
+」我們才倖倖然收拾散落一桌的大頭貼，帶著偶然逾矩的小小快意，
+在已有涼意的夜色裡踏上歸途。
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型為「細明體」，如果您使用Outlook收看我們的電子
+   報，新聞格式可能亂掉，請在Outlook的工具→選項→閱讀中，將
+   文字格式改為「細明體」，即可順利閱讀我們的新聞。
+
+※ 這是【OpenScope  開放視界】電子報。若您不想訂閱，請來信：
+   openscope@cyberworksolution.com，標題寫：unsubscribe即可。
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.cyberworksolution.com﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
+
+

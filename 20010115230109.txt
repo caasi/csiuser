@@ -1,0 +1,387 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０１.１５
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Turbolinux與IBM簽訂Linux全球發行與支援協議
+
+■ 酷！Linux+Java概念車  克萊斯勒 Super8 Hemi
+
+■ 英國高中採用Linux環境  落實開放原始碼教育
+
+■ 微軟：Linux是頭號威脅
+
+■ GNOME開發多媒體工具  Slipstream 0.1.0釋出！
+
+■ Wasabi與OpenForce合作  NetBSD+電子企業平台
+
+■ 新版「自由」瀏覽器  加強線上隱私權保護
+
+
+═《編者的話》═══════════════════════
+
+IBM繼去年底砸下十億美元發展Linux後，又有支援Linux 的最新動作
+，就是與TurboLinux聯手提供電子企業軟體解決方案！ 
+
+此次IBM與TurboLinux結盟，主要是在IBM商業伺服器平台的 eServer
+產品線上提供TurboLinux的協議，未來的合作項目尚有電子企業及網
+路基礎建設軟體解決方案等，並可望在今年上半年上市。什麼是21世
+紀的概念車？克萊斯勒日前在一場展覽中發表了內含 Red Hat Linux
+及Java應用軟體的新款概念車 Dodge Super8 Hemi，除了滿足車迷對
+未來生活的幻想外，也顯示出未來車種將成為人生活領域的一種延伸
+，在車上也可以上網將使得未來的生活更加便利！
+
+而在英國教育界，為了使每個國民都能接觸新科技，成立了「新都市
+學習中心計劃」，實行此計畫的Parrs Wood高中，藉由Red Hat 的幫
+助下，以Linux 設置校園網路及PC作業系統平台，成為全世界少數幾
+個落實開放原始碼教育的先進學校之一。
+
+就在Linux 日漸成長茁壯之際，全球的軟體產業龍頭微軟卻在日前對
+Linux發表評論，指出Linux是Windows 的頭號威脅，這到底是怎麼回
+事？此外本期OpenScope 還為您介紹由GNOME 團隊研發的多媒體程式
+Slipstream釋出；NetBSD支援廠商Wasabi與OpenForce 成立策略聯盟
+，以及Freedom 瀏覽器最近推出具有線上隱私權保護功能的版本。本
+世紀的第一波寒流來襲，但是你仍不能錯過每週準時刊出、熱騰騰的
+OpenScope電子報！
+
+在1月12日OpenScope「支援Linux 2.4核心的Oracle 9i上市！」這條
+新聞中，Linux 「核心」的英文「kernel」誤植為「kernal」，特此
+更正。
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+
+═《本期新聞》═══════════════════════
+
+■ Turbolinux與IBM簽訂Linux全球發行與支援協議
+
+蕭喜那/編譯
+2001/01/12
+
+IBM與Turbolinux 簽訂全球發行與支援協議，預計行銷企業用、電子
+企業解決方案，用於Linux 之上的資料庫管理、整合訊息與電子商務
+等。
+
+------
+
+Turbolinux在11日宣布與IBM 簽訂全球發行與支援協議，Turbolinux
+將提供電子企業軟體解決方案，包括IBM旗下全部的Linux軟體套件。
+
+依據兩家公司所簽訂的協議，IBM 與Turbolinux將聯合行銷、發行與
+支援IBM DB2資料庫、WebSphere、Lotus Domino、Tivoli Framework
+、以及IBM的小型企業用Linux軟體套件。
+
+這項協議案，是繼IBM董事長Lou Gerstner 在去年12月宣布該公司將
+投入十億美元，全力發展Linux相關軟體之後，IBM在支援Linux 發展
+方面的最新動作。
+
+IBM與Turbolinux 的關係始於1999年，當時兩家公司宣布，將首度在
+Linux中整合DB2 Universal資料庫，IBM自此投資Turbolinux ，並且
+兩家公司成立策略聯盟，包括全球支援與服務、全球OEM 協議、在跨
+IBM的商業伺服器平台的eServer產品線上，提供Turbolinux的協議、
+以及其他數項提升Linux接受度的計劃等。
+
+IBM與Turbolinux 的電子企業及網路基礎建設軟體解決方案，可望在
+2001年的上半年上市，但是價格尚未確定。
+
+相關網址：
+1、Turbolinux與IBM簽訂供應Linux軟體解決方案及支援的全球協議
+   http://www.turbolinux.com/news/pr/010110.html
+2、Turbolinux即將銷售IBM的Linux軟體
+　 http://www.infoworld.com/articles/hn/xml/01/01/10/010110hnibmtur.xml
+
+──────────────────────────────
+■ 酷！Linux+Java概念車  克萊斯勒 Super8 Hemi
+
+馮文龍/編譯
+2001/01/12
+
+克萊斯勒21世紀首款概念車--Dodge Super8 Hemi，在北美國際自動
+化展覽中首度亮相，這款概念車使用Linux及Java技術建構出智慧型
+轎車，同時象徵開放原始碼系統在汽車工業應用上邁出嶄新步伐。
+
+------
+
+克萊斯勒在北美國際自動化展中，推出採用 Linux與Java技術的21世
+紀首款概念車--Dodge Super8 Hemi。 這款完全美式概念的轎車，克
+萊斯勒的副總Freeman  Tomas認為它完全體現了美國人樂觀主義的本
+質與文化，它包含了所有愛車人士所愛以及所有人的所需。
+
+Freeman所指的「所有人的所需」明顯地包含了Linux及Java技術。因
+為這款概念車正是藉由 Linux及Java負責展現其性感的技術概念「資
+訊電子」﹙Infotronic﹚系統。克萊斯勒的資訊電子概念的發展，是
+為了要滿足汽車駕駛人與乘客的一項永無止境的渴望，而這個渴望就
+是利用網際網路來取得資訊。汽車利用車載嵌入式電腦系統來提供兼
+具教育及娛樂功能的設施。
+
+Super8  Hemi的資訊電子系統是由克萊斯勒位在加州帕羅奧多市的研
+究暨技術中心所開發，昇陽的Wieland  Holfelder博士也參與這個計
+劃，並負責研究技術中心的智慧型車輛小組。Holfelder 博士相信未
+來的汽車將不只是載人的工具，它將是個人生活領域的一個延伸，因
+此當生活中發生了一些變化，像是無所不在的網際網路，我們都想在
+汽車中反應這一項實際的現況。
+
+根據Holfelder 的說法，在原型車上車載資訊電子系統的計算機架構
+，是由四個具備乙太網路並與PC相容的電腦所構成，每一台均配備有
+128MB的記憶體以及數GB的硬碟。 其中的三台扮演乘客終端機的角色
+，一個在前座而兩個在後座，第四台電腦則扮演伺服器及通訊閘道器
+的角色。而其中的每一台PC都是以紅帽的6.2版Linux為作業系統。
+
+相關網址：
+1、Linux + Java為Super8 Hemi概念車充電
+   http://linuxdevices.com/news/NS5234339457.html
+2、道奇Super8 Hemi概念車
+   http://us.media.daimlerchrysler.com/special/concepts2003/super8_e.htm
+
+──────────────────────────────
+■ 英國高中採用Linux環境  落實開放原始碼教育
+
+沈美君/編譯
+2001/01/12
+
+紅帽繼協助美洲學校建置Linux 學習環境後，又與英國Parrs Wood高
+中合作，以Linux設置校園網路及PC 作業系統平台，讓這所高中成為
+全英國最具有科技氣息的學校。
+
+------
+
+英國的Parrs Wood高中﹙Parrs Wood High School﹚選在新世紀之初
+，於1月12日宣布將採用Linux作為校園網路及PC作業系統平台，向世
+人宣告對開放原始碼的信仰，預示了下一世紀教育新契機的來臨。
+
+此為英國政府「新都市學習中心計畫﹙New City Learning Centres﹚
+」的一部份，目的要讓英國的每一位國民，都有機會接觸新科技。位
+於曼徹斯特的Parrs Wood高中，因此計畫採用 Linux，作為校園網路
+系統平台的選擇。
+
+Parrs Wood高中建置數種創新技術，讓這所高中成為全英國最具有科
+技氣息的學校。Parrs Wood計畫在每一間教室，都裝設可上網的電腦
+，可同時與其他七所歐洲學校做視訊會議，同時Parrs Wood的實驗室
+也將連網至其他各地主要高中學校。此外也能使用數位電視， Parrs
+Wood將有專屬網站，並能使用數位電視來瀏覽。
+
+提供 Parrs Wood 高中技術支援的，是推行Linux教育不遺餘力的Red
+Hat。Red Hat副總裁Colin Tenwick表示，Parrs Wood 高中是資訊科
+技應用的正面教育案例，Red Hat 會盡力協助這樣具有創新概念的學
+校，來建置系統平台。科技是教育的基礎之一，Red Hat 承諾，未來
+將會持續提供軟體服務及教育環境，給有此種需求的學校單位。
+
+相關網址：
+1、英國曼徹斯特一所新高中全面採用Linux平台，落實開放原始碼教育
+   http://www.zdnet.co.uk/news/2001/1/ns-20147.html
+2、英國公司提出Linux的另一種選擇
+   http://www.zdnet.co.uk/news/2000/1/ns-12509.html
+
+──────────────────────────────
+■ 微軟：Linux是頭號威脅
+
+蕭喜那/編譯
+2001/01/12
+
+微軟總裁暨執行長Steve Ballmer上週公開指名Linux是該公司在2001
+年的頭號威脅，觀察家也指出，上週推出的Linux核心2.4版，將是企
+業市場上Windows 2000的強悍競爭者。
+
+------
+
+微軟總裁暨執行長 Steve Ballmer 在本週指名Linux將是該公司步入
+2001年的頭號勁敵。Ballmer是在由摩根史坦利Dean Witter所主持的
+網際網路會議上做出以上表示，他指出 Unix 與 Linux二者都威脅著
+Windows的市場地位，但是，Linux尤其讓微軟頭痛。
+
+近期，微軟即將發行Whistler的測試第二版，它是Windows 2000的後
+續者。而上週Linux kernel 2.4發行之後，許多觀察家認為它有很大
+的進步，這使得Linux在企業市場上與Windows 2000及Unix 競爭時，
+具備更強悍的競爭力。
+
+Ballmer 認為，必須將威脅到公司核心產品線的競爭者看得比較重要
+，而不是那些你想要從它們身上得到某些好處的其他競爭者。他並且
+指出，他將Linux現象以及Unix 現象放在名單的最前面，而且他真地
+把Linux現象視為頭號威脅。
+
+據Computer Reseller News﹙CRN﹚的報導，Ballmer發表上述評論的
+同一天，Linux軟體商Corel 宣布將於1月23日公布最新的公司策略。
+Corel在去年10月時獲得微軟135百萬美元的援助，市場傳言Corel 可
+能會放棄它的Linux產品線，例如它的適用於Linux的WordPerfect 套
+件，改而專注在微軟的.Net產品上。
+
+Ballmer 也指名甲骨文與昇陽是第二對手，因為伺服器的利潤是該公
+司最大潛在的短期回收。另外，Ballmer將美國線上﹙AOL﹚放在與甲
+骨文與昇陽同一個層級，或是差半個層級的地方。
+
+相關網址：
+1、Ballmer：Linux是Windows的最大威脅
+   http://www.wininformant.com/display.asp?ID=3053
+2、Ballmer：Linux是Windows的頭號威脅
+   http://www.networkweek.com/wire/story/TWB20010110S0006
+
+──────────────────────────────
+■ GNOME開發多媒體工具  Slipstream 0.1.0釋出！
+
+張書銘/編譯
+2001/01/12
+
+在網路上尋找關於多媒體的相關程式，可說是不勝枚舉。不同的檔案
+格式；播放或編輯等不同的功能，都可以衍生出不同的對應程式。而
+GNOME 開發團隊勇於創新，開發出一套能夠對應多種需要的多媒體工
+具Slipstream，只要一套軟體，就可以滿足各種不同的需求。
+
+------
+
+最新的多媒體工具Slipstream 0.1.0版釋出。這套由 GNOME開發團隊
+所開發的軟體，以單一環境多樣功能的特質，吸引了不少的使用者。
+Slipstream是Gstreamer的別名，Gstreamer開發計劃的目的在於提供
+一套多媒體程式，讓開發者可以經由 Plug-in的方式不斷新增功能或
+改良它的程式碼，提供能一物多用的優勢。
+
+Gstreamer 的本體是一套媒體播放程式，從MP3、MPEG到DVD等都可以
+利用它來播放。而且它從本體到 Plug-in都寫成函式庫的模式，因此
+重復利用性相當的高，據 GNOME開發團隊表示，這樣的做法不但讓以
+後的開發者可以直接套用模組，也讓檔案更精簡，像Gstreame的原始
+碼，大小甚至不超過150KB。
+
+而新版中 GNOME推薦了許多好用的開發工具，首先是混音工具，配合
+LADSPA ﹙Linux Audio Developer's Simple Plugin API﹚，可以讓
+使用者利用軟體模擬硬體設備進行音效檔案的編輯處理；其次是 GST
+Editor，它提供一個繪圖環境，讓開發者可以迅速繪制在硬體間的多
+媒體資料流圖，做為軟體設計甚至硬體開發的參考資料。
+
+Slipstream 0.1.0版還有一個最大特點，就是與網路的結合性，除了
+程式主體與外掛程式小，易於在網路上流通外，它也支援多種網路協
+定。例如繪圖輔助工具 GST Editor就可以將繪圖結果直接存成XML格
+式，並發布至網路上。
+
+相關網址：
+1、GStreamer 0.1.0釋出
+   http://news.gnome.org/gnome-news/979174768/
+2、何謂GStreamer？
+   http://gstreamer.net/
+
+──────────────────────────────
+■ Wasabi與OpenForce合作  NetBSD+電子企業平台
+
+謝良奇/編譯
+2001/01/12
+
+專門提供NetBSD商業支援的Wasabi Systems，日前與同是開放原始碼
+廠商的 OpenForce達成策略聯盟，未來將相互提供各自專長，整合電
+子企業平台與NetBSD作業系統，可為NetBSD以及其它開放原始碼解決
+方案，帶來更多應用機會。
+
+------
+
+開放原始碼作業系統NetBSD的商業支援廠商Wasabi Systems，日前宣
+佈與OpenForce成立策略聯盟，未來將整合OpenForce在開放原始碼電
+子企業解決方案上的專長，以及Wasabi Systems本身的NetBSD技術。
+此舉已顯示NetBSD系統、開放原始碼解決方案，在電子商務中漸趨重
+要的地位。
+
+同樣是開放原始碼廠商，Wasabi Systems專長為提供高階NetBSD服務
+，OpenForce 則以開放原始碼技術提供電子企業軟體的架設、支援、
+訓練。策略聯盟成立後，Wasabi Systems 將協助OpenForce加強開放
+原始碼平台的NetBSD應用能力，OpenForce 亦將幫助Wasabi Systems
+進一步改善NetBSD在電子企業架構的運用。
+
+提供開放原始碼作業系統NetBSD之諮詢、嵌入式系統市場自訂化服務
+為主的Wasabi Systems，日前發行NetBSD 1.5的CD版本。最新版本的
+NetBSD特別著重於安全、網路、系統管理整合，除針對先前版本加強
+功能外，亦提供相當多的全新特點。
+
+NetBSD是一套類似Unix的全功能作業系統，由於其設計與重用平台程
+式碼，相較於其它作業系統，NetBSD得以更輕易的在新處理器、系統
+架構中運作。結合NetBSD優異的跨平台能力，Wasabi Systems正與各
+網路設備領導廠商合作，希望促進NetBSD在下一代網路基礎架構的普
+及運用。
+
+Wasabi Systems總裁兼執行長Perry Metzger對與OpenForce合作一事
+表示振奮，他指出該合作關係將為NetBSD及其它開放原碼解決方案帶
+來更多機會。OpenForce企業發展主管Joshua Hecht表示，OpenForce
+期盼藉助Wasabi Systems，整合NetBSD與自身電子企業平台，NetBSD
+有能力讓OpenForce平台更為快速、可靠、更容易維護。
+
+相關網址：
+1、Wasabi Systems、OpenForce成立策略聯盟
+   http://www.bsdtoday.com/2001/January/News383.html
+2、Wasabi Systems釋出CD版NetBSD 1.5
+   http://www.bsdtoday.com/2000/December/News361.html
+
+──────────────────────────────
+■ 新版「自由」瀏覽器  加強線上隱私權保護
+
+張書銘/編譯
+2001/01/12
+
+網路廣告往往藉著各種技術，蒐集網路用戶資料，像是收入、性別、
+興趣、消費模式等。引起可能侵犯使用者隱私權的問題，為解決使用
+者可能遭遇的困擾，Zero-Knowledge系統公司在去年底將「Freedom
+」線上隱私權保護工具Linux版本釋出，讓Linux用戶能夠免於個人資
+料經由網路外流的危險。
+
+------
+
+傳統的廣告型態，消費者即使不想購買，但仍可以欣賞它，除了要花
+一點時間外，並不會造成什麼損失。但隨著網路時代來臨，網路廣告
+大量增加，即使使用者決定不消費，但是在觀看的過程當中，可能就
+已經使得業者經由網路取得個人資料並散佈出去。為了避免這樣的危
+險。Zero-Knowledge公司發展了一套開放原始碼的瀏覽器 Freedom，
+提供各種安全機制以避免使用者資料由網路外洩。
+
+網路應用程式的開發較過去容易許多，經由網路收集使用者資料變容
+易，消費者隱私權問題更加突顯。儘管消費者對網路上的隱私問題感
+到隱憂，為了取得產品詳細資訊或是贈品，仍需透過網路傳遞個人資
+料。所以Zero-Knowledge公司相信消費者需要的是，一套能主動協助
+他們保留個人隱私的系統。
+
+Zero-Knowledge 推出Freedom的訴求，除了隱藏用戶端身份，也強調
+讓廣告商適度取得客戶的真實身份外的相關消費資料，讓客戶與廣告
+主能不影響彼此權益而各取所需。Zero-knowledge系統公司總裁表示
+，許多網絡公司希望取得合法的資料，以瞭解用戶習性；用戶則希望
+隱私權能受到保護。無疑的，Freedom可以替他們找到平衡點。
+
+Freedom除了隱藏使用者身分，還可以提供SSL安全機制，並對電子郵
+件、IRC、新聞群組以及 telnet等各種服務提供安全控管，避免使用
+者遭到追蹤。同時為了因應追蹤技術不斷的更新，Zero-Knowledge公
+司採用Mozilla 公用版權 1.1和其他開放原始碼版權宣告。讓開放原
+始碼社群人士能夠針對新的追蹤技術來替Freedom做改良。
+
+相關網址：
+1、隱藏你的臉：Freedom 2.0 for Linux
+   http://www.linuxplanet.com/linuxplanet/reports/2883/1/
+2、Zero-Knowledge為Linux帶來更強的隱私保護能力
+   http://linuxpr.com/releases/3053.html
+
+──────────────────────────────
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

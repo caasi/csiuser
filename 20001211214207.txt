@@ -1,0 +1,450 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１２.１１
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Turbolinux發表UNICON 3.0，加強Linux對亞洲語系支援
+
+■ 降低產品成本 MSC軟體公司釋出Linux版有限元素分析軟體
+
+■ 進入Linux的MP3音樂世界
+
+■ 支援3D硬體加速的X Server─Accelerated-X 6出爐！
+
+■ Linuxcare公布新客戶名單  有助推廣Linux產業運用
+
+■ PocketLinux相中Lineo，作為行銷通路與套件來源
+
+■ 昇陽Java P2P專案 悄悄上路
+
+■ IBM等電腦大廠發起Open Source開發實驗室 即將上路！
+
+
+═《編者的話》═══════════════════════
+
+Turbolinux發表最新版UNICON 3.0 ，加強Linux對亞洲語系支援，讓
+你跟Linux講中文嘛也通喔！
+
+Turbolinux 於12月6日宣布釋出「UNICON 3.0」，在核心部分及使用
+者輸入介面部分加強雙位元技術，增進對亞洲語系的支援。「UNICON
+3.0」 在kernel端的加強，繼承Turbolinux原來對簡體／繁體中文的
+支援，更擴張至其他亞洲語系，除了Big5、GB、GBK外，尚有JIS﹙日
+文﹚、KSCM等。從此亞洲國家跟Linux將更能暢行無阻的對話了！
+
+企業的產品需要設計，MSC.Patran以更有效率並且經濟的方式，為您
+規劃您的產品雛形，減少設計成本。MSC軟體公司7日宣佈，釋出MSC.
+Patran 系統的Linux版本，為企業提供更方便的產品規劃工具，到底
+MSC.Patran能夠為您的企業帶來多大的助益和便利？答案都在本期的
+OpenScope裡。
+
+Linux讓你享受音樂不只用聽的！MP3是目前在網路上最熱門的聲音編
+碼標準， XMMS 則是目前Linux環境下頗受歡迎的MP3音樂播放程式；
+IceCast可支援兩種不同的音源控制程式：LiveIce以及XMMS-LiveIce
+，讓您一圓當DJ的夢想。愛聽音樂的你，千萬不能錯過本期電子報精
+采的報導喔！
+
+另外，Xi Graphics公司釋出Accelerated-X Server 6 ，支援多款新
+的顯示卡與軟體，讓Linux 及UNIX的影像處理能力更為提昇。使用者
+對 Accelerated-X的要求逐漸提高，例如在第六版中對VMware與數位
+板支援，是在客戶要求下應運而生的，顯示Linux 在多媒體與美工方
+面的使用者較過去增加。科技一日千里， Linux提供給使用者的服務
+越來越多元！OpenScope提供您的不僅是多元，更是最新版的資訊喔！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+
+═《本期新聞》═══════════════════════
+
+■ Turbolinux發表UNICON 3.0，加強Linux對亞洲語系支援
+
+沈美君/編譯
+2000/12/08
+
+Turbolinux推出「UNICON 3.0」，同時在kernel核心及使用者輸入介
+面上，加強對雙位元亞洲語系的支援，造福亞洲Linux使用者。
+
+------
+
+Turbolinux 於12月6日宣布釋出「UNICON 3.0」，在核心（kernel）
+部分及使用者輸入介面部分，加強雙位元（ Double-Byte）技術，增
+進對亞洲語系的支援。
+
+「UNICON 3.0」採用GPL授權方式，於1999年由中國大陸 Turbolinux
+的團隊所研發。「UNICON 3.0」以更有效率的記憶體使用方式，穩定
+地改善Console字型管理，並增加對Virtual Console的支援，並維持
+與各個Linux應用軟體間的相容性。
+
+「UNICON 3.0」在kernel 端的加強，繼承Turbolinux原來對簡體/繁
+體中文的支援，更擴張至其他亞洲語系，除了 Big5、GB、GBK外，尚
+有JIS﹙日文﹚、KSCM 等。「UNICON 3.0」在使用者端所提供的輸入
+介面，與UNICON Daemon使用共同的函式庫。
+
+Turbolinux工程部副總裁Ly Pham表示，Turbolinux一向是將Linux帶
+入亞洲市場的領導廠商，最新釋出的UNICON 3.0，顯示Turbolinux對
+於全球Linux市場定位複雜度的瞭解，也代表Turbolinux對幫助Linux
+發展的承諾。
+
+創立於1992年的Turbolinux ，以發展Linux網路軟體套件和提供企業
+運算架構解決方案為主，涵蓋範圍包含伺服器、工作站、叢集技術軟
+體解決方案、網路流量管理、P-to-P分散式運算等。Turbolinux擁有
+來自各知名廠商將近九千五百萬美金的投資，包括康柏、戴爾、英特
+爾、IBM、甲骨文、NEC等。
+
+相關網址：
+1、Turbolinux 發表「UNICON 3.0」，加強 Linux 對亞洲語系的支援
+   http://eltoday.com/article.php3?ltsn=2000-12-06-002-01-PS
+2、關於 Turbolinux
+   http://www.turbolinux.com/about/
+3.「UNICON 3.0」的下載位置
+   ftp://ftp.turbolinux.com.cn/pub/turbolinux/source/unicon/unicon-3.0-release.tar.gz. 
+
+──────────────────────────────
+■ 降低產品成本 MSC軟體公司釋出Linux版有限元素分析軟體
+
+張書銘/編譯
+2000/12/08
+
+為了幫助企業在產品設計階段，能夠以更有效率並且經濟的方式規劃
+產品雛型，MSC.Software公司設計了MSC.Patran這套有限元素分析系
+統，幫助產業減少設計成本。而面對目前企業開始應用 Linux的風氣
+，MSC正式將Patran移植到Linux，提供企業更方便的規劃工具。
+
+------
+
+MSC軟體公司7日宣佈釋出MSC.Patran系統的Linux版本。 MSC.Patran
+是MSC企業軟體系列中負責整合各類CAD軟體與分析程式的工具。由於
+近年來利用CAD輔助製造業的風潮，因此 MSC.Patran對於製造業而言
+可以降低許多產品開發時可能發生的錯誤，減少時間與物料成本。
+
+由於先進國家普遍應用電腦輔助分析軟體﹙ CAE﹚幫助產品開發流程
+的進行，電腦輔助分析通常指以有限元素分析﹙ FEA﹚為基礎，藉由
+這些工具達到在設計階段預測產品的性能、提供設計開發先期的改進
+的依據；除了達成追求高品質與高附加價值的積極目標外，也可以減
+少傳統設計開發流程嘗試錯誤、不斷修改的循環。因此對要求高可靠
+度和高品質產業，如航太、汽車等產業中，有限元素分析扮演了非常
+重要的角色。
+
+MSC.Patran最大特點就是針對各種不同的設計分析，提供一個開放性
+的電腦輔助分析環境。它結合了幾何造型整合、有限元素模型建立、
+以及模擬分析和結果評估能力。此外，它還提供圖形式使用者界面，
+提供表單圖形式使用者介面和線上輔助系統。而由於MSC.Patran是擔
+任整合各類CAD軟體與分析程式的工作，因此它也可以進行直接CAD幾
+何傳輸，可從多種知名的 CAD系統傳輸幾何外型資料，讓使用者自行
+定義使用者介面和分析模組，結合其他的分析軟體合成單一使用者介
+面。
+
+MSC 軟體公司表示，縮短新產品推出週期對企業競爭力有很大幫助。
+而電腦模擬工具即為製造業者超越同業的有效利器。MSC.Patran這次
+到推出 Linux版本，不但可以降低產品設計成本，也降低企業在導入
+資訊科技的成本。因此善用MSC.Patran進行預測工程將可兼顧低產品
+成本與高品質的目標。
+
+相關網址：
+1、MSC軟體公司釋出Linux版本分析軟體
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-07-015-04-PR-SW
+2、MSC.Software公司簡介
+   http://www.macsch.com/about/about.html
+
+──────────────────────────────
+■ 進入Linux的MP3音樂世界
+
+馮文龍/編譯
+2000/12/08
+
+XMMS為Linux環境下頗受歡迎的MP3撥放程式，而另一個可搭配兩種不
+同音源控制程式的MP3撥放程式─IceCast，可讓您一圓當DJ的夢想！
+
+------
+
+MP3是目前在網路上最熱門的聲音編碼標準，而XMMS﹙ X Multimedia
+System﹚為目前Linux環境下頗受歡迎的MP3音樂播放程式，此外，如
+果想擁有更多的音效控制功能，另一個MP3播放軟體─IceCast可以支
+援兩種不同的音源控制程式。
+
+XMMS支援掛入程式﹙Plug-ins﹚的功能，目前XMMS本身所支援的Plug
+-in程式，在聲音輸入方面包括了CD唱機、軟體.cin唱機﹙ 允許撥放
+Quake .cin格式的音樂﹚、MPG123唱機、一個產生測試音的音調產生
+器、WAV格式音效唱機等。
+
+在XMMS的輸出控制上，提供了磁碟寫入器以及負責將音效輸出到音效
+卡的OSS驅動程式。除了聲音的輸入及輸出控制， XMMS尚提供音效的
+Plug-in 功能，包括了迴音、立體音效、聲音移除或產生水中發聲特
+效等。至於XMMS的其他不錯的功能還包括了IRman， Joystick以及選
+歌等功能，使得XMMS可以透過遙控的方式來操作。
+
+此外，XMMS的網站上還有許多有趣的Plug-in：SOX效果控制、 Tux企
+鵝舞者等，大部分的Plug-in 安裝後會自動地找到他的安身之所，其
+他可參考安裝指引。
+
+許多人或許並不想僅僅當一位忠實的聽眾，那麼Linux上的IceCast可
+以一圓想當DJ的夢想。利用 IceCast可以搭配兩種不同的音源控制程
+式─LiveIce以及XMMS-LiveIce。LiveIce可以撥放來自MP3 檔案或音
+效卡上的Line-in/麥克風插槽的音效，而XMMS-LiveIce則可利用XMMS
+提供MP3資料流﹙Stream﹚。
+
+相關網址：
+1、XMMS多媒體播放程式
+   http://linuxtoday.com/news_story.php3?ltsn=2000-12-07-010-04-OP-HL-SW
+2、關於MP3
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-18-009-20-OS-SV-SW
+
+──────────────────────────────
+■ 支援3D硬體加速的X Server─Accelerated-X 6出爐！
+
+張書銘/編譯
+2000/12/08
+
+Xi Graphics公司釋出Accelerated-X Server 6。提供在Linux及UNIX
+上處理大量3D圖像的更有力支援。在Accelerated-XServer 6 中，除
+了支援多款新的顯示卡外與軟體外，也針對舊版本的一些問題解決，
+讓Linux/UNIX的影像處理能力更為提昇。
+
+------
+
+過去多媒體與影像處理能力在Linux/UNIX上，一直都是表現較弱的一
+環。而Xi Graphics公司則可說是這方面的拓荒者。由Xi Graphics公
+司推出的 Accelerated-X是第一套支援3D硬體加速的X Server。而在
+目前影像處理要求愈來愈高的環境下，Xi Graphics 公司正式推出了
+Accelerated-X 6。
+
+在去年Comdex99展覽中首次露面的3D Accelerated-X，是第一個支援
+3D硬體加速的X Server，提供多媒體或美工工作者更快速的工作環境
+。而為了因應客戶要求與不斷進步的影像技術， Xi Graphics公司在
+Accelerated-X 6 中支援更多的顯示卡，並進行了許多改良。例如，
+加入XiG X全螢幕延伸功能﹙XiG-XFS﹚來支援VMware的執行。
+
+其他最新的相關支援還包括：提供USB支援，針對 Solaris  8.0以及
+Linux 2.4.0提供萬用序列埠支援；硬體Gamma色彩調節；支援數位板
+﹙Digital Flat Panel﹚； VelvetMouse：提供更流暢的游標顯示；
+支援單顯示卡搭配雙螢幕顯示功能與觸控式螢幕支援；透過 tscal程
+式支援TSC calibration； PackedPixel技術：降低24Bit全彩顯示的
+記憶體需求並提高顯示速度。
+
+Xi Graphics公司已經公布最新的Accelerated-X顯示伺服器第六版價
+格：桌上型電腦版本99.95美元；膝上型149.95美元；multihead版本
+199.95美元。另外據公司的行銷經理Dan McGregor表示，隨著 Linux
+的受歡迎，市場和潛在客戶正不斷增加，同時客戶對 Accelerated-X
+的要求也逐漸提高，例如在第六版中對VMware與數位板支援，也是在
+客戶要求下應運而生，這顯示Linux 在多媒體與美工方面的使用者較
+過去增加。
+
+相關網址：
+1、Xi Graphics公司釋出Accelerated-X 6
+   http://linuxpr.com/releases/3032.html
+2、Multi-head Accelerated-X顯示伺服器
+   http://www.xig.com/Pages/LX/LX%20ProductPage.html
+
+──────────────────────────────
+■ Linuxcare公布新客戶名單  有助推廣Linux產業運用
+
+謝良奇/編譯
+2000/12/07
+
+Linuxcare主要是協助客戶在Linux運用上達到最大效益，他們於日前
+公布新的企業客戶名單。藉著諮詢教育、產品測試認證等多樣化服務
+，該公司宣稱最終能進一步推廣Linux在產業界的廣泛運用。
+
+------
+
+Linuxcare於6日對外公布十家新企業客戶名單，宣稱其服務模式能為
+客戶帶來實際的企業價值，最終目的可進而推展 Linux的企業應用。
+以專業服務、Linux及開放原始碼解決方案供應為主的Linuxcare，幫
+助客戶達到運用Linux的最大效益。
+
+Linuxcare以多樣化專業服務及Linux、開放原始碼解決方案供應商角
+色自居，透過諮詢、支援、教育、產品測試認證服務，因應各種用戶
+需求，可協助客戶在運用Linux及開放原始碼時不足的地方。
+
+Linuxcare宣布新增十家企業客戶中，將對Digital Island、Ecrix、
+WSE/Honeywell、VERITAS Software、Espial、Ivenue.com、 Maxtor
+、SGI提供專業服務。而其餘的Adaptec、Ecrix、3ware三家公司則向
+Linuxcare尋求產品的測試及認證服務。
+
+事實上在過去六個月內，該公司快速成長的客戶名單已包括：康柏、
+惠普、Eazel、IBM、摩托羅拉、SmartDisk、昇陽、Tricord Systems
+及Zelerate等大廠。
+
+Linuxcare執行長，也是創辦人之一的Art Tyde表示，Linuxcare在加
+速 Linux應用上已踏出顯著的一步。其獨特的服務能完美符合各類型
+企業對Linux的委外需要。該公司是當企業在制訂、執行其Linux市場
+策略時，不可或缺的重要策略伙伴。
+
+相關網址：
+1、Linuxcare宣布十位新客戶，持續以服務促進Linux的產業應用
+   http://eltoday.com/article.php3?ltsn=2000-12-06-001-13-PS
+2、關於Linuxcare
+   http://www.linuxcare.com/about-us/company/fact-sheet.epl
+
+──────────────────────────────
+■ PocketLinux相中Lineo，作為行銷通路與套件來源
+
+沈美君/編譯
+2000/12/07
+
+嵌入式系統市場為 Linux提供一個發揮的舞台，經廠商間的結盟，可
+以讓OEM廠商及消費者更快享受到最好的服務，Lineo與Transvirtual
+ Technologies公司宣布合作計畫，可望創造雙贏局面。
+
+------
+
+以發展嵌入式Linux解決方案為主的Lineo，於12月6日宣布與Transvi
+rtual Technologies公司簽訂全球化銷售合約，由Transvirtual發展
+的嵌入式「PocketLinux」平台，將選擇Lineo的「EmbedixLinux」作
+為套件來源，並藉由Lineo的行銷通路來發行。
+
+Transvirtual的「PocketLinux」曾得過Linux Journal／COMDEX最佳
+新品大獎，為以Java、XML為主的嵌入式Linux，是標準化、開放式資
+訊溝通架構的系統平台，適用於許多異質的電腦系統上，包括 PDA、
+行動電話、機頂盒等。Lineo「Embedix」嵌入式 Linux系統，為OEM
+廠商為資訊家電訂做客製化平台的解決方案，包含在速度、記憶體管
+理、儲存裝置要求上的個別需求解決， Embedix產品家族已經可見於
+Motorola PowerPC、x86、ARM等。
+
+Transvirtual與 Lineo的合作，可為雙方創造雙贏的局面，「我們希
+望結合PocketLinux與Embedix的優勢，為消費者家電及可攜式裝備，
+加強連接Internet的便利性。」Transvirtual事業策略發展部副總裁
+ Daniel Lewin表示，「Lineo既有的銷售、支援通路，將可幫助我們
+提供OEM更快速完整的解決方案，進攻消費者市場。」
+
+Lineo表示，最快將可於2001年初開始銷售 Pocket Linux，詳細資訊
+請至Lineo官方網站查詢。
+
+相關網址：
+1、PocketLinux選擇Lineo為行銷通路與套件來源
+   http://alllinuxdevices.com/news_story.php3?ltsn=2000-12-07-001-03-PL-HH-LO
+2、關於Lineo
+   http://www.lineo.com/company/index.html
+3、Transvirtual Technologies公司官方網站
+   http://www.transvirtual.com/
+
+──────────────────────────────
+■ 昇陽Java P2P專案 悄悄上路
+
+謝良奇/編譯
+2000/12/08
+
+繼處理器巨人英特爾日前企圖建立點對點﹙peer-to-peer﹚標準，另
+一市場巨頭昇陽為趕上蓬勃發展的點對點技術趨勢，目前已暗中成立
+工程小組，希望整合Java與 Napster、Gnutella等檔案交換技術。預
+料昇陽此舉有助推動此一新興技術未來發展，但點對點技術傾向商業
+化已引起外界憂慮。
+
+------
+
+昇陽為趕上蓬勃發展的點對點技術趨勢，目前已暗中成立工程小組，
+推動Java P2P專案，希望整合Java與 Napster、Gnutella等檔案交換
+技術。盡管昇陽表示目前尚無相關之特殊專案、產品，但昇陽發言人
+已證實正在研究點對點技術發展，以作為促進Java軟體及產業網路伺
+服系統的銷售。
+
+負責昇陽此專案的市場經理Lynn Tognoli表示，點對點的網路通透性
+，從硬、軟體觀點看來，都極適合昇陽的企業模式。點對點技術不僅
+僅局限於透過網路交換音樂、影像檔案，該模式真正價值在於：不論
+是一般家庭個人電腦或伺服器，甚至是行動設備，只要連上網路，皆
+可相互分享資源、頻寬、處理器計算能力。而昇陽的目的即欲藉此擴
+張產品及開發策略。
+
+點對點技術允許個別電腦直接取得、交換、搜尋其它電腦資源，而不
+需經由傳統中央伺服器，如Napster、Gnutella、Freenet等等軟體的
+作法，直接挑戰產業界的傳統企業模式。其背後正傳達一項理念：一
+個不需企業、中央伺服器，交換資訊、內容的自由國度。
+
+日前英特爾掌握點對點標準制定小組的控制權，引起軟體開發團體不
+滿。大型企業參與點對點技術的發展，有加速此技術轉為全面商業化
+的疑慮，但即使是開放原始碼開端的 Linux，亦逐步滲雜商業化色彩
+的今天，純粹點對點技術內在的自由度，仍是企業制定商業模式的一
+大困難。
+
+然而點對點系統的某些機制，如軟體更新、病毒警訊、會員規則等，
+仍需要一套組織性的執行辦法。這些問題的制定權，於是成為商業領
+域、自由軟體開發者間的爭執焦點。
+
+針對獨立程式設計師所表達的抗議，英特爾正嘗試提出新議案，並降
+低昂貴的會員費用，以回應批評者的抱怨聲浪。目前據悉昇陽有意加
+入該P2P研發小組。
+
+相關網址：
+1、昇陽Java點對點專案起跑
+   http://news.cnet.com/news/0-1003-200-4044537.html
+2、究竟是美好的新世界或者歷史重演
+   http://news.cnet.com/news/0-1005-201-3248711-1.html
+
+──────────────────────────────
+■ IBM等電腦大廠發起Open Source開發實驗室 即將上路！
+
+謝良奇/編譯
+2000/12/05
+
+今年8月由惠普、IBM、英特爾、和NEC等四家公司，聯合發起的開放
+原始碼開發實驗室，預計在本月分正式公開，該實驗室位於奧瑞崗州
+波特蘭，提供來自全球各地的Linux和其他開放原始碼領域開發人員
+研究場地。
+
+------
+
+位於奧瑞崗州波特蘭的開放原始碼開發實驗室即將於本月開始運作，
+它是由四家公司在八月時所聯合發起，包括惠普、IBM、英特爾、和N
+EC等。此一實驗室成立的宗旨在於，提供來自全球各地的Linux和其
+他開放原始碼開發人員一個場地，在此，他們可以免費使用高階電腦
+硬體，從事程式碼的測試，並且共同研究。　
+
+實驗室的籌備成員每週開會一次，以排定最後的計劃，建立組織的架
+構，並且確保實驗室運作的地點是獨立於發起公司之外的。預計在本
+月就會公布實驗室的地點和負責人。
+
+對於此一實驗室的成立，分析師們有不同的看法，波士頓Aberdeen集
+團的分析師BillClaybrook指出，實驗室將刺激Linux未來的開發，長
+期而言，它將有極大的幫助。因為此一實驗室可以藉由改善某些應用
+軟體的性能，將Linux的重心擺在大規模的企業運算上。
+
+其他人則對此持保留態度，一位不願具名的軟體工程師指出，Linux
+開發人員要取得最新的機器，以測試他們的程式碼，並不會有太大的
+困難，因為硬體公司通常很樂意提供設備，如果軟體成功的話，它們
+就可以宣稱它們的硬體是支援這項軟體的。因此，此一實驗室並不會
+有太大的幫助。
+
+全球各地的開發人員可以透過網路連線或是現場的方式，使用此一實
+驗室的相關設施。四家發起公司已經投入人員和數百萬美元的資金，
+但確切的數字還未公開。
+
+相關網址：
+1、開放原始碼實驗室本月即將開始運作
+   http://www.computerworld.com/cwi/story/0,1199,NAV47_STO54613,00.tml
+2、開放原始碼開發實驗室在奧瑞崗展開
+　 http://linuxtoday.com/news_story.pp3?ltsn=2000-11-20-021-04-pS-CY
+
+──────────────────────────────
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

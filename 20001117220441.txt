@@ -1,0 +1,466 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１１.１７
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ KDE聯盟正式成立！
+
+■ 令人期待的重量級瀏覽器Netscape 6 終於現身
+
+■ Kylix計劃將不開放原始碼
+
+■ JBuilder 4 Foundation給您全新Java設計體驗
+
+■ 要看Linux企業展覽會，就在Comdex
+
+■ Linux人力銀行為您尋找伯樂及千里馬
+
+■ WebMachines發表IA軟體「iaClient for Linux」
+
+■ TradeXCH─搭起Unix/Linux、Windows間協同作業的橋樑
+
+
+═《編者的話》═══════════════════════
+
+包含IBM、SuSE、Caldera、康柏、 Corel等多家業界巨人，在最近舉
+行的Comdex展覽會上宣佈成立KDE聯盟，準備和Gnome基金會一別苗頭
+！ 
+
+觀察這次 KDE聯盟名單發現幾點有趣的現象，例如紅帽和昇陽不在名
+單之列，而Linux套件廠商MandrakeSoft則同時為Gnome基金會和 KDE
+聯盟的成員。相較於八月份Gnome基金會成立時的風光，KDE聯盟的成
+立，也許是想繼續為剛推出的 KDE 2.0多吸引些目光。這兩大重量級
+Linux介面I聯盟的後續消息，請繼續收看OpenScope電子報的報導。
+
+紅極一時的Netscape瀏覽器，日前終於推出第六版！除了採用開放原
+始碼的Gecko 引擎增進其效能外，將來更計劃利用跨平台特性，延伸
+至各類網路裝置的能力。另外，根據Borland 公司最新的消息表示，
+Kylix計劃尚未考慮將原始碼公開，因此期待Borland將Delphi及 C++
+Builder原始碼釋出的玩家可能要失望了，不過Borland最近針對Java
+設計師推出的JBuilder 4 Foundation仍可提供免費下載。
+
+最近舉行的Comdex展覽會可說是美國電腦界的年度盛事，眾家 Linux
+廠商也在此時推出新產品，詳情可見本報這期的綜合報導；紅帽則和
+Guru.com合作推出Linux人力銀行，為企業找尋適合的Linux人才。此
+外WebMachine針對目前當紅的資訊家電推出「iaClient for Linux」
+，而TradeXCH類似微軟的Outlook ，可為Unix/Linux提供傳訊、日程
+管理及協同﹙Collaboration﹚功能，搭起Unix/Linux及Windows作業
+系統兼協同作業的橋樑。本期 OpenScope報導的開放原始碼技術技術
+應用消息，希望您會喜歡！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+
+═《本期新聞》═══════════════════════
+
+■ KDE聯盟正式成立！
+
+馮文龍/編譯
+2000/11/16
+
+經過一番整合， KDE開發者終於在本週三的COMDEX電腦資訊展中宣佈
+正式成立KDE聯盟。 KDE聯盟成立的意義在於整合KDE的各方力量，使
+得KDE的發展能被積極地推動。
+
+------
+
+Linux的主要桌面環境之一KDE在本週三邁入一個新的里程碑。續八月
+份GNOME基金會成立之後，今年秋季Comdex電腦展示會中，KDE的開發
+者也宣布成立KDE聯盟。
+
+KDE聯盟的成員包括:Borland、Caldera、康柏、Corel、IBM、SuSE、
+KDE.com、 Fujitsu-Siemens 、惠普、 TurboLinux 、 Klarvdalens
+Datakonsult、theKompany.com、Mandrakesoft以及Trolltech等都是
+赫赫有名的大廠。這對KDE的發展來說，可謂是如虎添翼。
+
+KDE聯盟的主要工作，將放在推廣使用KDE先進的桌面環境於PC及手持
+式設備，並促使其他的開發者投入KDE 應用軟體的開發，但聯盟的本
+身並不會介入KDE核心程式庫及應用軟體的開發，因為KDE聯盟認為最
+佳的技術也需要強而有力的推薦，因此KDE 聯盟將專注在技術整合與
+推廣的角色上。
+
+KDE是一個由遍佈世界各地的開發者所共同開發的專案計劃，它是一
+個在 Linux 上的整合式桌面環境，具備網路透通性﹙transparent﹚
+以及直覺式的使用者操作介面。目前在Linux 的整合桌面環境可說是
+兩雄並立：KDE及GNOME，後者在八月份也宣佈了其聯盟的成立。雙雄
+的競爭可說進入了白熱化的階段。
+
+目前的開發計劃是KDE2，將提供一套面費的，開放原始碼的以及具備
+完整Office應用環境﹙文字處理，試算表..﹚等的整合式桌面環境。
+
+相關網址：
+1、KDE聯盟正式宣告成立
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-16-001-20-NW-KE
+2、KDE支持者成立KDE聯盟
+   http://www.zdnet.com/eweek/stories/general/0,11011,2653950,00.html
+3、開放原始碼社群與業界領導廠商成立KDE聯盟
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-15-006-06-PR-CY-KE
+
+──────────────────────────────
+■ 令人期待的重量級瀏覽器Netscape 6 終於現身
+
+謝良奇/編譯
+2000/11/15
+
+Netscape Communications 昨天推出新版重量級瀏覽器Netscape 6，
+在跨平台及功能上有多項改進，並重視用戶的個人化使用，提供使用
+者多種自訂功能。新版瀏覽器採用開放原始碼的 Gecko引擎，有助未
+來成功跨足整合各式網路存取裝置。
+
+------
+
+重量級瀏覽器軟體Netscape 6終於現身！ Netscape Communications
+於14日推出令人期待已久的新版瀏覽器Netscape 6，除提供用戶無比
+的便利性，其中更加入對使用者個人化的考量，讓用戶自行決定使用
+網際網路的方式。
+
+完全改寫過的Netscape 6，採用小而快的開放原始碼嵌入式 Gecko引
+擎，具有跨越傳統PC、工作站、甚至各類消費性設備平台的能力。目
+前支援視窗、麥金塔、 Linux。優秀的跨平台能力，有助於該新版瀏
+覽器進一步跨出桌上市場，延伸至各類型網路裝置。據Netscape資深
+副總裁及總經理Jim Martin表示，除了短期內運用在個人電腦上，未
+來更將逐步整合到其它應用環境。
+
+美國線上子公司之一的 Netscape Communications，曾有過佔瀏覽器
+市場近百分之90的輝煌時代。盡管Martin認為新版瀏覽器將幫助該公
+司重新奪回失去的市場佔有率，但微軟的 Internet Explorer，透過
+搭載視窗PC，佔有近70％的市場，Netscape勢必有一場硬仗要打。
+
+Netscape 6在考量個人化使用及自訂功能上，有著多項明顯改變，增
+加使用上的彈性，例如Themes讓使用者改變瀏覽器外觀、個人重要資
+訊連接的My Sidebar等等。Martin指出使用者不想受限於僵固的單一
+瀏覽器，Netscape 6能讓使用者自行決定如何使用網際網路。甚至連
+該下載那些軟體進行安裝，都可讓使用者自行決定，。
+
+除此之外，Netscape 6針對專業、商務用戶提供像多重郵件帳號、整
+合式即時傳訊等有效而簡易的解決方案。Netscape 6在安全性方面也
+有所增強。
+
+Martin表示，設計Netscape 6之時，該公司非常關注使用者是如何在
+生活中接觸網際網路，他們與開放原始碼 Gecko引擎的開發社群緊密
+合作，以期新版瀏覽器能讓使用者，對網際網路產生前所未有的體驗
+，並且希望經由Netscape 6跨越各式平台、設備，作為未來網際網路
+革新的基礎。
+
+Netscape 6推出受到矚目的另一焦點，是其陣容龐大的行銷活動。該
+瀏覽器將透過網路服務供應商、平面電子媒體、電腦製造商等合作伙
+伴，進一步擴展軟體行銷。
+
+相關網址：
+1、Netscape 6能否揮出強勁有力的一擊?
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-14-009-06-PS-DT-SW
+2、Netscape推出Netscape 6瀏覽器
+   http://linuxpr.com/releases/2902.html
+
+──────────────────────────────
+■ Kylix計劃將不開放原始碼
+
+張書銘/編譯
+2000/11/15
+
+Borland公司月初提出Kylix計劃，將把Delphi以及 C++ Builder兩套
+程式語言工具移植到 Linux上。目前Borland 又釋出了進一步的資料
+介紹更多相關訊息，但是資料中也表示，Kylix 計劃中所推出的產品
+將不會釋出原始碼。
+
+------
+
+期待Borland會將Delphi與C++ Builder的原始碼釋出的玩家們可能要
+失望了！根據Borland公司最新的消息表示，Kylix計劃中，還沒有考
+慮把原始碼公開的動作。同時在這些資料中，也說明了計劃中初步的
+產品能力與支援環境等訊息。
+
+Borland公司13日晚間發布了Kylix計劃的最新資料，在 Linux上推出
+的程式語言工具所使用的各種元件﹙VCL﹚將稱為CLX，將與微軟視窗
+系統上的Delphi與 C++ Builder所使用的元件完全相容，因此網路上
+由個人開發者針對微軟視窗版Delphi與 C++ Builder所設計的元件，
+也可以移植到Linux上。同時CLX中也會包括多項稱為Visual CLX的圖
+形介面原件，提高Linux Delphi的可用性。
+
+在發表這些資料的同時，Borland 公司業務開發部門副總裁聲明，先
+前的消息中指出，Borland 公司會將新的工具原始碼釋出只是傳言。
+Borland對於Kylix的計劃將採取與Trolltech公司類似的模式。在CLX
+部分可以自由使用，正式購買 Kylix計劃產品則可以得到更完整的功
+能以及支援。
+
+由於在最新消息中指出，Kylix CLX大量支援 Qt圖形介面函式庫，因
+此Borland公司在發表消息的同時特別強調，屆時Kylix計劃下的產品
+會對使用Qt的KDE視窗環境與 GNOME提供同等的支援。另外，Borland
+還指出，預計明年年初就可以正式推出產品。
+
+相關網址：
+1、Borland公司表示Kylix計劃下的產品無意釋出原始碼
+   http://news.linuxprogramming.com/news_story.php3?ltsn=2000-11-13-011-05-DT
+2、Kylix CLX原件說明
+   http://www.borland.com/kylix/faqs.html#clx
+
+──────────────────────────────
+■ JBuilder 4 Foundation給您全新Java設計體驗
+
+葉志博/編譯
+2000/11/15
+
+Inprise公司於本月13日推出Borland JBuilder 4 Foundation， 並
+可在Borland網站上免費下載。這是一個純為Java設計師所建造的整
+合性發展工作環境 ﹙Integrated Development Environment,IDE﹚
+，支援最新的Java 2工作平台標準，以及跨平台軟體的發展工作。
+
+------
+
+Inprise，也就是一般所熟知的Borland公司，近日於Linux商務展覽
+中，宣布推出最新的Borland JBuilder 4 Foundation，並於網站上
+提供免費下載試用服務。JBuilder 4 Foundation為一個專為Java軟
+體所設計的工作環境，並符合Java 2工作平台標準及跨平台作業。
+
+JBuilder 4 Foundation環境中包括有整合的編輯器、除錯器、編譯
+器、視覺設計器，以及輔助精靈，提供設計師一個理想的 Java軟體
+設計環境。除此之外，JBuilder 4 Foundation還有範例軟體、教學
+程式、多媒體訓練，以及支援最新 Java 2標準，使Java設計師在各
+種平台上都能得心應手。
+
+在工作效能方面，JBuilder 4中的 AppBrowser，讓使用者輕鬆地管
+理數以千計的封包及原始檔案。另一項CodeInsight技術，會自動地
+偵查您所鍵入的Class、method及參數，將它們緊密地融入原始碼編
+輯器中。
+
+兼容性方面而言，JBuilder 4在視覺設計環境中使用JavaBeans，不
+必對程式碼做任何的人為更動。JBuilder 4的除錯器使用新的JPDA 
+科技，提供穩健的除錯體驗。Java APIs可以輕易地整合入Java發展
+環境中，JBuilder 4 設計檔可同時由Solaris及Windows工作平台的
+使用者分享。
+
+其他新功能有：XML導向專案管理人、視覺工作室等。 JBuilder 4 
+Foundation不但簡化且加速了 Java軟體的發展程序，其無與匹敵的
+功能、開放性及擴展能力，也促使Borland在Java發展領域中成為卓
+越領導者。
+
+相關網址：
+1、JBuilder 4 Foundation提供您一個舒適的Java軟體設計環境
+   http://eltoday.com/article.php3?ltsn=2000-11-14-001-01-PS
+2、JBuilder 4 Foundation簡介及免費下載
+   http://www.borland.com/jbuilder/foundation/
+
+──────────────────────────────
+■ 要看Linux企業展覽會，就在Comdex
+
+蕭喜那/編譯
+2000/11/14
+
+二千年的Comdex是Linux的天下？Comdex的Linux企業博覽會，不僅參
+展廠商數目成長了兩倍，連場地也擴大兩倍，Comdex為 Linux市場的
+快速成長再一次作了見證。眾家 Linux軟體和硬體廠商，無不使出全
+力，展示最新的Linux產品，期望能吸引與會者的目光。
+
+------
+
+本週，二千年Comdex秋季電腦大展在賭城熱鬧登場，此次Comdex會場
+中最令Linux迷期待的，必定是Linux企業博覽會了。預計將有七十四
+家廠商參展，這個數目是是去年的兩倍，並且會場所佔面積也幾乎是
+去年的兩倍。Comdex再次證實了Linux的快速成長。
+
+這次的Linux企業博覽會，參展的Linux軟體和硬體廠商，無不使勁全
+力展示最新、最好的Linux產品。
+
+紅帽將展示數項使用其作業系統的電子裝置，例如Iomega的手提 MP3
+播放器Hip Zip，就是使用紅帽的eCos作業系統，另外，Playstation
+ 2和易利信的手提螢幕電話也都使用紅帽的產品。
+
+另外，熱門的叢集系統導向的廠商，則有Lineo和Linux Network等。
+Lineo將展示Availix Clustering 1.1，Linux Network則展示它最新
+的Evolocity TM。另外，DataMyte和PocketPenguins則宣布結盟計劃
+，提供Linux行動運算系統。
+
+Linux企業博覽會中，還可以看到許多具有創意的Linux廠商，例如來
+自以色列的Epitera，將展示一個全新、好用的Linux桌面環境，這是
+專門針對PC和網路家電使用者而設計的。而Merlin軟體科技公司也展
+示了第一部 Linux傳真伺服器，使用者可以在任何平台上、以任何一
+種應用軟體傳真。更令人驚奇的還有Turbolinux展示其EnFuzion軟體
+的威力，可以在不到一分鐘的時間內，破解五個字元的微軟NT密碼。
+
+相關網址：
+1、Comdex證實開放原始碼Linux的成長
+   http://www.eet.com/story/OEG20001113S0071
+2、Turbolinux的EnFuzion在一分鐘之內，破解NT密碼
+　 http://linuxpr.com/releases/2888.html
+3、Merlin軟體在Comdex介紹Communicado Fax
+   http://linuxpr.com/releases/2891.html
+4、Epitera Linux桌面給Comdex帶來Kandu態度
+   http://linuxpr.com/releases/2887.html
+
+──────────────────────────────
+■ Linux人力銀行為您尋找伯樂及千里馬
+
+沈美君/編譯
+2000/11/16
+
+Red Hat於十一月15日宣布與Guru策略聯盟，將結合Red Hat原有的企
+業顧客群，與Guru所經營的線上市集，擴張 Linux人力資源市集服務
+，為有能力的人才尋找適當的職位。
+
+------
+
+如何為有能力的人才尋找適當的職位，對求職者和徵才者都是重要的
+問題。市場版圖逐漸擴張的 Linux，人才需求亦越來越急迫，許多開
+放原始碼計畫與公司的 Linux專案，都急需在某些領域有特定專長的
+人才。
+
+Red Hat與Guru公司攜手合作，將Red Hat原有的顧客群，與Guru所經
+營的人力資源市場作結合，成為Linux 的人力資源市集服務，為企業
+尋找適合的Linux人才，也為許多獨立工作並具有Linux專才的自由業
+者（freelancer），提供可以發揮實力的開放原始碼專案和相關工作
+的工作機會。
+
+Guru為經營線上市集的公司，為自由業者和具有特定專長的顧問，提
+供專案機會的撮合服務，目前註冊的會員人數高達35萬及5萬2千家公
+司，曾經得過許多績優獎項。除了人力資源之外，Guru尚提供企業管
+理工具、生涯規劃諮詢等服務，有許多如RedHat、American Express
+等領導廠商投資。
+
+此次Red Hat對Guru的策略性投資合作計畫，無疑嘉惠了Red Hat的企
+業客戶，可利用Guru的人力資源網，來找尋具特定專長的Linux IT人
+員；更為 Guru的會員增加了許多工作機會。 Red Hat網站的 Career
+ Center新增了直接連到 Guru 網站的連結，自由業者可編輯自己的
+資料檔案，限定搜尋條件，來尋找最適合自己的開發專案或工作機會
+。
+
+相關網址：
+1、Red Hat 與 Guru 策略聯盟，擴張 Linux 人力資源市集服務
+http://eltoday.com/article.php3?ltsn=2000-11-15-001-01-PS
+
+2、Guru官方網站
+http://www.guru.com/
+
+3、Red Hat官方網站
+http://www.redhat.com
+
+──────────────────────────────
+■ WebMachines發表IA軟體「iaClient for Linux」
+
+沈美君/編譯
+2000/11/15
+
+以「隨處、隨時、隨機都可接觸資訊」為企業目標的WebMachines 公
+司，推出了「iaClient for Linux」嵌入式資訊家電軟體，充分利用
+Linux富彈性及易於客製化的特性，提供企業可用的IA解決方案。
+
+------
+
+據IDC的預測，公元2002年前，資訊家電﹙IA﹚ 的總數將會遠超過個
+人電腦總數，且在2004年之前，所有資訊家電應用將會創造高達一千
+七百八十億美元的市值，以Linux 為嵌入式系統的應用也正快速的發
+展中。
+
+以研發IA架構見長的WebMachines公司，發表IA軟體「 iaClient for
+Linux」，為WebMachines網路設備產品系列的成員之一，除了具有易
+於客製化及快速發展的特性外，iaClient for Linux的功能相當完備
+，可提供企業作為全方位的資訊家電解決方案。
+
+iaClient for Linux與同樣是WebMachines所發展的iaNetwork組合起
+來，可創造一個具整合性的IA軟體架構，提供資訊家電的廠商，藉這
+種完備的架構環境來部署自行發展的IA設備，並經由許多經營模式來
+獲利，例如客戶資料的擁有、Email服務、ISP收益、廣告、策略聯盟
+、贊助廠商、轉介費用等。
+
+iaClient for Linux內含豐富的plug-in，例如 Macromedia Flash及
+RealPlayer G2；亦可選擇性地附加 Java Virtual Machine，部分加
+強瀏覽器的功能面。iaClient中尚有電子郵件、聊天應用軟體、媒體
+播放器等。此外，在瀏覽器的部分，可選擇以 Netscape 或 Mozilla
+為主，前者有普及和業界標準兩種優勢，後者則有高度客製化的特性
+，企業客戶可依需求選擇。
+
+最快在2001年的第一季，iaClient for Linux就可與大家見面，其他
+相關的iaClient解決方案尚包括 iaClient for QNX和 iaClient for
+Windows CE。
+
+相關網址：
+1、WebMachines公司發表嵌入式資訊家電軟體「iaClient for Linux」
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-14-003-20-PR-EM
+2、關於iaClient
+   http://www.webmachines.com./
+
+──────────────────────────────
+■ TradeXCH─搭起Unix/Linux、Windows間協同作業的橋樑
+
+謝良奇/編譯
+2000/11/16
+
+往後在Unix/Linux、微軟視窗並存的混合型網路中，不怕沒有優良的
+傳訊、協同軟體了。Bynari已於15日推出TradeXCH的最新加強版本，
+提供包括電子郵件管理、傳訊、日程管理等多項功能，替Unix/Linux
+系統與微軟視窗間，搭起交互協同作業的橋樑。
+
+------
+
+Bynari，以開放標準為基礎，專門設計、開發跨平台先進傳訊、協同
+軟體，於15日推出TradeXCH用戶端應用軟體的加強版本。TradeXCH是
+一套易於使用的應用軟體，可為Unix/Linux系統，提供協同、傳訊、
+日程管理等，如微軟Outlook的類似功能。
+
+Bynari的產品主要為加強各式Unix/Linux平台的交互運作功能，更可
+作為微軟視窗桌面系統、Unix/Linux系統間的整合橋樑。該公司的一
+系列應用軟體，能讓使用者將各式Unix/Linux桌上系統及工作站，整
+合微軟Exchange網路，取代微軟Exchange  Server。在微軟Exchange
+Server、惠普OpenMail、Lotus Notes/Domino等產品外，為使用者提
+供工作群組產品一個低成本的選擇。
+
+TradeXCH 是類似微軟Outlook的一套桌上應用軟體，專為Unix/Linux
+提供傳訊、日程管理、協同功能。TradeXCH可和微軟 Outlook交互運
+作，成為Unix、視窗混合網路的傳訊、協同系統。TradeXCH支援多種
+傳訊協定，允許多種平台一同作業，在企業內部支援開放式通訊。
+
+Bynari執行長Mike O'Dell表示，TradeXCH 能提升群組軟體在混合型
+網路下的協同運作能力，他們相信，該軟體正足以切合企業當前對開
+放、跨平台、支援各式標準的協同作業需要。
+
+這一次新版的TradeXCH，在圖形使用者界面、易用性、訊息管理皆有
+所加強，此外，Bynari 伺服器元件，能整合微軟Outlook用戶端，以
+Windows NT作業系統服務執行。TradeXCH目前支援X86處理器的Linux
+，稍後將推出 Solaris Sparc、Solaris X86、HP-UX、SCO UnixWare
+ 7.1等不同版本。
+
+相關網址：
+1、Bynari推出Unix/Linux新桌上協同軟體
+   http://linuxpr.com/releases/2906.html
+2、關於TradeXCH及Bynari
+   http://www.bynari.net/About_Bynari/about_bynari.html
+
+──────────────────────────────
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
+
+

@@ -1,0 +1,476 @@
+網基科技  
+╭════════════════════════════╮
+
+    《 OpenScope    開放視界電子報》   ２０００.１０.０６
+
+╰════════════════════════════╯
+        ---  http://www.cyberworksolution.com  ---
+
+
+
+═《編者的話》═══════════════════════
+
+Linux的下一波主戰場，絕對是電子商務─這不是預言，而是IBM、甲
+骨文等大廠以行動實際展現的具體事實！ 
+
+Linux在大型企業電子商務方面的應用，在過去向來受到忽略； 但是
+一旦開始成長，速度將越來越快。藍色巨人IBM最近積極在Linux平台
+上的應用投注相當多的心力，除了新推出的伺服器eServer 大力支援
+Linux外，IBM Linux科技中心開發的檔案紀錄系統﹙ Journal  File
+System﹚更是異軍突起，在解決系統穩定問題方面展現優異的成績。
+資料庫大廠甲骨文推出的Oracle8i對Linux平台的支援不遺餘力， 展
+現了甲骨文對Linux 作為關鍵任務執行平台效能上的莫大肯定。另一
+方面，Planet 7公司推出的電子商務重量級產品XML Network Server
+也支援了Linux平台，看來這場以Linux為主角的電子商務大戰，將會
+越打越烈、越打越精采！ 
+
+您玩過MIDI嗎？以往玩電子音樂需要耗費大把鈔票購置昂貴的設備，
+但現在您可以不需要花一毛錢，就能在Linux 上使用開放原始碼的軟
+體合成器Ultrmaster Juno 6！ 另外，網路上最常被使用的開放原始
+碼信件伺服軟體Sendmail最近也與趨勢、ActiveState、 Brightmail
+合作，推出整合型的網路通訊過濾解決方案，以因應網路上日益增多
+的垃圾郵件和病毒。各種開放原始碼軟體的優異表現與進步幅度實在
+相當驚人，也將繼續造福廣大的資訊使用者！ 
+
+Linux的影響力越來越大，Linux的發起人托瓦茲﹙Linus Torvalds﹚
+居功厥偉，由於他卓越的貢獻，最近獲選為近十年內最具有影響力的
+人之一，與WWW的發明人Tim Berners-Lee和微軟創始人Bill Gates齊
+名。另一方面，最近NVIDIA 公司推出在Linux上的3D卡驅動程式，但
+卻由於未完全開放原始碼，因而遭到Linux 社群的抱怨。這件事情到
+底誰是誰非？真是公說公有理、婆說婆有理，看來日後類似的糾紛還
+會多的很呢。想要在第一時間內獲取與開放原始碼相關的產業動態與
+小道消息，請繼續收看OpenScope開放視界電子報！
+
+另外，部分讀者可能是透過個人發報站台訂閱，若您只想收到不含廣
+告的純文字版本，可直接寄一封標題為「subscribe」的信到：
+openscope@cyberworksolution.com即可訂閱。
+
+══════════════════════════════
+
+
+═《本期內容》═══════════════════════
+
+■ IBM eServer全力支援Linux與開放技術標準
+
+■ IBM Linux科技中心發表新檔案紀錄系統
+
+■ 甲骨文發表Oracle8i Linux高階應用更加成熟
+
+■ 電子商務的秘密武器：XML Network Server支援Linux
+
+■ 玩電子音樂 Linux有一套！
+
+■ 攔截垃圾郵件 Sendmail有新招！
+
+■ 3D卡驅動程式不符合GNU精神 Linux玩家有意見
+
+■ 最近十年資訊界十大英雄 托瓦茲名列前三！
+
+
+═《本期新聞》═══════════════════════
+
+■ IBM eServer全力支援Linux與開放技術標準
+
+張書銘/編譯
+2000/10/04
+
+儘管網路公司的聲勢不再如同過去那麼雄壯，但一般企業對於電子化
+的腳步卻從來沒有慢下來過。為了能讓一般企業也能擁有理想的電子
+商務環境，有力的伺服器是不可缺少的。因此， IBM針對這樣的趨勢
+調整自己的策略，致力於研發企業電子化專用的伺服器。
+
+------
+
+為了提供傳統企業一條有效改善其既有供應鍊，使其擁有更好的效率
+來從事生產作業的途徑，電子商務化已經成為一項不可避免的工作。
+不管是要B2B或是B2C，良好的伺服器系統都是必要的。
+
+根據 Gartner Group調查指出，到西元2004年時，透過電子交易市集
+所完成的交易金額，將會達到二兆七千一百億美元，大約佔了企業間
+電子商務整體交易金額的37%，而 IDC所推估的比例甚至更超過50%。
+因此，IBM 公司決定在此時調整伺服器發展策略，致力發展一般企業
+商用伺服器。
+
+IBM 認為對一個好的商業用伺服器而言，除了最基本的穩定性以外，
+友善的操作介面以及良好的解決方案是絕對不可缺少的。因此在研擬
+新的發展策略時，IBM 決定跳脫舊有的四大主機以及十六種模組的開
+發方式，轉而以推行新的開發模組─eServer。
+
+在eServer 模組觀念中有兩點較為重要，第一個就是以提供對其他系
+統支援的方式來擴展產品視野，像是支援 Linux。像之前的AIX 5L將
+可以完整支援Linux及將在AS/400上提供對Linux一定程度的支援等消
+息，這些計劃是以讓原本曾使用IBM AIX以及 AS/400系統而現在想使
+用Linux的使用者能夠輕鬆上手為目標。     第二，IBM 致力使用各
+種開放性的標準，像JAVA、XML、HTTP及 HTML等等。在使用開放性協
+定與標準的情況下，對於使用者而言會更為有利。因為開放性標準在
+文件與技術上的取得都很容易，對企業而言，可以有效培育自己的資
+訊科技人才來解決問題。因此 IBM在新的策略規劃中強調使用開放性
+標準，對使用者而言較為有利。
+
+目前eServer產品生產線正與其他多家應用程式公司如 Rogue Wave軟
+體、Rational Software等合作，希望在eServer相關系列的伺服器上
+市時也能有一定數量的應用程式一起推出。預估本季IBM的eServer相
+關系列產品就可以上市。
+
+相關網址：
+1、IBM推出新世代電子企業伺服器
+   http://eltoday.com/article.php3?ltsn=2000-10-03-002-01-PS
+2、IBM eServer將以Linux為建構基礎
+   http://www.newsforge.com/article.pl?sid=00/10/04/0010257&amp;mode=thread
+
+──────────────────────────────
+■ IBM Linux科技中心發表新檔案紀錄系統
+
+葉志博/編譯
+2000/10/05
+
+系統掛了、交易無法進行、公司運作停擺，對小公司來說也許損失並
+不大，但對每日交易動輒幾千萬，甚至數億美金的國際企業而言，這
+可不是重新啟動就可草草了事的。有鑑於此，IBM研發了JFS檔案記錄
+系統，讓停擺的系統在幾分鐘，甚至幾秒鐘之內再度生龍活虎起來，
+將損害程度減到最低。
+
+------
+
+隨著資訊科技的發達，再加上網路盛行，更多企業採用內部管理系統
+、電子交易系統等資訊化軟體，來處理交易和維持公司內部運作，這
+的確帶給企業莫大的助益。但伴隨而來的隱憂，便是人人聞之色變的
+"系統當機"，不但牽扯到公司整體利益的損失，公司的商譽無形中也
+受到了打擊。
+
+針對這問題，IBM的Linux科技中心﹙LTC﹚開發JFS檔案記錄系統，它
+記錄下每件檔案被寫入和移動的位址。如此一來，當系統毀損時，根
+據JFS 資料庫所記載的資料，在短時間內重新建立系統，恢復正常公
+司運作，交易不致停擺。以往，同樣的動作可能要花費幾個小時，或
+幾個工作天，對於分秒必爭的企業來說，實在承受不住這樣的打擊。
+
+金融界和國際企業使用跨行、跨國交易系統來維持營運，必須保持二
+十四小時運作不歇，才能為客戶提供穩健服務。萬一遇到系統當機，
+JFS 確保整個系統能在最短時間內恢復運作，但不能保證所有資料仍
+然完好無缺。不論如何，對於高運作量或交易導向的系統而言，能夠
+在短時間內繼續對客戶提供服務，是首要之務。
+
+JFS 檔案記錄系統為確保交易運行不墜，運用區塊位址結構來記錄每
+筆檔案相對的資料字串，包括字串的邏輯偏移、長度等參數，佔去許
+多的記憶空間，但IBM 已將同步記錄改為非同步記錄，在不影響系統
+工作量的情況下，進行記錄字串的工作。現今企業皆透過伺服器來讀
+取、儲存交易資料，只要再搭配JFS 技術，即使系統當機也能立即回
+復到先前的正常狀態。
+
+相關網址：
+1、Nicholas Petreley評論Linux優缺點
+   http://www.linuxworld.com/linuxworld/lw-1999-04/lw-04-penguin5.html?05-03
+2、論"JFS 檔案紀錄系統" 
+　 http://www.linuxgazette.com/issue55/florido.html
+3、"JFS 檔案記錄系統概貌" 
+   http://www-4.ibm.com/software/developer/library/jfs.html
+4、快來下載JFS 
+   http://oss.software.ibm.com/developerworks/opensource/jfs
+5、Linux Summit II特點 
+   http://oss.software.ibm.com/developer/opensource/jfs/project/pub/jfsii/jfsii.htm
+6、Linux相容JFS介紹 
+   http://oss.software.ibm.com/developer/opensource/jfs
+7、ReiserFS，kernel 2.4的檔案記錄系統 
+   http://devlinux.com/projects/reiserfs
+8、Linux相容XFS介紹 
+   http://www.linuxworld.com/linuxworld/lw-1999-05/lw-05-sgi.html 
+
+──────────────────────────────
+■ 甲骨文發表Oracle8i Linux高階應用更加成熟
+
+馮文龍/編譯
+2000/10/05
+
+美商甲骨文公司發表其在SuSE、TurboLinux以及VA Linux上的Oracle
+平行伺服器，同時也宣告其未來的Oracle9i真實應用叢集技術也將有
+Linux版本。
+
+------
+
+甲骨文今日發布其在業界屬於首次發行的Linux 叢集式資料庫伺服器
+─Oracle8i 平行伺服器，能讓使用者得以在低成本的Linux作業系統
+環境中提供關鍵任務、高可用度的商用軟體或是大型的資料倉儲。
+
+這款伺服器著重在解決提供網際網路服務的業者，一天24小時即時線
+上服務所面臨的壓力，並且降低因系統停機所造成的成本以及增加業
+者營業收入。
+
+Oracle 引進了成熟的高可用度技術，使得Linux在高可用度的產品市
+場能夠佔有一席之地。另外在甲骨文公司未來推出的Oracle9i中更加
+入了新的Cache Fusion Architecture 技術，將可使得系統的擴充性
+達到最大。
+
+Linux Oracle8i 平行伺服器支援 4節點、8-way叢集，包括SuSE、VA
+ Linux 及Turbo Linux等三家廠商均已完成了在其Linux 系統平台上
+的測試。Oracle8i的客戶，LeaseExchange的CTO Jay Borenstein 也
+對此產品的穩定度及效能表示讚賞，他表示當應用程式在叢集式環境
+中執行時，叢集中的每一個伺服器的工作負荷是無法預估的，當其中
+的一台發生故障時，系統仍能在其存活的資源中繼續執行，這點將可
+將系統的資料遺失或停機的損失降到最低。
+
+Oracle的資深副總Michale Rocha的說法或許可以作為Linux朝向高階
+系統發展的一個參考指標：「Linux 在關鍵任務執行環境的出現，其
+實是開放系統模型的一個理性的進化，而這也正是Oracle標榜在此平
+台上發展Oracle資料庫以及相關技術的精神所在。」
+
+相關網址：
+1、甲骨文公司發表首版Linux叢集式資料庫
+   http://www.newsalert.com/bin/story?StoryId=CoDQRqbWbu0zxmda2qq
+2、關於Oracle 8i Release 3
+   http://technet.oracle.com/products/oracle8i/listing.htm
+
+──────────────────────────────
+■ 電子商務的秘密武器：XML Network Server支援Linux
+
+沈美君/編譯
+2000/10/04
+
+繼IBM、Microsoft、Ariba 推出B2B 的XML資料交換標準「UDDI」後，
+Planet 7 Technologies 公司於二日宣布旗艦型產品「 XML Network
+Server 2.0」的正式發行，為新一代電子商務的分散式網路架構，提
+供以XML為標準的整合機制。
+
+------
+
+Planet 7 Technologies 公司於二日發表旗艦型產品「 XML Network
+Server 2.0」﹙XNS ﹚，為新一代電子商務的分散式網路架構，提供
+以XML為標準的整合機制，使Intranet/Internet上的資料交換，以全
+雙工來達成即時、同步，降低回應時間，讓企業更有效率的整合內部
+應用軟體間的訊息交換，創造B2B的競爭優勢。
+
+XML Network Server在新一代的網路架構中，扮演基礎建設的角色，
+就像routers和hubs在網絡間的功能一樣，XNS創造／連接多筆交易資
+料空間﹙transaction spaces﹚，來作商務資料的「多對多 XML轉換
+」，達到資料交換的同步性、即時更新特性。XNS 以路由器和交換器
+的概念，內嵌到現有的網路架構上，可以很容易地整合現有的各種應
+用程式資料交換，並取代中介軟體﹙middleware﹚與 http-speaking
+應用程式伺服器，能提高效率並同時降低發展成本。
+
+以具體應用來比喻XNS 的話，XML Network Server架構相當於TCP/IP
+ 通訊協定在網路中扮演的角色，而XML資料在各個應用軟體的邏輯層
+﹙logical level﹚間流來轉去，就像Cisco路由器處理TCP/IP資料封
+包一般。資料以XML 格式存在，資料格式的轉換動作不交由各應用軟
+體自行處理，而採中央控制的方式。
+
+XNS可以突破處理效能上的瓶頸，即時、多對多的XML資料交換，減少
+佇列等待時間，Data sharing與同步處理機制，可處理XML 文件的多
+變格式。XNS內建XML分析器﹙parser﹚，並嚴格遵守W3C的XML規格，
+與其他的XML技術也能相容，例如SOAP、UDDI、RosettaNet、OASIS、
+oXML、ACORD、ebXML等。XNS使用Java 作為開發工具，在客戶端平台
+也應用JVM﹙Java Virtual Machine﹚，在Windows 2000及Linux平台
+皆適用，亦支援微軟的COM物件。XML Network Server 2.0 的Linux/
+Windows2000授權費用為每套 50,000美金，客戶端發展軟體也有適合
+兩種系統平台的版本。
+
+相關網址：
+1、Planet 7 公司的電子商務秘密武器：XML Network Server 2.0
+   http://eltoday.com/article.php3?ltsn=2000-10-03-001-01-PS
+2、XML 的電子商務機制標準準備上路
+   http://www.newsforge.com/article.pl?sid=00/09/01/1146252&amp;mode=thread
+3、Planet 7 Technologies 公司官方網站
+   http://www.planet7tech.com
+
+──────────────────────────────
+■ 玩電子音樂 Linux有一套！
+
+張書銘/編譯
+2000/10/04
+
+過去常玩midi或電子音樂的人都知道，要做出好音樂一定得記住「工
+欲善其事，必先利其器」。沒有一套好的軟硬體支援是沒辦法做出好
+音樂的。不過隨著科技發展，軟體能力提昇，現在玩電子音樂不一定
+得花大錢去買一套好keyboard。只要軟體夠力，一切都沒問題。
+
+------
+
+其實電子樂器的歷史由來已久，早在一八八零年代，德國的物理學家
+就利用簡單的電池以及玻璃容器組合出一套可以發出複雜音效的器材
+了。而現代電腦科技發達，當然在模擬複雜的聲音表現上更為出色，
+相關的產品以及作品也不斷推出。唯一的缺點是，早期使用電腦來做
+相關工作時，常常會因為系統能力還不足，必須外加其他的硬體來彌
+補才行，最重要的就是硬體的類比合成器﹙或稱類比混音器；analog
+synthesizer﹚，有了它才能進行混音等重要工作。
+
+而現在因為電腦本身運算能力的提昇，利用軟體模擬類比合成器在也
+不是困難的問題，因此在其他的作業系統上紛紛推出許多利用軟體模
+擬的合成器。而最近，Linux上終於也推出了Ultrmaster Juno 6這一
+款軟體合成器。
+
+這一款Ultrmaster Juno 6是模擬Roland Juno-6這一款由YAMAHA推出
+的硬體合成器。靠著現在處理器強大的運算功能，除了一般的混音能
+力外，連硬體上低頻震動器﹙ Low Frequency Oscillators：LFOs﹚
+製造的重低音效果以及過濾雜音頻率的電壓控制濾波器 ﹙ Voltage 
+Controlled Filters：VCFs﹚的能力都可以完全的模擬出來。
+
+另外還有一款SpiralSynth，大致上和Ultrmaster Juno 6能力相近，
+不過由於目前還在開發中，因此最後的效果還沒有完整的測試報告可
+供查詢。不過這兩款軟體都採用 GPL授權，因此無論使用者有任何問
+題，都可以修改它們以符合自己的使用需求。
+
+相關網址：
+1、Linux上的軟體混音器
+   http://www.firstlinux.net/article.php3?sid=864
+2、ARTS─即時類比混音器
+   http://www.arts-project.org/
+
+──────────────────────────────
+■ 攔截垃圾郵件 Sendmail有新招！
+
+蕭喜那/編譯
+2000/10/03
+
+Sendmail宣布將與ActiveState、Brightmail和Trend Micro合作，於
+今年第四季推出整合的安全網際網路通訊解決方案，鎖定重視網際網
+路通訊系統安全性和控制性的企業與服務提供業者。
+
+------
+
+Sendmail是一家網際網路通訊解決方案的領導供應商，在昨日宣布該
+公司數個內容管理的合作夥伴，已經準備好要把它們的郵件過濾軟體
+的plug-ins，拿來和Sendmail的產品一起使用。
+
+這些夥伴包括ActiveState、Brightmail和Trend Micro等，它們將和
+Sendmail合作推出安全網際網路通訊解決方案，主要的顧客來自於企
+業和服務提供業者，這些業者非常重視它們的網際網路通訊系統是否
+安全和可以控制。
+
+最新上市的Sendmail Switch 2.1和Sendmail 先進訊息伺服器，包含
+強大的plug-in 架構，可以讓一個或一個以上的「過濾軟體」以更有
+效率的方式，進行訊息流的檢查和修改。這些過濾軟體可以阻擋或隔
+離含有病毒、垃圾郵件或危險的附件樣式的訊息；偵測機密的資訊或
+騷擾；將訊息以內容為主設定路由；將訊息建檔；或是附上公司章、
+聲明或公告等。把這些種類的功能整合到郵件骨幹中，對內容管理而
+言，是最有效的方式，並且確保內容政策不會被規避掉。
+
+Sendmail與ActiveState、Brightmail和Trend Micro的合作，該公司
+的路由和主機服務將具備三項獨特的過濾功能：一、Trend Micro 的
+過濾 plug- in ，可以過濾電子郵件病毒和其他惡意的程式碼。二、
+Brightmail提供過濾plug-in ，和「指紋」訂閱服務，這項服務對抗
+垃圾郵件是最有效的。三、ActiveState的Perl和PerlMx ，可以使顧
+客依據他們特定的需求和政策，輕易地開發和布署定製的過濾軟體。
+
+Sendmail與ActiveState、Brightmail和Trend Micro的合作，所整合
+而成的解決方案，預計在今年第四季上市。
+
+相關網址：
+1、SEndmail在企業和服務提供者市場上，推出安全網際網路通訊解決方案
+   http://eltoday.com/article.php3?ltsn=2000-10-02-001-01-PS
+2、Sendmail發行註釋
+　 ftp://ftp.sendmail.org/pub/sendmail/RELEASE_NOTES    
+
+──────────────────────────────
+■ 3D卡驅動程式不符合GNU精神 Linux玩家有意見
+
+馮文龍/編譯
+2000/10/04
+
+在發表微軟新作業系統上的3D卡驅動程式一個月之後，Nvidia終於推
+出了Linux版本的3D卡驅動程式，不過Linux 社群對NVIDIA's driver
+最大的爭議在於─它並非完全開放原始碼。
+
+------
+
+Nvdia公司這次推出7款Nvidia 3D卡，在SuSE 全新的Linux 7.0 版上
+將證明它較之前的 0.94 版更為先進，並且非正式地將 Detonator3-
+tuning包含在內，同樣展現在Windows 2000 下的Detonator 3所表現
+的進步風貌。
+
+不過，Linux社群對NVIDIA's driver最大的爭議在於：它並非完全開
+放原始碼。許多Linux cracker認為這無疑是嚴重違背了GNU的信仰─
+所有軟體的原始碼必須是完全開放的，但Nvdia並且不願多論及此事。
+
+道理其實顯而易見，NVIDIA's driver不公開的部份，是由NVIDIA 與
+SGI合作發展的成果，這部分的智慧財產屬於SGI，當然無法公諸於世
+，除此之外，它也包括了NVIDIA不想公諸於世的程式程序，以避免遭
+競爭對手竊取其技術。
+
+當GNU/Linux 持續地以優異的表現在市場上發行時，同時也看到許多
+「封閉原始碼」程式在市場上發行，而這是許多軟體開發者得以繼續
+留在公司的條件。開放原始碼必須給Linux 社群中那些傑出的軟體開
+發者持續不斷改進Linux軟體的機會，若不如此，Linux是無法在過去
+存在與發展的。
+
+類似NVIDIA這樣的公司，不給其他開發者改進它們驅動程式的機會，
+但同時它也必須自己承擔驅動程式好壞的責任。當然像Novida有優秀
+的技術團隊，更適合於自己來提供優異的產品給市場使用。
+
+相關網址：
+1、NVIDIA的新3D驅動程式只是部分開放原始碼
+   http://www.tomshardware.com/graphic/00q4/001002/linux_nvidia-02.html
+2、LInux版的Nvidia 3D
+   http://www.tomshardware.com/graphic/00q3/000811/index.html
+
+──────────────────────────────
+■ 最近十年資訊界十大英雄 托瓦茲名列前三！
+
+黃翔祺/編譯
+2000/10/03
+
+Networkcomputing.com日前選出這十年中資訊產業中，最重要的十個
+人，其中值得大家注意的是發明 Linux 的 Linus Torvalds。 Linux 
+由一位芬蘭赫爾辛基大學的學生Linus Torvalds所發展出來的，重要
+的是他決定將Linux核心採用GNU GPL授權，使得更多電腦人員可以接
+近原始碼、改善軟體，打破過去軟體著作權的觀念，這樣的想法除了
+使Linux快速成長之外，也使得全世界的軟體產業產生極大的變革。
+
+------
+
+Networkcomputing.com日前選出這十年資訊產業中，最重要的十個人
+，包括：Tim Berners-Lee、 Bill Gates、Linus Torvalds、 Jim C
+lark、 Larry Ellison 、 Lou Gerstner、Steve Jobs、Elias Levy
+、Rep.Rick Boucher、Vinod Khosla都名列其中。其中值得大家注意
+的是發明Linux作業系統的Linus Torvalds。
+
+Linux 由一位芬蘭赫爾辛基大學的學生Linus Torvalds所發展出來的
+，當時由於Dos 軟體功能上的不便，及Unix軟體昂貴的售價，他決定
+發展出自己的軟體系統，Linux於是乎產生。他並將Linux這軟體放置
+於網路上，供程式設計的玩家使用、修正。
+
+真正使得Linus Torvalds成為這十年重要人物的轉折點，是因為他決
+定將Linux核心採用GNU GPL授權，這使得Linux 快速成長茁壯。在一
+九九四4年，功能完整的Linux 1.0正式推出，當時據估計使用人數達
+到十萬人，在不久之前，因為更多軟體廠商投入，使得功能更為強大
+的2.2版已經上市。
+
+由於Linux 的成功，去年美國柯林頓總統及幾位科技界的專家，為了
+資訊世代開了一場研討會，與會的專家認為，目前美國軟體發展緩慢
+，必須要有更好的軟體發展模式，因此建議美國支持開放原始碼軟體
+的發展模式，而開發原始碼的優點，就是發揚學術界的傳統，分享彼
+此所發現的，並接受批判和更正，使創新更快發生，由此來看 Linus
+Torvalds的影響力，恐怕不止在Linux 這套作業系統，而是改變整個
+軟體產業結構。
+
+相關網址：
+1、這十年最重要的人物： Linus Torvalds
+   http://www.networkcomputing.com/1119/1119f1people_3.html
+2、IT 十年最重要的人物
+   http://www.networkcomputing.com/1119/1119f1people_intro.html
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型為「細明體」，如果您使用Outlook收看我們的電子
+   報，新聞格式可能亂掉，請在Outlook的工具→選項→閱讀中，將
+   文字格式改為「細明體」，即可順利閱讀我們的新聞。
+
+※ 這是【OpenScope  開放視界】電子報。若您不想訂閱，請來信：
+   openscope@cyberworksolution.com，標題寫：unsubscribe即可。
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.cyberworksolution.com﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
+
+

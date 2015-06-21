@@ -1,0 +1,493 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２０００.１１.０８
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ IBM發表第一套中小企業Linux整合解決方案
+
+■ 讓ASP在Linux上起飛─iASP讓你輕鬆撰寫網頁
+
+■ 開放原始碼進駐下一代網路路由器的心臟
+
+■ SGI和OSC合作測試最新的Linux叢集系統
+
+■ LPI推動Linux國際化專業認證日文版本
+
+■ MontaVista推出PowerPC第一套Linux追蹤工具套件
+
+■ Indrema與CollabNet攜手  打造開放式遊戲研發平台
+
+■ Mission Critial Linux公司人事搬風 新營運長走馬上任
+
+
+═《編者的話》═══════════════════════
+
+IBM為中小企業量身訂作了Linux套裝產品，而且物美價廉，高貴不貴
+喔！
+
+根據IDC的調查報告，所有Linux伺服器的安裝使用者中，中小企業的
+比例就高達 48% ，因此對於Linux伺服器解決方案的需求十分迫切。
+IBM了解中小企業的心，推出「 Small Business Suite for Linux」
+，中小企業的Linux 套裝，將資料庫、電子郵件、網頁應用程式伺服
+器等迫切被需要的軟體整合於單一套件中，而且價錢十分平易近人，
+這麼「俗又大碗」的好康哪裡找，這一期的OpenScope將報給你喔！
+
+你想成為一個Linux網路應用程式撰寫高手嗎？讓 iASP來實現你的夢
+想。Instant ASP(iASP)之於Linux就如同ASP之於Windows ，由ASP技
+術脫胎而來的iASP能讓使用者在非微軟系統建構Web伺服器上使用ASP
+技術，而且同樣易學易懂，這將更提昇 Linux+Apache+該放原始碼資
+料庫在網路應用方面的佔有率，擺脫微軟ASP-IIS-MS SQL「三位一體
+」的糾纏。開放原始碼的好處，連網路路由器都知道！網路處理器廠
+商MMC Networks和開放原始碼公司MontaVista合作，公開第一套高速
+IP路由器的參考設計，透過此創新，未來只需通用技術即可完成高速
+交換機及路由系統的開發，你想知道開放原始碼如何讓網路研發「飆
+」起來嗎？請看OpenScope電子報的報導。
+
+有沒有聽過Linux超級計算機？俄亥俄超級電算中心目前正在測試SGI
+最新研發的Linux叢集技術系統，希望能取代MPP系統，進行複雜的工
+程及科學等精密運算。另外，隨著Linux應用的國際化，LPI也順應潮
+流推出國際化專業認證，不但有專業的標準，更有多國語言測驗，不
+論你說的是「Good morning！」還是「空巴哇！」，都能透過這個測
+驗獲得專業Linux認證喔！最後，MontaVist推出PowerPC第一套Linux
+追蹤工具套件，以及Indrema與CollabNet攜手以IDN改變Linux遊戲合
+作發展模式等精采報導，都在本期 OpenScope電子報中，千萬不要錯
+過喲！
+
+自2000年11月起， OpenScope 電子報將與台灣知名的Linux專業雜誌
+《Linuxer》合作，將電子報的精華內容刊登於當期《Linuxer》雜誌
+的〈開放視界‧零客觀點〉專欄中。閱讀OpenScope 電子報，讓您掌
+握開放原始碼軟體的最新動態！
+
+另外，部分讀者可能是透過個人發報站台訂閱，若您只想收到不含廣
+告的純文字版本，可直接寄一封標題為「subscribe」的信到：
+openscope@cyberworksolution.com即可訂閱。
+
+
+═《本期新聞》═══════════════════════
+
+■ IBM發表第一套中小企業Linux整合解決方案
+
+沈美君/編譯
+2000/11/06
+
+IBM 在本月6日發表業界第一套適合中小企業的 Linux 整合解決方案
+「Small Business Suite for Linux」，包含了中小企業客戶最迫切
+需要的服務軟體，讓中小企業以較為「平易近人」的價錢，取得最常
+使用的伺服器解決方案，每套四百九十九美元。
+
+------
+
+據IDC的調查報告指出，在所有Linux伺服器的安裝使用比例中，光是
+中小企業﹙small business﹚就佔了48%，其市場潛力不可忽視。IBM
+推出業界第一套適合中小企業的Linux 整合解決方案，將資料庫、電
+子郵件、網頁應用程式伺服器整合於單一套件中，讓中小企業以較為
+「平易近人」的價錢，取得最常使用的伺服器解決方案。
+
+IBM Small Business Suite幾乎包含了中小企業客戶最迫切需要的服
+務，例如即時訊息傳遞、線上合作機制、生產力管理、網頁設計與網
+站架設、資料庫管理等等， IBM推出這樣的整合方案，提供客戶可以
+快速、簡單地使用Small Business Suite中的軟體，建置符合需要的
+伺服器和桌面平台。
+
+套餐中包含了許多物超所值的軟體，包含群組工作軟體Lotus Domino
+5.04、網站應用程式伺服器WebSphere ApplicationServer標準版3、
+資料庫管理軟體IBM  DB2  Universal Database 7等。IBM Software
+Linux解決方案行銷部經理Scott  Handy指出，業界首次出現類似IBM
+Small Business  Suite這樣為中小企業訂作的Linux解決方案，將資
+料庫、電子郵件、網頁應用程式伺服器以如此實惠的價格，提供顧客
+完整的服務。
+
+紅帽是這套解決方案的合作廠商，而Caldera、 SuSE、TurboLinux也
+為合作伙伴。IBM Small Business Suite的售價是四百九十九美元，
+已經在網頁上開放訂購。
+
+相關網址：
+1、IBM發表第一套中小企業適用的Linux整合解決方案
+   http://eltoday.com/article.php3?ltsn=2000-11-03-001-01-PS
+2、IBM的Linux三合一解決方案
+   http://www.infoworld.com/articles/hn/xml/00/11/03/001103hnibmlinuxsuite.xml
+3、中小企業Linux解決方案？IBM有一套
+   http://www.zdnet.com/eweek/stories/general/0,11011,2649962,00.html
+4、IBM Small Business Suite產品網站
+   www.ShopIBM.com
+
+──────────────────────────────
+■ 讓ASP在Linux上起飛─iASP讓你輕鬆撰寫網頁
+
+張書銘/編譯
+2000/11/06
+
+為了使用目前風行的ASP技術，WEB主機必須使用微軟視窗作業系統。
+因此陸續出現了像 PHP等這些語言讓UNIX/Linux的使用者不必遷就微
+軟產品也能撰寫 WEB介面應用程式，但是面對微軟在市場上的強勢，
+ASP仍舊吸引較多人學習。為了讓吸引ASP的使用者，最新iASP產品讓
+ASP在Linux上也能順利執行。
+
+------
+
+iASP是由Halcyon軟體公司所研發，針對微軟ASP標準所製作，在任何
+JAVA語言支援的平台上都可以使用。而它的最新版除了支援VBScript
+和JAVAScript 5.0之外；也支援多種兩位元碼的語系，包括中文、日
+文以及韓文。因此使用者遍及各國，並獲得由 ASP Guild's網站票選
+的2000年最佳工具殊榮。
+
+而目前iASP正大力促銷它開放原始碼的特性，並強調它能與像阿帕契
+WEB伺服器、MySQL關聯式資料庫等同樣開放原始碼的產品做整合來吸
+引使用者。Halcyon 軟體強調，這樣的組合不但可以降低成本，同時
+更可以讓使用者更能掌握自己的系統，進行有效的開發。因此目前許
+多應用程式伺服器都可配用iASP，像是IBM WebSphere、Sun iPlanet
+Oracle Application Server等。
+
+在微軟提出 ASP技術後，網路應用程式變得相當大眾化。任何人都可
+以經由自學而得到一定的網路程式撰寫能力，WEB 介面應用程式也跟
+著風行起來。但ASP 是由微軟所提出來的技術，因此要順利執行它，
+WEB 伺服器就必須使用微軟的視窗作業系統來架設。也因此才會出現
+像PHP這樣為 UNIX/Linux設計的技術，讓使用者不必受微軟產品所限
+制。
+
+但是儘管已經有了 PHP，不可否認的，在微軟產品目前擁有市場優勢
+下，ASP 的學習者還是佔了大多數。因此讓ASP在Linux伺服器上也能
+順利執行不但可以增加 Linux程式開發者的選擇空間，也可以讓企業
+在伺服器的選擇上更為多樣化。而為了能夠讓使用者能夠在非微軟系
+統建構的WEB伺服器上使用ASP，陸續有各個社群寫出一些程式來進行
+轉換工作。並且由Halcyon公司正式推出產品Instant ASP﹙iASP﹚。
+
+相關網址：
+1、Halcyon軟體推出iASP
+   http://linuxpr.com/releases/2837.html
+2、iASP支援元件
+   http://www.halcyonsoft.com/products/components.asp
+3、iASP與各種元件下載
+   http://www.halcyonsoft.com/products/chooseproduct.asp
+
+──────────────────────────────
+■ 開放原始碼進駐下一代網路路由器的心臟
+
+謝良奇/編譯
+2000/11/07
+
+網路處理器廠商MMC Networks加上開放原始碼公司MontaVista，會擦
+出什麼樣的火花？Next Generation Network 2000展示會上，這兩家
+公司合作公開第一套高速IP路由器的參考設計。完全採用一般的通用
+型網路處理器，配合以 Linux為基礎的開放原始碼軟體，能節省網路
+設備開發浪費的多餘時間及資源。
+
+------
+
+下一代網路路由器將有開放原始碼的蹤跡！本月三日在華盛頓舉辦的
+Next Generation Network 2000展示會上，一家網路處理器的領導廠
+商MMC Networks與知名嵌入式系統廠商MontaVista合作，公開發表業
+界第一套高速IP路由器的參考設計，採用通用型網路處理器，再加上
+以 Linux為基礎的開放原始碼軟體，能支援新一代網路、通訊設備廠
+商，加速網路設備開發過程。
+
+MMC Networks是一家網路處理器領導廠商，專為快速網路、通訊產品
+開發，提供高效能、開放架構的網路處理器，其整合式處理器、交換
+引擎被大量應用在區域、廣域的交換機及路由器中。MontaVista則是
+在嵌入式Linux系統、開放原始碼具有專門技術的軟體公司。
+
+此次結合MontaVista的Hard Hat Linux，以及MMC Networks的完整網
+路處理平台，包括處理器、交換機架構、流量管理引擎等，MMC 高效
+能硬體與MontaVista功能優異、低成本的 Linux平台，能為各式區域
+、廣域設備，提供極具潛力的基礎。
+
+即使透過通用型硬體，網路設備廠商在軟體開發方面仍需要相當複雜
+作業。一般來說，高速交換機、路由器開發者必須先為中央管理處理
+器、快速網路處理器撰寫應用程式碼，然後再進一步以軟體和即時作
+業系統，整合管理處理器、網路處理器、交換架構、流量管理硬體。
+
+MMC Networks與MontaVista這次發表的技術，即是先行完成自訂開發
+、開放原始碼整合作業，為通用型高速IP路由器，推出完整軟硬體參
+考設計。MontaVista執行長 Jim Ready指出，透過這一項創新，未來
+只需通用技術即可完成高速交換機、路由系統的開發。
+
+MMC Networks總裁DougSpreng表示，與其浪費大量時間、資源在ASIC
+設計以及基礎系統軟體開發，此一先進技術能讓網路設備廠商，全力
+投入於研發系統的真正特色。
+
+相關網址：
+1、MMC Networks與MontaVista Software將Linux運用於以網路處理器為基礎的路由器
+   http://linuxpr.com/releases/2828.html
+2、關於MMC Networks
+   http://www.mmcnetworks.com/Company/
+
+──────────────────────────────
+■ SGI和OSC合作測試最新的Linux叢集系統
+
+葉志博/編譯
+2000/11/06
+
+SGI目前正和俄亥俄超級電算中心﹙OSC﹚合作，共同測驗以 Itanium
+為基礎的 Linux 叢集技術系統，冀望能以此取代 MPP ﹙ Massively
+parallel processor﹚系統。
+
+------
+
+俄亥俄超級電算中心﹙OSC﹚目前正在進行一項計畫，測試SGI最新研
+發的Linux叢集技術系統。這是一個擁有四個節點的Linux叢集系統，
+每個節點搭配兩顆Itanium 處理器，負責平行運算科學及工程方面的
+程式碼。
+
+此計畫的主要目的，在測試是否可利用Linux 叢集技術，以取代流行
+已久的MPP ﹙Massively parallel processor﹚系統，進行複雜的工
+程及科學上的精密運算。目前只有電算中心的工作人員、以及少數的
+學術研究人員，准許將應用軟體移植到此工作平台，並進行測試。
+
+俄亥俄超級電算中心﹙OSC﹚ 是一個全方面的電算中心，為俄亥俄州
+的科學家及工程師提供豐富的軟、硬體資源，如CRAY SV1, CRAY T94
+CRAY T3E, SGI Origin 2000 等，可媲美國家科學基金會及國家級實
+驗室，為學術單位、政府部門及民間企業的研究計畫提供運算及通訊
+平台。
+
+除此之外，OSC 也提供科技資訊伺服器、軟硬體、電腦運算、諮詢及
+訓練等服務，它同時也是俄亥俄介面實驗室的起源地，此介面實驗室
+擁有精密的圖像設備及輸出服務，用作電腦繪圖及動畫製作等用途。
+
+相關網址：
+1、SGI正在測試其研發的Linux叢集系統
+   http://eltoday.com/article.php3?ltsn=2000-11-04-001-13-PS
+2、俄亥俄超級電算中心簡介
+   http://www.osc.edu/hpc/
+
+──────────────────────────────
+■ LPI推動Linux國際化專業認證日文版本
+
+馮文龍/編譯
+2000/11/07
+
+由於Linux應用的國際化趨勢，Linux的專業認證也將不僅限於英文，
+LPI ﹙Linux Profession Institute﹚認證測驗就出現了日文版本。
+
+------
+
+LPI認為，推動Linux 的專業認證，將有助於業界認可Linux的專業，
+並提供學生及訓練中心一條組織化的路徑與機制，對於市場及 Linux
+ 擁護者的增加也有很大的幫助，而要讓機構、企業能夠使用 Linux
+，一個廣大的支援體系是非常重要的。
+
+在國際化的推動上面，LPI 的網站目前也已提供了五種語言版本，並
+且還會持續增加對其他語言的支援。LPI 的認證測驗目前也推出了英
+文版外的第二種語言版本－日文。
+
+事實上，在測驗內容本身的轉譯就要耗費相當多的成本，因為精確度
+的考量要嚴格許多，當然LPI 仍將克服萬難，繼續推廣多語言的試題
+版本。
+
+LPI 與其他認證中心的不同之處，在於LPI 獨立於所有的業者，這包
+括Linux 的販售者、訓練中心、出版業者等等。LPI 的獨立性與非營
+利性質確保Linux社群的需求能得到最佳的滿足。
+
+LPI 的認證﹙LPIC﹚分為三個等級，基礎認證著重在基本UNIX的指令
+列與工作站的環境設定與基礎網路環境。中級認證則包括了網路伺服
+器﹙Samba﹚、網際網路閘道器﹙防火牆、Porxy、電子郵件與新聞群
+組﹚、網際網路伺服器﹙網站架設，簡單的 CGI﹚，並具備基礎的顧
+問能力。第三級的認證，能對複雜的自動化需求能夠規劃及實作，領
+導團隊的能力以及高級的顧問級管理能力。
+
+LPI的組織成立於1999年1月，並在1999年的10月25日正式獲得非營利
+組織的成立許可。其贊助廠商包括了許多的知名大廠，如IBM、SGI、
+Turbolinux、Caldera、SuSE、MaxSpeed、Linuxcare等。
+
+相關網址：
+1、Linux的櫻花之戀
+   http://www.anchordesk.co.uk/anchordesk/commentary/columns/0,2415,7106864,00.html
+2、關於LPI
+   http://www.lpi.org/
+
+──────────────────────────────
+■ MontaVista推出PowerPC第一套Linux追蹤工具套件
+
+謝良奇/編譯
+2000/11/06
+
+MontaVista是專門應用開放原始碼技術，為嵌入式系統開發者提供解
+決方案的公司，他們推出了第一套PowrePC的Linux追蹤工具套件，可
+透過視覺化方式，掌握系統中多個應用程式的執行狀態。
+
+------
+
+MontaVista在今天推出提供給PowerPC系統開發者的Linux追蹤工具套
+件﹙Linux Trace Toolkit﹚，這是該處理器上第一套Linux追蹤工具
+套件，它能分析並解譯系統中多個程式的執行細節，讓使用者在特定
+的執行週期，解析處理器資源的運用及配置資訊。
+
+MontaVista 這套建立於 Karim Yaghmour上的開放原始碼 IA-32/x86
+Linux 追蹤工具套件，可以透過圖形化方式顯示，讓使用者獲得處理
+器資源的運用及配置資訊。工具內部整合的圖形界面，是基於GTK+程
+式庫，可以繪圖方式呈現輸出結果，而透過關鍵資料序列，更具備特
+定搜尋功能。對於日誌記錄、分析、綜合性事件列表極有幫助。
+
+MontaVista 結合在嵌入式系統和Linux兩方面的卓越技術，專為嵌入
+式系統市場提供開放原始碼解決方案。MontaVista的最主要產品，即
+是一套因應箝入式軟體開發者需求訂製的 Linux作業系統，名為Hard
+Hat Linux。
+
+看準嵌入式系統市場未來的高度成長，儘管開放原始碼 Linux作業系
+統在桌面及伺服器領域表現驚人，MontaVista相信，嵌入式系統才是
+Linux系統未來致勝的真正關鍵。
+
+嵌入式Linux先驅者之一，MontaVista創辦人兼執行長的Jim Ready表
+示，面對嵌入式系統應用程式、系統軟體的發展，研究者需要更強大
+的開發、除錯工具。這一套Linux 追蹤工具能幫助工程師，能以視覺
+化方式，檢測嵌入式Linux環境中應用程式的執行狀態。
+
+MontaVista的Hard Hat Linux已內含包括x86及PowerPC版的 Linux追
+蹤工具套件，採用2.2.14版 Linux核心。該工具套件原始碼可自由下
+載。而支援2.4.0版核心及其它處理器的版本將於稍後釋出。
+
+相關網址：
+1、PowerPC第一套Linux追蹤工具誕生
+   http://www.linuxdevices.com/news/NS7013937235.html
+2、關於MontaVista
+   http://www.mvista.com/company/
+
+──────────────────────────────
+■ Indrema與CollabNet攜手  打造開放式遊戲研發平台
+
+沈美君/編譯
+2000/11/07
+
+開放式的發展環境將對現今的Linux 遊戲市場，造成多大的影響？由 
+Indrema與CollabNet攜手打造的「 Indrema發展者網路」﹙ Indrema
+Development Network，IDN﹚，提供發展者所需的工具與平台，運用
+網路社群開放的合作機制，撰寫用於Indrema娛樂系統平台﹙Indrema
+Entertainment System，IES﹚上的Linux電玩遊戲。
+
+------
+
+Indrema公司11月6日舉行網路記者會，宣布與 CollabNet合作開發的
+「Indrema發展者網路」﹙Indrema Development Network，IDN ﹚正
+式上線，將朝全方位發展平台目標邁進，提供發展者所需的工具與環
+境，運用網路社群開放的合作機制，撰寫適用於 Indrema娛樂系統平
+台﹙IES﹚上的Linux電玩遊戲，與現今市場的遊戲開發模式相當不同
+。
+
+Indrema公司為第一家創造Linux-based電玩遊戲機的公司，主攻數位
+家用娛樂市場，所使用的系統平台規格為自行研發的 Indrema娛樂系
+統平台﹙IES，Indrema Entertainment System ﹚，擁有許多與電視
+相關的家庭娛樂應用，例如高品質3D遊戲、DVD 、多頻率網路連結、
+個人音樂圖書館、網頁瀏覽、電子郵件和個人化電視等。 CollabNet
+公司則是使用開放原始碼平台，提供聯合發展軟體平台的諮詢公司。
+此次 Indrema與CollabNet的合作，將對現今Linux遊戲市場的發展模
+式，造成極大影響。
+
+IDN網站提供發展Linux遊戲專案的工具及資源，並開放IESDK版本0.3
+﹙IES發展工具組 ﹚讓發展者免費下載， IESDK包含發展遊戲所需的
+API﹙Mesa3D、OpenAL、XFree86、DV Linux Kernel等﹚。IDN建構於
+CollabNet開發的SourceCast發展平台上， SourceCast為簡易且凝聚
+力的Web 介面發展環境，透過數種發展管理機制，提供遊戲開發者完
+整的計畫控管模式，方法包括遊戲原始碼版本控制、原始碼瀏覽、異
+動通知、mailing list﹙郵件論壇﹚、討論群、問題追蹤機制等。
+
+IDN網站由四大部分所組成：「Under the hood」 提供系統硬體規格
+書；在「GameXchange」 中，發展者可起始新的遊戲軟體計畫、分享
+計畫資訊、與其他發展者作腦力激盪及挑戰回應；「IESDK」 區域可
+下載所需發展工具；「Certification」 讓發展者可為其遊戲發展計
+畫，申請標準版或免費軟體版的認證。
+
+相關網址：
+1、Indrema與CollabNet宣布第一個開放原始碼遊戲發展社群成立
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-06-016-04-PR
+2、Indrema創造開放原始碼的線上遊戲發展網路
+   http://www.linuxdevices.com/news/NS2554895487.html
+3、Indrema與Metrowerks為IES平台合作發展CodeWarrior
+   http://linuxtoday.com/news_story.php3?ltsn=2000-11-07-001-20-PS
+4、IDN網址
+   http://idn.indrema.com
+
+──────────────────────────────
+■ Mission Critial Linux公司人事搬風 新營運長走馬上任
+
+張書銘/編譯
+2000/11/06
+
+知名的Linux產品暨服務提供公司Mission Critial Linux本月初宣佈
+最新人事案，將原本的營運長﹙CEO ﹚轉任為資深工程副總，並聘請
+Unisys公司的副總經理Robert Tumanic擔任新的營運長。
+
+------
+
+為了提昇公司的營運能力，並適應新一波的企業e化的風潮，Mission
+Critial Linux 公司決定進行新的領導人事組織方案，讓公司能夠開
+發更多更新的商機。
+
+Mission Critial Linux公司以提供企業專門Linux解決方案以及服務
+為主；並且幫助企業建立自己的資訊科技部門，進行人員的訓練。在
+這樣的考量下，Mission Critial Linux公司聘請了 Unisys公司的副
+總經理Robert Tumanic擔任新任營運長。
+
+過去Unisys公司在Robert Tumanic帶領下，曾在1995與1997年獲得相
+關雜誌調查，為同業中表現最佳的公司之一。因此 Mission Critial
+Linux 公司進行挖角的決定，充分表現出該公司希望藉著過去已經建
+立起的聲譽，以吸收新進人員加入企業e化的客戶群的立場。
+
+Robert Tumanic表示，面對現在許多不同類型的企業都想要加入企業
+e 化的活動中，但是複雜的企業背景，使得單一型態的解決方案不再
+適用，唯有不斷地針對變化改進公司所推動的解決方案，才能符合企
+業利益，因此他將以多年的企業經驗帶入Mission Critial Linux 公
+司，提出更多元化的服務來幫助企業進行電子化。
+
+而Mission Critial Linux公司的執行長則表示，Linux的市場已經逐
+步擴大，但是在各個廠商大量投入市場的情況下，要脫穎而出並非易
+事。因此Mission Critial Linux 必須吸收更多像Robert Tumanic這
+樣的人才以及經驗，才能更加進步。
+
+相關網址：
+1、Mission Critical Linux公司聘請新任營運長
+   http://news.cnet.com/news/0-1003-200-3375542.html
+2、Robert Tumanic新任Mission Critical Linux公司營運長
+   http://www.missioncriticallinux.com/news/press/tumanic.php
+
+──────────────────────────────
+
+＊編輯手記
+
+法國的一位文學家說過，如果他不在咖啡廳，那麼就是在往咖啡廳的
+路上。最近我們三個小編常常窩到咖啡店裡去，咖啡因加上爵士樂還
+有楓糖肉桂捲，許多關於 OpenScope的重大決策就這麼生出來了。為
+了提升刊物的品質，我們定期開讀書會，充實新知；為了提昇出刊的
+效率，讓我們能搭上最後一班奔跑的捷運並趕的及在阿伯收掉宵夜攤
+之前買到鹹酥雞， tumi、Kelly和我三個人交叉發言論辯演譯歸納分
+析，訂出了新的發報流程，希望親愛的你也感受的到我們的用心。從
+一開始的生疏不熟悉，到今天銜命操刀編者言，我不得不承認編這份
+刊物所要承受的壓力真是始料未及，多虧了 tumi跟Kelly一直以來的
+耐心，還要不時的聽我講冷笑話，以及Anderw的春水堂鐵觀音凍飲的
+鼓勵，我總算是跟上了軌跡，當然以後還要更加努力囉！
+
+如果，我們三個人不在辦公室，那也必定是在要去STARBUCKS 的電梯
+裡，Sharon說…。﹙Sharon Lin﹚
+
+═《互動信箱》═══════════════════════
+
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope 開放視界】電子報。若您想取消訂閱，請來信：
+openscope@cyberworksolution.com，信件主旨：unsubscribe。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

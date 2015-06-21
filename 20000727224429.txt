@@ -1,0 +1,342 @@
+  網基科技  
+╭════════════════════════════╮
+                               《 OpenScope    開放視界電子報》
+ 
+    2 0 0 0. 0 7. 27                                                              §試刊二號 §           
+╰════════════════════════════╯
+                           ---  http://www.cyberworksolution.com  ---
+
+
+
+═《編者的話》═══════════════════════
+OpenScope是一份以開放原始碼軟體﹙Open source software﹚為主題的
+電子報，包括：網路產業訊息、開放軟體發展計劃....等相關新聞，由
+網基科技製作發行。試刊期間每週發行一期，如果您對這份電子報有
+興趣，可以寫信到openscope@cyberworkslution.com免費訂閱，標題上
+註明subscribe即可。
+══════════════════════════════
+
+
+═《本期內容》═══════════════════════
+
+■ 紅帽公開Source Navigator整合發展環境的原始碼
+
+■ IBM在歐洲大力推動Linux
+
+■ Caldera System與Tarantella合力搶攻Linux Web 應用軟體伺服器市場
+
+■ 惠普推出支援Linux的3D圖形加速技術
+
+■ TurboLinux 針對 Compaq Alpha 推出作業系統
+
+■ Linux上的叢集解決方案
+
+
+═《本期新聞》═══════════════════════
+
+■ 紅帽公開Source Navigator整合發展環境的原始碼
+
+尹智忠/編譯　                                                                          July 20 2000
+
+紅帽公司於7月20日宣佈將公開Source-Navigator整合發展環境的原始
+程式碼。Source-Navigator是一個功能相當強大的程式碼分析工具；而
+紅帽公司也藉此增強了它對於開放原始碼的支持與承諾。
+
+------------------------------------------------------------------------------------------------
+
+紅帽公司表示，Source-Navigator是一個強力的程式碼分析工具，而依
+GPL的期限公開Source-Navigator的原始程式碼也加強了紅帽公司對於
+開放原始碼發展的支持與貢獻。
+
+Source-Navigator是一個在UNIX和Windows作業系統下的整合式發展環
+境。功能上是一個開放原始碼的編譯器，擁有以GDB為基礎的圖形除
+錯環境；可以對程式碼進行編輯、編譯、除錯以及連結成應用程式。
+由於開放原始碼的程式碼數量都相當驚人，因此它有許多強大的瀏覽
+功能，它可以顯示出程式中類別、函數以及各個成員彼此之間的相互
+關係，也可以顯示類別的階層圖以及函數之間的呼叫樹。除此之外，
+它還可以用來分析程式碼中一個改變將如何影響外部的程式模組。
+
+Source-Navigator支援許多程式語言，包含C、C++、Java、Tcl、incr Tcl
+、FORTRAN以及COBOL等，另外它也提供一組發展工具讓使用者可
+以發展自己的語法。
+
+紅帽公司對於網際網路領域中開放原始碼的支持一直居於領先的地位
+，這次的程式碼公開雖然不是第一次，但是其中的意義卻大不相同。
+如果對於紅帽公司以及Source-Navigator有興趣可以到紅帽的官方網站
+去看看，其中也有Source-Navigator的相關資訊。
+
+相關網址：
+1、紅帽公開Source Navigator整合發展環境之原始碼
+      http://linuxtoday.com/news_story.php3?ltsn=2000-07-20-022-04-PR-RH-SW
+2、什麼是Source Navigator?
+      http://sources.redhat.com/sourcenav/
+3、下載Source-NavigatorTM
+      http://sources.redhat.com/sourcenav/download.html
+
+
+────────────────────────────── 
+■IBM在歐洲大力推動Linux
+
+蕭喜那/編譯                                                                              July 25 2000
+
+IBM未來四年內將投入二億美元資金在歐洲推動Linux方案，除了在歐
+洲各地設立Linux開發中心，同時建立可供Linux開發人員存取系統、
+軟體與硬體的Linux社區入口網站。
+
+------------------------------------------------------------------------------------------------
+
+IBM 計劃於未來四年內在歐洲建立Linux中心，並建立可遠端存取相關
+資源的入口網站，目的在於輔助歐洲獨立的軟體業者開發以Linux為基
+礎的應用軟體，並且協助顧客轉換至Linux的作業環境。
+
+IBM將推出的Linux社區入口網站，目的在於輔助軟體開發人員與業者
+使用歐洲中心所提供的系統﹙Netfinity﹚、軟體﹙Websphere、Lotus 
+Domino、與DB2等﹚與硬體﹙System 390、RS/6000、NUMA、AS/400
+等﹚。此外，IBM計劃與以Linux為主的商業夥伴結盟，並布署約600
+名的Linux專業人員。
+
+IBM歐洲Linux方案所提供的服務包括：設計、測試與執行。在設計方
+面提供教育訓練、工作坊與技術支援服務，以輔助Linux開發人員設計
+與編碼符合電子商務的應用軟體；所提供的測試與執行工具可以讓開
+發人員了解他們的應用軟體是否與IBM及Intel相容，以及可否負荷實
+際的工作量。
+
+IBM歐洲、中東與非洲區總經理麥克‧羅瑞表示，IBM歐洲Linux開發
+中心將開放給所有的業者，而其他科技夥伴﹙例如Intel﹚也將與IBM
+在開發中心共同合作，以確保新興的Linux應用軟體可以應用於不同
+的產業。」
+
+在與以Linux為主的商業夥伴的結盟上，IBM將與Logix合作，該公司
+業已取得紅帽公司在法國與比利時的獨家經銷權。以及與SuSE Linux
+AG合作，該公司是世界上最大的Linux作業系統的開發與經銷商之一。
+
+相關網址：
+1、IBM在歐洲大力推動Linux
+      http://www.wired.com/news/linux/0,1411,37708,00.html
+2、Linux在IBM：歐洲Linux方案
+      http://www.ibm.com/developer/linux/eu_en/program.html
+3、IBM公開二億美元的歐洲Linux方案，包括新的歐洲Linux開發中心
+      http://linuxpr.com/releases/2226.html
+
+
+──────────────────────────────
+■Caldera System與Tarantella合力搶攻Linux Web 應用軟體伺服器市場
+
+謝良奇/編譯                                                                              July 20 2000
+
+Caldera System公司與Tarantella公司發表OAS伺服器，讓使用者不必重
+新改寫原有應用軟體，只要一個支援Java技術的瀏覽器，即可執行原
+先視窗、Linux或Unix上的各式應用軟體。
+
+------------------------------------------------------------------------------------------------
+
+Caldera System公司與Tarantella公司本週共同發表了一套整合性的Web 
+應用軟體伺服器，名為OAS﹙OpenLinux Application Server﹚。該產品
+結合了Caldera System公司的OpenLinux及Tarantella公司的應用軟體伺
+服器Tarantella Express，強調能以快速、低成本、簡易的方式，提供欲
+整合新舊應用環境的企業，一套集中式的應用軟體管理與運用系統。
+
+這套產品組合了Tarantella的虛擬使用者界面伺服軟體﹙virtual  user 
+interface  serverware﹚及Caldera的OpenLinux  eServer，使客戶可以經由
+企業的內部區域網路或網際網路，透過Web界面存取Windows、Unix
+及Linux上的應用軟體，就像是使用Web界面的應用軟體一般。不需
+重新改寫程式碼，即可將舊有應用軟體整合到以Web為基礎的新企業
+架構中。
+
+Caldera System公司表示，目前有許多企業正思考該如何將舊有的應用
+軟體整合到基於Web的新應用環境中，既不需棄置先前的舊有軟體投
+資，又可使公司享有OpenLinux產品帶來的低成本、穩定性、可靠性
+等優點。而此次推出的OAS伺服器即為針對該需求的最佳解決方案。
+
+在遠端應用軟體市場上，相較眾多ASP業者，OAS伺服器更適於應用
+在連線數小於45台Client電腦的工作群組，而雖然在中小型企業中，仍
+有Citrix公司的MetaFrame作為競爭對手，但由於MetaFrame的定位在於
+Windows 2000、NT4 Terminal Server及Solaris等系統，OAS伺服器在成
+本上仍佔有優勢。不過在Citrix即將跨足Linux市場後，OAS伺服器在市
+場上的勝負如何還有待進一步觀察。
+
+Caldera System公司與Tarantella公司合作發表的OAS伺服器內含允許5名
+使用者同時連線的使用許可﹙licenses﹚，另外有額外購買的45名使用
+者同時連線的使用許可﹙licenses﹚，客戶如需超過45名使用者同時連
+線，則可購買Tarantella Enterprise II。
+
+相關網址：
+1、Caldera Systems與Tarantella 聯合發表 Linux Web 應用軟體伺服器
+      http://www.newsalert.com/bin/story?StoryId=CoxpwqbKbytaWnZy&amp;FQ=Linu
+x&amp;Nav=na-search-&amp;StoryTitle=Linux
+2、Caldera Linux + SCO Tarantella = Linux 網路應用伺服器
+     http://www.zdnet.com/sp/stories/news/0,4538,2604899,00.html
+
+
+──────────────────────────────
+■惠普推出支援Linux的3D圖形加速技術
+
+沈美君/編譯                                                                             July 26 2000
+
+惠普公司繼推出採用HP VISUALIZE fx繪圖技術的UNIX/Windows NT 
+工作站系列之後，宣布將擴展研發觸角，新進開發的VISUALIZE 
+fx5/fx10 將支援 Linux 系列工作站。預定今年八月可出廠評估，九月
+開始發行，售價約從美金4,700起跳。
+
+------------------------------------------------------------------------------------------------
+
+惠普公司﹙Hewlett Packard, HP﹚繼推出採用HP VISUALIZE fx繪圖技
+術的UNIX/Windows NT 工作站系列之後，宣布將擴展研發觸角，新開
+發的VISUALIZE fx5/fx10 將支援 Linux 系列工作站。
+
+ VISUALIZE fx+ 系列圖形晶片提供橫跨所有工作站平台上的全3D功能
+、動畫影片、材質貼圖、3D Java與VRML支援，能作複雜的陰影、光
+點、縰深與材質處理，目前 VISUALIZE 工作站系列已有 Windows NT
+/UNIX平台採用此技術，依據 Bench99 測試評比的結果，HP在來自於
+SGI、IBM、Dell、Compaq與Intergraph等競爭者的系統與圖形處理中，
+表現出優異的圖形性能。
+
+Linux被視為下一代最有潛力的作業系統，而 HP 技術團隊加強 Linux 
+工作站系列的圖形處理能力，實為從事多媒體內容創作的公司，提供
+極具品質與效率的工作環境。
+
+Side Effects Software公司的技術執行長Paul Salvini表示，在HP發展
+VISUALIZE fx5/fx10 Linux 工作站之前，著實找不到合適的 Linux工作
+站，來發行他們曾得獎的3D繪圖處理軟體﹙Houdini 3-D animation
+ software﹚之Linux版本。Paul並指出，「HP是第一家提出快速穩定
+Linux工作站的贏家」。Nothing-Real 是處於市場領導地位的視覺處理
+軟體公司，所發行的產品是第一個被移植到Linux工作站的專業繪圖軟
+體，他們指出 HP發展Linux工作站的繪圖處理能力是相當卓越的表現。
+
+以Linux為作業平台的 VISUALIZE fx5/fx10 繪圖加速系統工作站，預定
+今年八月可出廠評估，九月開始發行，售價約從美金4,700起跳。至於 
+VISUALIZE fx5/fx10 Windows NT 及UNIX 的繪圖加速系統工作站，已
+經發行，售價分別為美金1,800及2,500。
+
+相關網址：
+1、HP發布新3D圖形加速技術對Linux的支援
+      http://linuxtoday.com/news_story.php3?ltsn=2000-07-25-020-06-PR-DT-HW
+2、HP visualize-fx5 and fx10 規格書
+      http://www.hp.com/visualize/products/linux/graphics/index.html
+
+ 
+──────────────────────────────  
+■ TurboLinux 針對 Compaq Alpha 推出作業系統
+
+黃翔祺/編譯                                                                              July 25 2000           
+
+TurboLinux 公司針對 Compaq Alpha﹙晶片﹚系統，推出OS 作業系統
+﹙Operating System﹚，整套作業系統支援 Compaq alpha 晶片多數的
+功能，並特別加強大型檔案的處理能力和浮點運算能力。這套系統主
+要以linux 64位元做為基礎，整套系統主要應用在高需求運算的廠商，
+如財金公司，ISP公司...等對運算需求高的企業上。
+
+------------------------------------------------------------------------------------------------
+
+TurboLinux 公司針對 Compaq Alpha﹙晶片﹚系統，推出OS作業系統，
+除了支援 Compaq alpha 晶片多數的功能，並特別加強大型檔案的處理
+能力和浮點運算能力。這套系統主要以linux 64 位元做為基礎，目標為
+應用在高需求運算的廠商，如財金公司，ISPs公司..等對運算需求高的
+企業上。
+
+TurboLinux公司成立於1992年，主要提供的產品是電子商務軟體服務
+、linux 叢集軟體、及跨國的 linux 系統，經營模式主要是整合其開放
+原始碼的系統及其他的軟體以提供服務，目前服務的廠商有 IBM、
+康柏、戴爾、英特爾等電腦大廠，並積極搶佔亞洲市場，目前為亞洲
+ linux 軟體的第一品牌。
+
+這次Turbolinux針對Compaq alpha所推出的作業系統，除了較過去 32
+位元系統要快及穩定之外，整套系統變得更快及更容易安裝，且標榜
+價錢經濟實惠，每套只要美金$49.95 元。
+
+Turbolinux 作業系統屬於開放原始碼軟體，目前已經發行多種不同語
+言的版本，在Turbolinux 的網站上即可下載，也可直接向經銷商購買
+，除此之外，Turbolinux 為了體恤企業在安裝可能會遇到的問題，也
+主動提供 60 天的電子郵件諮詢服務。
+
+系統安裝需求：
+完全安裝：硬碟空間至少 1.5 G
+最小安裝：硬碟空間至少 250 MB
+記憶體：至少 64 MB
+
+相關網站：
+1、Turbolinux OS 報導
+      http://linuxpr.com/releases/2237.html
+
+2、Turbolinux 企業網站
+      htttp://www.turbolinux.com/
+      htttp://www.turbolinux.co.jp/
+      htttp://www.turbolinux.com.cn/
+
+
+ ──────────────────────────────
+■Linux上的叢集解決方案
+
+謝良奇／編譯                                                                          July 24 2000
+ 
+叢集﹙clustering﹚是一種能夠藉由多部電腦系統，分派工作及提供服
+務的技術，就如同一部穩固的虛擬電腦﹙virtual machine﹚。Linux上
+的叢集系統雖然已不是新的觀念，但早期並未在商業應用中普及，不
+過隨著許多叢集解決方案的出現，將能提供更易於使用的高性能叢集
+系統。
+
+------------------------------------------------------------------------------------------------
+
+叢集系統﹙clustering system﹚是一種藉由合併眾多電腦系統，分派工
+作及處理服務需求的技術，能增進系統效率與容錯能力，猶如一部具
+有強力運算能力的大型電腦一般。近來由於價格、擴充彈性與穩定性
+等優勢，叢集系統逐漸被用來處理，過去大型電腦才能勝任的複雜工
+作。
+
+Beowulf為Linux上早期的開放性原始碼叢集系統，不過其主要在政府
+、開放性原始碼社群及教育單位中發展，企業應用並不廣泛。過去採
+用叢集技術去執行公司的重要系統被認為風險太高，Linux大部份只
+作為e-mail、Web及檔案或列印伺服器使用。
+
+日前，Red Hat公司曾發表名為HA伺服器﹙High Availability Serve﹚的
+叢集解決方案，除該公司外，目前有許多家公司正提供廣泛的軟硬體
+套件，盡可能發展極易於使用的Linux叢集解決方案，使Linux叢集系
+統在企業與電子商務的應用更為普遍。
+
+ClusterCity是VA Linux Systems的產品，主要針對商業服務與科學用途
+的複雜運算，包含了伺服器硬體、叢集系統及叢集管理軟體﹙VACM
+﹚。透過VACM，客戶能自遠端執行叢集系統的所有管理功能，如
+BIOS設定、RAID控制、電源管理等。
+
+Linux NetworX則是另一套Linux叢集產品，以Ethernet或高速寬頻網路
+，整合支援ADM Athlon、Intel Pentinum及ADI Alpha等，各式處理器平
+台上的Linux伺服器。
+
+以上兩套叢集系統都受限於使用該公司的硬體與Red Hat版本的Linux。
+而Mission Critical Linux的Convolo及SteelEye的LifeKeeper則是屬於較為
+開放性的叢集系統，不過支援的叢集規模較小，一般只有兩台到四台
+伺服器。
+
+相關網址：
+1、各種Linux叢集系統
+      http://www.nwfusion.com/newsletters/linux/2000/0710linux1.html
+2、關於 Clustercity
+      http://www.valinux.com/systems/clustercity.html
+3、關於 NetworX
+      http://www.linuxnetworx.com/company/
+4、關於 Convolo
+      http://www.missioncriticallinux.com/products/convolo/
+
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+---------【OpenScope  開放視界】電子報，給您最精采的內容！---------
+
+══════════════════════════════
+
+※ 這是【OpenScope  開放視界】電子報的試刊二號。若您不想訂閱，
+     請來信寄到： openscope@cyberworkslution.com信箱，標題註明 ：
+     unsubscribe 即可。
+
+──────────────────────────────
+                       網基科技股份有限公司(C)版權所有 2000 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.cyberworksolution.com﹚，且不得改變本文之標題與內文。非經
+著作權人同意不得為商業目的重製、改作或引用。
+
+

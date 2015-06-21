@@ -1,0 +1,437 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０２.０５
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+═《本期內容》═══════════════════════
+
+■ VA Linux宣布與甲骨文合作
+
+■ O'Reilly推出ONlamp網站
+
+■ 未來的Gnome桌面環境  夠酷！
+
+■ 幫助Linux擁有統一標準  LDPS 1.1 Beta登場
+
+■ Linux已有188個版本
+
+■ Aduva推出Linux商用Aduva Director
+
+■ Berkeley DB 3.2出爐  支援QNX平台
+
+═《編者的話》═══════════════════════
+
+VA Linux宣佈與甲骨文合作，Linux商業化更上一層樓！
+
+VA Linux的總裁暨執行長Larry Augustin，在LinuxWorld會議暨博覽
+會上，公開與甲骨文的一系列合作，並在VA Linux軟體上展示甲骨文
+的電子企業套件。
+
+Augustin預測Linux市場的商機在2004年將會成長到750億美元，他指
+出資料庫、電子商務、與企業生產活動的應用軟體，如甲骨文的電子
+企業套件、Oracle 8i、美麗新世界﹙Brave New World﹚的Symphero
+電子商務平台及VA Linux的SourceForge等，將擴大Linux應用軟體的
+組合。兩大廠的合作，以及IBM對Linux大力的支持，企業以實際的行
+動破除了Linux只是玩家專用的迷思，宣告Linux時代的來臨！
+
+ONlamp.com網站開張，提供高效能的開放原始碼網站開發資源！此網
+站由一向致力於開放原始碼技術文件出版的O'Reilly開闢，用以推廣
+Linux 平台上，最常被拿來開發高效能網站應用的工具組合，也就是
+lamp：Linux、Apache、MySQL、PHP、Perl和Python。 ONlamp.com將
+提供與這些開發工具相關的資源、專欄、報導及應用手冊，造福廣大
+的開放原始碼社群。在本次 LinuxWorld展覽會，Gnome桌面環境展示
+了Eazel、Ximian等未來Gnome桌面元件技術，除了勾勒出Linux 桌面
+環境未來可能外，更象徵直覺式桌面環境將推動Linux ，進一步跨入
+一般用戶桌面，Ximian 日前已獲惠普採用為HP-UX工作站的預設桌面
+環境。OpenScope讓您搶先體驗未來的Linux桌面！
+
+Linux到今天已經發展出188個版本了！且每星期大約會增加一到兩個
+版本。令人憂心的是太多分歧的版本是否會影響到Linux 的發展，甚
+至與 Unix最後的下場一樣？為了提供紛擾的Linux市場一個能讓彼此
+產品相容空間的參考，自由標準團體正式公布2001 年的Linux開發平
+台規格LDPS 1.1 Beta 版，明確的定義了相容開發平台所應包含的套
+件。本期還有許多精采的新聞，你千萬不要錯過了！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ VA Linux宣布與甲骨文合作
+
+蕭喜那/編譯
+2001/02/02
+
+LinuxWorld大會上，VA Linux的總裁暨執行長Larry Augustin公開與
+甲骨文的一系列合作案，並在VA Linux的軟體上展示甲骨文的電子企
+業套件﹙E-Business Suite﹚。 VA Linux將與甲骨文以及其他Linux
+軟體廠商合作，進一步推動Linux的商業化。
+
+------
+
+在近期舉行的LinuxWorld大會上， VA  Linux 的總裁暨執行長Larry
+Augustin公開與甲骨文的一系列合作案，並在VA Linux的軟體上展示
+甲骨文的電子企業套件﹙E-Business Suite﹚。VA Linux將提供一個
+改良後的Linux作業系統版本，以供 Oracle 8i 、 Oracle 平行伺服
+器 ﹙Oracle Parallel Server﹚，與Oracle電子企業套件﹙ Oracle
+E-Business Suite﹚所用。
+
+Augustin預測Linux 市場在2004年時會成長到七百五十億美元，他指
+出，資料庫、電子商務、與企業生產活動的應用軟體，例如甲骨文的
+電子企業套件、 Oracle 8i 、美麗新世界﹙ Brave New World ﹚的
+Symphero電子商務平台、以及VA Linux的 SourceForge網站等，將擴
+大Linux應用軟體的組合。
+
+同時，Augustin也指出，IBM在2001年將投入十億元在Linux的開發上
+，應該有助於破解人們認為作業系統只是給玩家用的迷思。他並表示
+，Linux核心的改良與企業應用軟體的結合， 將使IT部門與所有的企
+業對於Windows之外的替代方案，更具開放的態度。
+
+甲骨文標準高容量系統副總裁Doug Kennedy指出，Linux核心2.4版本
+與其資料庫的改進，可以使甲骨文將它的Liunx 資料庫鎖定中小企業
+的市場，亦即大約有二百五十到三百名使用者的公司。甲骨文目前宣
+稱它鎖定的公司大約有十五到一百名使用者。Kenndy並且指出，以甲
+骨文的 Linux開放原始碼為基礎，可以為企業建造全面的緊急任務實
+施條件。
+
+VA Linux除了與甲骨文合作外，也與其他Linux 軟體廠商合作，共同
+推動Linux的商業化。而甲骨文也將與戴爾合作，共同開發供Linux所
+用的Oracle 9i。
+
+相關網址：
+1、甲骨文與VA Linux的合作案改變Linux的遊戲
+   http://www.techweb.com/wire/story/TWB20010201S0021
+2、甲骨文選擇戴爾作為Linux合作夥伴
+　 http://www.techweb.com/wire/story/TWB20010131S0001
+
+──────────────────────────────
+■ O'Reilly推出ONlamp網站
+
+沈美君/編譯
+2001/02/02
+
+O'Reilly一向致力於開放原始碼技術的文件出版，如今再添一個技術
+內容網站ONlamp.com，推廣以Linux、Apache、MySQL、PHP、 Perl、
+Python為組合的網頁開發環境，提供開發者豐富的技術支援、討論管
+道。
+
+------
+
+O'Reilly Network於2月1日在紐約舉行的LinuxWorld大會上，推出旗
+下新闢的網站「ONlamp.com」，用以推廣 Linux平台上，最常被拿來
+開發高效能網站應用的工具組合，包括Linux、 Apache、MySQL、PHP
+、Perl和Python，ONlamp.com將提供與這些開發工具相關的資源、專
+欄、報導及應用手冊，造福廣大的開放原始碼社群。
+
+造成Linux 風行的原因，除了它的免費與高效能的表現， Linux平台
+上有幾種工具，組合起來便成就出一個完整的網站應用開發環境。由
+NetCraft例行的調查可以發現，目前最受歡迎的Apache網頁伺服器，
+有很大一部分都在Linux上跑，同時這些Apache伺服器也都加裝了mod
+_perl 及 mod_php這兩種Script語言模組；此外，由下載的統計次數
+也可發現，近兩年MySQL儼然已成為網頁開發者愛用的資料庫之一。
+
+「LAMP」最先起源於德國，取 Linux、Apache、MySQL、PHP、Perl、
+Python這些平台工具組合的首字組合，這個縮寫代號意指「具威力的
+網頁開發工具套件組合」。著名的網路書店Amazon.com，每日流量之
+高可想而知，Amazon以Perl及數種開放原始碼技術，來提供顧客穩定
+的服務；O'Reilly 及O'Reilly Network 網站，每個月約有三百萬人
+次流量，網站平台也使用LAMP技術平台來實作。
+
+O'Reilly一向致力於開放原始碼技術的文件出版，不管是網路媒體（
+O'Reilly Network）或是開發者所熟悉的平面書籍（以動物素描做為
+封面），都已建立一定的專業權威，如今再添一個成員：ONlamp.com
+，提供開發者豐富的技術支援、討論管道。
+
+使用者可以從ONLamp.com網站取得與網頁效能、研發、安全、 Linux
+/BSD系統管理、Apache安裝、Linux多媒體應用及MySQL資料庫管理的
+相關技術文件和各種資源。這些資源大部分由具有專業素養的程式設
+計師或發展者提供，例如Noel Davis將負責 Linux安全問題探討的專
+欄，Darrell Brogdon擁有多年的PHP程式撰寫經驗，專業的編輯與顧
+問也將貢獻最新的技術規格，以及各種具深度的評論。當然，產業分
+析也不會少。
+
+相關網址：
+1、ONlamp.com 網站開張：提供高效能的開放原始碼網站開發資源
+   http://linuxpr.com/releases/3277.html
+2、LAMP：開放原始碼網頁應用發展平台
+   http://www.onlamp.com/pub/a/onlamp/2001/01/25/lamp.html
+
+──────────────────────────────
+■ 未來的Gnome桌面環境  夠酷！
+
+謝良奇/編譯
+2001/02/00
+
+Gnome桌面環境將在本次LinuxWorld展覽會場，展示Eazel、Ximian等
+未來Gnome桌面元件技術，除了勾勒出Linux桌面環境未來可能外，更
+象徵直覺式桌面環境將推動Linux，進一步跨入一般用戶桌面。
+
+------
+
+有人說：Linux的開放原始碼社群忽視一般終端使用者，在Linux的桌
+面環境持續演進後，這套通常被認為專家才能使用的作業系統，進駐
+一般用戶桌面的時日已經不遠。本次LinuxWorld展覽會中，透過像是
+Eazel、Ximian等新Gnome桌面元件展示，Linux的Gnome桌面環境將表
+現具備直覺化桌面環境的Linux，作為桌面系統的真正魅力。
+
+Eazel的共同開發者Michael Boich、Andrew Hertzfeld，曾密切參與
+蘋果的麥金塔桌面設計。Eazel 一開始將展出檔案管理器Nautilus的
+預覽版本。
+
+有意作為Gnome 1.4內部元件的 Nautilus，能讓檔案圖標表示檔案本
+身的內容，例如，讓文件檔案圖標顯示文件開頭的文字，或者使圖形
+檔案圖標就是該圖形的縮小圖等等。Hertzfeld 表示，Nautilus能讓
+資料自行說話，它直覺化檢視系統內檔案的方式，將消除用戶與工作
+間的隔閡。
+
+Ximian Gnome 是一套加強型的開放原始碼Gnome桌面，易用、優雅是
+其特點。Ximian 內包含一系列應用軟體及工具、核心Gnome程式庫、
+Gnome桌面等。此次Ximian將展出未來Gnome桌面的數項元件。首先是
+Evolution，類似微軟Outlook的郵件管理、位址簿、日程表組合工具
+。其次Red Carpet是用以更新核心系統元件的直覺式系統更新工具。
+另一套Ximian Setup Tools提供類似視窗控制台，可設定、維護系統
+的工具軟體。
+
+Ximian 日前已獲惠普採用為HP-UX工作站的預設桌面環境。Ximian共
+同開發者、執行長Nat Friedman表示，該合作關係顯示Ximian在工作
+站市場正逐漸普及。
+
+雖然目前某些Linux套件已有上述部份工具，Ximian 的設計則是希望
+可安裝在任何 Linux版本套件。Evolution 1.0 預計會在春、夏時釋
+出，Red Carpet最初版本可望於近期推出，至於Ximian Setup Tools
+將隨著Gnome 2.0問世。
+
+Friedman與Hertzfeld都認為，Linux最終將攻佔桌面領域。時間會證
+明如Nautilus、Evolution等直覺技術，將推動Linux成為桌面作業系
+統。
+
+相關網址：
+1、Linux開發者正對準你的桌面
+   http://www.pcworld.com/news/article/0,aid,40142,00.asp
+2、惠普採用Ximian GNOME作為HP-UX工作站的桌面系統
+   http://linuxtoday.com/news_story.php3?ltsn=2001-02-01-003-06-PR-GN　　 
+3、Ximian GNOME: 解放你的桌面!
+   http://www.ximian.com/desktop/
+
+──────────────────────────────
+■ 幫助Linux擁有統一標準  LDPS 1.1 Beta登場
+
+張書銘/編譯
+2001/02/02
+
+去年10 月間由自由標準團體﹙Free Standards Group, FSG﹚推出的
+Linux開發平台規格﹙Linux Developement Platform Specification
+,LDPS﹚終於釋出新的1.1 Beta 版。在最新版本中，仍然提供了許多
+的相關標準以及相關套件資料。而可預期的是，LDPS將可為百家爭鳴
+的Linux市場帶來一個大家都可接受的標準。
+
+------
+
+自由標準團體正式公布2001年的Linux開發平台規格。Linux開發平台
+規格是去年10月間，自由標準團體在第三屆Linux 展覽暨會議年會上
+所發表的一套標準。發表這套標準的主因，是提供給紛擾的Linux 市
+場一個能讓彼此產品相容空間的參考。
+
+過去的UNIX產品由於廠商互不相容的作法，因此對使用者及開發者而
+言都陷入只能選擇單一廠商的困境。而目前市面上有許多Linux 套件
+為避免彼此不相容而造成開發者與使用者的困擾，因此自由標準團體
+才為LDPS這個標準催生。
+
+在最新的 LDPS 1.1 Beta中，明確地定義了相容開發平台所應包含的
+套件包括：Linux核心 2.2.14以上或2.4.x；glibc 2.1.2或 2.1.3；
+XFree86 3.3.6以上；ncurses 5.2；GCC version egcs-2.91或GCC 2
+.95.2以上；binutils 2.9.1.x以上。這與去年10月的第一版標準比
+較下並沒有太大的改變，多半的改變只是因為指定的套件中推出新版
+本而新增。
+
+不過在1.1 Beta的文件中也特別提到了一些建議，例如 Ncurses 5.2
+的部份，FSG 表示應盡量避免使用5.2之前版本﹙LDPS2第一版建議使
+用 Ncurses 4.2﹚，以避免暫存記憶體在程式運算時發生溢位錯誤；
+而若是專門針對ia64或sparc64處理器開發的程式，在選用GCC的版本
+時則必須改用GCC 2.96 or GCC 2.97﹙GCC version egcs-2.91或GCC
+ 2.95.2以上的規格適用於alpha以及ia32的處理器上﹚。
+
+相關網址：
+1、LDPS 1.1 Beta釋出
+   http://www.freestandards.org/news/2001/20010131.shtml
+2、LDPS 2001年1月規格出爐
+   http://www.freestandards.org/ldps/1.1-beta/ldps-1.1-beta.html
+
+──────────────────────────────
+■ Linux已有188個版本
+
+李孟諺/編譯
+2001/02/02
+
+雖然Linux的市場逐漸被幾家大公司整合，但是Linux的版本已經膨脹
+到一百八十八個，而且以驚人的速度增加當中。令人憂心的是太多分
+歧的版本是否會影響到 Linux的發展，甚至與Unix最後的下場一樣。
+
+------
+
+正當Linux的市場逐漸被幾家大公司整合，然而，Linux版本的數目隨
+著開放原始碼的盛行目前已經膨脹到一百八十八個，而且快速地增加
+中。Linux Weekly News的執行編輯Elizabeth Coolbaugh，在年度會
+議LinuxWorld上表示，目前正在追蹤 Linux成長的狀況，每星期大約
+會增加一到兩個版本。
+
+隨著版本的多元化，有人開始憂心這樣的發展是否會影響到 Linux的
+發展，甚至重蹈Unix當初犯下的錯誤。對於這個問題Coolbaugh 表示
+Linux數目的成長是當初通用公共授權﹙GNU GPL﹚提供給 Linux的一
+個權利。在這個許可之下，才會有不同的 Linux被創造、改變與流通
+。藉由這個發展 Linux在市場上才找到它的利基。而且快速的擴張有
+助於它在電腦作業系統的競爭上獲勝。所以多元化未必會導致分裂。
+但是Coolbaugh也警告如果許多人還是依賴封閉原始碼軟體或是Linux
+的擴散無法持續，那麼 Linux失敗是有可能的。因此我們要不斷的關
+心並推廣Linux。
+
+目前主要提供Linux的廠商有紅帽﹙Red Hat﹚、Debian GNU/Linux、
+SuSE、Caldera、美商拓林思﹙TurboLinux﹚、Slackware和Mandrake
+等。他們在全球各地開疆闢土，整合Linux市場以及主導Linux發展。
+
+市場的分布情況又是如何？紅帽公司在美國有相當大的影響力。在瑞
+典以及托瓦茲的故鄉芬蘭，以Best Linux最為有名。俄羅斯的當紅炸
+子雞則是Black Cat Linux。德國的 SuSE努力維持它在歐洲的市場。
+美商托林斯在亞洲有相當不錯的市場佔有率。日本Kandara與 Laser5
+也是廣為人知的公司。至於中國這塊大餅，Blue Point、Red Flag和
+Linpus正在捉隊廝殺當中。
+
+LinuxWorld的執行長指出雖然有諸多的版本流傳在市面上，但是自由
+軟體是他們共同的特徵。解決方案提供者或是商用軟體廠商可以靠它
+們獲利。Linux組織或社群可以發展出更多不同的Linux。
+
+相關網址：
+1、持續增加中的Linux版本
+   http://www.techweb.com/wire/story/TWB20010201S0010
+2、Linux已經有188個不同的版本
+   http://www.zdnet.co.uk/news/2001/4/ns-20635.html
+3、Linux的版本
+   http://www.linux.org/dist/
+
+──────────────────────────────
+■ Aduva推出Linux商用Aduva Director
+
+蕭喜那/編譯
+2001/02/02
+
+Aduva提供Linux使用者以網路為基礎的服務，繼一月推出的Aduva管
+理員﹙Manager﹚ 服務之後，於2月1日再推出供商業Linux使用者所
+用的Aduva Director。 這是一項以網際網路為基礎的解決方案，可
+以將多系統Linux網路的管理自動化。
+
+------
+
+Aduva提供以網路為基礎的服務，給商業與非商業的 Linux 使用者，
+Aduva在2001年1月1日推出 Aduva管理員﹙Manager﹚，這是一項以網
+際網網路為基礎的免費服務，提供給非商業的 Linux使用者。該公司
+於2月1日再推出第二個系統管理服務Aduva Director，是特別針對多
+系統Linux的商業使用者所設計的。
+
+Aduva Director是以網際網路為基礎的解決方案，它可以將多重、互
+連的Linux 系統管理自動化，它滿足對緊急系統管理任務日益增加的
+需求，例如升級、修訂、安裝新的硬體趨動程式與軟體，以確保系統
+的可靠性與組件的相容性。
+
+Aduva Director 的中心基礎是Aduva知識基﹙Knowledge Base﹚。這
+項知識基包括與Linux 系統所用的硬體趨動程式、軟體、與核心模組
+組件有關的衝突及依賴資訊。一旦Linux 社群中有新的產品、升級版
+、修訂版、安全性警告、與其他發展，這些資訊就會跟著更新。 
+
+Aduva的科技長 Ury Segal指出，知識基在現今Linux世界中，提供最
+完整的組件資訊庫，有了知識基， Linux使用者擁有一個中央的、安
+全的、與可靠的解決方案，它可以大幅減少維護多系統Linux 網路所
+需的時間。
+
+Aduva研究團隊不斷地在Linux世界中搜尋最新的產品、升級版、修訂
+版、安全性警告等。經過確認後的組件不斷地在Aduva 高度自動化的
+檢定實驗室中接受測試，一旦一個組件已經經過完全地測試與檢定之
+後，如何應用的規則就會被輸入Aduva 的知識基中。而該組件也成為
+Aduva組件圖書館的一部分，所有Aduva解決方案的使用者都可以使用
+它。
+
+Aduva Director軟體被安裝在系統的中央管理伺服器，在網路的每一
+個別系統上，也會安裝一個當地的軟體用戶端，這個軟體用戶端維護
+所有硬體、軟體、與核心模組組件的最新清單及概況，並將這項資訊
+提供給系統管理者。使用者的資訊不會送回 Aduva，所以這項解決方
+案是完全安全的。
+
+相關網址：
+1、Aduva推出第一個供非商業使用者所用，完整維護Linux系統可靠性的軟體科技
+   http://www.aduva.com/press_detail.html?id=1
+2、Aduva推出第一個完整維護Linux系統可靠性的軟體科技
+　 http://linuxpr.com/releases/3274.html
+
+──────────────────────────────
+■ Berkeley DB 3.2出爐  支援QNX平台
+
+張書銘/編譯
+2001/02/02
+
+一般談到資料庫，大家往往認為它是與大型伺服器分不開的產品。事
+實上，隨著可攜式電腦與嵌入式設備的風行，資料庫的應用也早已與
+它們整合了。以設計開放原始碼資料庫著名的 Sleepycat公司，為了
+讓資料庫系統能與嵌入式設備做更完美的搭配，因此在最新的產品中
+將支援QNX即時平台。
+
+------
+
+為了讓提升嵌入式設備上資料庫的應用範疇，以開發開放原始碼資料
+庫著名的Sleepycat公司，在最新釋出的Berkeley DB 3.2中增加了對
+QNX 平台的支援，讓使用者在嵌入式設備上也能用資料庫來進行繁瑣
+的資料管理工作。
+
+Berkeley DB 是一套開放原始碼的嵌入式資料庫系統，除了可做為個
+人電腦或是伺服器的資訊管理系統外，也提供了相關的開發工具，讓
+使用者能自行設計一些簡單的資料庫程式進行存取或管理。同時，針
+對不同使用需求，Berkeley DB 也分為不同的套件，分別是以提供單
+人資料存取管理與多人閱覽資料用的Berkeley DB Data Store﹙適合
+單機或僅提供多人閱讀資料功能的使用者﹚；專為同時多人進行資料
+存取的 Berkeley DB Concurrent Data Store﹙在資料備份與還原功
+能上較薄弱，適合處理一般不需太高安全性的資料﹚，以及提供最完
+整功能的Berkeley DB Transactional Data Store三種。
+
+而據Sleepycat公司表示，Berkeley DB並非針資料庫管理者，而是對
+程式開發者而設計，目前由於多數程式開發設計者都採用 QNX平台做
+為嵌入式設備程式設計的環境，因此決定在 Berkeley DB 3.2中，加
+入對 QNX的支援。除了可以幫助開發人員解決合適資料庫系統難尋的
+問題，同時也可以吸引開發人員以 Berkeley DB為搭配對象，設計其
+他的應用程式。
+
+相關網址：
+1、Berkeley DB 3.2支援QNX平台
+   http://linuxpr.com/releases/3276.html
+2、Berkeley DB產品導覽
+   http://www.sleepycat.com/prod_overview.html
+3、關於Berkeley DB
+   http://www.sleepycat.com/products.html
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
