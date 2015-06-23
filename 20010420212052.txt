@@ -1,0 +1,508 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０４.２０
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Slackware面臨存亡絕續關頭？
+
+■ Palm將大舉裁員10％─15％
+
+■ IBM新款Linux ThinkPad提供DVD播放功能
+
+■ 惠普以Enhydra擴大市場利基
+
+■ Samba 2.2.0推出  Windows與Linux網路溝通更容易
+
+■ GNOME、KDE握手言和  共同成立自由桌面網站
+
+■ 印度開發低價位口袋型電腦「Simputer」
+
+■ 蘋果控告MTP計畫違反商標權
+
+═《編者的話》═══════════════════════
+
+發展比紅帽還早的Linux套件Slackware，因為新的母公司未來不打算
+發展自由軟體，正遭逢未來發展的危機！
+
+嵌入式系統廠商Windriver併購BSDi，BSDi更名為iXsystem ，不過隸
+屬於BSDi 下的Slackware研發團隊，卻遭到研發成員遣散的命運。但
+是熱心的開放原始碼社群，已發起募款運動資助Slackware ，該套件
+的小組成員也表示仍然會繼續Slackware 的發展、不因成員遭解僱而
+停滯；此外PDA 界的龍頭廠商Palm則因無法閃避經濟不景氣的衝擊，
+宣佈將裁減10％~15％的員工，且不排除有進一步的裁員行動。
+
+IBM的ThinkPad不但可搭配Linux，還可在Linux環境上看DVD！這款名
+為「T22」的IBM ThinkPad，是首部由生產廠商預設安裝Linux的筆記
+型電腦，而且為了讓T22 支援DVD ，讓IBM費了不少功夫。除了IBM為
+Linux這套開放原始碼作業系統背書宣傳外， HP也看好開放原始碼應
+用伺服器Enhydra的市場潛力，希望藉由推廣Enhydra提高HP 在Linux
+市場的獲利。
+
+此外本期還為您介紹新版Samba 2.2.0 ，新增許多令人欣賞的特色；
+GNOME和KDE互相交流，討論加強雙方互通的可能性；印度廠商開發價
+美物廉的口袋型電腦「Simputer」，以及蘋果電腦控告開放原始碼計
+劃「MTP 」侵犯期商標權的爭議。想知道到底是怎麼回事？歡迎您閱
+讀OpenScope開放視界電子報！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ Slackware面臨存亡絕續關頭？
+
+梁天佐/編譯
+2001/04/18
+
+在眾多Linux發行版本中，Slackware稱得上古典紮實，雖然較其他版
+本顯得冷僻，卻擁有忠實的使用者群； Slackware亦如其名般，與世
+無爭徐徐發展。但由於主要的支援母公司被收購， Slackware開發小
+組遭到遣散，引起開放原始碼社群的關心。
+
+------
+
+Slackware Linux發展組織領導人Patrick Volkerding於Slackware官
+方網站論壇，對母公司BSDi被Wind River公司收購，遣散 Slackware
+發展小組一事發表聲明， Volkerding表示目前正在進行中，採用2.4
+版核心的新版發行計畫會繼續完成，Volkerding也不排除籌集資金，
+成立獨立的Slackware公司。
+
+Wind River宣佈收購BSDi， 並更名為iXsystems時，就表示收購並不
+包括BSDi旗下的 Slackware發展小組，於是BSDi遣散除Volkerding之
+外其他三名小組人員，但四位成員目前仍自行維持原有組織，在經費
+極度缺乏的狀況下，繼續進行新版推出工作。Volkerding在聲明中表
+達不能發給成員薪水的難過，並希望稍後藉由新版Slackware  Linux
+ 的發行，取得部份資金。
+
+Slackware 的尷尬現狀消息公開後，引起開放原始碼社群的關心，由
+於Slackware是相當具有特色的Linux版本，雖然 Slackware成員並未
+公開募款，但已有熱心的使用者與社群發起贊助行動，贊助者可由專
+為Slackware在線上金錢收發網站PayPal 所開立的帳號捐款，或表達
+慰問與鼓勵之意。
+
+BSDi是一家提供BSD作業系統設計、開發與解決方案的公司，而 Wind
+ River則是提供嵌入式系統軟、硬體設備的製造公司；雖然Linux在
+嵌入式市場蓬勃發展，但由於 BSD允許改良後的程式碼可被當作私人
+軟體財產，不必對社群公開，因此Wind  River將以BSDi的BSD基礎發
+展嵌入式系統，以與Linux相關產品競爭， River Wind副總裁兼網路
+事業部總經理便曾表示，因為GPL授權方式，該公司對Linux在嵌入式
+領域沒有興趣，甚至它們害怕GPL， 因為它要求把修改後的原始碼回
+饋給社群。
+
+即使在孤立無援的狀況之下， Slackware發展小組成員仍在一起工作
+，目前首要的任務便是即時推出新版Slackware  Linux，小組成員之
+一的Chris Lument在回覆社群的訊息中說；「雖然我們不能對企業併
+購這種普通事說些什麼，但希望之後我們可以解釋，現在，請繼續支
+持Slackware，我們會繼續工作。」另一位成員David  Cantrell加上
+一句：「我們四個全都還是Slackware核心成員。」
+
+相關網址：
+1、River Wind首頁
+   http://www.wrs.com/
+2、BSDi首頁
+   http://www.bsdi.com/
+3、Slackware首頁
+4、Wind River將不保留Slackware
+   http://slashdot.org/article.pl?sid=01/04/17/2118220&mode=thread
+5、Slackware不會走開
+   http://www.slackware.com/forum/read.php?f=5&i=7887&t=7887
+6、開發人員被裁，Slackware商業發行生變數
+   http://linuxtoday.com/news_story.php3?ltsn=2001-04-17-014-20-NW-SL
+
+──────────────────────────────
+■ Palm將大舉裁員10％─15％
+
+李孟諺/編譯
+2001/04/20
+
+PDA雖然在去年大放異彩，但是PDA的廠商卻未必逃得過經濟不景氣帶
+來的衝擊。著名PDA 製造商Palm決定大舉裁員，幅度在10％至15％，
+而且不排除進行更進一步的裁員行動。
+
+------
+
+上個月月底，Palm公司曾表示該公司將裁減10％至15％的員工。本週
+三，根據Palm員工流出的一份內部文件顯示，這項裁員工作已經在進
+行當中。Palm女發言人Marlene Somsak證實該公司在星期三上午通知
+員工這項消息，但不願說明哪一個部門被裁減最多的員工。在七月完
+成延伸系統﹙Extended Systems﹚的取得後，Palm將有更進一步的裁
+員動作，但是裁員範圍目前還沒決定。
+
+裁員表示Palm遭遇到一些問題。根據一份上月底的文件顯示，該公司
+目前在著手研究所遭遇問題的因素，包括經濟低迷、產品銷售管道與
+內部作業流程等。Palm也詳實的告訴員工下一波裁員的必要性，並要
+求員工將公司的經費當作自己的財產一樣，不要隨便亂花以節省經費
+。此外Palm也對員工表示，比起以前消費者有更多的選擇機會，他們
+的市場佔有率將會隨著競爭對手新產品的發表而縮減。
+
+1992年成立的Palm公司，在手持式電腦市場一直居於領導地位，其所
+推出的Palm家族也以獨特的造型著名。家族目前有五種不同的產品：
+Palm m100、Palm V、Palm m500與PalmVII 系列。這些Palm產品配備
+多種個人資訊管理軟體套件，包括 Data Book、紅外線傳輸能力、支
+出管理軟體、計算機、遊戲等功能，並能連結網際網路獲取及傳遞資
+訊。此外這兩年也加入Linux 等開放原始碼作業系統以及應用程式。
+
+不過整體經濟環境低迷，加上越來越多的公司開發PDA 等手持式電腦
+設備，使得Palm公司也不得不考量成本，進行裁員的動作。根據Palm
+內部員工流傳出的文件當中顯示，在加州聖克拉拉被辭退員工還能領
+取三十天的薪水。並依照職位等級的不同，領取二至四個月不等的特
+別加給。而且他們也可以擁有九十天執行股票選擇權的機會。但是不
+能使用上個月宣布的新選擇權方案。
+
+相關網址：
+1、Palm開始進行裁員
+   http://www.zdnet.com/zdnn/stories/news/0,4586,5081357,00.html?chkpt=zdnn_rt_latest
+2、關於Palm
+   http://www.palm.com/about/pr/background.html
+
+──────────────────────────────
+■ IBM新款Linux ThinkPad提供DVD播放功能
+
+梁天佐/編譯
+2001/04/19
+
+IBM的 ThinkPad系列一直是筆記型電腦中的領先品牌，不止硬體配置
+先進裝備，作業系統與軟體也常安裝最新，或是 IBM為機器本身特別
+設計的版本；在IBM大力發展Linux的環境下，ThinkPad系列旗鑑級機
+種不只以Linux為作業系統，IBM更成立研發團隊，特別為筆記型電腦
+Linux系統開發DVD播放機能。
+
+------
+
+IBM正式推出ThinkPad筆記型電腦的最新機種T22，這款新機除了具有
+旗鑑級機種硬體配備之外，值得一提的是，它是首部由生產廠商預設
+安裝Linux作業系統的筆記型電腦，為了讓所配備的DVD光碟機也能提
+供DVD影音娛樂，IBM花了一番功夫使Linux也能支援DVD播放機能。
+
+讓Linux 支援播放DVD影音，在技術上對IBM來說不成問題，但相關的
+版權規定，讓IBM 費了一些周章；有鑑於之前曾經發生過美國電影協
+會﹙Motion Picture Association of America﹚ 控告某網站提供破
+解影音DVD播放的區域限制程式碼的事件，在開放原始碼的Linux作業
+系統上播放DVD影片， IBM就必須注意這些被版權法律保護的DVD區域
+限制不會隨著開放原始碼而曝光。
+
+IBM採用InterVideo公司的播放軟體LinDVD，InterVideo在Windows平
+台上播放DVD的軟體WinDVD相當有名，而且常與配備DVD光碟機的電腦
+搭配在一起出售，功能齊全好用，LinDVD與WinDVD幾乎完全相同，除
+了可以播放DVD外，還可播放VCD與MPEG檔案，並且能夠解碼杜比多聲
+道數位音響系統。使得Linux與Windows在影音娛樂功能上，從此不再
+有差距。
+
+為讓DVD播放能符合區域限制與版權的要求，IBM採用已成為業界標準
+的Macrovision 數位鎖碼技術，並相當技巧的將鎖碼程式碼置於核心
+，使之成為核心驅動程式之一，如此一來不僅能使程式碼受到相當的
+保護，也打造了一個特殊 Linux核心。IBM行動運算與軟體研發Linux
+應用部門領導人Keith Frechette表示，希望這能給Linux在影音播放
+的發展上一個起步示範，它並不是標準，也希望社群將來能夠定義出
+一個共通的標準。
+
+ThinkPad T22預設安裝Caldera OpenLinux eDesktop 2.4作業系統，
+，並在硬體方面配備Pentium III 9000 CPU、 128M記憶體、20G硬碟
+、14.1吋主動式液晶銀幕與DVD光碟機，等級與售價都相當高檔。
+
+相關網址：
+1、IBM的新Linux ThinkPad提供DVD播放功能
+   http://www.newsforge.com/article.pl?sid=01/04/18/1542224&mode=nocomment
+2、IBM ThinkPad T22官方網站
+   
+
+http://commerce.www.ibm.com/cgi-bin/ncommerce/ProductDisplay?prrfnbr=1932439&cntrfnbr=1&prme
+
+nbr=1&cntry=840&lang=en_US
+3、InterVideo首頁
+   http://www.intervideo.com/jsp/Home.jsp
+4、Macrovision首頁
+   http://www.macrovision.com/index.html
+5、美國電影協會首頁
+   http://www.mpaa.org/
+
+──────────────────────────────
+■ 惠普以Enhydra擴大市場利基
+
+謝鎮澤/編譯
+2001/04/18
+
+繼IBM為Linux強力站台後，惠普也展開支持開放原始碼的計畫，決定
+推廣Enhydra，以提高該公司在Linux市場的獲利，並降低中小企業投
+入電子商務的成本。
+
+------
+
+繼阿帕契網路伺服器及Linux，開放原始碼社群再推出Enhydra應用伺
+服器，補足了開放原始碼產品先前在中階應用伺服器市場的不足，成
+為建構企業運算環境的共同區塊。惠普因此希望藉由推廣Enhydra 提
+高該公司在Linux市場的獲利。
+
+為了提昇惠普產品在Linux市場的佔有率，該公司旗下的Netserver將
+提供Enhydra給顧客，同時惠普另一套產品E3000伺服器所使用的Web-
+Wise套件將搭售Enhydra。
+
+此外，惠普認為Enhydra具支援行動科技﹙Mobile Technologies﹚的
+特性，有助於該公司打開無線應用市場。 Enhydra以Java為開發平台
+，具備處理XML 能力，能依不同的終端設備，適當的格式化輸出資訊
+。因此不論使用者以WAP、I-mode 手機或一般電腦上網，網頁均能正
+確顯示。
+
+中小企業需要低價及可靠的應用伺服器，這即是惠普與Lutris設定的
+目標市場。提供技術支援的Enhydra 售價在六九五美元到九九五美元
+之間，而開放原始碼版本可以免費下載。至於其他商業化的應用伺服
+器，每顆處理器的授權費約在七千五百美元至一萬五千美元之間。
+
+惠普與Lutris聯盟的主管Greg Schwarzer承認，Lutris的產品不會運
+作於像美國銀行等大型企業，不過他也指出Lutris有能力將 Enhydra
+打造成負載能量最高的應用伺服器。Enhydra目前已經在EarthLink入
+口網站的線上商店The Mall中運作，每天接受一百五十萬次的檢視率
+﹙page view﹚。此外Enhydra 也應用於Indiqus娛樂頻道，將資訊傳
+遞給無線裝置。在歐洲，則有法國電信採用此解決方案。
+
+雖然尚未獲得廣泛的採用，Enhydra3.5應用伺服器已經聚集了基本的
+開發社群，商業化的支援組織則有位於美國加州聖克魯茲的Lutris科
+技。Schwarzer說，惠普在美國就有超過4000個經銷商，對於 Lutris
+而言是相當可觀的。Lutris 原本有180位員工，其中有15個業務人員
+，在惠普加入後，顯然更有助於Enhydra的發展。
+
+相關網址：
+1、惠普支持開放原始碼伺服器
+   http://www.zdnet.com/intweek/stories/news/0,4164,2708000,00.html
+2、惠普開始支持Enhydra開放原始碼應用程式伺服器
+   http://www.infoworld.com/articles/hn/xml/01/04/09/010409hnhpopen.xml
+3、Lutris結合惠普 共同加速Web及移動式應用程式的發展
+   http://news.linuxprogramming.com/news_story.php3?ltsn=2001-04-09-008-03-DT-XM-JV
+
+──────────────────────────────
+■ Samba 2.2.0推出  Windows與Linux網路溝通更容易
+
+翁千婷/編譯
+2001/04/19
+
+隨著UNIX-like作業系統的普及， UNIX與微軟視窗系統間資源分享的
+需求也越形增加。一直以來，Samba是Linux使用者解決此問題的好幫
+手。 Samba 2.2.0的推出，除了基本功能加強與臭蟲修復外，還多了
+其它讓人欣賞的特色。
+
+------
+
+Linux上廣被使用的軟體Samba 推出了2.2.0版。開發團隊表示，新版
+Samba增加的功能，讓Linux與視窗系統之間可以更方便的共享網路資
+源，希望可以為UNIX跟微軟視窗系統的整合訂定標準。
+
+Linux 與微軟視窗不同作業系統間檔案資料的傳輸與分享是個讓人困
+擾的問題，除了傳統的Ftp 之外，是否有更簡便的方法呢？過去十年
+來，這一直是Samba專注解決的焦點。安裝在Linux上的這套軟體，讓
+使用者在Linux 環境存取視窗系統資源時可以像使用網路芳鄰一樣容
+易。
+
+除了基本功能加強與臭蟲修復外，新版的Samba 還多了些讓人欣賞的
+特色，例如支援視窗的印表機分享，可自動下載視窗2000/NT 的印表
+機驅動程式，Linux 使用者可以透過網路使用連接在視窗上的印表機
+；統合視窗2000/NT與UNIX的Access control list﹙存取權限表﹚。
+
+此外，視窗使用者可以從客戶端直接以視窗ACL 的格式操控UNIX上資
+源的存取權限，這個功能目前支援Solaris 2.6+、 SGI Irix、Linux
+、Caldera/SCO UnixWare、IBM AIX與FreeBSD等平台的檔案系統。在
+安全管理上，視窗使用者可以透過視窗伺服器管理工具設定 Samba。
+此外，還支援微軟分散式檔案系統。
+
+Samba 除了被應用在網路附加儲存領域外，不少服務供應商所推出的
+產品也都採用Samba 做為工具，如：IBM、SGI、Sun Microsystems、
+HP、VA Linux等。此外，Samba也被紅帽、Caldera、SuSE、Mandrake
+等Linux服務提供者視為Linux標準的一部份。
+
+相關網址：
+1、Samba 2.2.0 版推出
+   http://slashdot.org/article.pl?sid=01/04/17/2144236&mode=thread
+2、Samba 2.2 有什麼新功能？
+   http://linuxtoday.com/news_story.php3?ltsn=2001-04-18-015-21-OS-SV-SW
+3、Samba
+   http://www.samba.org
+
+──────────────────────────────
+■ GNOME、KDE握手言和  共同成立自由桌面網站
+
+張書銘/編譯
+2001/04/18
+
+KDE與GNOME在圖形化介面市場的分裂與競爭，讓使用者不知所措，唯
+恐靠錯邊會造成電腦孤兒的遺憾。但最近一次的 GNOME發展會議上卻
+有突破性發展：雙方透過討論，決定增加彼此的互動性、加強技術交
+流，並計畫共同成立自由桌面網站。
+
+------
+
+以討論GNOME發展方向為主的GUADEC II會議，上週在哥本哈根舉行。
+由於在Linux/UNIX視窗環境中，GNOME與KDE一直都呈現競爭狀態，導
+致入門者在選擇上必須花費許多心力，其分別擁有的支持者之間也常
+起爭議。因此在這次 GUADEC II會議中，兩方代表針對系統互通性進
+行了多項討論。
+
+在這次討論中，明顯看出 GNOME強調與其他平台達到互通的重要性，
+並幫助使用者混用 GNOME和KDE平台應用程式的決心，在KDE代表的支
+持下，雙方進行互通項目的討論。主要範圍包括：辦公室軟體格式轉
+換、檔案格式、列印週邊設備線上同時工作﹙print spool﹚、 MIME
+通訊協定系統、一般系統設定﹙如字形、顏色、以及圖示﹚等，除了
+希望操作方式上能類似，也讓應用程式能夠互相移轉，減少使用者適
+應的時間。
+
+此外，紅帽技術研發中心的David Mason，同時也是GNOME計畫的開發
+人員之一，他在GUADEC II會議上指出，雖然競爭刺激了GNOME與 KDE
+各自努力發展，但為了確保技術的流傳，雙方有必要接受彼此的概念
+，並成立資訊中心來提供大眾必要的訊息。因此GNOME與KDE雙方決定
+共同成立稱為自由桌面的網站，用以公佈相關資訊以及發展進程，目
+前自由桌面已經釋出一套新的視窗管理員規格，以及GNOME與KDE開發
+時共同遵循的標準，有興趣的開發人員可以自該網站獲得跨平台的開
+發資訊。
+
+相關網址：
+1、自由桌面
+   http://www.freedesktop.org
+2、GNOME與KDE停戰言和
+   http://www.theregister.co.uk/content/4/18323.html
+3、GNOME/KDE 開發會議
+   http://people.redhat.com/dcm/guadec.html
+
+──────────────────────────────
+■ 印度開發低價位口袋型電腦「Simputer」
+
+李孟諺/編譯
+2001/04/18
+
+電腦在我們周遭隨處可見，但是對於一些國家而言，絕大多數的人並
+沒有能力購買與使用電腦。印度為了拉近人民之間的數位落差，資訊
+科技製造商協會決定聯手開發低價位電腦「Simputer 」，採用Linux
+當作它的作業系統。
+
+------
+
+印度的軟體工業在全球佔有一席之地，但是電腦數量全國估計約只有
+五百萬台，有絕大多數的印度人民沒有接觸電腦的管道，也因此拉大
+了印度人民之間的數位落差﹙Digital Divide﹚。為了解決這個問題
+，印度決定開發低價位電腦「Simputer」。
+
+這項開發計畫是由印度資訊科技製造商協會﹙ Manufacturers Asso-
+ciation of Information Technology， MAIT﹚發起。「Simputer」
+是指簡單、低廉、多語言的電腦﹙Simple, Inexpensive and Multi-
+lingual ﹚，希望售價訂在兩百美元左右，如果發展順利的話，這台
+低價位的Simputer預計在2002年3月上市。
+
+Encore 軟體公司的創辦人兼執行長、同時也是MAIT 總裁，實際參與
+Simputer計畫的Vinay Deshpande表示， Simputer低價位的原因是因
+為採用Linux 作業系統與其他開放原始碼軟體。此外，應用程式設計
+介面將以信託方式提供給軟體公司，希望他們能創造出新的程式。
+
+Simputer屬於口袋型電腦，而且比Palm更有威力。規格部分，螢幕尺
+寸為三百二十乘以兩百四十像素，記憶體容量三十二MB，配備 Linux
+作業系統。而且處理器採用英特爾的strong-arm低耗能晶片。
+
+在文字輸入方面有兩種選擇，一種是軟體鍵盤，另一種則是稱為tap-
+a-tap的新文字輸入軟體，也可以外接USB介面的鍵盤。不過Simputer
+並不適合用來處理大量文字資訊。此外Simputer的檔案格式是IML ﹙
+資訊標示語言， Information Markup Language﹚，亦可稱為文盲標
+示語言﹙Illiterate Markup Language﹚。 IML是專門為Simputer設
+計，而且符合XML標準。
+
+相關網址：
+1、印度低價位電腦將進入市場
+   http://news.cnet.com/news/0-1006-200-5640577.html 
+2、Simputer計畫  
+   http://www.simputer.org/
+
+──────────────────────────────
+■ 蘋果控告MTP計畫違反商標權
+
+沈美君/編譯
+2001/04/18
+
+蘋果公司因為macthemes.org下的MTP專案計畫，涉嫌助長第三者非法
+取用蘋果的圖形商標、程式碼，違反美國聯邦商標法，對 macthemes
+.org網站提出控告。但該網站發展者表示：「如果蘋果改變了當初創
+始的初衷，反而控告能提供使用者更大自主權的發展者，那麼我們建
+議使用者乾脆轉向Linux，畢竟在Linux的世界，這項開放的精神仍然
+存在。」
+
+------
+
+蘋果公司近日對macthemes.org提出控告，認為macthemes.org旗下發
+展的開放原始碼計畫「Mac Themes Project ﹙簡稱MTP﹚」，涉嫌助
+長第三者非法取用蘋果的圖形商標、程式碼，此除舉違反美國聯邦商
+標法，亦違反蘋果的軟體合約，涉嫌以逆向工程﹙Reverse-engineer
+-ing﹚取得蘋果從未公開的作業系統規格書。
+
+MTP計畫始於1998年，也就是蘋果為其作業系統Mac OS 8.5 提出佈景
+支援﹙Support for Themes ﹚的同時，使用者可用MTP編輯工具，獨
+創Mac OS的佈景，macthemes.org 也成為眾多使用者交換獨創佈景的
+中介中心。
+
+蘋果援引美國聯邦商標法，即藍哈姆法案﹙Lanham Act﹚的規定，指
+出MTP 提供大眾佈景編輯工具，等於涉嫌助長使用者盜取蘋果的著作
+權、商標、圖像等。此外蘋果指出，從未將Mac OS作業系統的規格書
+公開釋出，MTP 涉嫌以未經授權的逆向工程來反解蘋果的軟體，才得
+以發展此佈景編輯工具，此舉涉嫌違反蘋果公司的軟體授權。蘋果並
+要求macthemes.org停止讓使用者下載MTP，並拿掉所有可能接觸到此
+編輯工具的連結、資源。
+
+針對蘋果關於侵犯商標法的指控，MTP發展者之一的Steve Lobsinger
+於macthemes.org網站上作了正式回應。他指出，MTP專案中並未包含
+任何來自蘋果的程式碼或圖像，蘋果指控的侵權盜用情形，多是來自
+以MTP編輯工具開發佈景的使用者所造成，Steve舉例：「蘋果不能為
+一個非法使用 iTune盜拷CD的使用者負責，就像我們無法為以錯誤方
+式來使用MTP的使用者負責，是一樣的情形。」
+
+關於被指控涉嫌逆向工程而違反蘋果軟體授權一事， Steve援引當年
+Sega與Accolade 公司的官司判例，來說明MTP的作法是合理的。第一
+，MTP 專案是基於非營利、教育目的而發展；第二，此專案中並無任
+何程式碼來自蘋果；第三， MTP專案提供「附加價值」給Mac OS的使
+用者，讓使用者有充分的自由，打造自己所需的作業系統平台外觀。
+
+Steve在正式回應文章中，提醒蘋果一個重要的論點：MTP是不收費、
+開放原始碼的專案計畫，主要為了提供Mac OS使用者便於根據自身的
+需求，來設計佈景外觀。「蘋果在1976年，是基於為了讓使用者對電
+腦有更大的主控權而創立，如果蘋果改變了這個初衷，反而控告能提
+供使用者更大自主權的發展者，那麼我們建議使用者乾脆轉向 Linux
+，畢竟在Linux的世界，這項開放的精神仍然存在。」Steve語重心長
+地表示。macthemes.org宣稱拒絕中斷這個將會為Mac使用者帶來便利
+的專案計畫。
+
+相關網址：
+1、蘋果公司控告「MTP」開放原始碼計畫違反商標權
+   http://www.macworld.co.uk/news/main_news.cfm?NewsID=2773
+2、Mac Themes Project設於SourceForge的專案網頁
+   http://sourceforge.net/projects/macthemes/
+3、Mac Themes Project官方網站
+   http://www.macthemes.org/
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

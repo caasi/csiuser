@@ -1,0 +1,388 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０５.１１
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Mentor Graphics發展首套Linux EDA前端解決方案
+
+■ Altera選擇紅帽為EDA工具開發平台
+
+■ 微軟攻擊GPL  Caldera信心動搖
+
+■ SuSE Linux將支援Panasonic  DVD-RAM
+
+■ Linux瀏覽器外掛程式新夥伴─QuickTime
+
+■ 法國電信入股Jabber.com  推動開放源碼即時傳訊
+
+═《編者的話》═══════════════════════
+
+Mentor Graphics 宣佈將發展 Linux電子設計自動化前端解決方案，
+Linux晶片設計應用更進一步！
+
+電子電路晶片在資訊產業中處於中間地位，隨著競爭愈來愈激烈的高
+科技產業市場，業界對有效的電子自動化設計工具與解決方案的需求
+也愈迫切！Mentor Graphics公司宣佈將在Linux平台上，提供業界第
+一套完整的，可在作業系統輸入端 ﹙Front end﹚進行程式、修改電
+路邏輯設計的解決方案。
+
+為因應日益複雜的電路設計及測試，許多晶片設計廠商以高效能的工
+作站與伺服器網路進行平行處理，但晶片功能愈來愈多，成本效益也
+愈來愈低。Linux 在可程式邏輯設計方面的發展迅速，且整合不同設
+計環境的困難度低，有時光是執行 Linux作業系統的個人電腦群就可
+以提供高效能的系統級設計環境。以 Linux為基礎的工具，對可程式
+邏輯設計流程提供了具成本效益的運算選擇。去年十月，Synopsys就
+已在Linux上提供EDA高階ASIC設計的完整工具；視算科技與Platform 
+Computing也在今年三月推出極具生產力的EDA組合；Altera也宣佈，
+將選擇紅帽為EDA工具開發平台。以 Linux開發EDA或作為其解決方案
+的潮流，正方興未艾！
+
+本期的OpenScope還為您報導了微軟攻擊GPL授權的言論；SuSE Linux
+將以7.1版支援Panasonic DVD-RAM；CodeWeavers推出Linux瀏覽器外
+掛程式，當中包括熱門的ShockWave及QuickTime。 OpenScope不斷給
+您開放創新的資訊新聞！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ Mentor Graphics發展首套Linux EDA前端解決方案
+
+梁天佐/編譯
+2001/05/9 
+
+從高階特化的處理器，到未來IA家電內的控制晶片，各式電子電路晶
+片在資訊電子產業中堪稱基礎，也是高科技產業中的頂端，隨著市場
+對晶片功能的要求、競爭與晶片積極度的不斷提昇，業界對有效的電
+子自動化設計工具與解決方案的需求愈來愈殷切；Mentor  Graphics
+日前便宣佈將提供Linux平台上，業界第一套完整的前端解決方案。
+
+------
+
+提供電子設計自動化﹙ EDA ﹚軟硬體工具與解決方案的廠商 Mentor 
+Graphics公司，8日正式對外宣佈該公司的新發展策略─將在Linux平
+台上，提供業界第一套完整的，可在作業系統輸入端﹙Front  end﹚
+進行程式、修改電路邏輯設計的解決方案。
+
+由於晶片功能整合度的提昇，晶片的積極度正如英特爾首任總裁摩爾
+所言，每十八個月增加一倍，雖然製程技術的提昇尚未遇到瓶頸，但
+晶片設計廠商卻愈來愈需更要有效的設計工具與解決方案，以因應日
+益複雜的電路設計與測試，大部分的晶片設計廠商以高效能的工作站
+與伺服器網路進行平行處理，不過隨著晶片功能愈來愈多，成本效益
+也愈來愈低。
+
+近來Linux 在可程式邏輯設計方面的發展迅速，社群研發成果漸漸呈
+現，而且整合不同設計環境的困難度低，有時單以執行Linux 作業系
+統的個人電腦群就可以提供高效能的系統級設計環境。晶片設計公司
+Altera的執行長John  Daane說：「使用以Linux為基礎的工具，對可
+程式邏輯設計流程提供了具成本效益的運算選擇。」Mentor目前正與
+Altera合作，將Mentor的系統輸入端套裝工具整合到Altera的開發產
+品Quartus II中。
+
+事實上Mentor投入Linux  EDA工具與解決方案市場的時間已經超過兩
+年，不過之前所推出的大多是相關應用程式，如晶片邏輯電路模擬器
+、實體晶片測試等，這次宣佈推出完整的解決方案，可以看成Mentor
+正式在Linux市場佈局。Mentor董事長兼執行長Walden C.Rhines博士
+便說：「今天的宣佈擴展了我們在可程式邏輯設計市場端對端﹙ End
+-to-End﹚的Linux策略，與以Linux為基礎的解決方案。」
+
+Mentor所推出的第一波設計工具與解決方案將由公司內的硬體描述語
+言﹙HDL﹚設計部門提供，其中ModelSim是業界領先的模擬工具、HDL 
+Pilot 用來管理設計工作、 LeonardoSpectrum為高效能合成器、HDL 
+Detective用來分析與建立文件、HDL Ahthor產生文字與圖形， FPGA 
+Advantage則用來完成某種開發環境下的解決方案，系列相當周全。
+
+相關網址：
+1、Mentor Graphics以Linux進軍可程式邏輯市場
+   http://biz.yahoo.com/bw/010508/0262.html
+2、Mentor Graphics首頁
+   http://www.mentor.com/corp_info/
+3、有關HDL的資料
+   http://janick.bergeron.com/wtb/
+4、Altera首頁
+   http://www.altera.com/
+
+──────────────────────────────
+■ Altera選擇紅帽為EDA工具開發平台
+
+翁千婷/編譯
+2001/05/08
+
+PLD廠商Altera公司於日前發表了單晶片作業系統解決方案。為了擴
+大對使用者的服務，Altera將與紅帽合作把各種晶片邏輯設計﹙PLD
+﹚軟體移植到紅帽Linux作業系統上。第一步就是讓Quartus II支援
+紅帽Linux 6.2版。
+
+------
+
+邏輯設計設備﹙PLD﹚大廠Altera ，日前在嵌入式系統研討會上發表
+首套邏輯設計晶片作業系統解決方案﹙ System-on-a-Programmable-
+Chip, SOPC﹚，讓開發者可以在單晶片上從事包含邏輯設計跟記憶體
+的系統整合工作。確立了Altera在SOPC設計軟體的地位。
+
+鑑於近年越來越多人以Linux作為各種電子設計自動化﹙EDA﹚工具開
+發平台。 Altera宣布將與紅帽合作，把公司的各種PLD軟體移植到紅
+帽Linux作業系統上。第一步就是讓Quartus II支援紅帽Linux作業系
+統6.2版。
+
+使用Linux的EDA工具，包括Quartus II，可以提供SOPC解決方案開發
+者一個高效率低成本的設計及測試環境，另外也很容易與UNIX環境結
+合。 Altera產品行銷副總表示，Linux環境以相當低的成本提供UNIX
+網路的優點。將Quartus II軟體移植到 Linux擴大了Altera對UNIX使
+用者的服務範圍。
+
+Altera策略聯盟夥伴，Mentor  Graphic副總裁Anne Sanquini表示，
+隨著邏輯設計設備﹙programmable logic devices﹚在規格和複雜度
+上的提高，對高效率平台的需求也會增加。技術上，Mentor也會給予
+支援。
+
+紅帽產品管理副總裁表示，對Altera 選擇紅帽做為EDA工具開發平台
+一事，他們樂見其成。整合紅帽Linux  6.2的穩定度跟Altera簡易的
+SOPC設計方法，可以提供Programmable Logic Disign﹙PLD﹚社群便
+利的開發環境。
+
+相關網址：
+1、Altera 宣布 Quartus II 開發軟體將支援 Linux
+   http://news.wideopen.com/fc/2-118,209-119,517035
+2、Altera 在嵌入式系統研討會發表單晶片作業系統解決方案
+   http://www.altera.com/corporate/press_box/releases/pr-excalibur_esc.html
+
+──────────────────────────────
+■ 微軟攻擊GPL  Caldera信心動搖
+
+梁天佐/編譯
+2001/05/10
+
+微軟資深副總裁兼軟體策略分析師 Craing Mundie，日前在紐約大學
+批評開放原始碼軟體的演說餘波蕩漾，雖然開放原始碼社群嚴詞反駁
+，但Caldera執行長Ransom Love卻公開發言表示，認同微軟對開放原
+始碼軟體GPL授權沒有商業意義的看法。
+
+
+------
+
+Linux套件發行商Caldera總裁Ransom  Love日前表示，認同微軟攻擊 
+GPL的授權方式對商業軟體公司沒有商業利益的說法，因此Caldera在
+未來很有可能會採取非 GPL的授權機制，但也不是與開放原始碼背道
+而馳，有可能採取類似BSD授權的方式，確保Caldera的利益。
+
+Mundie於紐約大學的演說以理論與舉證的方式，在各方面攻擊開放原
+始碼，尤其是質疑政府與商業軟體公司採用開放原始碼的 GPL授權方
+式，將會導致軟體產業崩潰。演講中Mundie表示，在衡量過整個開放
+原始碼的優缺點後，微軟也以Shared  Source方式分享原始碼，不過
+特別指出GPL的授權對商業公司與軟體商業經濟有害。
+
+Caldera雖然不能代表所有的商業軟體公司，但由於是知名的Linux套
+件發行商，Love的發言引起開放原始碼社群更多的討論。除了認同微
+軟部分的說法之外，他也表示Caldera與微軟有類似的憂慮，GPL模式
+對開放原始碼發展進步的助益無庸置疑，但在開法原始碼軟體的商業
+銷售上卻不太適當。所以 Caldera將認真考慮別的授權方式，至少不
+同目的軟體採取不同的授權方式。Love說：「微軟正攻擊著開放原始
+碼的弱點—GPL。」
+
+社群評論認為，Love 此舉正中微軟下懷，就算Caldera不是完全投入
+版權軟體陣營，而是稍微修正改採 BSD型態的授權方式，這也是微軟
+真正想要達成的目的，因為開放原始碼不僅無害，微軟反而能在開放
+原始碼上獲得極大的利益，真正威脅微軟的是GPL，因為GPL保護開放
+原始碼軟體不被商業軟體公司侵吞。
+
+BSD基本上也是開放原始碼，但授權的方式允許廠商在修改取用原始
+碼後，變成自己的私有財產，GPL則要求修改過的軟體仍必須是開放
+原始碼；如果採用BSD，微軟就可以肆無忌憚的擷取開放原始碼的點
+子。評論中舉證微軟的DOS 1.0是購買現成的作業系統加以修改而成
+，Windows 3.0到Windows 95剽竊Apple的影子，至於 Windows NT，
+裡面則大量使用了BSD系列Unix的程式碼。
+
+Richard Stallman 當初為了保護Unix環境下的開放原始碼軟體，發
+起制定GPL授權方式，一開始是為了防範 AT&T與Xeror之類的大型商
+業公司侵吞自由軟體的成果，獨占市場，經過了二十年，GPL對微軟
+還是有效。
+
+相關網址：
+1、Caldera傾向修改開放原始碼授權方式
+   http://www.zdnet.com/eweek/stories/general/0,11011,2717264,00.html
+2、社群對Ransom Love發言的反應
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-10-002-20-PS
+3、向獨占說不
+   http://www.vcnet.com/bms/departments/catalog/yrcatalog.shtml
+4、微軟：開放原始碼阻礙經濟發展
+   http://www.cyberworksolution.com:8080/openscope/inside/inside.htm?sn=1007
+5、微軟面臨另一獨占訴訟
+　 http://www.nwfusion.com/news/0819bristol.html
+
+──────────────────────────────
+■ SuSE Linux將支援Panasonic  DVD-RAM
+
+李孟諺/編譯
+2001/05/10
+
+作業系統要能支援多種週邊設備才能拓展市場佔有率。德商 SuSE於8
+日與製造家電娛樂和資料儲存設備著名的Panasonic 公司共同對外宣
+布，SuSE 最新的Linux 7.1版將支援Panasonic的DVD-RAM。此舉將有
+助於Linux使用者更方便的使用DVD-RAM，以及增加DVD-RAM市場。
+
+------
+
+以製造影音娛樂家電用品與資料儲存設備著名的Panasonic 公司與德
+商SuSE公司，於8日宣佈，SuSE的Linux 7.1將提供 Panasonic 4.7GB 
+DVD-RAM 的驅動程式支援。有了此項支援支援，Linux 使用者可以低
+成本儲存大量影音檔案、備份系統資料與多媒體應用。
+
+SuSE Linux人事行政部經理Roland Dyroff表示，SuSE將Linux的好處
+帶給更多的使用者。SuSE Linux 7.1支援如Panasonic DVD-RAM 等週
+邊硬體，是增加Linux市場佔有率的重點。而Panasonic的產品部經理
+Dana Berzin表示，Panasonic肯定SuSE努力拓展可覆寫DVD的市場。
+
+SuSE Linux 7.1是目前市場上擁有最佳Linux 解決方案的版本之一，
+包括採用最新的Linux核心2.4、提供個人電腦USB 的支援與網路管理
+功能。目前有兩種版本的產品可以取得，一款是提供給家用個人電腦
+與小型公司使用者，另一款是給研發者與網絡管理者使用的進階專業
+版本。兩種版本都包含Panasonic可覆寫DVD設備提供給Linux 使用者
+需要使用的功能。
+
+SuSE Linux 7.1個人版有自動偵查功能，以及在安裝過程當中會常駐
+在視窗的分割區，使用者可以快速的安裝音效卡，設定網路與獲得如
+Panasonic  DVD-RAM等周邊設備的支援。此外還包括完整的辦公室套
+件，個人版還提供超過七百種開放原始碼套件，網頁瀏覽器與電子郵
+件支援與影像處理軟體。
+
+專業版本則屬於企業等級的套件，含有超過二千五百個伺服器用的程
+式，如網路安全裝置與跨平台資料交換與多媒體應用。還有功能更強
+大的資料庫支援、電子郵件、電子商務、網頁、FTP等伺服器功能。
+
+相關網址：
+1、SuSE Linux 支援Panasonic 4.7GB的 DVD-RAM 
+   http://linuxpr.com/releases/3685.html
+2、Panasonic DVD-RAM 產品介紹
+   http://www.panasonic.com/industrial_oem/computer/storage/dvd-ram/dvd-ram_default.htm
+
+──────────────────────────────
+■ Linux瀏覽器外掛程式新夥伴─QuickTime
+
+謝鎮澤/編譯
+2001/05/09
+
+Linux 瀏覽器向來欠缺許多外掛程式﹙plug-ins﹚，這個問題即將改
+觀。美國明尼蘇達州聖保羅市的CodeWeavers公司，已經為Linux上網
+設備發展了一系列的外掛程式，其中包括了ShockWave及QuickTime。
+
+
+------
+
+CodeWeavers公司一向致力於改良 Wine的安裝及使用介面，使視窗應
+用程式更容易執行於Linux 系統。這回它又有新的作品了！該公司在
+15日將發表Crossover瀏覽器外掛軟體，以供給製造Linux或Unix上網
+設備的廠商使用。
+
+身兼CodeWeavers 創辦人及總裁的傑瑞米．懷特指出，瀏覽器對上網
+裝置而言是相當特殊的問題，許多Linux 上網裝置的瀏覽器常因系統
+缺乏普及的外掛程式而運作不良，更造成使用者的失望。
+
+懷特接著表示，過去要在 Linux平台上支援受歡迎的外掛程式，唯一
+的方式是再安裝一份微軟視窗系統。但系統廠商無法接受這種方案，
+因為視窗系統不但需要使用執照，也會耗用大量資源。因此他們開發
+出Crossover，讓Linux平台能執行Shockwave及QuickTime外掛程式。
+
+Wine是一個開放原始碼計畫， CodeWeavers則為Wine提供了圖形化的
+安裝、設定及使用介面，並將Wine與Gnome及KDE桌面整合在一起。此
+外，CodeWeavers也提供WineMaker移植工具，並重新組織Wine的說明
+文件，以簡化開發人員的移植工作。
+
+除了Crossover外掛軟體，Codeweavers 還計劃在今秋發布Crossover 
+展示系統，它能讓上網裝置以一個按鍵啟動視窗應用程式，無需安裝
+視窗作業系統。此外，Codeweavers預定在2002年中發布Crossover伺
+服器，該伺服器是一款與視窗作業系統完全相容的Linux伺服器。
+
+相關網址：
+1、Plug-ins to enhance browsers of Linux-based appliances
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-09-010-20-NW-EM-SW
+2、CodeWeavers Announces Preview Edition of CodeWeavers Wine
+   http://linuxtoday.com/news_story.php3?ltsn=2001-01-04-001-21-NW-DT-SW
+3、Codeweavers官方首頁
+   http://www.codeweavers.com/home.html
+
+──────────────────────────────
+■ 法國電信入股Jabber.com  推動開放源碼即時傳訊
+
+李孟諺/編譯
+2001/05/09
+
+Jabber.com公司是全球唯一採取開放原始碼標準的即時傳訊平台。 7
+日，其母公司Webb互動服務公司對外公佈法國電訊科技公司將計劃投
+資七百萬元，換取 Jabber.com 23％的股份。此項合作案將有助於開
+放原始碼標準打入即時傳訊系統。                  
+
+------
+
+Webb 互動服務公司﹙Webb Interactive Services Inc.﹚於7日對外
+宣稱法國電訊科技公司 ﹙France Telecom Technologies﹚已經與該
+公司簽定草約。法國電訊科技將計劃投資七百萬元，交換Webb旗下的
+Jabber.com 23﹪的股份。最後的協議可望在六十天內敲定。
+
+法國電訊科技公司其實是由法國電信成立，主要研發與提供快速創新
+的通訊商務解決方案。Jabber.com則是附屬於Webb互動服務公司，而
+且它提供的即時訊息傳遞平台是採取開放原始碼標準。
+
+在過去的幾個月中，法國電訊與Jabber.com已經有廣泛的策略合作關
+係，無論是在即時通訊技術的觀點交換，或是未來網路的通訊協定交
+換服務。加上這次具有代表性意義的投資案，Jabber.com與法國電訊
+的夥伴關係將會加速擴展Jabber的嵌入式即時訊息傳送業務，與提昇
+以XML為標準的開放訊息傳遞標準。
+
+Jabber.com主席兼Webb互動服務公司的總裁Perry  Evans表示，這項
+投資案對Jabber來說是個很重要的事件，他認為沒有比法國電訊更好
+的策略夥伴。他指出，法國電信在全球的行動業務與語音IP服務都居
+於領導地位，若能把開放標準的訊息傳遞標準與他們結合，將能產生
+更大的影響。他並且肯定法國電訊迅速擁抱Jabber的觀點與熱情。
+
+Jabber執行長Rob Balgley 則認為，法國電訊科技是難得的夥伴，結
+合他們的財務資源、技術領導能力與市場行銷經驗，以及提倡開放標
+準，將會快速的替Jabber開拓許多市場。
+
+法國電訊科技公司網路與多媒體服務研發部經理Patrick  Puges表示
+，法國電訊對獨立且與能跟其他系統溝通的技術解決方案有信心，並
+期望協助Jabber，讓開放原始碼能被即時訊息傳遞系統採用。
+
+相關網址：
+1、法國電信入股Jabber.com 
+   http://www.jabber.com/news/release_050701.shtml
+2、法國電信簡介
+   http://www.francetelecom.com/vanglais/who_we_are/overview_a_f.html
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

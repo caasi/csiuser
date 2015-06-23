@@ -1,0 +1,332 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０５.１４
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ 紅帽Linux將不再採用Netscape瀏覽器
+
+■ Linux邁向遊戲平台之路，使用模擬器或移植的兩難
+
+■ 高密度、低功率的網路伺服器─RLX324
+
+■ 「Tarantella Enterprise 3」可輕易整合各平台應用程式
+
+■ Opera 5.0  Linux版下週推出
+
+═《編者的話》═══════════════════════
+
+紅帽最近公開表示，基於Netscape瀏覽器非開放原始碼的背景考量，
+未來新版紅帽Linux將不再採用這套廣為Linux套件所採用的瀏覽器！
+
+Netscape瀏覽器雖然已發行至6.0版，但因授權條件與4.7版不同，尚
+未被Linux套件採用，此外Netscape  4.7版的瀏覽器因耗用硬體資源
+、常導致X Window當機、加上非開放原始碼的背景，使得社群無法全
+力改進；相較之下衍生自Netscape 的開放原始碼Mozilla瀏覽器，不
+但在功能與使用感覺上與Netscape 瀏覽器相似，而且即將發行1.0版
+，因此紅帽在未來極有可能轉採用Mozilla瀏覽器。
+
+Linux 在遊戲伺服器市場扮演日益吃重的角色，但是對遊戲的支援還
+相當不足，本期OpenScope即為您談討將電腦遊戲直接植入Linux平台
+或是在Linux 上使用模擬器執行遊戲的利弊分析。此外，搶先康柏與
+英特爾一步， RLX公司推出兼具高密度與低功率的RLX324伺服器；致
+力於研發網頁解決方案的Tarantella則推出可整合不同平台間應用程
+式的「Tarantella Enterprise 3」Linux版本，而號稱瀏覽速度最快
+、市場佔有率第三的瀏覽器Opera即將推出5.0 Linux版本，提供給對
+瀏覽器最新發展的朋友參考。想知道開放原始碼產業界的大小事，請
+不要錯過精采的OpenScope電子報！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ 紅帽Linux將不再採用Netscape瀏覽器
+
+梁天佐/編譯
+2001/05/11
+
+Netscape瀏覽器具有與微軟Explorer相當的華麗圖形介面，幾乎所有
+Linux發行套件都提供Netscape 4.7x，儼然成為Linux X Window瀏覽
+器的代表，然而紅帽最近卻公開表示，未來新版紅帽套件將有可能不
+再採用Netscape。
+
+------
+
+紅帽在上週於拉斯維加斯舉行的 NetWorld與Interop會議活動中，對
+外宣稱未來新版紅帽Linux有可能不再採用 Netscape瀏覽器，改採其
+他的GUI瀏覽器，最有可能取代Netscape的就是Mozilla。紅帽 Linux
+作業系統研發工程經理Preston  Brown表示，紅帽內部早已考慮換用
+Netscape，最主要是因為Netscape不是開放原始碼軟體。
+
+目前紅帽與其他大部分Linux發行商在套件內所採用的都是 Netscape 
+4.x，雖然網景已經推出Netscape 6.0﹙直接跳過5.0﹚，但使用者反
+映頗有批評，而且授權條件與4.7版完全不同，目前還沒有Linux套件
+採用。Brown表示，紅帽仍會積極與美國線上或昇陽洽談在Linux套件
+內加入Netscape 6.0的事宜。
+
+在這之前，紅帽打算先在新版 Linux套件內採用免費，而且是純正開
+放原始碼軟體的Mozilla瀏覽器，其實Mozilla就是Netscape 6.0的開
+放原始碼版本。Mozilla與Netscape 在外觀、功能與使用的感覺上十
+分相似，且Mozilla目前已經發展到0.9版，距發表正式版的時間應該
+不久。不過Browm說：「如果Netscape 4.7 的功能沒有完全被複製，
+這款瀏覽器就不會被取代。」
+
+改採其他開放原始碼瀏覽器除了政策上的考量外，紅帽也有技術上的
+顧慮。 Netscape 4.7x版本已行之有年，許多功能沒有強化更新，與
+其他X Window應用程式相比，Netscape  4.7x相當耗用硬體資源，也
+是導致X Window當機的主要原因之一，再加上非開放原始碼的背景，
+無法以社群的協力更新改進。雖然 Netscape 的圖形介面堪與微軟的
+Explorer媲美，但在其他開放原始碼瀏覽器如Mozilla與Konqueror不
+斷進步的環境之下，被取代只是遲早的事。
+
+紅帽有可能在最新的紅帽Linux 7.1版中選用Mozilla瀏覽器套件，此
+舉是否會帶動其他套件發行商跟進則有待觀察。除瀏覽器之外，紅帽
+在NetWorld與 Interop會議活動中也另外公佈了三項新服務，有關瀏
+覽器與新服務的詳細內容，可至紅帽首頁查詢。
+
+相關網址：
+1、紅帽將以Mozilla或其他瀏覽器取代Netscape
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-10-010-20-NW-RH-SW
+2、紅帽獨鍾Mozilla瀏覽器
+   http://www.zdnet.com/enterprise/stories/linux/0,12249,2717509,00.html
+3、NetWorld與Interop會議活動新聞
+   http://www.key3media.com/interop/lasvegas2001/index.html
+4、Mozilla 0.9釋出
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-08-001-20-NW-SW
+
+──────────────────────────────
+■ Linux邁向遊戲平台之路，使用模擬器或移植的兩難
+
+沈美君/編譯
+2001/05/09
+
+將遊戲帶到Linux平台目前有兩個最常見的解決方法，一個是透過模
+擬器的協助，另一個則是將遊戲軟體原始碼真正移植到Linux平台上
+。GameSpy.com專欄作家 James Hills與多位遊戲開發者及套件廠商
+進行討論，欲共同尋找出將遊戲帶到Linux平台的最佳解決方案。
+
+------
+
+多年來，Linux不但成為最具潛力的商用伺服器，更證明Linux也能成
+為網路遊戲的骨幹，從熱門的Quake到 Half-Life，Linux都扮演著相
+當吃重的遊戲伺服器角色。由於套件廠商的努力，以 Linux作為日常
+桌上型系統平台的使用者日益增多，不過對於遊戲的支援，顯然還相
+當不足。
+
+GameSpy.com專欄作家James Hills與多位遊戲開發者及套件廠商進行
+討論，欲共同找出將遊戲帶到Linux 平台的最佳解決方案。將遊戲帶
+到Linux 平台有兩個目前最常見的解決方法，一個是透過模擬器的協
+助，另一個則是將遊戲原始碼真正移植到Linux 平台上。
+
+以模擬器為解決方案，最顯著的例子為TransGaming 公司，該公司認
+為將遊戲原始碼移植到Linux 平台耗費的成本太高，決定重新發展、
+擴充原本的Wine/WineX Windows模擬器，成立一個新的開放原始碼專
+案，欲藉由與開放原始碼社群的合作，讓使用 DirectX的視窗版遊戲
+也能在Linux上執行。
+
+另外一個解決方案，就是將遊戲原始碼真正移植到Linux 平台。Loki
+公司已經成功地將數個知名的Windows遊戲移植到Linux上，Tribsoft
+、Hyperion Entertainment也從事類似的工作。在發展者技術支援方
+面，今年3月20日舉行的第十六屆遊戲開發者會議﹙Game Developers
+Conference, GDC﹚中， Bernd Kreimeier等五人聯合發表一項「 如
+何在Linux平台上開發遊戲」的專題，顯示Linux平台的遊戲市場已經
+受到注意。
+
+不過， Linux要作為一個成功的遊戲平台，還有很長一段路要走，必
+需明確界定使用者族群和消費者真正的需求，此外從事移植遊戲的公
+司也會面臨消費者選擇的衝突，例如使用者可能希望以低廉的價格，
+取得同時可在視窗環境及Linux平台下操作的遊戲；再者，若Linux版
+本的遊戲老慢個幾個禮拜推出，使用者可能也等不到推出日，就先買
+視窗版本的遊戲了。
+
+相關網址：
+1、Linux邁向遊戲作業平台之路：使用模擬器？還是移植？
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-09-001-20-NW-GM
+2、「如何在Linux平台上開發遊戲」專題內容
+   http://linuxtoday.com/news_story.php3?ltsn=2001-03-26-014-04-NW-GM
+
+──────────────────────────────
+■ 高密度、低功率的網路伺服器─RLX324
+
+謝鎮澤/編譯
+2001/05/11
+
+最近康柏與英特爾才剛宣佈要合作開發高密度、低功率的前端伺服器
+，卻半路殺出程咬金。去年1月成軍的RLX科技最近發表 RLX 342型網
+站伺服器，該產品不但具有高密度及低功率的特性，同時支援 Linux
+及微軟視窗作業系統。
+
+------
+
+不讓康柏與英特爾等大廠專美於前，RLX科技最近搶先發表了 RLX342
+型網站伺服器。 RLX 324 包含超薄型伺服器﹙ServerBlade﹚模組及
+RLX 控制塔，它能壓縮現有產品達八倍空間、降低五到十倍的耗費功
+率，並提昇六到八倍的效能。 RLX執行長Mike Swavely認為該產品是
+伺服器技術上的一大進步。
+
+Swavely表示，RLX 324採組件式系統設計，企業只需很少的設定工作
+，即可建立執行環境。RLX 324可配合視窗2000或紅帽Linux運作；為
+了簡化部署及增加易用性，它還內建許多工具程式，企業主可自行決
+定採用哪套系統。
+
+此外，RLX 324使用全美達處理器，讓伺服器輕易以633 MHz以上的速
+度運作。在尖端負載下，RLX 324能節省傳統伺服器 80％的電源，並
+減低80％的熱量。在閒置狀態下，每一個 ServerBlade耗電七瓦，跟
+Cobalt的七十二瓦及康柏的七十五瓦成強烈對比。
+
+RLX 控制塔的設計在同一單位內比傳統控制塔提高了八倍的密度。因
+此一般四十二單位的機架中可放入三百三十六台伺服器，而每三個單
+位的組裝模組可放入二十四台伺服器；每台伺服器中包含三片網路卡
+，而一個機架上的儲存容量可達20TB。 RLX 324具高延展性，企業能
+以一個ServerBlade 開始其服務，再隨著服務使用量的成長，來增加
+ServerBlade的數量。
+
+在售價方面，機座部分為二千五百九十九美元，另外處理器的價錢則
+視配備與作業系統，由Linux 系統的一千四百四十九美元，到視窗系
+統的二千三百六十九美元不等。RLX 324採用接單後生產﹙built-to-
+order﹚模式，在四十八小時內可交貨。
+
+RLX科技成立於2000年1月，其高效能司服器以ASP及ISP公司為目標客
+戶。在目前市場不景氣的情況下，該公司仍順利完成三次增資，最後
+一次是在今年1月。
+
+相關網址：
+1、同時支援微軟及Linux平台的Transmeta超薄伺服器
+   http://www.theregister.co.uk/content/4/18816.html
+2、低功率、高效率的RLX伺服器
+   http://serverwatch.internet.com/news/2001_05_08_a.html
+
+──────────────────────────────
+■ 「Tarantella Enterprise 3」可輕易整合各平台應用程式
+
+沈美君/編譯
+2001/05/08
+
+異質系統平台的應用程式管理，一直是企業IT部門最頭痛的問題，「
+Tarantella Enterprise 3 Starter for Linux 」可支援異質作業平
+台應用伺服器，支援多種作業系統，允許客戶端透過瀏覽器操作異質
+作業系統上的應用程式。
+
+------
+
+致力於研發Web解決方案的Tarantella公司，在7日發表「Tarantella
+ Enterprise 3 Starter」的 Linux 版本，企業可透過「Tarantella
+ Enterprise 3 」整合不同平台上的應用程式，使用者只要透過瀏覽
+器，即可存取所需的應用程式。
+
+對於企業而言，最麻煩的莫過於整合企業內部不同作業平台上的應用
+程式，「Tarantella Enterprise 3 」可支援異質作業平台應用伺服
+器，整合Windows、大型主機、AS/400、Linux甚至UNIX上的應用程式
+，透過共通的瀏覽器介面，可方便地存取不同作業系統上的應用程式
+，企業無須為了系統平台不同的問題，耗費成本去改寫應用程式。
+
+「Tarantella Enterprise 3 」使用三層式架構，將應用程式伺服器
+、Tarantella伺服器、用戶端操作平台分開，使用者透過支援Java的
+瀏覽器，經由網路執行Tarantella所派送的應用程式。Tarantella與
+應用程式伺服器的互通機制，是使用目前業界標準的協定，例如微軟
+的RDP﹙Remote Desktop Protocol﹚、UNIX的 X11、大型主機的3270
+協定。
+
+「Tarantella Enterprise 3」的核心技術為AIP傳輸協定﹙Adaptive
+ Internet Protocol﹚，透過監測網路連線狀況，動態調整傳輸來達
+成最佳化效能，將應用程式的畫面傳給用戶端。 AIP亦能執行多種資
+料壓縮的功能，減少資料傳輸量，提升效能。
+
+「Tarantella Enterprise 3 Starter for Linux」目前支援的Linux
+套件有Caldera OpenServer 和Caldera Open UNIX，十人版本售價為
+九百九十九美元。至於支援Red Hat、SuSE、TurboLinux、Caldera的
+版本，則在約今年暑假發表。
+
+相關網址：
+1、Tarantella 釋出嵌入式Linux客戶端解決方案
+   http://news.wideopen.com/ajb/2-118,209-103,13473290
+2、「Tarantella Enterprise 3 Starter Linux版本
+   http://news.wideopen.com/ajb/2-118,209-103,13473297
+3、Tarantella公司
+   http://www.tarantella.com
+
+──────────────────────────────
+■ Opera 5.0  Linux版下週推出
+
+李孟諺/編譯
+2001/05/13
+
+除了微軟的IE與網景的Navigator 外，來自挪威的全球第三大瀏覽器
+Opera 也虎視眈眈瞄準瀏覽器市場。自去年底首次推出免費的視窗版
+Opera 5.0後，市場反應良好，該公司下週也將正式推出Linux版本的
+Opera 5.0 。
+
+------
+
+號稱世界上最快的瀏覽器Opera，在推出視窗版Opera 5.0之後反應不
+錯，該公司今年也將推出Linux與Mac平台的Opera 5.0版本，而Linux
+版本即將在下星期推出。Linux版的Opera 5.0目標平台為採用 Linux
+2.2核心與glibc 2.1的英特爾機器。
+
+Opera 瀏覽器原本是一個商業軟體，採取付費使用的方式。但為了與
+目前市場兩大瀏覽器IE與Netscape競爭，去年底首次以免費的方式釋
+出視窗版本的Opera 5.0，但在軟體中附加廣告看板，以分擔Opera的
+費用。不過不願意受到廣告干擾的使用者，可以選擇支付三十九美元
+購買Opera，除去廣告看板。
+
+Canada Computers.com的專欄作家Steve Coe在測試過Linux版本之後
+對Opera的功能做了一些介紹。他表示，Opera不僅佔用的系統資源比
+較少，回溯網頁的速度也比Netscape快，只要點選熱站列表選項，便
+可將正在瀏覽的網站加到書籤當中。此外Opera 也有內建一些網站，
+若不喜歡可以刪除。
+
+但是Coe 也發現一個問題，就是當使用者在廣告看板按下滑鼠右鍵時
+，會出現購買Opera 的對話框。但是點選購買選項之後，熱站列表中
+的網站卻消失了。只留下熱站列表的看板。不過總而言之，只要談論
+到瀏覽器，Coe認為Opera都可稱上是個經典之作。
+
+目前在Opera.com 的網站上已經可以下載測試版本，可測試此瀏覽器
+的Linux平台包括：Corel 1.0、Caldera 2.2、Debian Potato 2.2、
+Mandrake、NetBSD 1.5_BETA/i386 、紅帽、Slackware 7、SuSE 7.0
+與YellowDog 2.2等。正式版本即將在下周曝光。
+
+相關網址：
+1、Opera 5.0 for Linux下周曝光
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-10-011-20-NW-SW
+2、Opera-瀏覽器的另一個選擇
+   http://www.canadacomputes.com/v3/story/1,1017,5846,00.html?tag=81&sb=79
+3、Opera 5.0跨平台新戰略 Linux版本免費使用
+   http://www.cyberworksolution.com:8080/openscope/inside/inside.htm?sn=694
+   
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

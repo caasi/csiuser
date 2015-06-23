@@ -1,0 +1,353 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０５.２８
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Linux桌面環境何去何從？
+
+■ 「Linux桌面市場已死」說法遭砲轟
+
+■ OpenCola釋出Swarmcast 0.9 beta版原始碼
+
+■ Gracenote與Roxio訴訟  引發CDDB資料庫所有權爭議
+
+■ 嘉惠使用者  Kylix降價促銷
+
+═《編者的話》═══════════════════════
+
+面對微軟Windows桌面系統近乎獨占的市場佔有率，Linux的桌面市場
+何去何從？
+
+近年來Linux 在伺服器市場佔有率逐漸攀升，技術上也日趨成熟；但
+是在一般伺服器客端、工作站與PC桌面環境上，發展並不如伺服器市
+場般順利。隨著GNOME元件開發者Eazel倒閉、以及Corel  Linux發展
+失敗，有人因而不看好Linux 桌面環境的未來發展，但此言論隨後即
+遭反駁，認為假以時日，Linux也將可在桌面市場上佔有一定地位。
+
+其實，Linux桌面市場雖然儘佔2％，但是Linux桌面環境也與Windows
+有很大的不同，與其努力將Linux桌面環境打造得像Windows一樣，不
+如加強Linux具有Windows不能提供的優點，如更佳的效能與許多免費
+自由的軟體，再配合商業公司協助打造整體有利的環境，相信 Linux
+桌面環境終有出頭的一天！
+
+此外，由OpenCola公司研發透過P2P 協定的高速分散式內容發布系統
+—Swarmcast 0.9 Beta將以GPL 形式釋出，為開放原始碼軟體再添一
+支生力軍；Borland為了促銷Kylix，特地提供不到兩百美元的降價優
+惠，以吸引更多使用者。最具規模的線上音樂資料庫CDDB，最近卻因
+為一樁訴訟案，引發大眾質疑CDDB的所有者Gracenote 是否有意將眾
+人的貢獻納為己有的爭議，想知道怎麼一回事嗎？請收看本期精采的
+OpenScope電子報！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ Linux桌面環境何去何從？
+
+梁天佐/編譯
+2001/05/24
+
+儘管Linux 在伺服器市場上頗有斬獲，但另一方面隨者許多套件發行
+商與相關公司裁員、業務緊縮、甚至倒閉關門的消息頻傳，反映在伺
+服器客端、工作站與PC桌面環境市場上，仍然遠遠落後 Windows。如
+何擴展Linux桌面的使用，維繫發展進步不墜，不應只是商業Linux發
+行商的生計問題，也是自由軟體對抗商業托拉斯的戰爭。
+
+------
+
+Linux 相關的商業軟體公司不斷傳出裁員、業務調整與倒閉關門的消
+息顯示，Linux 在一般伺服器客端、工作站與PC桌面環境並不如伺服
+器市場般發展順利，就現有資料估計，Linux 桌面環境的佔有率不到
+整個市場的2％， 不僅沒有商業經濟規模，對開放原始碼社群來說，
+也是相當氣餒的事。
+
+Linux的桌面環境與Windows大不相同，有多種視窗管理程式可供使用
+者選擇，最有名氣且發展較為完整的就是Gnome與KDE，在桌面環境下
+，也有為數不少功能強大的圖形介面應用程式，但即使如此，似乎也
+無法說服使用者從Windows轉向Linux，對此，戴爾歐洲市場客端系統
+研發經理Steve Smith說：「Linux基本上仍然是技術型的作業系統。
+」，這或許是Linux能在伺服器市場站得住腳的原因。
+
+Linux商業發行公司與社群成員都在檢討Linux 桌面無法取代Windows
+的原因，努力的重點都放在如何將Linux桌面環境打造得與Windows越
+像越好，不過如果Linux桌面只是另一個和Windows類似的環境，那麼
+使用者也不必大費周章更換系統；況且，複雜的桌面環境常會抵銷系
+統效能，讓Linux與Windows沒什麼兩樣。
+
+因此追隨Windows的發展模式與經驗只會泯滅Linux原有的優點，商業
+公司與發展社群應該回頭審思Linux能提供Windows所不能提供的優勢
+，如在較低階的硬體上執行、較好的效能與自由免費的軟體等，另一
+方面加強Windows 才有的優點，如應用程式環境與簡易的操作介面等
+，才有機會讓使用者轉移到Linux平台上。
+
+Linux 在技術層面上的優越性無庸置疑，但歷史上有太多的例子，例
+如IBM的OS/2、 Micro Channel Architecture與Sony的Beta錄影帶系
+統，在在都說明單靠技術無法取得主流地位，商業公司必須創造整體
+有利的環境才能確保商品成功。
+
+開放原始碼社群或許可以對Linux 的商業應用能否取得具有經濟規模
+的佔有率不必關心，但若以自由軟體推廣、發揚優秀軟體的立場出發
+，站在反壟斷、獨占的角度，或許也該採取協同的態度。
+
+相關網址：
+1、戴爾：Linux對桌面環境來說太技術
+   http://news.cnet.com/news/0-1003-200-6015417.html
+2、新的Linux經驗在哪裡？
+   http://www.osopinion.com/perl/story/9966.html
+3、.com：現在不做，更待何時？
+   http://www.linuxplanet.com/linuxplanet/opinions/3397/1/
+
+──────────────────────────────
+■ 「Linux桌面市場已死」說法遭砲轟
+
+李孟諺/編譯
+2001/05/25
+
+除了微軟向開放原始碼砲轟之外，似乎也有自己人開始對Linux 的發
+展提出了質疑的看法。Linuxplanet的編輯Kevin  Reichard前幾天發
+表了一篇關於Linux 在桌面單機電腦市場的發展上已死的文章，這幾
+天便遭受到許多開放原始碼社群的反彈。
+
+------
+
+Linuxplanet的編輯Kevin Reichard前幾天發表一篇「Linux在桌面電
+腦市場的發展上已死」的文章。Reichard指出，從Eazel 的倒閉與先
+前Corel的桌上型Linux套件失敗的例子來看， Linux Desktop的發展
+並未被大眾所接受。
+
+但是Reichard 說法這幾天也引發了來自網路的反彈。osOpinion網站
+的一篇社論指出，Linux 在桌面單機市場的發展已死的說法太過分了
+，簡直是胡說八道，並質疑Reichard怎能因為兩家公司在銷售上遇到
+問題就做出如此評論。
+
+撰寫該篇社論的作者Joe Croft表示，Linux還很年經，尚在成長階段
+。Linux 的開始只是作為一個伺服器作業系統，但假以時日之後，它
+將會在桌面單機電腦的市場佔有一定的地位。羅馬不是一天造成的，
+微軟也不是。但是Linux 的發展的確很快速，超過任何預期的結果。
+
+Pinehead的Anthony James也表示，Linux的單機市場的問題與答案都
+相當簡單，問題在於Linux如何 吸引使用者採用，但在此之前必須先
+確定Linux鎖定的消費者族群是誰？James認為應該是指每一個家用與
+公司的桌面使用者。但James也指出為何人們不將系統轉換成Linux的
+理由，因為一般只採用視窗系統而且對Linux 一無所悉的使用者，有
+可能使用安裝Linux而不需要任何協助嗎？
+
+刊登在osOpinion的其他社論當中，也有人提出Linux的問題在於，兩
+大桌面環境GNOME與KDE各自推廣計劃，缺乏共識。Linux 社群應該停
+止個別發展不同的桌面環境，而必須開始建立通用的Linux 圖形使用
+者介面。並讓它與XML 一樣，成為開放原始碼的圖形使用者介面的標
+準。如此一來，之後開發的套件就不必針對不同的系統推出不同的版
+本。
+
+雖然Reichard的說法慘遭砲轟，但是也有人為他辯護。一名不願具名
+的網友就認為Reichard的評論只是想要激勵Linux社群更加努力。
+
+相關網址：
+1、桌面環境已死,桌面環境萬歲!
+   http://www.osopinion.com/perl/story/9988.html
+2、對Reichard說法的駁斥
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-25-004-20-OP-DT
+
+──────────────────────────────
+■ OpenCola釋出Swarmcast 0.9 beta版原始碼
+
+沈美君/編譯
+2001/05/24
+
+OpenCola在17日釋出高速分散式內容發佈系統 Swarmcast 0.9 beta
+版的原始碼，成為SourceForge上的開放原始碼專案之一，藉由開放
+原始碼注入活力， OpenCola邀請有興趣的程式設計師或發展者，一
+起加入研發的行列。
+
+------
+
+專為OEM廠商發展分散式運算架構的OpenCola在5月17日釋出高速分散
+式內容發佈系統Swarmcast 0.9 beta版的原始碼， Swarmcast是透過
+點對點協定﹙Peer-to-Peer﹚的高速分散式內容發佈系統，能有效提
+高使用者的下載速度，並降低內容服務業者必須投資在增加伺服器和
+頻寬的成本。
+
+Swarmcast的解決方案主要有「Swarmcast Gateway﹙閘道器﹚」、和
+「Swarmcast Client﹙客戶端﹚」兩個組成元件。 Swarmcast閘道器
+適用於廠商的伺服器平台上，可針對新式 Swarmcast協定的客戶下載
+要求提出相對應的服務；欲透過 Swarmcast服務下載檔案的使用者，
+必須安裝Swarmcast客戶端軟體。目前 OpenCola公司提供一個展示平
+台，讓使用者和廠商免費體驗Swarmcast的下載表現。此外 OpenCola
+ Swarmcast可經過客製化的調整，來配合其他應用，例如下載管理員
+、軟體更新服務、檔案分享之類的應用服務。
+
+Swarmcast 提升下載效率的運作原理，其實就是把同一個檔案切成好
+幾個小檔案，當某位使用者下載完畢後，這位使用者即成為下一位使
+用者下載的來源﹙透過點對點分享﹚，這些下載完畢的小檔案，會在
+使用者的客戶端電腦上進行重組，成為原來的檔案。以目前傳統的主
+從式架構所提供的下載服務而言，越熱門的檔案，因為頻寬的限制，
+使用者下載的速度越慢，但是透過 Swarmcast架構，越熱門的檔案越
+普遍，使用者更容易下載。
+
+Swarmcast的核心發展者Justin Chapweske表示，Swarmcast以類似磁
+碟陣列﹙RAID﹚的作法，採平行下載架構，才有令人滿意的下載產出
+表現。此外它也包含反迴錯誤修正﹙Forward Error Correction﹚的
+容錯機制，降低下載檔案發生錯誤的機率。
+
+OpenCola公司專門為OEM廠商發展分散式運算架構，目前獲得Battery 
+Ventures、Mosaic Venture Partners、The Torstar等創投公司的投
+資青睞。「OpenCola Folders」即為OpenCola所研發的革命性分散式
+搜尋技術，此協定與平台同時適用於Linux和Windows。
+
+相關網址：
+1、OpenCola公司釋出高速分散式內容發佈系統「Swarmcast 0.9」beta版原始碼
+   http://www.teledyn.com//story.php?storyid=2001/5/17/86
+2、OpenCola Swarmcast官方網站網站
+   http://www.swarmcast.com/gate/product.html
+3、來杯openCOLA，定址協定的明日之星
+   http://www.teledyn.com//story.php?storyid=2001/5/17/86
+4、OpenCola官方網站
+   http://www.opencola.com
+
+──────────────────────────────
+■ Gracenote與Roxio訴訟  引發CDDB資料庫所有權爭議
+
+梁天佐/編譯
+2001/05/25
+
+CDDB是網路上的音樂使用者，就其所擁有或了解的音樂CD專輯與單曲
+，輸入相關資料建構而成，CDDB資料庫的維護管理與線上服務提供在
+幾經波折後由Gracenote取得；然而就在Gracenote逐漸更改使用CDDB
+的使用授權方式，並在協調不成後對 Roxio提出法律訴訟時，網路社
+群開始質疑：Gracenote是否把公共財產據為私有？
+
+------
+
+Gracenote於10日向舊金山聯邦法院備案，打算控告Roxio在其公司所
+提供的CD燒錄軟體中，非法使用授權已經逾期的 Gracenote軟體，此
+軟體具有自動連結到 Gracenote所維護管理的CDDB資料庫，下載預備
+燒錄的MP3音樂檔、CD專輯或單曲的相關資料等功能。
+
+CDDB的前身是Ti Kan於1993年在Unix作業系統上開發出來的開放原始
+碼CD播放程式XMCD，XMCD具有將CD資訊，如歌曲名稱、短評與介紹存
+入電腦的功能，後來在Steve  Sherf的協助下，程式發展成能在網路
+上搜尋專輯與單曲的資訊，並將之上傳至資料庫儲存的系統，使用者
+只要將CD放進電腦，透過應用程式與網路連結，便可下載CD專輯或單
+曲的相關資料。
+
+經過使用者長期的輸入與使用，CDDB成為最具規模的線上音樂資訊資
+料庫，不僅Roxio的燒錄程式使用，美國線上時代華納的MP3播放工具
+Winamp也利用CDDB來確定歌曲與CD專輯名稱，甫被收購的 Napster則
+以CDDB資料庫來判別並阻斷版權歌曲的下載流通。隨著商業用途逐漸
+明顯，高科技投資公司Escient買下CDDB與相關技術並成立Gracenote
+，該公司旋即改變CDDB的使用授權，初步便是向CDDB的商業使用公司
+收取使用授權費用。
+
+雖然Gracenote在一封針對網路使用者的公開聲明中表示，Gracenote
+僅對CDDB的商業使用者收取合理的服務費用，且支持獨立、非商業性
+的開發使用者，不會對末端使用者收費，並宣稱授權是為了保護使用
+者隱私與資料完整，但網路社群依然強烈質疑 Gracenote以授權的方
+式將網路大眾共同建立的資料庫據為己有的合法與合理性。
+
+Gracenote所持的法律根據與論點是，當初XMCD雖以GPL方式公開，但
+許多使用者都忽略附註的一小段聲明，聲明對使用者所載入資料的權
+利並未保障，另外 Gracenote的律師也主張，儘管資料是公眾所輸入
+，但管理的格式與維護的方法卻是由 Gracenote所提供，所以該公司
+擁有CDDB的權利。
+
+為對抗Gracenote 將CDDB資料庫據為私有的行徑，網路社群另外成立
+了兩個真正開放的音樂資料庫服務─Freedb.org與 MusicBrainz，分
+別以類似或不同的資料庫查詢型態提供音樂服務。
+
+相關網址：
+1、商業公司為CD打官司，置公眾於不顧
+   http://news.cnet.com/news/0-1005-201-6008182-0.html
+2、關於Roxio
+   http://www.roxio.com/en/company/
+3、Gracenote給CDDB社群的公開信
+   http://www.gracenote.com/open_letter.html
+4、Roxio與Gracenote的訴訟
+   http://news.cnet.com/news/0-1005-200-5892968.html
+5、Freedb.org首頁
+   http://www.freedb.org/
+6、MusicBrainz首頁
+   http://www.musicbrainz.org/
+
+
+──────────────────────────────
+■ 嘉惠使用者  Kylix降價促銷
+
+翁千婷/編譯
+2001/05/25
+
+由Borland開發，結合編譯器、視覺設計跟使用者圖形介面三者為一
+的Kylix，提供 C++ 與 Pascal 使用者在Linux上的應用程式開發環
+境。為了促銷這款產品， Borland舉辦了特惠活動，在今年8月23日
+以前，使用者可以比原價便宜五分之一的價錢購得這套軟體。
+
+------
+
+Borland於1月推出的新產品Kylix，提供C++與Pascal使用者在 Linux
+上的應用程式開發環境，可以視為Linux版的Delphi。最近Borland舉
+辦促銷活動，祭出兩百美元以下的特惠價格，使用者在今年 8月23日
+前可以比原價便宜了五分之一的價格購買到Kylix。
+
+結合編譯器、視覺設計跟使用者圖形介面三者為一的 Kylix，提供習
+慣在Linux 作業環境下撰寫程式的開發者一套好用的應用程式開發工
+具。開發者不但能透過拖曳物件的方式設計各種使用者圖形介面，還
+可以整合InterBase跟MySQL兩種資料庫。 Borland公司預計使用者可
+以結合Kylix與Delphi，在 Linux與Windows環境開發各種跨平台的應
+用程式。
+
+除了讓Delphi 開發出來的程式也可以在Linux作業系統上執行，對從
+來不曾接觸過Delphi與快速應用程式開發環境﹙Rapid  Application
+Development environment,RAD environment﹚的入門者而言，Kylix
+提供了完整的安裝說明跟使用手冊。
+
+Kylix套件內附快速啟動指南、及程式開發環境使用說明。「 Object
+Pascal Language Guide」可以作為pascal使用者的工具書。「Kylix
+Developer's Guide 」則涵蓋了 Kylix程式設計與思考的各個層面。 
+Kylix也提供各種範例程式，並詳細解說每個程式背後的思考概念。
+
+值得注意的是，Kylix對作業環境要求相當嚴格，比Apache或MySQL更
+加挑剔。Kylix目前只適用於Red Hat 6.2、Mandrake 7.2與SuSE 7.0
+以上的Linux作業系統。
+
+相關網址：
+1、Borland降低Kylix售價
+   http://shop.borland.com/Product/0,1057,3-15-CQ100479,00.html
+2、Borland's Kylix:威力強大的Linux開發環境
+   http://www.linuxplanet.com/linuxplanet/reviews/3207/1/
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

@@ -1,0 +1,436 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０４.２３
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ Mandrake 8.0推出  Linux安裝更為簡便
+
+■ VMware讓NetBSD也能執行Windows應用程式
+
+■ maki 1.0.2釋出  XML資料交換有新招
+
+■ Indrema放棄的「TuxBox」計畫將由Linux社群接手
+
+■ 開放原始碼軟體在資料庫系統上的未來
+
+■ ArsDigita關起開放原始碼大門，創始人Philip Greenspun遭控告
+
+■ 為電子商務提供重兵防護─EnGarde Secure Linux
+
+═《編者的話》═══════════════════════
+
+繼紅帽推出紅帽Linux 7.0 後，來自法國的Mandrake也加緊腳步，於
+上週末推出內附Linux 2.4.3核心的Mandrake 8.0供使用者下載！
+
+與SuSe、紅帽等重視企業商務領域應用的Linux套件相比， Mandrake
+比較偏重桌面﹙desktop﹚的發展，也由於Mandrake 容易安裝使用及
+User-Friendly的特性，搏得了眾多Linux新手及社群使用者的喜愛。
+如果您是對Linux有興趣的個人使用者，不妨從Mandrake 開始學習使
+用。 VMware原本是在Linux上執行視窗程式的模擬軟體，現在Wasabi
+公司將重新改寫VMware、移植至NetBSD，使得NetBSD的使用者也可以
+執行視窗的應用程式！
+
+此外本期OpenScope還為您介紹，Indrema雖因資金不足而關門大吉，
+但是原本由其發展的計劃「TuxBox」將由一群熱心的社群朋友接手繼
+續發展；開放原始碼電子商務廠商Arsdigita 以使用者付費方式銷售
+公司產品，現任公司總裁還控告公司創辦人Philip Greenspun，但是
+控訴原因不明； Apache模組mod_python用來處理XML資料的maki釋出
+；Guardian Digital推出EnGarde Secure Linux等，期待您的細細品
+味！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ Mandrake 8.0推出  Linux安裝更為簡便
+
+翁千婷/編譯
+2001/04/20
+
+MandrakeSoft日前宣布Linux-Mandrake 8.0已提供使用者下載，並將
+於5 月中推出標準版、專業版與企業版，使用者目前已可從該公司網
+站下載完整光碟內容。除了長期以來廣受喜愛的簡易安裝及設定功能
+外，此版本更加強了應用軟體數量及對系統安全的支援。
+
+------
+
+號稱最完整、強大、友善的Mandrake  Linux作業系統，推出新版8.0
+。自動化的安裝過程讓使用者能在數分鐘內完成必要的設定，並利用
+8.0版提供的OEM安裝套件輕易管理多重開機選項，讓Linux 與微軟視
+窗系統可以在同一臺電腦上共存。
+
+連同全新的線上技術支援服務平台MandrakeExpert， 5月中將同步推
+出三種不同的版本：標準版﹙Standard Edition﹚：一般大眾適用版
+本，提供桌上型電腦與一般伺服器所需要的基本工具及功能。專業版
+﹙PowerPack Edition﹚： 此版本著重在安全性的提升，但仍保持易
+學易用的操作介面。企業版﹙ProSuite Edition﹚：專為中小企業伺
+服器需求而設計，這個版本包含建立穩定及安全的伺服器所需的工具
+，以及延伸的企業級支援方案。
+
+Mandrake的創辦人之一 Frederic Bastok表示，Linux Mandrake 8.0
+不僅包含與微軟Office相容的StarOffice、IBM的聲控軟體Via Voice
+等豐富套件，也遵循「release early, release often」的傳統，在
+上架前即提供使用者從網站上下載的服務。
+
+在圖形介面部份，Mandrake提供KDE 2.1.1及GNOME 1.4等兩個選項。
+前者包含新推出的檔案管理及瀏覽器Konqueror與收件軟體Kmail；後
+者則包括Nautilus 1.0 檔案管理套件，以及與Outlook相似的群組協
+同工作套件﹙groupware﹚Evolution 0.9。對於逐漸增加的Linux 遊
+戲玩家而言，Mandrake 無需額外設定即可自動偵測 Voodoo、Nvidia
+、GeForce 等數款3D加速卡，提高Linux做為遊戲平台的親和力。
+
+在套件安裝及管理方面，Mandrake的控制中心﹙Control Center﹚介
+面提供網路安裝、遠端印表機設定、以及與紅帽 RPM格式相容的安裝
+功能，有效簡化了繁複的系統管理作業。企業版提供額外的伺服器套
+件，以及免費的修正檔更新服務。除了新加入的防火牆及路由器安全
+設定之外，也包含加強過的Apache網站伺服器、POP3與IMAP郵件服務
+，及數種資料庫伺服器。
+
+考慮到許多使用者習慣直接下載，而非購買套裝版本，Mandrake饒富
+新意地提供了線上贊助服務。使用者能在網站上直接選擇系統中需要
+補強的部份﹙例如中文介面或安裝程式等等﹚，利用信用卡認養相關
+的開發團隊－不過，這僅限於Mandrake內部的工程師團隊。
+
+Mandrake 8.0也內建許多應用軟體，如：Gimp、Mozilla、 GNapster
+、Acrobat Reader、Flash、Java 2、Real Player 8，以及數款遊戲
+軟體。Mandrake 8.0標準版將以英文及法文發行，專業級及企業版本
+則將提供德文等其它歐洲語系介面。
+
+相關網址：
+1、Linux-Mandrake 8.0 正式推出
+   http://linuxtoday.com/news_story.php3?ltsn=2001-04-19-012-21-NW-BZ-MD
+2、線上贊助 Mandrake 專案
+   http://www.linux-mandrake.com/donations/
+
+──────────────────────────────
+■ VMware讓NetBSD也能執行Windows應用程式
+
+張書銘/編譯
+2001/04/20
+
+在Linux 環境欲執行視窗應用程式，可依賴模擬器軟體；但目前比較
+著名的幾種模擬器並不支援BSD系統，使BSD的使用者只能望機興嘆。
+為此，Wasabi系統公司決定將 Linux上的知名模擬軟體VMware移植至
+NetBSD。
+
+------
+
+Wasabi系統公司宣佈將重新改寫部分VMware Linux版的核心模組，讓
+NetBSD的使用者也能藉由VMware來執行微軟視窗下的應用程式。公司
+方面表示，由於NetBSD本身已經有能力執行為 Linux所開發的應用程
+式，因此VMware只要略作修改便可以在NetBSD上運作。
+
+目前在個人使用作業系統的市場上，微軟視窗仍佔大宗，而許多應用
+程式也以其作為市場目標，因此其他作業系統的使用者在應用程式的
+選擇上仍屬於弱勢族群，連 BSD系統也不能倖免。為彌補這個弱點，
+NetBSD計劃的重要成員之一Wasabi系統公司，宣佈將把 Linux上的知
+名模擬軟體VMware移植至NetBSD。
+
+VMware能夠完全隔離並保護不同作業系統的操作環境，以及安裝該作
+業系統內應用軟體和資料，同時對於週邊設備的支援度也很高，可以
+視需要針對不同作業環境來修訂可用設備，讓使用者如同擁有多台實
+體的個人電腦。因此它被認為是是目前最成熟的模擬環境軟體之一，
+也是多數 Linux用戶最愛用的模擬軟體。
+
+據Wasabi系統公司指出，由於VMware採用Virtual Platform特殊軟體
+層的技術，一般指令皆不加修改而直接執行，所以其速度和直接在真
+實的硬體上執行一般。不過由於VMware公司並沒有正式授權給Wasabi
+進行改版，因此Wasabi公司表示，NetBSD的使用者必須先向VMware購
+買VMware for Linux後，再從Wasabi的網頁下載修改程式後，才能順
+利在NetBSD上執行VMware。
+
+相關網址：
+1、VMware移植至NetBSD
+   http://linuxtoday.com/news_story.php3?ltsn=2001-04-19-001-28-PS-SW-BD
+2、Wasabi將為VMware進行移植
+   http://www.bsdtoday.com/2001/April/News463.html
+
+──────────────────────────────
+■ maki 1.0.2釋出  XML資料交換有新招
+
+謝鎮澤/編譯
+2001/04/20
+
+採用GPL授權的maki 1.0.2 已經釋出，它能透過web介面，進行XML格
+式的資料交換與處理，而這正是目前企業對企業﹙B2B﹚ 運算環境的
+標準應用。
+
+------
+
+傳統電子數據交換﹙Electronic Data Interchange，簡稱EDI﹚面對
+的最大問題是企業之間的資料交換障礙，不過現在透過XML與web的結
+合，可得到解決辦法。採GPL授權的maki釋出新版1.0.2，能透過 web
+介面進行XML格式的資料交換處理，並以低價位提供B2B運作新選擇。
+
+maki是Apache模組mod_python 中，用來處理XML資料型態的套件。其
+設計目的是要讓XML資料能在web之中自由傳遞。maki的作業方式類似
+Unix下的管線﹙pipe﹚處理，每一個步驟的輸出，即為下一步驟的輸
+入。web開發者可以依照需求，設計多個步驟來處理或轉換XML。
+
+由於內含python解譯器，因此maki作業的每一個步驟，可以是以XSLT
+樣式表設計而成的樣式轉換，或是以python寫成的客製化處理。此外
+，每一處理步驟的輸出，皆可依照使用者的需求，來設定快取時間。
+這有助於跨步驟的資料流程整合。
+
+為了達成的可攜性， maki所有設定值都存放於一個XML檔案中。根據
+maki的建立者Sam Brauer表示，目前 maki已經能在Linux上順利運作
+，他也假設maki可以在其他的Unix平台下執行，不過還未經過實際測
+試。
+
+相關網址：
+1、maki專案首頁
+   http://maki.sourceforge.net/
+2、Python的maki模組發行
+   http://news.linuxprogramming.com/news_story.php3?ltsn=2001-04-18-004-03-CD-PY
+3、maki簡介
+   http://maki.sourceforge.net/manual/intro.html
+
+──────────────────────────────
+■ Indrema放棄的「TuxBox」計畫將由Linux社群接手
+
+沈美君/編譯
+2001/04/19
+
+以Linux為系統平台的「TuxBox」遊戲機，原由Indrema公司主持，後
+來因故放棄，卻有一群熱衷的 Linux社群發展者，在上禮拜宣布接手
+TuxBox計劃，藉助社群的力量，以開放原始碼的研發方式繼續工作。
+
+------
+
+上週末，一群熱衷的Linux社群發展者，宣布接手被Indrema公司放棄
+的「TuxBox」計畫，藉助社群自發性的協助，以開放原始碼的研發方
+式，繼續開發適用於Linux平台上的遊戲機。
+
+TuxBox原來是由Indrema公司所主持的一項計畫，是以Linux為系統平
+台的遊戲機，但因後繼無力再加上其他障礙，使得Indrema 公司放棄
+此研發計畫。一群熱衷於此的Linux開發者，因此組成「 TuxBox團隊
+」，將使TuxBox計畫再生。
+
+TuxBox計畫的發起人之一Travis Riley表示：「許多人對於 Indrema
+相當失望，我們會從他們的錯誤經驗學到些東西，並協助其他發展者
+繼續完成他們的夢想。」早先由 Indrema主持開發工作時，在與發展
+者的溝通方面出了問題，TuxBox的另二名發起人Riley和Sean  Isley
+表示， TuxBox 團隊會提供每日更新訊息給所有發展者。目前TuxBox
+團隊約有十位基本成員，以OS小組、網路小組、硬體小組等為分工單
+位。 
+
+TuxBox遊戲機的功能，與Indrema的機種功能類似，以Linux 2.4核心
+為基準開發，可作為DVD、CD、MP3的播放器，且具有加上收發電子郵
+件的功能，如果 Linux有新的修正版核心，TuxBox也可作更新動作。
+Riley指出，TuxBox支援USB埠，第三協力廠商也可以為TuxBox設計新
+的功能，如此一來，TuxBox具有無限的潛力可成為任何東西。
+
+關於獲利方面，因為TuxBox為開放原始碼計畫，獲利不是最首要的考
+量， TuxBox團隊表示，他們想要發展一個遊戲機，讓Linux使用者每
+天都能在Linux系統平台上操作。 TuxBox團隊的下一步計畫是在今年
+秋天之前完成TuxBox的雛型，所需成本約為三百五十美元左右。
+
+相關網址：
+1、Indrema所放棄的「TuxBox」計畫將由Linux社群接手
+   http://www.newsforge.com/article.pl?sid=01/04/17/185240&mode=nocomment
+2、關於TuxBox計劃的介紹
+   http://www.newsforge.com/article.pl?sid=01/04/16/2328223&mode=thread
+
+──────────────────────────────
+■ 開放原始碼軟體在資料庫系統上的未來
+
+梁天佐/編譯
+2001/04/20
+
+與微軟的個人電腦作業系統造就鉅富比爾蓋玆相同，資料庫系統巨擘
+甲骨文總裁賴瑞艾力森﹙Larry Ellison﹚ 也在業界舉足輕重，財貫
+滿盈。在商業版權統馭的環境下，開放原始碼的自由軟體精神也將照
+亮資料庫系統，雖然 MySQL與PostgreSQL之類自由的資料庫系統尚未
+完全成熟，甲骨文並不像微軟當年那樣輕忽開放原始碼軟體。
+
+------
+
+資料庫相關技術與系統是資訊科技與產業最重要的項目之一，藉由電
+腦強大的資訊儲存、取得、操作、部署與管理等能力，不止是科學研
+究，在商業公司的市場應用上也具有重要的關鍵性功能；甲骨文與極
+少數的資料庫系統公司雖然一直主導技術並控制市場，但由於經濟不
+景氣的衝擊，許多公司亟思降低成本，於是轉向開放原始碼資料庫系
+統或軟體尋求解決方案。
+
+不過MySQL、 PostgreSQL等開放原始碼資料庫系統或軟體與甲骨文等
+公司所提供的商業系統仍有差距，商業資料庫系統畢竟歷經時間與市
+場實際需要的考驗，尤其在關聯式資料庫技術上的查詢與交易，設計
+相當先進，也解決了許多實際應用上會遭遇的問題，相形之下，自由
+軟體因為缺乏經驗，在舊系統上使用仍有部分問題有待解決。
+
+甲骨文總裁賴瑞艾力森並不因此小歔開放原始碼軟體的可能性，相對
+於當年微軟忽視與排斥Linux 的態度，甲骨文對開放原始碼資料庫系
+統與軟體採取觀察與包容的做法，許多開放原始碼資料庫系統或軟體
+都相容於甲骨文的系統，甲骨文甚至主動提供安裝、連接與修改的支
+援。在Sean Hull與Andy Ducan合著，O'REILLY出版的新書「 甲骨文
+與開放原始碼」﹙Oracle & Open Source﹚中，作者便提到成百的這
+類軟體。
+
+此外在書中，作者也預測在十年之內，由於開放原始碼資料庫系統與
+相關軟體的進步，甲骨文不是將其版權軟體變成開放原始碼軟體，就
+是被消滅。由甲骨文最近將系統與相關軟體移植到Linux上、 Oracle
+Enterprise Manager套裝軟體內收錄自由軟體Oratcl，以及在最新的
+整合網頁產品內加入阿帕契與Perl套件等動作看來，甲骨文與開放原
+始碼的融合正在發生。
+
+雖然目前開放原始碼資料庫系統與軟體尚未成熟，但社群促使其進步
+的力量絕對源源不止，要達到甚至超越商業資料庫系統效能所需的時
+間不會太長，商業公司如甲骨文縱使排拒自由軟體，未來市場仍將被
+侵蝕，而且由於資料庫的使用者絕大多數都是錙珠必較的商業公司，
+所以甲骨文的決策具有相當的前瞻性。
+
+資料庫系統與作業系統或其他軟體比較起來，為不同使用目的與環境
+需要修改、量身定做的需求頗高，商業公司即使無法在以後單憑販賣
+權利獲取暴利，支援、教育、訓練與諮詢等業務也將是龐大的市場，
+況且，商業公司也可以從開放原始碼社群獲的幾乎免費的支援。
+
+相關網址：
+1、甲骨文與開放原始碼：預測未來
+   http://oracle.oreilly.com/news/oracleopen_0401.html
+2、開放原始碼資料庫不可行?
+   http://linuxtoday.com/news_story.php3?ltsn=2001-04-16-009-21-PS-EL-HE
+3、甲骨文首頁
+   http://www.oracle.com/
+4、「甲骨文與開放原始碼」第一章線上閱讀
+   http://www.oreilly.com/catalog/oracleopen/chapter/ch01.html
+5、甲骨文版TCL/Tk─Oratcl
+   http://oratcl.sourceforge.net/
+
+──────────────────────────────
+■ ArsDigita關起開放原始碼大門，創始人Philip Greenspun遭控告
+
+沈美君/編譯
+2001/04/20
+
+發展開放原始碼電子商務解決方案的 ArsDigita公司，於4月6日宣布
+即將開始以「使用者付費」的方式，銷售 ArsDigita社群系統的各個
+模組，以求獲得較高利潤。此外，創始該公司的Philip Greenspun等
+三人，遭ArsDigita現任總裁Allan Shaheen及創投者起訴，原因尚未
+明朗。
+
+------
+
+縱使 ArsDigita公司每年約有二千五百萬美元的營收，去年更提升至
+三千八百萬美元，似乎不足以擔保 ArsDigita繼續以「純開放原始碼
+」的經營方式走下去。ArsDigita近來連連採取行動，4月初裁員二十
+九名員工、改版產品﹙以 Java來替代原來用以開發的TCL程式語言﹚
+，更企圖改變獲利方式：原來的商業模式仰賴於開放原始碼產品的售
+後支援服務，現在欲改以銷售產品的利潤，來增加公司營收。
+
+ArsDigita資深行銷副總裁 Dave Menninger表示，此舉是朝向「獲得
+服務與產品的混合利潤」前進，期望能拉抬 ArsDigita的表現，提高
+2002年第一季的獲利。不過，ArsDigita 這項策略性的轉變，尚未正
+式發佈於官方網站上。根據CNET的報導， ArsDigita仍會以開放原始
+碼的方式，繼續研發ACS解決方案，可能會以OpenACS計畫為代表。
+
+以開放原始碼為發展方向的 ArsDigita，是電子商務套件及解決方案
+的領導廠商，旗下研發的ArsDigita Community System社群系統﹙簡
+稱ACS ﹚，為企業等級的電子商務平台，包含內容管理、商務合作、
+個人化、行銷、分析等模組，具有擴充性及延展性的整合元件，讓企
+業得以快速建置電子商務網路應用程式，實作 ACS的客戶包括甲骨文
+、西門子、惠普、諾基亞、EMC、The World Bank等知名企業。
+
+另一項令人矚目的消息，是ArsDigita的創始人Philip  Greenspun、
+Eve Anderson、Tracy Adams三人，遭ArsDigita公司現任總裁 Allan
+Shaheen 及創投者起訴，根據Philip在其個人網頁討論區上的發言表
+示，自己是在非常突然的狀況下，被ArsDigita 現任管理階層及創投
+者逐出公司。
+
+Philip對於媒體在此事件上的諸多錯誤不實報導，感到十分惱怒。例
+如誤植Philip反對ACS的改版計畫﹙ Philip說早在兩年多前，即建議
+ACS採用100％ Java來開發﹚。有人質疑Philips於任職 ArsDigita其
+間，曾簽署保密條款，但是在 MIT授課時，違反條款、將保密事宜於
+課堂上傳授。不過，Philip也否認了保密條款的說法，到目前為止，
+被起訴的原因尚未明朗。
+
+相關網址：
+1、ArsDigita公司新總裁與創投業者聯合該公司創始者之一的Philip
+   http://www.newsforge.com/article.pl?sid=01/04/19/2250201&mode=thread
+2、Philip Greenspun要離開ArsDigita公司了嗎？
+   http://philip.greenspun.com/bboard/q-and-a-fetch-msg.tcl?msg_id=000tV7&topic_id=22&topic=Ask%20Philip
+3、ArsDigita關起開放原始碼大門
+   http://www.geek.com/news/geeknews/2001apr/gee20010406005253.htm
+4、ArsDigita官方網站
+   http://www.arsdigita.com/
+
+──────────────────────────────
+■ 為電子商務提供重兵防護─EnGarde Secure Linux
+
+李孟諺/編譯
+2001/04/20
+
+網路安全問題隨著網路使用人口的增加而日益重要，金融等重要網站
+或主機受到駭客入侵的消息也不再是新聞。一家專門研發開放原始碼
+作業系統安全軟體的Guardian Digital公司，推出一套號稱具有絕佳
+安全防範效果的EnGarde Secure Linux，它的功能又是如何？
+
+------
+
+EnGarde Secure Linux為Guardian Digital公司開發出的主要產品，
+提供安全與穩定的開放原始碼套件，可用來保護網路安全。該軟體是
+為了特殊的安全考量而設計，含有入侵偵查能力、電子郵件以及 DNS
+網域管理功能、完整的AllCommerce 電子商務應用套件、改善存取控
+制、強大的加密措施，以及完整的SSL 網頁安全管理能力。
+
+整合的Guardian Digital網站工具提供建立新的虛擬店面以及增加網
+站的功能。管理的工作與系統升級可以迅速、簡便、安全的從遠端控
+制。執行存取控制與主要管理功能能力提供比其他網站管理系統更佳
+的優勢。
+
+最新發表的EnGarde 1.0.1也稱作Finestra ，幾乎支援所有的乙太網
+路與SCSI控制，以及所有的x86處理器，並將Linux入侵偵測系統整合
+到它的設計中，而且Tripwire網站管理工具包含Openwall在內的許多
+開放原始碼安全計劃，以及管理安全功能的改善。
+
+EnGarde Secure Linux產品部經理Benjamin D. Thomas表示，該軟體
+擁有快速且安全的建立電子商務虛擬店面與建立網站的能力，以及管
+理電子郵件與DNS網域功能，對他們的客戶來說，EnGarde是非常實用
+的軟體。
+
+Guardian Digital公司成立於1999年，專門投入研發電子商務解決方
+案的安全軟體。該公司的目標是提供開放原始碼軟體使用者所需的高
+效率及安全系統的工具與技術。
+
+相關網址：
+1、Guardian Digital推出EnGarde Secure Linux
+   http://linuxpr.com/releases/3617.html
+2、Guardian Digital 簡介 
+   http://www.guardiandigital.com/about.html
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

@@ -1,0 +1,595 @@
+網基科技
+╭════════════════════════════╮
+
+    《 OpenScope  開放視界電子報 》   ２００１.０３.０２
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ 開放源碼的Lazarus 挑戰Kylix
+
+■ Borland 2001年的全球佈局
+
+■ 首套支援Intel XScale的嵌入式Linux
+
+■ 「Pippy」將Python移植至Palm OS
+
+■ IBM：Ready, set, Linux!
+
+■ Sun、HP、IBM三大巨頭的Unix市場爭奪戰
+
+■ GNOME上的「Outlook」─ Evolution
+
+■ GNOME的多媒體策略─Gstreamer
+
+■ CommuniGate Pro現身OpenBSD
+
+■ 高度整合的桌面環境—KDE 2.1
+
+
+═《編者的話》═══════════════════════
+
+開放原始碼的「Kylix」出爐，Lazarus帶給你快速程式發展工具新選
+擇！
+
+Borland在2月15日發行了「Kylix」Linux版本，這個將 Delphi和C++ 
+Builder 移植到Linux平台上，讓開發者能很容易地在Linux上開發應
+用軟體的計劃，不僅造福了廣大的開發者社群，並且促進 Linux更深
+入企業的核心。遺憾的是，開發Kylix的Borland公司卻宣佈將暫不開
+放Kylix的原始程式碼。
+
+Lazarus跟Kylix一樣，是個Pascal的快速程式發展工具。 Lazarus應
+用了 Free Pascal，主要提供應用程式開發人員在發展視窗介面時使
+用，由於Free Pascal模擬且能編譯Delphi語法，所以可以在Linux、
+OS/2、Win32、68K等作業系統平台上進行工作；且Free Pascal是GPL
+軟體，它使用的FCL﹙Free Pascal Class Libraries﹚及 Lazarus所
+使用的LCL則是屬於LGPL版權聲明，因此使用者可以用Lazarus+ Free 
+Pascal來設計商業軟體。最新版的 Lazarus還附加了一個強悍的轉換
+工具SynEdit，能將Delphi的程式碼直接轉換到Lazarus上！強大的功
+能加上開放原始碼，Lazarus究竟會帶給Kylix多大的威脅？請看我們
+為您作的報導。
+ 
+本期OpenScope還包括了許多精采的報導，MontaVista 於25日展示英
+特爾XScale微架構的首套嵌入式 Linux開發中版本，以及將Python移
+植到PalmOS的 Pippy計劃，還有 IBM最新的 Linux市場策略等。閱讀
+OpenScope讓您掌握開放原始碼界的最新脈動！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ 開放源碼的Lazarus 挑戰Kylix
+
+梁天佐/編譯
+2001/02/26
+
+日前Borland推出Linux版本的Delphi─Kylix，堪稱Linux領域重量級
+的軟體發展工具，也肩負著Linux 是否能夠在一般桌上電腦市場佔有
+一席之地的重要使命。而Lazarus與Kylix同樣為Pascal 的RAD﹙快速
+程式發展環境﹚，並且為開放原始碼，目前推出0.7版。
+
+------
+
+Borland日前終於推出Linux領域重量級軟體發展工具─ Kylix，但去
+年11月在美國COMDEX資訊展中，Borland已經公開表示Kylix將不開放
+原始碼。不過同樣為Pascal的RAD ﹙快速程式發展環境﹚卻開放原始
+碼的Lazarus推出了0.7版本，新版可將Borland Delphi的程式碼直接
+轉換到Lazarus上。
+
+Lazarus與Kylix同樣為Pascal的RAD ﹙快速程式發展環境﹚，新版除
+了整合發展環境﹙IDE﹚之外，還附加了強悍的轉換工具─SynEdit，
+可將Borland Delphi的程式碼直接轉換到Lazarus上。
+
+Lazarus是一組應用Free Pascal的函式庫編譯器工具，主要提供應用
+程式開發人員發展視窗介面時使用，由於Free  Pascal模擬且能編譯
+Delphi語法，可以在Linux、OS/2、Win32、68K 等作業系統平台上進
+行工作，因此Lazarus是使用Delphi 語言之類的開發人員進行跨平台
+工作最佳的工具選擇之一。
+
+Lazarus是由開放原始碼社群Free Pascal Lazarus Project發展維護
+，原始碼與相關文件以GPL授權發行，函式庫FCL﹙FreePascal Class 
+Libraries﹚與函式庫 LCL﹙Lazarus Class Libraries﹚則是以LGPL
+方式註冊，使用者必須遵從GPL使用其核心，也可開發應用FCL與 LCL
+函式庫的商業軟體。
+
+設計上 Lazarus完全獨立於現有應用程式介面元件集﹙widget set﹚
+之外，開發人員在寫完程式碼之後，只要指定連結的視窗介面元件集
+，應用程式的視窗外觀與行為就會按照指定的方式呈現，如有必要也
+可自行撰寫新的元件；應用程式在不同平台之間移植時，只需將原始
+碼進行複製、編譯，然後連結到指定的介面元件集便大功告成。
+
+除傳統文字輸入開發介面外，新版Lazarus 0.7 本身的圖形介面亦相
+當完善，開發工具介面內加入了如表單設計、物件檢查、編譯選項、
+環境選項、專案選項、程式碼自動補正、語法標記等先進程式設計工
+具的功能。Lazarus 0.7所發展出SynEdit工具，能將現有的Delphi程
+式的內碼導入，立刻大幅擴充了Lazarus的應用性。
+
+Lazarus 目前處於發展階段，應用上的介面元件集以GTK+為主，已可
+適用於目前大部分的Delphi程式，但Windows平台上使用專為Windows
+定義的OCX與DCU資料庫的相關程式則無法支援，不過支援性與相容性
+仍在發展中；開發人員仍然可以 Free Pascal與Lazarus為Windows撰
+寫應用程式。
+
+相關網址：
+1、Free Pascal Lazarus Project首頁
+　 http://www.lazarus.freepascal.org
+2、Free Pascal首頁
+　 http://www.freepascal.org　
+3、Lazarus種種
+　 http://www.lazarus.freepascal.org/about.php3?&language=english
+4、Lazarus─開放原始碼給應用程式移植的答案
+　 http://linuxpr.com/releases/3362.html
+
+──────────────────────────────
+■ Borland 2001年的全球佈局
+
+李孟諺/編譯
+2001/02/26
+
+根據大陸網路媒體ChinaByte的消息指出，Borland公司最近對外宣布
+了該公司2001年的發展戰略。其發展目標是收入增長20％，成為跨平
+臺發展、應用及管理方面的領導者，並擴大在中國、韓國、印度及拉
+丁美洲等地區的市場分額。此外，該公司產品JBuilder 4 獲得eWeek
+eXCELLENCE獎。
+
+------
+
+根據大陸網路媒體ChinaByte報導，Borland公司最近對外宣布了該公
+司2001年的發展戰略。其發展目標是收入增長20％，成為跨平臺發展
+、應用及管理方面的領導者，並且擴大在中國、韓國、印度及拉丁美
+洲等地區的市場分額。
+
+報導當中引述Borland公司總裁兼首席執行長Dale L.Fuller的談話表
+示，Borland 公司將自己定位在企業發展、應用、產品管理等方面的
+領航者。致力成為開發JAVA的領導者，並且為昇揚公司的三種JAVA平
+臺﹙J2EE、J2SE、J2ME﹚提供有力的跨平臺應用開發環境。
+
+在行動應用產品方面，該公司將開發支援WAP 的相關軟體。為因應跨
+平臺應用軟體的需求，Borland也將開發支援包括XML/SOAP，CORBA和
+Java的網路應用服務。並且加強研發支援微軟.Net、昇陽公司的J2EE
+平臺和開放的產業標準領域的應用軟體。
+
+此外， Borland在22日也對外宣布該公司的跨平台整合性發展環境─
+JBuilder 4 獲得eWeek 2001 年傑出網頁與多階發展程式設計獎。這
+個獎項是由eWeek 是從去年推出的電子商務軟體中，依照它們的性能
+、溝通方面、網路架構，以及各軟體對於現今電子商務市場的競爭優
+勢綜合評價所選出。除eWeek外，一些科技媒體如電腦雜誌 Java Pro
+、JavaWorld與Software Development Magazine也都給予JBuilder肯
+定。 
+
+Borland除了公佈本年度的經營方針與獲獎消息之外，1月底於紐約舉
+辦的LinuxWorld展覽會上，獲得最佳研發工具首獎的Linux 視覺化開
+發環境系統─Kylix，3月也將在台灣正式上市。
+
+相關網址：
+1、Borland宣布2001年發展策略
+   http://www.chinabyte.com/builder/linux/linux_detail.shtm?id=1419&parid=1&dtype=0
+2、Borland Kylix新產品發表與研討會
+   http://www2.borland.com.tw/tw/nw010220.html
+3、BorlandR公司的JBuilder軟體獲得eWeek eXCELLENCE大獎
+   http://www.borland.com/about/press/2001/eweek.html
+
+──────────────────────────────
+■ 首套支援Intel XScale的嵌入式Linux
+
+謝良奇/編譯
+2001/02/26
+
+Hard Hat Linux作業系統開發商MontaVista，25日展示英特爾XScale
+微架構的首套嵌入式Linux開發中版本。該展示系統乃專為突顯 Hard
+Hat Linux 在英特爾XScale參考平台的執行能力，未來XScale平台開
+發者將可受惠於MontaVista在該平台的Linux技術貢獻。
+
+------
+
+MontaVista展示由快閃記憶體開機的Hard Hat Linux，在無磁碟系統
+以及極小記憶體資源下，可支援標準的 Linux功能，如網路、命令列
+等。MontaVista 目前是唯一能支援英特爾平台並展示全功能Linux系
+統的嵌入式Linux廠商。
+
+XScale平台由英特爾於去年8月推出，專為推展StrongARM技術基礎至
+掌上設備及無線市場。XScale是兼具成本、功能的強力處理器，專門
+針對行動通訊、個人連接、掌上電腦、無線影像及網路基礎設備等用
+途而設計，其獨特能力可適應不同計算負載調整功率消耗，並可為掌
+上裝置延長電池壽命。
+
+去年9月英特爾即曾與 MontaVista達成投資協議，按協議英特爾將幫
+助MontaVista，讓旗下軟體可充份利用英特爾XScale微架構的特點。
+當時英特爾掌上計算部門總經理Peter Green表示，OEM廠商需要在英
+特爾的StrongARM、XScale產品設計上運用Linux系統，MontaVista是
+可讓Linux更加普遍運用在嵌入式領域的代表廠商之一。
+
+MontaVista執行長Jim Ready指出，透過XScale的 Hard Hat Linux，
+該公司正為英特爾平台的行動計算，展現提供嵌入式 Linux的承諾，
+對於將英特爾XScale加入旗下嵌入式處理器支援之列一事，該公司感
+到相當自豪。
+
+為充份利用XScale架構功能，MontaVista 正就Linux最佳化及相關工
+具增加額外投資，未來XScale應用軟體開發者將可受惠於效能調整、
+低度的記憶需求及設備界面等各項加強。此外，依照MontaVista慣例
+，所有的開發工作將回饋StrongARM/XScale原始碼結構，以便向整個
+社群推展此一架構。
+
+相關網址：
+1、MontaVista展示第一套英特爾XScale平台的嵌入式Linux
+   http://linuxpr.com/releases/3363.html
+2、MontaVista獲得來自英特爾的投資
+   http://alllinuxdevices.com/news_story.php3?ltsn=2000-09-14-002-03-PL
+
+──────────────────────────────
+■ 「Pippy」將Python移植至Palm OS
+
+沈美君/編譯
+2001/02/26
+
+Endeavors Technology上月22日宣布，已成功將Python 移植到 Palm
+OS作業系統上，將來以Python開發的應用程式，不但可在一般電腦上
+執行，支援Palm OS的PDA、資訊家電、網路電話等，皆可執行Phthon
+應用程式，並以相同的標準達成通訊和資料交換的目的。
+
+------
+
+Tadpole  Technology旗下的Endeavors公司擅長行動運算，尤以當紅
+的Peer-to-Peer﹙點對點﹚技術為最，所研發的Magi  P-to-P系列解
+決方案，可協助公司組織及個人，隨時、隨地使用可上網的裝置，迅
+速分享和尋找所需的檔案及資訊。Endeavors將Python移植到Palm OS
+上的計畫，與公司追求的目標相輔相成：Endeavors 欲發展一種標準
+化的系統架構與通訊協定，不管是桌上型電腦或掌上 PDA，同一種軟
+體都可以在不同的機型和平台上正確無誤地執行。
+
+移植Python至Palm OS的構想，代號為「Pippy」，源自 Aerospace公
+司與 California大學的計畫，「Pippy」之名由「Python In Palm」
+的字首，再加上Python 附檔名的「.py」而來。Python是最常被拿來
+與Java、Perl比較的物件導向程式語言，用來開發方便有彈性的描述
+語言。將Python或Java移植到小型裝置上最具挑戰的問題，無非是小
+型裝置在儲存硬體、記憶體容量上有諸多限制。此外， Endeavors所
+開發的「Python Virtual Machine﹙Python虛擬機器，簡稱VM﹚」，
+讓 Python 應用程式可以獨立於作業系統、硬體規格之外，依附在VM
+執行環境上運作。
+
+Guido van Rossum為Python的作者，對於Endeavors能將「Pippy」以
+開放原始碼的方式貢獻給社群，感到相當高興，「這項移植計畫對發
+展者最大的貢獻，就是大幅降低在Palm OS上開發 Python的時間成本
+。」同時，Endeavors科技執行長Greg Bolcer表示，將Python移植到
+Palm OS前，小型裝置上一直沒有夠成熟的描述語言可用，Endeavors
+創造了絕佳的開發環境給Python程式設計師們。
+
+「我們希望將Python VM 放到每一種使用金屬和需要電力的裝置中，
+」Greg Bolcer野心勃勃地指出，Python VM只是第一步， Endeavors
+要將影響力擴展到異質VM間的整合上，帶領大家到Java還沒發展到的
+境地。
+
+相關網址：
+1、Python移植到Palm OS上
+   http://www.mbizcentral.com/story/m-technologist/MBZ20010223S0015
+2、Endeavors公司將Python移植到Palm OS上，有助P-to-P發展                 
+   http://www.endeavors.com/news/python.htm
+3、Pippy:Python的移植計畫
+   http://www.endeavors.com/pippy/
+
+──────────────────────────────
+■ IBM：Ready, set, Linux!
+
+謝良奇/編譯
+2001/02/27
+
+基於Linux解決方案的需求成長， IBM於26日公開一系列提倡Linux的
+新措施。 IBM旗下的PartnerWorld計畫將藉由教育、認證、技術支援
+等方式，協助該公司商業伙伴擴展此一新興市場，以達掌握新技術及
+企業成長的目的。
+
+------
+
+根據IDC的資料，Linux在過去兩年內成長快速超越其它伺服作業系統
+，並跨越學術及科學計算範疇，成為商業界電子商務系統新寵。在此
+潮流下， IBM的商業伙伴正熱切需要IBM旗下以Linux為基礎的軟硬體
+及商業伙伴服務，如可存取超過1700個ISV 應用軟體的全球解決方案
+目錄﹙Global Solutions Directory﹚。
+
+IBM此次特針對推廣Linux舉辦一系列措施，包含教育、認證、共同行
+銷、獎勵及技術支援。IBM商業伙伴將可透過PartnerWorld 網站的新
+Linux快速鏈結，連接所有IBM的Linux資源。 IBM PartnerWorld網站
+表明，在新一代電子商務Linux解決方案上，IBM能為商業伙伴達成獨
+特差異。
+
+IBM提出的「Ready,Set,Linux!」概念，乃實現為對Linux的承諾，是
+一套三階段的教育、訓練課程，可令商業伙伴依自身需求，選擇最佳
+市場及技術課程。「Ready,Set,Linux!」分為「Ready」：Linux如何
+帶來利基的全面總覽、「Set」：針對Linux及IBM 電子商務方案技術
+訓練、以及「Linux」：帶領商業伙伴通過LPI﹙Linux Professional 
+Institute﹚與紅帽認證。
+
+除此之外， IBM將擴展「You Pass, We Pay」的認證退費制度，針對
+Linux認證通過的商業伙伴退回教育費用與支出。具IBM認證資格的商
+業伙伴，通過LPI測試101或紅帽認證後，將能獲得支出的學費及測試
+費用。此外具PartnerRewards的IBM商業伙伴同樣可獲得為通過LPI、
+紅帽認證所支出的教育費用。
+
+MerchantWired技術長Bob Covington表示，IBM提供以Linux為基礎的
+軟硬體整合，加上技術、銷售、行銷支援，能給予他們產品競爭力延
+伸。透過IBM的加強支援，他們能迅速發展自身Linux技術，同時在極
+小成本下利用現有技術增加市場機會。
+
+IBM PartnerWorld副總裁Patricia Meacham指出，Linux替IBM旗下的
+PartnerWorld帶來策略轉變契機。從中介軟體到大型主機，IBM 擁有
+最完整的 Linux電子商務能力，包括一系列服務及支援，能協助商業
+伙伴利用現有技術滿足Linux解決方案的蓬勃需求。
+
+目前已有數家廠商藉由IBM提供的Linux電子商務解決方案，發展各自
+商品並獲得成果。專事組織、程序、資訊通訊先進技術的Blue Sky，
+利用IBM旗下Lotus Domino的高效能，配合Linux穩定、易管理、低成
+本等優點，推出Domino Application Hosting Service，讓無力負擔
+高階專屬伺服器的中小企業用戶，維持成本效率時，卻不需妥協服務
+品質。另一軟體商IntraWare移植基於Domino的OctoOffice至Linux平
+台，成功滿足中小企業市場對Linux平台群組軟體的迫切需求。
+
+相關網址：
+1、IBM商業伙伴抓住處於擴張中的Linux市場契機
+   http://eltoday.com/article.php3?ltsn=2001-02-26-001-01-PS
+2、關於IBM PartnerWorld
+   http://www-1.ibm.com/partnerworld/marketing/pmrktng.nsf/weblook/linux.html
+
+──────────────────────────────
+■ Sun、HP、IBM三大巨頭的Unix市場爭奪戰
+
+沈美君/編譯
+2001/02/26
+
+企業級Unix伺服器市場，似乎一直是昇陽的天下，不過現在 IBM與惠
+普採取新策略，將旗下Unix平台全面支援英特爾將推出的64-bit位元
+處理器架構﹙Itanium﹚，欲和昇陽爭奪Unix市場的佔有率。
+
+------
+
+昇陽為高階伺服器市場之翹楚，以企業級伺服器與優越的工作站產品
+線，領導Unix硬體市場；昇陽旗下發展的Java程式語言及J2EE應用程
+式平台，快速地在商業應用領域成長，昇陽 iPlanet與Netscape的合
+作，更在Web 伺服器及企業應用層面得到直接的收益。昇陽雖是經由
+研發與策略聯盟來建立其Unix王國，但最大功臣應是昇陽的 Solaris
+作業系統。
+
+去年，昇陽大幅降低 Solaris 8的版權費至七十五美元，但相關的支
+援、顧問及附加服務費用，並沒有配套的降價措施。昇陽此舉在象徵
+意義上的代表性，的確大於實質意義，因為昇陽堅信作業系統平台本
+身的價值並不高。相反的，整體的企業解決方案及應用軟體層面，是
+核心競爭力之所在，昇陽便以自家發展的作業系統，搭配硬體伺服器
+，在高階市場始終保持相對最高的佔有率。
+
+反觀屈居第二及第三的IBM 和惠普，卻有與昇陽不同的看法。就在昇
+陽行銷旗下Sparc伺服器搭配Solaris作業系統的解決方案同時， IBM
+與惠普宣布支援英特爾即將推出的 64-bit 位元處理器架構，代號「
+Itanium」。 根據市調公司Gartner的報告，Itanium可望在接下來五
+年內，達到十二億美元的收益，其中使用Itanium架構的Windows作業
+平台可能為數第一，而搭售Itanium的IBM AIX和HP-UX 平台則可能勢
+均力敵，平分其餘市場。
+
+IBM與惠普支援Itanium的策略，打破企業以往的採購慣例：由同一家
+廠商提供硬體及作業系統。讓企業在選擇作業系統及伺服器平台時，
+可有更多不同的搭配方式，可從AIX、HP-UX、Linux、Windows等作業
+系統中選擇，去搭配各廠商的伺服器硬體。
+
+相關網址：
+1、昇陽、惠普、IBM三大巨頭的Unix市場爭奪戰
+   http://www.infoworld.com/articles/tc/xml/01/02/26/010226tcunix.xml
+2、惠普的Unix市場策略
+   http://www.idg.net/crd_hp_453853_102.html
+3、IBM推出AIX 5L
+   http://www.idg.net/crd_aix_453836_102.html
+
+──────────────────────────────
+■ GNOME上的「Outlook」─ Evolution
+
+梁天佐/編譯
+2001/03/01
+
+旨在推廣GNOME 桌面的商業與個人應用，並提供技術支援與網路服務
+的公司化開放原始碼社群Ximian GNOME Desktop正式公開辦公室郵件
+軟體Evolution的最新版本，測試報告顯示Evolution的效能遠超過MS
+Outlook。
+
+------
+
+繼去年夏季公開幾乎是雛形的Evolution 0.2 之後歷經半年，辦公室
+應用軟體Evolution0.8正式開放下載，繼續公開接受各界測試與提供
+建議；Evolution 1.0正式版預計今年內推出。
+
+Evolution 0.8主要由執行﹙Executive-Summary﹚、郵件﹙Mail﹚、
+行事曆﹙Calendar﹚與聯繫﹙Contact ﹚等四項輔助功能構成，在各
+種功能下，依性質還有不同的子功能或連結，如果 Evolution本身功
+能還不能滿足使用者工作的需求，可以連結設計開啟其他軟體完成，
+並將結果匯入Evolution做總和處理。
+
+網路公開集思廣益的結果，使Evolution 的圖形化使用介面幾乎可以
+直覺方式操作，安裝設計上除了編譯原始碼，也可使用GNOME Update
+，一般使用者不需閱讀太多相關文件與經過複雜的手續，就能很快安
+裝使用。
+
+Evolution 體積小，執行速度快，且整合功能性極高，使用者可利用
+行事曆、郵件、聯繫與執行的組合功能預先安排郵件收發、約會提醒
+與文件列印等工作，此外有鑑於網路的通透性， Evolution也內建特
+有的安全機制以保護資料隱密；另外， Evolution不自動處理郵件內
+容裡附加執行檔與Script，杜絕病毒的感染。
+
+相關網址：
+1、Evolution首頁
+   http://www.ximian.com/apps/evolution.php3
+2、Evolution最新進化
+   http://www.linuxworld.com/linuxworld/lw-2001-02/lw-02-vcontrol_4.html
+3、Evolution電子郵件信箱
+   http://www.linuxworld.com/lw-2001-07/lw-07-vcontrol_4.html
+4、Evolution FAQ
+   http://www.ximian.com/apps/evolution-faq.php3
+5、Ximian GNOME Desktop首頁
+   http://www.ximain.com
+
+──────────────────────────────
+■ GNOME的多媒體策略─Gstreamer
+
+張書銘/編譯
+2001/02/26
+
+電腦多媒體的應用範疇無遠弗屆，對軟體開發者而言，多媒體已經成
+為必需的技術。Linux 身為當紅作業系統，相關的多媒體開發工具自
+然是不可或缺，Linux多媒體工具的未來會如何演進？GNOME開發人員
+的看法或許是重要的參考。
+
+------
+
+由於 Linux是開放性的作業系統，因此每天都有社群人士發起新的開
+發計劃。目前多媒體應用是相當熱門的技術，因此 Linux系統上也有
+許多相關開發案，由GNOME推動的GStreamer計劃就是其中一個例子。
+
+Gstreamer 開發計劃的目的在於提供一套簡單易學的多媒體工具，提
+供一物多用的優勢。開發團隊領導人 Erik Walthinsen表示，由於過
+去各平台上的多媒體開發工具極為複雜，必須同時應用多套工具才能
+達到開發者預期的效果，不但使開發者必須學習多套不同工具才能因
+應需求，同時也必須浪費硬碟空間去安裝一些體積龐大，卻不很實用
+的工具。於是才會擬定Gstreamer 開發計劃，來改變這種情況。
+
+GStreamer計劃設計一套多媒體程式，讓開發者可以經由Plug-in的方
+式改良它的程式碼，這樣便可在同樣的操作界面下不斷新增功能。且
+GStreamer應用的範疇很廣，從簡單的mp3錄音與播放，到複雜影音編
+輯都可利用此程式製作。此外還提供專業多媒體資料流程繪圖能力，
+以提供軟體設計甚至硬體開發的參考資料。目前 GStreamer計劃已有
+部份完成，並釋出成果Slipstream 0.1.0版。Slipstream 0.1.0屬於
+媒體播放程式，可用以播放MP3、MPEG與DVD等格式的檔案。
+
+Erik Walthinsen指出，基於「讓簡單的事更簡單；困難的事也可行」
+的觀念，Gstreamer 的程式都已模組化，因此整套開發工具的體積不
+會太大，同時只要套用模組，便可快速完成新的工具，相當方便。
+
+相關網址：
+1、Gstreamer是Linux多媒體應用的未來嗎？
+　 http://www.linuxpower.org/display.php?id=205
+2、關於GStreamer
+   http://www.gstreamer.net/
+
+──────────────────────────────
+■ CommuniGate Pro現身OpenBSD
+
+張書銘/編譯
+2001/02/26
+
+隨著自由作業系統的逐漸盛行，伺服器廠商開始重視Linux與BSD系統
+。知名傳訊伺服器CommuniGate Pro的開發廠商Stalker軟體公司，於
+日前釋出支援多種UNIX/Linux/BSD系統的 CommuniGate Pro，以提供
+消費者更多選擇。
+
+------
+
+Stalker軟體公司於23日釋出了支援多種平台的CommuniGate Pro傳訊
+伺服器。由於 CommuniGate Pro可輕鬆應付大量使用者的存取需求；
+支援多主機平行運算；並且有完整的通訊協定支援能力，因此對大型
+郵件主機而言堪稱最佳的伺服器軟體選擇。這次 Stalker軟體特別釋
+出可支援OpenBSD系統的版本，顯示BSD系統在郵件主機市場已擁有不
+可輕忽的地位。
+
+CommuniGate Pro是去年獲得網路電腦雜誌無失誤 E-mail評比的冠軍
+軟體，擁有極高的價格效能比。授權管理、多重網域支援、 SSL安全
+機制、反垃圾郵件與SNMP管理能力等一應俱全。因此受到VA Linux等
+作業系統商的青睞，選擇 Stalker軟體公司做為合作對象，共同開發
+伺服器系統。Stalker 軟體為了進一步拓展市場，決定開始支援 BSD
+系統。
+
+最新的CommuniGate Pro傳訊伺服器支援平台包括 Solaris、Linux、
+AIX、HP/UX、FreeBSD、BSDi、Windows NT、Tru64、AS/400以及 Mac
+OS X與OpenBSD等。最新的CommuniGate Pro傳訊伺服器除了承襲以往
+的能力外，還使用了動態叢集技術，以提升在高網路負載時使用的效
+能。
+
+CommuniGate Pro傳訊伺服器的OpenBSD版中，提供了以下的能力：支
+援多網域；多重郵件帳號與信箱共享設定；使用 ESMTP協定進行網際
+網路郵件交換；提供反垃圾郵件與多種保護機制；使用POP3、 IMAP4
+協定或瀏覽器進行遠端操控信箱；提供每一帳號個人 WEB空間；提供
+LDAP服務；對於多台伺服器可設定多重網域控管；使用最新叢集技術
+，可提供高達五百萬個使用者帳號；支援撥接式數據通信；網管人員
+可使用瀏覽器或透過CLI module進行遠端管理等。
+
+相關網址：
+1、CommuniGate Pro for OpenBSD版釋出
+   http://www.deadly.org/article.php3?sid=20010224041210
+2、關於CommuniGate Pro傳訊伺服器
+   http://www.stalker.com/CommuniGatePro/
+
+──────────────────────────────
+■ 高度整合的桌面環境—KDE 2.1
+
+梁天佐/編譯
+2001/02/27
+
+圖形化的電腦作業系統介面無疑是作業系統普及的重大關鍵，優秀的
+桌面環境能使圖形介面更上層樓，不僅使用者容易操作，開發人員也
+能輕鬆發展應用程式；Linux與Unix世界與GNOME相同領先群倫的桌面
+環境KDE 於2月26日正式公開KDE 2.1版，滿載令人驚艷的整合功能，
+使KDE成為更加成熟的桌面。
+
+------
+
+KDE 2.1最令人矚目的兩項改進，包括先進多功能瀏覽器Konqueror與
+易於使用、整合度極高的開發工具KDevelop。Konqueror 的前身是視
+窗檔案管理程式kfm ，經過程式大幅改寫，整合檔案管理與瀏覽器軟
+體功能後，儼然成為極具競爭力的瀏覽器；最新的Kdevelop 1.4則支
+援KDE/Qt、GNOME、C/C++等Unix開發環境，屬於KDE 2.1 眾多開發工
+具的一部份。
+
+在網路功能方面，KDE 2.1除了可存取、瀏覽Linux系統的檔案，也能
+更方便地存取NFS、MS Windows SMB分享檔案，瀏覽HTTP網頁、FTP、
+LDAP與音樂CD檔案目錄； KDE模組與外掛式架構允許在需要時，隨時
+增加新功能或網路協定，非常具有擴充性。
+
+KDE 2.1優越的性能引起各界的注目。 Suse技術執行長Dirk Hohndel
+表示，有了這種直覺式的介面、成熟的編碼與優異的開發工具與環境
+，企業與協力廠商將會明白KDE 所帶來的莫大潛力，且將它們的工作
+站與應用程式轉到Linux/KDE上。 IBM Linux 技術中心資深技術人員
+Sheila Hamett則認為，KDE 2.1在功能性、使用性與視覺質感上明顯
+地剔除了Linux桌面各方面的障礙。
+
+KDE 具有高度可塑性，允許使用者依個人工作站或企業伺服器的需要
+設定，以方便操作，本身除提供十四種以上不同功能與風格的桌面環
+境主題之外，必要時，開發人員還可以隨時創造專屬的介面，或者將
+現有的GTK、GNOME介面導入。
+
+KDE應用軟體豐富，分成CVS官方與個人發展維護兩種，類別有管理、
+遊戲、影像處理、影音多媒體、網路、PIM與公用程式等，應有盡有
+，難以數計；並且支援包括繁簡體字在內三十三種不同的語言。
+
+相關網址：
+1、KDE計劃首頁
+   http://www.kde.org
+2、新KDE桌面開放企業應用
+   http://linuxpr.com/releases/3371.html
+3、KDE 2.1上路─就在你身邊
+   http://dot.kde.org/983227586
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界 零客觀點》專欄
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

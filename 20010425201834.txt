@@ -1,0 +1,427 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０４.２５
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ IBM推出AIX 5L 5.1版  可同時管理Unix/Linux應用程式
+
+■ FreeBSD 4.3正式版登場
+
+■ 康柏推出企業用Linux ADK與Proliant伺服器
+
+■ FSMLabs宣佈RTLinux將支援NetBSD
+
+■ 無線科技戰國時代 Java略佔上風
+
+■ SuSE Linux 7.1日文版新發表！
+
+■ 使用Tomcat輕鬆部署網頁應用程式
+
+═《編者的話》═══════════════════════
+
+IBM宣佈將推出最新作業系統 AIX 5L 5.1版，為業界首款能同時建立
+並管理Unix與Linux應用程式的作業環境！
+
+藍色巨人投注在 Linux上的心力可謂世界第一！從研究開發、硬體支
+援與硬體搭售的產權Unix作業系統相容等項目上， IBM全面參與。去
+年甫推出的AIX系列的作業系統AIX 5L，搭配了英特爾IA-64最新架構
+的64位元處理器，市場鎖定在高階伺服器。去年10月AIX 5L 5.0版釋
+出，除改善舊版 AIX系列的工作負載管理能力、disk I/O、CPU 及記
+憶體控管的處理外，還提供JAVA 21.3版及Unix SVR4系統；接著今年
+1月IBM又發表了供Linux應用軟體使用的AIX工具套件。現在，AIX 5L 
+5.1版也即將登場，對Linux及IA-64架構的提供最完整的支援！
+
+同樣能支援IA-64 架構處理器的還有康柏的「Blazer」，還有惠普的
+「HP-UX」，且惠普HP-UX伺服器同樣能與Linux 相容。IBM整個AIX計
+劃，以整合Linux/UNIX的作業系統的策略，並支援英特爾IA-64 架構
+處理器，雙管齊下的結果，將如何改寫伺服器市場的版圖？值得期待
+。而在 Unix市場上，IBM和昇陽還有惠普的爭奪戰，可能也因此會繼
+續廝殺下去！
+
+本期的OpenScope還為您帶來了新版的FreeBSD 4.3，還有康柏新推出
+的Linux進階發展工具及高安全性的Proliant伺服器；另外，FSMLabs
+擬於BSD上開發RTLinux嵌入式即時作業系統。這麼多精采的報導，全
+部都在優質的OpenScope！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ IBM推出AIX 5L 5.1  可同時管理Unix/Linux應用程式
+
+梁天佐/編譯
+2001/04/24
+
+藍色巨人不斷以積極行動投入Linux，從研究開發、硬體支援到IBM與
+硬體搭售的產權Unix作業系統相容等項目上，呈現全面性的參與；去
+年IBM才宣佈進行使該公司Unix作業系統 AIX執行Linux應用程式的計
+劃，今年1月便釋出Linux應用程式編譯工具，日前又宣佈最新版作業
+系統 AIX 5L 5.1版，將允許使用者同時建立與管理Unix與Linux的應
+用程式。
+
+------
+
+IBM於23日正式推出該公司版權Unix作業系統最新版本 AIX 5L 5.1版
+，除版本升級應有的錯誤修正與新增功能外，經過特別的設計與調整
+， AIX 5L成為業界首款同時提供建立並管理Unix與Linux應用程式的
+作業環境，不僅為AIX 5L帶來實質上的好處，也可謂替封閉的商業授
+權作業系統，樹立與開放原始碼軟體通用的典範。
+
+IBM 認為，兼容並包的做法與開放的胸襟不僅將贏得市場，也會為該
+公司的軟硬體產品帶來新的發展。AIX 5L 5.1版最多支援32顆處理器
+，256GB記憶體，可同時執行32與64位元的應用程式，支援IBM Power
+ PC與英特爾Itanium處理器架構的電腦硬體系統，Linux社群可藉由
+應用程式在AIX上執行與發展的經驗，擴充Linux在企業應用方面的規
+模。IBM伺服器市場行銷副總裁Mike Kerr在接受eWeek訪問時便說：
+「我們也對幫助Linux社群進一步深入企業感到興趣。」
+
+在AXI 5L 5.1執行Linux應用程式必須經過簡單的編譯過程，IBM將相
+容的Linux 應用程式、程式介面、相關檔案與標題﹙Header﹚收錄在
+AIX ToolBox for Linux中，以紅帽封包管理員﹙RPM﹚進行安裝管理
+的工作。此外，AXI 5L 5.1在規模調整性、檔案系統、Java相容、多
+重IP路徑、系統自動監測、控管資源成本的管理工具，以及安全性等
+功能上，都有大幅的改進。
+
+AIX 5L 5.1預定在5月4日上市，IBM PowerPC架構的eServer P系列，
+包括最新發表的 p660， 與英特爾Itanium架構的eSerber X系列基本
+上都可以安裝。 AIX ToolBox for Linux可以免費CD或是網路下載的
+方式取得，目前已有超過兩百款以上的 Linux應用程式或解決方案，
+內容仍在增加中。
+
+相關網址：
+1、IBM以AIX 5L打破Linux與Unix籓籬
+   http://news.wideopen.com/fc/2-118,209-119,487380
+2、AIX ToolBox for Linux應用程式
+   http://www-1.ibm.com/servers/aix/products/aixos/linux/altlic.html
+3、IBM以AIX 5.1鎖定與Linux的交互處理
+   http://www.zdnet.com/eweek/stories/general/0,11011,2710874,00.html
+4、下載AIX ToolBox for Linux
+   http://www-1.ibm.com/servers/aix/products/aixos/linux/download.html
+5、IBM eServer P系列
+   http://www-1.ibm.com/servers/eserver/pseries/
+
+──────────────────────────────
+■ FreeBSD 4.3正式版登場
+
+張書銘/編譯
+2001/04/23
+
+將近半年的漫長等待，最新版FreeBSD  4.3終於釋出。除修改核心，
+更加強對許多硬體與網路技術的支援，讓 FreeBSD能達到伺服器應用
+與個人使用的雙贏目標。
+
+------
+
+經過長時間修正，FreeBSD 4.3版終於面市。自4.2版以來， FreeBSD
+開發者們便不斷進行臭蟲的修正、增強安全性、以及加入新功能與提
+昇硬體支援能力的計劃。而在本週，改頭換面的 FreeBSD 4.3終於完
+成並正式釋出。
+
+在新的 FreeBSD 4.3中，主要的改變包括了核心的修改、修正安全性
+問題、增加對新的網路硬體與技術的支援等三大部分。在核心的修改
+上，FreeBSD 4.3 新增多種不同的驅動程式，除了可提升一般介面卡
+的工作效率外，許多過去不支援的SCSI卡與設備，現在也可以順利運
+作。
+
+在安全性的修正上，FreeBSD 4.3 除了修正過去已發現的臭蟲外，也
+為許多工具進行升級，以因應更複雜的網路安全問題。升級的部分包
+括：使用BIND 8.2.3、改良OpenSSH發生RSA錯誤時，加解密的金鑰可
+被破解的問題、關閉部分可遠端遙控功能以免有心人士偽裝使用者進
+入系統等。
+
+此外，FreeBSD 4.3 中，新增許多硬體支援能力，特別是在網路硬體
+方面，除了較知名的D-Link與3Com產品外，還包括：Macronix/Lite-
+On PNIC II LC82C115 Fast Ethernet NICs 、  Texas Instruments
+ThunderLAN PCI NICs 、 Kawasaki  LSI  KU5KUSB101B-based  USB
+Ethernet NICs 等網路卡及其他網路設備。同時，針對目前 ISP業者
+大量應用的FDDI與ATM網路技術，FreeBSD 4.3也加強了對相關軟硬體
+的支援。
+
+相關網址：
+1、FreeBSD 4.3釋出說明
+   http://www.freebsd.org/releases/4.3R/notes.html
+2、FreeBSD 4.3正式釋出
+   http://slashdot.org/article.pl?sid=01/04/22/0056207
+
+──────────────────────────────
+■ 康柏推出企業用Linux ADK與Proliant伺服器
+
+沈美君/編譯
+2001/04/23
+
+康柏於19日宣佈釋出Linux Advanced Developer's Kit﹙進階發展工
+具，簡稱ADK﹚，協助Linux發展者在高階企業環境下，開發適用於康
+柏AlphaServer 伺服器平台的應用程式。康柏同時也宣佈，推出適用
+於對交易安全要求較高的中大型企業的Linux Proliant伺服器解決方
+案。
+
+------
+
+康柏於近日推出了兩款新產品，一是由康柏與 Linux開放原始碼社群
+共同研發的 Linux ADK，另外則是針對交易安全要求較高的中大型企
+業推出的Linux Proliant伺服器解決方案。
+
+Linux ADK提供發展者在SuSE 7.0或Red  Hat 7.0平台上，配合Linux
+核心 2.4版，開發高可用性的應用程式所需的工具、軟體、修正程式
+和文件。康柏表示，主要目標是以ADK協助發展者在AlphaServer伺服
+器產品線上，開發新的應用程式，或將目前現有的Linux 應用程式移
+植到此系統平台上。對於較為要求高效能表現與資料敏感度的企業，
+可以ADK來實作﹙RASremote access server，遠端伺服器存取﹚以及
+多處理器NUMA架構技術。
+
+Linux Proliant伺服器，是軟硬體與服務同時搭售的解決方案，內建
+Check Point Software所提供的VPN虛擬私有網路﹙Virtual Private
+Networks﹚，以及Rainfinity提供的防火牆安全防護，目標客戶鎖定
+對交易安全要求較高的中大型企業。
+
+對安全表現極為要求的Proliant伺服器，整合了 Check Point公司的
+VPN-1/FireWall-1軟體，與Rainfinity所開發的RainWall-S高可用性
+防火牆軟體，以康柏Proliant ML330型及DL320型伺服器，搭配Linux 
+RedHat套件，成為完整的安全防護解決方案。整合Proliant伺服器的
+安全套件，可望於 5月正式發表，與硬體及支援服務一起搭售，價格
+約為五千五百美元。
+
+相關網址：
+1、康柏發表ADK進階發展工具
+   http://www.infoworld.com/articles/hn/xml/01/04/20/010420hncomplinux.xml
+2、康柏推出高安全性Proliant伺服器
+   http://www.infoworld.com/articles/hn/xml/01/04/11/010411hncompcheck.xml
+3、下載ADK
+   http://www.support.compaq.com/alpha-tools
+
+──────────────────────────────
+■ FSMLabs宣佈RTLinux將支援NetBSD
+
+張書銘/編譯
+2001/04/23
+
+以即時作業系統起家的FSMLabs公司，宣佈將以BSD為基礎，以強化該
+公司的即時嵌入式作業系統，而在FSMLabs的努力下，NetBSD 公司表
+示樂意合作，將NetBSD的相關資訊提供FSMLabs作為參考。
+
+------
+
+即時作業系統開發商 FSMLabs於19日宣佈，已與NetBSD公司合作開發
+RTLinux即時嵌入式作業系統，因此程式設計者利用 POSIX  threads
+API開發工具開發的應用程式，同時在Linux與NetBSD都可執行。
+
+RTLinux是FSMLabs所開發的雙核心即時嵌入式系統，它採用了 POSIX
+10003.13 PS51 標準，能以最低硬體需求狀態執行大部分的應用程式
+。使 RTLinux在嵌入式設備市場上得到許多好評。由於 BSD系統也逐
+漸開始在嵌入式設備市場上抬頭，因此FSMLabs決定開發RTL/BSD系統
+，拓展RTLinux作業系統的使用層面。
+
+由於FSMLabs公司在開發RTLinux時，是以一般使用者的角度來設計，
+因此在執行應用程式上雖然有效率，但本身程式開發工具的支援能力
+卻略嫌不足。而這次以 BSD系統來進行新的系統開發案時，便強調以
+提供 POSIX threads API開發工具為主，讓開發者與一般使用者能選
+擇適合己用的環境。
+
+目前FSMLabs公司已敲定與NetBSD公司進行交流，由於 NetBSD本身已
+有執行部分Linux應用程式的能力，FSMLabs公司指出，以NetBSD目前
+的技術，必定可為即時嵌入式系統找出新的方向。
+
+相關網址：
+1、FSMLabs公佈RTL/BSD計劃
+   http://www.bsdtoday.com/2001/April/News465.html
+2、FSMLabs宣佈RTLinux將支援NetBSD
+   http://www.fsmlabs.com/NetBSD_press_release.html#NetBSD
+
+──────────────────────────────
+■ 無線科技戰國時代 Java略佔上風
+
+翁千婷/編譯
+2001/04/24
+
+無線科技運用進入戰國時代，越來越多廠商計劃發展無線設備上的應
+用程式，但到底要採用開發容易的Visual系列，或是移植性強的Java
+做為開發工具，總是讓業者難以決定。從 Evans最近的調查報告，可
+以一窺這場戰爭的最新發展。
+
+------
+
+越來越多廠商計劃發展無線設備上的應用程式，但面對Windows CE、
+Palm OS、及Linux等各家作業系統，加上尚未統一的標準，選擇何種
+平台與語言做為開發工具，一直是個難題。
+
+在Windows CE作業系統上，微軟提供Visual C++與Visual Basic兩款
+應用程式發展工具，宣稱這樣的搭配讓開發者可以快速開發所需的應
+用程式。另一方面，Java跨平台的優點，則讓使用Java開發的應用程
+式可以在多種硬體上執行，這樣的特性持續獲得業者的青睞。
+
+根據市場調查公司 Evans最近的報告顯示，在五百二十一名受調者中
+，30％的開發者選擇使用Java發展他們的無線設備開發專案，排名第
+二是Palm OS，佔25％，微軟Windows CE則佔22％。
+
+今年年底，信用卡公司Purchase就計畫發展無線電子銀行，提供信用
+卡使用者可以線上儲存卡號、帳單跟消費資訊。負責開發的Brodia團
+隊表示，這將會是一個Java-based應用程式，計畫支援 Palm OS，但
+是不支援Windows CE。Brodia技術長Paul Guthrie進一步說明，此應
+用程式在伺服器端全部採用Java，在客戶端，只要是消費者的需求，
+他們都支援。然而，到目前為止，沒有任何支援Windows CE設備的需
+求。
+
+過去六年一直使用微軟VB開發無線應用程式的Home Depot公司，也計
+劃將改用Java開發。Home Depot副總表示，改用Java的原因是為了對
+抗微軟Visual Basic的壟斷，Linux-based 的使用者不斷增加，但VB
+開發的程式卻不能移植到Linux上使用。此外，General Motors 也開
+始評估使用Java發展OnStar車內通訊系統的可能性。首席系統工程師
+Mike Hichem表示，從硬體的角度來講，適用於各種裝置的 Java程式
+可以帶來很多好處。
+
+不過微軟也不是省油的燈，微軟將合作目標轉向手機供應商。預計在
+年底上市的Stinger手機，將提供微軟Outlook郵件使用者可透過手機
+接收Outlook 信件的功能。微軟也與臺灣的高科技電腦公司、韓國三
+星、日本Mitsubishi及英國Sendo等硬體廠商簽約，發展內建Stinger
+軟體的手機。Miisubishi也會從明年第一季開始販售內建微軟Mobile
+Explorer的 GSM手機。此外，微軟也與Motorola合作發展無線呼叫器
+，這款呼叫器能提供使用者MSN Messenger跟Hotmail郵件服務。
+
+相關網址：
+1、無線通訊開發工具首選─Java
+   http://www.computerworld.com/cwi/stories/0,1199,NAV47_STO59888,00.html
+2、微軟無線設備開發新計劃
+   http://www.computerworld.com/cwi/story/0,1199,NAV47_STO58847,00.html
+
+──────────────────────────────
+■ SuSE Linux 7.1日文版新發表！
+
+李孟諺/編譯
+2001/04/24
+
+德商SuSE最近又有動作出現，於23日正式推出SuSE Linux 7.1日文版
+，並提供線上免費下載。此外，專門開發商用管理軟體的 TeamQuest
+公司，提供了兩種管理軟體加入SuSE Linux，擴大其平台涵蓋率。
+
+------
+
+SuSE Linux 7.1日文版推出了！德商SuSE於23日表示，日本 Linux使
+用者將可免費下載完整的SuSE Linux 7.1套件並獲得完全的支援。
+
+SuSE Linux 7.1日文版提供專業使用者所需要的多種伺服器與桌面工
+具，包含最新的Kernel 2.4、glibc 2.2、ReiserFS、LADP與Logical
+Volume Manager；著名桌面環境 KDE則支援日文環境。在資料庫方面
+，Linux 7.1日文版內含電子郵件、電子商務、網站、FTP與檔案服務
+等伺服器應用。此外，還提供日文字形與輸入法、英日字典及排版系
+統功能。許多辦公室工具如Netscape4.67或 Gimp 圖形設計程式也都
+包含在軟體之中。
+
+SuSE技術長Dirk Hohndel表示，日本人對Linux 非常有興趣。雖然該
+公司的核心市場在歐洲與美國，但是亞洲市場極有潛力。因此希望能
+從日本使用者得到一些回應。該公司的國際版本都是可以相容的，這
+是SuSE的優勢之一。
+
+此外，專門開發商用管理軟體的TeamQuest 表示，該公司的工作管理
+套件TeamQuest View與TeamQuest on the Web現在可支援SuSE Linux
+。這兩套軟體是設計用來協助使用者管理企業用伺服器， TeamQuest
+View提供過去與現在工作分析、協助辨別系統障礙；而TeamQuest on
+the Web則能透過網頁瀏覽器自動產出管理報告。
+
+TeamQuest執行長兼總裁Robert Krieger表示，在SuSE Linux 中附加
+這些軟體將吸引一些公司採用Linux作業系統，也會增加TeamQuest的
+平台涵蓋率。這兩套軟體已經可以在康柏 Tru64 UNIX、惠普的HP-UX
+以及微軟 Windows 2000、Windows NT、紅帽Linux等多種作業系統上
+執行。
+
+相關網址：
+1、SuSE Linux 7.1日文版推出 
+   http://lwn.net/daily/suse-japanese.php3
+2、TeamQuest加入SuSE Linux擴大平台涵蓋
+   http://news.wideopen.com/fc/2-118,209-119,488004
+
+──────────────────────────────
+■ 使用Tomcat輕鬆部署網頁應用程式
+
+梁天佐/編譯
+2001/04/23
+
+商業網站除了基本網頁連結瀏覽與資料庫連結等應用之外，為吸引顧
+客，通常還會運用CGI與ASP等方式提供網頁變化與相關應用，但有時
+伺服器端限制與部署工具功能不足，使網頁應用程式不符需要。使用
+Tomcat在網頁上安裝與部署網頁應用程式可以解決這個問題。
+
+------
+
+Tomcat伺服器是一款處理以Java程式所撰寫的伺服處理子 ﹙Servlet
+﹚與JavaSever Page﹙JSP﹚網頁應用程式的載體﹙Container﹚；隨
+著Java在網路的普遍應用，以及伺服處理子在資料庫存取、電子商務
+處理效能與程式碼可攜性等優勢，除逐漸取代CGI與ASP外，Tomcat所
+提供的處理功能儼然已經成為操作伺服處理子與 JSP規格的重要參考
+。在開放原始碼 Jakarta計劃下發展的Tomcat，本身也是一款重要的
+網頁部署工具。
+
+Tomcat本身可以成為獨立操作的網頁伺服器，它可以回應並處理包括
+靜態網頁內容、 JPS與伺服處理子在內，所有的網路服務要求。建立
+獨立的Tomcat伺服器除需要Tomcat 4.0﹙仍是beta版﹚，還需有Java
+開發工具﹙JDK﹚，網頁開發人員可在 OnJava.com上參考線上安裝、
+組態調整與測試等相關步驟文件。 Tomcat可以在Windows NT/2000與
+Linux下安裝使用，Windows系統另有註冊免費的安裝程式可供使用。
+
+使用Tomcat部署網頁應用程式的基本步驟是：在Tomcat根目錄下建立
+網頁應用程式目錄結構、建立能使網頁應用程式與伺服處理子溝通的
+載體─ServetContext、加入JPS、加入伺服處理子，準備好Tomcat環
+境後，最後就可以建立並部署自行設計，或從外部取得的網頁應用程
+式。
+
+在Tomcat下進行網頁應用程式的安裝與部署，需要運用延伸式標記語
+言﹙XML﹚撰寫部分元件串聯碼，不過相關的操作也可在 OnJava.com
+網站上參考範例， Windows NT/2000系統還可在免費註冊後，下載能
+夠自訂JPS組態的GUI介面工具；相較於其他工具環境，Tomcat能讓網
+頁應用程式能迅速套用安裝。Tomcat有3.2.1(穩定版)、 4.0 beta 3
+版與4.0-dev﹙開發中，測試新功能版﹚等版本，都在Jarkata計劃網
+頁開放下載。
+
+開放原始碼的 Jarkata計劃主要的發展目的，是在Java平台上開發並
+提供商業等級與品質的伺服器端解決方案。目前在 Jarkata下，包括
+Tomcat在內，共有十七個子計劃正在進行之中，所有計劃都是以開放
+原始碼方式管理操作。
+
+相關網址：
+1、在Tomcat下部署網頁應用程式   
+   http://onjava.com/pub/a/onjava/2001/04/19/tomcat.html
+2、Tomcat安裝與組態設定   
+   http://onjava.com/pub/a/onjava/2001/03/29/tomcat.html
+3、Jarkata計劃首頁   
+   http://jakarta.apache.org/
+4、下載Windows NT/2000 Tomcat安裝程式與自訂JPS組態工具 
+   https://www.virtuascommunity.com/products/login.jsp
+5、Jarkata下載頁   
+   http://jakarta.apache.org/site/binindex.html
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

@@ -1,0 +1,444 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０３.２３
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ SuSE美國銷售告捷  紅帽失去主場優勢
+
+■ IBM移植超級電腦叢集技術至Linux
+
+■ FreeDevelopers.Net催生革命性商業架構─社群即公司
+
+■ Enhydra新增無線通訊解決方案
+
+■ CodeWarrior讓你在Linux上開發PS2遊戲
+
+■ 極速瀏覽網頁的高手IntenseSpeed推出Linux版
+
+■ 便宜又大碗的儲存伺服器─StorageWare 1400
+
+■ RTLinux v3.0光碟版新增開發工具 給你DIY樂趣
+
+═《編者的話》═══════════════════════
+
+SuSE在美銷售量高達48.3％，打敗紅帽登上銷售排行榜冠軍！
+
+PC data 公司在3月3日發佈最新的Linux 作業系統銷售數據。紅帽的
+銷售量只佔市場的28.9％，遠落後於外籍兵團SuSE的48.3％！工業專
+家們分析紅帽失去江山的原因，表示紅帽新版的 Red Hat 7.0不但充
+滿許多Bug，穩定性也不高；反觀SuSE的 SuSE Linux 7.1，被評論為
+有史以來最好的Linux桌面套件，融入最新的Linux 2.4.0核心，還包
+含ReiserFS檔案系統、XFree86 4.02版與KDE 2.01版。紅帽雖然有主
+場優勢，但由此不難看出，使用者其實最重視的還是商品的品質。
+
+SuSE的銷售佳績顯示該公司產品已逐漸打入美國市場，雖然紅帽佔有
+大多數的美國與澳洲市場，但澳洲企業習慣採取與美國公司相同的作
+業系統，澳洲Linux 專家預測SuSE有機會攻下澳洲市場！有趣的是，
+SuSE在上個月才裁掉美國分公司四分之三的員工，且德國SuSE在不久
+之前才應美國分公司的要求，把產品分成三十美元的個人版本與七十
+美元的專業版本。這些產品全部由德國總公司製造，並將它們運送到
+美國，據報導指出，SuSE在每一件出貨的盒裝軟體上，都是虧損的。
+
+支持Linux的行動派IBM，20日宣佈將把SP超級電腦及 AIX作業系統叢
+集管理等技術，移植至Linux伺服器產品線，未來Linux用戶將享受以
+往只有超級電腦用戶才能享受的強力功能；開放原始碼社群的貢獻無
+庸置疑，但實際上主導軟體發展的能是市場，資本與商業手法過度干
+預，讓開發人員與使用者未受到公平的對待，FreeDevelopers.Net於 
+20日公開一份以「社群即公司」為概念的公司架構，這份經營計劃將
+資源與利潤從市場行銷的部分收回，重新分配給生產與消費部分。
+
+還有更多精采的報導在本期的 OpenScope中，關心開放原始碼發展的
+你千萬不要錯過了！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ SuSE美國銷售告捷  紅帽失去主場優勢
+
+李孟諺/編譯
+2001/03/21
+
+紅帽公司的Linux 市場佔有率，在各電腦相關媒體的評鑑中均遙遙領
+先，近來卻被德商SuSE漸漸拉近距離。根據PC data 公司最近所公佈
+的市場調查，更顯示出新版的SuSE Linux 7.1銷售量穩居龍頭寶座。
+
+------
+
+在一片裁員與倒閉聲中，另一場廝殺正在展開！在開放原始碼市場上
+銷售量穩居冠軍的美國紅帽公司，其優勢似乎逐漸的被德商SuSE趕上
+。甚至在最新的美國銷售排行榜上，紅帽不但失去主場優勢，甚至落
+後SuSE有一段距離。
+
+專門報導各種軟硬體使用者人數調查的PC data 公司，在3 日發佈最
+新的Linux 作業系統銷售數據。該數據顯示出紅帽公司的銷售量只佔
+市場的28.9％，遠落後於外籍兵團SuSE公司的48.3％，而且只微幅領
+先第三名Macmillan的20.8％。
+
+是什麼原因，造成在Linux 市場上叱吒風雲的紅帽公司挫敗呢？工業
+專家表示，紅帽新版的Red Hat 7.0 是個有嚴重瑕疵的產品。該版本
+充滿許多臭蟲、穩定性不高，還包含非正式版的gcc Compiler。工業
+專家認為Red Hat 7.0 比起SuSE或Macmillan 同等級產品遜色的多，
+並呼籲使用者等到推出Red Hat 7.2 之後再考慮是否採用。
+
+反觀SuSE公司最近推出的SuSE Linux 7.1版本，該版本不但被評論為
+有史以來最好的Linux桌面套件，還融入最新的Linux 2.4.0核心，其
+他功能還包含ReiserFS檔案系統、XFree86 4.02版與KDE 2.01版。此
+ 外，SuSE使用的套件與紅帽公司的Linux版本非常相似。兩者皆 採
+用RPM封包格式，並都相容於阿帕契、Sendmail 等常用的開放原始碼
+工具。
+
+SuSE公司的銷售佳績顯示出該公司產品逐漸打入美國市場。雖然紅帽
+公司佔有大多數的美國與澳洲市場，但是由於澳洲企業習慣採取與美
+國公司相同的作業系統，澳洲的Linux 專家預期SuSE Linux將有機會
+攻下澳洲市場。
+
+SuSE總裁Dirk Hohndel表示，隨著SuSE 7.1受到世人肯定，SuSE已經
+擠身成為Linux 市場的領導者之一。該公司將繼續提供符合使用者需
+求的作業系統與Linux套件。Hohndel亦表示，SuSE的目標是將SuSE建
+立為全球公認最可信的Linux開放原始碼軟體。
+
+相關網址：
+1、SuSE 砲口朝向紅帽
+   http://linuxtoday.com.au/r/article/jsp/sid/976077
+2、新版SuSE Linux 7.1 銷售量躍居第一   
+   http://www.suse.com/us/suse/news/PressReleases/
+
+──────────────────────────────
+■ IBM移植超級電腦叢集技術至Linux
+
+謝良奇/編譯
+2001/03/21
+
+IBM於20日宣佈計畫移植SP超級電腦及AIX作業系統，叢集管理等技術
+至Linux伺服器產品線，未來Linux用戶將可享受以往只有超級電腦用
+戶才能享受的強力功能。此外，在此計畫下，IBM也公開Unix、Linux
+的IBM eServer叢集軟體。
+
+------
+
+為了擴增在伺服器上的競爭實力，IBM於20日宣佈關於Linux伺服器產
+品線的最新計畫，將為Linux移植SP超級電腦及AIX作業系統的叢集管
+理及檔案系統軟體技術，並且公開Unix、Linux上的eServer叢集軟體
+─「Blue Hammer」。
+
+IBM將為Linux伺服器移植SP超級電腦的技術，包括平行系統支援程式
+叢集管理軟體、通用平行檔案系統軟體，以上技術早已運用在IBM 的
+AIX作業系統。 IBM Deep Computing總監Dave Gelardi表示，這項新
+功能將給予Linux用戶過去AIX、SP用戶才得一見的性能。
+
+IBM希望藉由以AIX為基礎的叢集技術，讓大型用戶更易於混合Unix、
+Linux叢集，更進一步給予在關鍵應用上採行Linux的組織IT部門更多
+信心。Turek表示，許多用戶抱怨在Linux上遭遇的各類風險，這種現
+象已拖緩Linux的普及率，IBM此舉將能打破這些風險。
+
+代號「Blue Hammer」的eServer叢集軟體，將擴展SP超級電腦上的先
+進管理軟體及重量級檔案系統至伺服器市場，藉此用戶可從單一工作
+站控制多達三十二部 eServer伺服器，讓企業在可負擔成本下，發揮
+最大效能。
+
+eServer叢集的Linux版本能管理多達32部2通道 eServer x330，Unix
+版本將可管理32部2到8通道IBM M80或1到6通道的IBM M80伺服器。包
+含新功能的Unix伺服器會在本月底推出，Linux 版本預期在今年第三
+季問世。
+
+回顧IBM執行長Louis V.Gerstner去年公開將投入十億美元在Linux開
+發，Gelardi指出，此舉是IBM再次實現對Linux的承諾。IBM旗下Deep
+Computing副總裁David Turek表示，透過將管理軟體這顆SP系統的真
+正引擎，落實到Unix、Linux伺服器，IBM將能滿足企業對電子商務的
+龐大延展性需求。
+
+即時傳訊軟體商Paltalk.com執行長 Jason Katz表示，得自SP的新功
+能將減輕他的系統管理負擔，透過新的 IBM軟體，他希望從單一控制
+台管理所有AIX及Linux機器以節省成本。
+
+相關網址：
+1、IBM為Linux伺服器產品線增添超級電腦功能
+   http://computerworld.com/cwi/story/0%2C1199%2CNAV47_STO58807_NLTpm%2C00.html
+2、IBM在Linux推展高階AIX叢集軟體
+   http://www.infoworld.com/articles/hn/xml/01/03/20/010320hnibmlin.xml
+3、IBM公開Unix、Linux上的eServer叢集
+   http://serverwatch.internet.com/news/2001_03_20_a.html
+
+──────────────────────────────
+■ FreeDevelopers.Net催生革命性商業架構─社群即公司
+
+梁天佐/編譯
+2001/03/21
+
+開放原始碼社群的精神與貢獻無庸置疑，但實際主導軟體發展的卻是
+市場，資本與商業手法過度干預的結果，讓開發人員與使用者未受到
+公平的對待；結構性的問題需要結構性的解決，較時下.Net概念更為
+廣義的FreeDevelopers.Net除了於2月14 日正式提出「軟體自由宣言
+」﹙Declaration of Software Freedom ﹚，並以此宣言為基礎，設
+計推動開放原始碼社群需要的產銷營運架構。
+
+------
+
+FreeDevelopers.Net於20日公開一份以「社群即公司」為概念的的公
+司架構，籌畫出開放原始碼軟體營運中，軟體開發人員、市場行銷、
+投資、營收、使用者等相對關係與運作方式。這份頗為類似農產運銷
+合作社的經營計劃將資源與利潤從市場行銷的部分收回，重新分配給
+生產與消費部分。
+
+「社群即公司」的營運結構，主要由開發社群、信託基金、公眾投資
+、硬體廠商、消費者機構與由 FreeDevelopers.Net 掌控的行銷公司
+Free Software Marketing Company ﹙FSMC﹚六大部分組成，其中開
+發社群開放以會員的方式自由加入，由所成立的信託基金公平管理分
+配，開放公眾投資形成監督，硬體廠商的加入則可以反映對消費者需
+求的最佳軟硬體解決方案，最重要的是 FreeDevelopers.Net 掌控的
+FSMC可被監管，賺取的利潤公平付與開發人員，避免反客為主。
+
+「社群即公司」的說明中指出，新架構最重要的改進在於扭轉了以往
+不合理的「開發者─市場行銷」結構，市場行銷以資本、法律與商業
+手段付錢使開發人員不公開原始碼，進而取得控制權，他們所謂的軟
+體財產權與控制力量正源於原始碼不公開；市場行銷主導的問題則在
+於佔有率與利潤往往扭曲一切。
+
+從歷史演進的觀點來看，電腦產業一開始，硬體、軟體與市場行銷都
+是在同一個機構內進行﹙如早期的IBM ﹚，基於效率要求，軟、硬體
+分工公司的出現，後來的市場行銷固然有其必要，但過當的經營妨害
+了軟體進步，也造成不公平的問題，如微軟五千億的市場是否屬於一
+萬三千名程式設計師所創造，創造財富分配的方式是否合理，爭論一
+直存在。
+
+FreeDevelopers.Net創立於去年秋天，該組織發表「軟體自由宣言」
+，並致力於其精神下研究推動自由軟體的實際營運方法；「軟體自由
+宣言」已獲得六百二十多位來自世界各地，重量級人士連署，包括開
+放原始碼大師Richard M. Stallman 。目前FreeDevelopers.Net約有
+七百位活躍的會員，由Stallman指派大部分的工作計劃。
+
+FeeDevelopers.Net 創立者，擔任過美國政府債卷交換委員會資深律
+師的Tony Stanco 說：「現在我們喚起軍隊，準備正式的作戰，這場
+戰爭必須在經濟線上打。」估計全球開發者社群人數超過四百萬人，
+都是新公司潛在的會員，Stanco強調：「加入的人愈多，就愈有力量
+，新公司也就愈有價值。」
+
+相關網址：
+1、FeeDevelopers.Net「社群即公司」計劃
+   http://209.249.55.157/company/CommCo/
+2、FeeDevelopers.Net公開革命性商業公司架構
+   http://www.newsforge.com/article.pl?sid=01/03/20/1555231&mode=nocomment
+3、「軟體自由宣言」
+   http://209.249.55.157/freedomdec/index.php
+4、FreeDevelopers.Net首頁
+   http://209.249.55.157/
+
+──────────────────────────────
+■ Enhydra新增無線通訊解決方案
+
+張書銘/編譯
+2001/03/21
+
+Lutris將針對無線通訊產業提供多項解決方案，而該公司的 Enhydra
+ 3.5 應用程式伺服器，將成為這一波解決方案的主軸。此外 Lutris
+也將與其他伺服器供應商合作，幫助企業將無線通訊導入業務。
+
+------
+
+Lutris宣佈將供應新的無線通訊解決方案，除了該公司的產品開始支
+援各種不同無線通訊設備平台外，也將進行多項合作案。這些新的解
+決方案除了讓無線通訊設備更容易使用不同的應用程式外，讓企業能
+接受無線通訊也是重要目標之一。
+
+在這一波的解決方案中，Lutris科技公司將以 Enhydra 3.5伺服器為
+主力。Lutris Enhydra 3.5是一套支援包括cHTML、VoiceXML與xHTML
+無線裝置網頁格式標準的應用程式伺服器，此外它也整合了無線應用
+產業的先進技術，如Borland Jbuilder 4.0、RadView公司的WebLoad
+、摩托羅拉的J2ME/MIDp模擬器，諾基亞7110模擬器和WAP Gateway等
+，可幫助企業建置無線通訊設備專用資料存取環境。
+
+此外，Lutris科技公司也將加強與其他伺服器的相容能力，包括惠普
+的e3000 MPE/iX 6.5、HP-UX 11.0及康柏Compaq Tru64 5.1伺服器系
+列，都將與Lutris Enhydra相容，這代表了原本使用這幾款伺服器的
+用戶，將可藉由導入Lutris Enhydra伺服器來快速開發無線通訊設備
+所用的程式以及網站。
+
+Lutris總裁兼執行長Yancy Lind指出，無線通訊設備的成長，已經突
+顯目前大多數網站應用伺服器的不足，以及它缺乏國際通用的標準；
+多數的網站管理者必需花費許多時間，來支援各種不同的上網裝置，
+這使得企業對無線通訊應用望之卻步。為了讓企業能接受無線通訊的
+便利，Lutris科技公司才決定以無線通訊設備為目標，供應企業解決
+方案。
+
+相關網址：
+1、Lutris科技加速無線資訊家電開發
+   http://linuxpr.com/releases/3461.html
+2、Lutris的無線資訊家電開發計劃
+   http://www.lutris.com/products/le_wireless.html
+
+──────────────────────────────
+■ CodeWarrior讓你在Linux上開發PS2遊戲
+
+沈美君/編譯
+2001/03/22
+
+Motorola子公司Metrowerks，本週在美國聖塔克拉拉的遊戲發展者會
+議中，發表PlayStation 2遊戲機Linux平台開發工具「 CodeWarrior
+」，尚處於alpha測試階段的CodeWarrior，預計年中將會推出商業正
+式版。
+
+------
+
+PS2 的遊戲開發平台，可說是目前業界所有同級的遊戲開發平台中最
+複雜的一種，對寫遊戲的程式設計師而言是相當大的挑戰，但也足以
+讓發展者創造高效能、具進階特色的遊戲，讓消費者愛不釋手。 PS2
+發展者需要一套可以提供多樣除錯模式﹙multi-core debugging﹚、
+及藝術設計套件plug-in 的介面，同時完整支援音效及周邊的開發工
+具，CodeWarrior 正好具備這樣的特性。
+
+CodeWarrior開發工具由Metrowerks公司所研發， Metrowerks原來專
+長於嵌入式Linux相關領域，CodeWarrior的發表，也帶表Metrowerks
+將跨足Linux遊戲開發工具的領域。Metrowerks首先與Indrema協議，
+一同開發Indrema LS600平台上的CodeWarrior，接下來，Metrowerks
+與嵌入式Linux龍頭廠商Lineo合作，開發Embedix SDK發展工具。
+
+Metrowerks為 Indrema所開發的LS600平台CodeWarrior，與本週釋出
+的 CodeWarrior，最大的不同點應該是定價上的差異。前者將歸屬於
+Indrema Entertainment Software Development Kit﹙娛樂軟體開發
+工具，IESDK ﹚的一部份，可以相當低的價錢或免費取得；後者價格
+不一，大約在每個授權一千美元左右。
+
+CodeWarrior目前的版本為2.5，提供 Vector Processing Units﹙簡
+稱 VU﹚，此外可以在同一個除錯介面中進行對輸出入處理器﹙Input
+-Output Processor，簡稱 IOP ﹚的偵錯和編譯支援，同時針對VU的
+microcode、IOP的記憶體和EE處理器作除錯動作。
+
+相關網址：
+1、Metrowerks將PS2遊戲開發工具CodeWarrior移植到Linux平台上
+   http://alllinuxdevices.com/news_story.php3?ltsn=2001-03-22-001-03-NW-GM-DV
+2、關於 CodeWarrior 2.5
+   http://metrowerks.com/games/playstation_2/
+
+──────────────────────────────
+■ 極速瀏覽網頁的高手IntenseSpeed推出Linux版
+
+沈美君/編譯
+2001/03/21
+
+Intensifi 公司正式發表網站效能解決方案「IntenseSpeed」 Linux
+平台版本，適用Apache網頁伺服器，預先將網站內容載入瀏覽者的瀏
+覽器快取裡，大幅降低下載網頁的時間，可改善電子商務網站的使用
+者瀏覽經驗，提高獲利。
+
+------
+
+網站效能表現，對經營電子商務的企業而言，是獲利與否的致勝關鍵
+之一。對網站同步通訊有獨到研究的Intensifi 公司，20日正式發表
+「IntenseSpeed」Linux平台版本，適用Apache 網頁伺服器，是改善
+網站效能與伺服器表現的利器。
+
+IntenseSpeed純粹以軟體技術來改善網站效能表現，預先將網站內容
+載入瀏覽者的瀏覽器快取裡，大幅降低下載網頁的時間，對於大量使
+用多媒體技術的網站而言，無疑是改善使用者瀏覽網頁速度的可用方
+案；IntenseSpeed可用於動態或靜態產生的網頁，也相容於網頁認證
+環境。
+
+IntenseSpeed在早期只有Windows NT 版本，如今正式發行Linux平台
+Apache伺服器版本，Apache網頁伺服器在全球網站伺服器中的佔有率
+高達60％以上，對欲採用IntenseSpeed的公司來說，就有更多選擇。
+
+PROMPT顧問公司執行長Francine Millman對於採用IntenseSpeed解決
+方案後的表現表達肯定態度，「瀏覽網頁的效率大幅提昇，對我們公
+司現有與潛在客戶而言，都提供了絕佳的瀏覽經驗；此外，Intense-
+Speed為軟體解決方案，公司不需額外採購硬體來配合。」
+
+根據Zona Research 研究報告指出，今年電子商務網站失去四千三百
+五十億美元的收入，只因為使用者在下載網頁時，等待太久而中斷交
+易。經測試後，採用IntenseSpeed作為效能改善解決方案的網站，下
+載內容的速度改進幅度達300％，對於留住客戶有相當的幫助。
+
+相關網址：
+1、Intensifi發表適用Linux Apache網頁伺服器的「IntenseSpeed」效能解決方案
+   http://news.wideopen.com/fc/2-118,209-119,437953
+2、關於Intensifi公司
+   http://www.intensifi.com/html/company.html
+
+──────────────────────────────
+■ 便宜又大碗的儲存伺服器─StorageWare 1400
+
+謝良奇/編譯
+2001/03/22
+
+Pogo Linux的StorageWare 1400是一款超低價的儲存伺服器，提供用
+戶除了SCSI的昂貴伺服器外，另一個低價但具相同等級功能的選擇。
+在僅1U的空間內， StorageWare 1400可搭配多達225GB的龐大儲存空
+間，為用戶帶來超大容量的低價儲存解決方案。
+
+------
+
+Pogo Linux 推出StorageWare 1400伺服器，可搭配高達225GB的超大
+儲存容量。該款儲存伺服器採用紅帽Linux，結合IBM的UDMA-100硬式
+磁碟及磁碟陣列系統﹙RAID﹚所帶來的強大儲存能力，加上令人印象
+深刻的低廉價格，讓用戶在SCSI的儲存伺服器外，多了另一項兼顧效
+率與成本的選擇。
+
+StorageWare 1400內含來自3Ware的IDE RAID卡，IDE RAID 卡提供的
+資料交換技術，一方面可提高伺服器 PCI匯流排的容許能力，同時也
+能減輕處理器的負擔。StorageWare 1400僅佔1U的機體，可為用戶節
+省存放空間以及縮短安裝時間。
+
+StorageWare 1400 支援單一的英特爾Pentium III處理器，儲存容量
+從最基本的90GB，最高可擴充至225GB，由於RAID卡提供4通道，可讓
+每一部硬碟擁有專屬的直接連接管道。此外，該款伺服器已安裝紅帽
+Linux 7.0，並隨附最新升級、安全修補、錯誤修補等。
+
+除了伺服器本身的功能，StorageWare 1400最引人注目的是極低價格
+，基本配備90GB的StorageWare 1400，售價將近兩千美元，以同等級
+的SCSI伺服器計算，價格將為StorageWare 1400的三倍以上。就超大
+儲存容量解決方案看來，StorageWare 1400的重要優勢是能令用戶以
+少許成本，即可獲得SCSI伺服器特有的可靠性。
+
+相關網址：
+1、Pogo Linux推出225GB 1U儲存伺服器
+   http://linuxpr.com/releases/3467.html
+2、關於StorageWare 1400
+   http://www.pogolinux.com/systems/servers/StorageWare/index.html
+
+──────────────────────────────
+■ RTLinux v3.0光碟版新增開發工具 給你DIY樂趣
+
+張書銘/編譯
+2001/03/21
+
+嵌入式設備逐漸風行，不少喜歡開發小程式的使用者開始對這些裝置
+動起腦筋，開發各種實用的小程式來搭配使用。向來對程式開發者極
+具吸引力的硬式即時系統﹙Hard real-time system﹚RTLinux終於推
+出正式光碟版，除了作業系統外，更附加了許多開發工具，讓開發者
+充分享受自己動手做的樂趣。
+
+------
+
+FSMLabs於上週正式推出可於x86系列處理器使用的RTLinux v3.0光碟
+版，提供適用於PC與資訊家電的 Linux版本，以及多種開發工具和文
+件，非常適合嵌入式設備程式開發人員使用。由於 RTLinux 3.0版的
+硬體需求相當低，只要i486以上處理器搭配16MB RAM及1GB 硬碟空間
+便可執行，因此一般使用者也可利用舊電腦試著接觸即時作業系統。
+
+RTLinux v3.0光碟版中內容包含RTLinux hard real-time 3.0版系統
+核心；依據Linux Router Project概念開發，適合用於嵌入式設備的
+作業系統─MiniRTL；即時圖型界面 RTIC Lab 0.7版；程式開發工具
+RT-Debugger與RT-Trace tool；此外也附有 Linux核心2.2.18版以及
+Glibc 2.1.3。
+
+FSMLabs表示，RTLinux v3.0是以Red Hat Linux 6.2版為基礎架構所
+開發，在實際執行應用程式的測試中，嵌入式設備上的中斷遲滯時間
+﹙interrupt latency﹚最長為 10微秒；一般的個人電腦使用應用程
+式時則為20微秒。這使得一般 RTLinux的使用者在同時執行多個應用
+程式時能獲得更順暢的表現，開發者也可提昇應用程式的效率。
+
+為了讓使用者同時使用一般的Linux和 RTLinux，RTLinux內附的多重
+開機提示系統，能讓使用者選擇使用一般Linux或 RLinux核心。整份
+光碟版售價為一百五十美元，同時還提供三十天安裝疑難電子郵件解
+說服務。
+
+相關網址：
+1、Open RTLinux v3.0光碟版釋出
+   http://alllinuxdevices.com/mailprint.php3?action=pv

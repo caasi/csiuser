@@ -1,0 +1,390 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０５.２１
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ 好萊塢夢工廠電影特效新利器—Linux
+
+■ IBM以Hard Hat Linux為網路裝置作業平台
+
+■ MontaVista與DTI合作資訊家電解決方案
+
+■ Progeny Debian Linux志在成為企業平台首選
+
+■ 紅帽與Penguin Computing 建立夥伴關係
+
+■ 微軟「Shared Source」授權模式，ESR有話說
+
+═《編者的話》═══════════════════════
+
+在好萊塢電影的電腦特效領域裡，有一股勢力正在逐漸茁壯，那就是
+—Linux！
+
+開放原始碼是前陣子上映的電影「奪命連線﹙Antitrust﹚ 」的主題
+，至於夢工廠於美國最新推出的電影「Shrek 」中，同為開放原始碼
+的Linux 退居幕後，成為該部電影特效的最大功臣。雖然電影特效對
+資訊產業而言不是一塊很大的市場，但電影是大眾重要娛樂之一，電
+影特效採用的科技也就成為眾人關注的焦點。而在目前Linux 當紅的
+嵌入式系統方面， IBM最近即宣佈採用MontaVista的Hard Hat Linux
+為IBM研發的機上盒﹙set-top box﹚和PowerNP NP4GS3網路處理器的
+作業平台，MontaVista本身則和另一家專精於嵌入式系統設計製造的
+Diversified Technology﹙DTI﹚攜手共同發展資訊家電系統環境。
+
+本期OpenScope還為您介紹Debian計劃在商業支援上的分支—Progeny
+、紅帽與Penguin  Computing建立事業夥伴關係、以及推廣開放原始
+碼概念不遺餘力的Eric Raymond對於微軟「Shared  Source」提出質
+疑，想知道微軟的葫蘆裡賣什麼藥？請收看本期的OpenScope！
+
+最後告訴讀者一個好消息，OpenScope網站﹙http://www.openscope.
+net﹚新增過期檢索﹙Archives﹚功能，對於過期OpenScope有興趣的
+讀者可至網站查詢， OpenScope電子報給你源源不絕的開放原始碼產
+業新聞！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ 好萊塢夢工廠電影特效新利器—Linux
+
+梁天佐/編譯
+2001/05/18
+
+史帝芬史匹柏的夢工廠繼埃及王子之後，又有動畫電影新作推出，這
+次的主角在幕前雖是一位憨呆的綠色巨人和開朗的美麗公主，但在幕
+後讓他們栩栩如生，創造如真細膩視覺環境的，卻是逐漸在電影工業
+嶄露頭角的Linux。
+
+------
+
+「Shrek」預定於5月18日在全球同步上映，是史帝芬史匹柏電影夢工
+廠繼埃及王子之後，第二部動畫劇情電影，這部影像刻畫細緻，應用
+高度數位技術與巧思，令人嘆為觀止的作品，真不愧是夢工廠—史匹
+柏金字招牌；不過所採用的電腦工具，卻不是以往動輒超過百萬元的
+工作站專屬作業系統與軟體，而是免費的Linux 與量身打造的開放原
+始碼應用程式。
+
+好萊塢電影工業應用Linux 與開放原始碼軟體製作影像特殊效果成功
+的例子愈來愈多，動畫劇情片龍頭迪士尼便以Python開發專屬動畫影
+片製作軟體；除動畫外，普通電影的大型特效，現在也可以Linux 與
+相關工具，以極為經濟，但不妨害創意發揮的方式達成。轟動全球的
+鐵達尼號沉船場景，就是以Linux作業系統完成。
+
+有了市場成功實例，再加上Linux 與相關應用軟體效能確實符合需要
+，好萊塢電影製作公司或工作室裡的工作站吹起一股Linux 風。為電
+影星際大戰製作特效的Industrial Light & Magic便表示計劃將公司
+內一千三百部SGI﹙視算科技﹚的工作站換成操作Linux系統的不同硬
+體；為迪士尼玩具總動員執行電腦製作的Pixar Animation  Studios
+本來打算以微軟NT平台取代SGI技術，現在也決定改採Linux。
+
+雖然SGI 影像特效的軟硬體技術卓越，曾在電影侏儸紀公園與史帝芬
+史匹柏合作；昇陽也供應不少電影公司與工作室專業伺服器與工作站
+，但在Linux實用風潮下，這兩家公司也開始提供執行，或與Linux相
+容的產品，SGI與昇陽的競爭者惠普，則正在大力推廣Linux數位內容
+產品的市場。
+
+據估計，約有四分之一的主要電影製作公司與工作室已經開始換裝執
+行Linux的電腦系統，Alias/Wavefront將其旗鑑影像處理軟體Maya移
+植到Linux ；電影神鬼戰士競技場電腦影像製作公司Softimages也將
+把該公司兩款主要應用軟體Linux化。
+
+「Shrek」 中的甘草角色Donkey由諧星艾迪墨菲配音，公主則由哈拉
+瑪莉女主角卡麥蓉狄亞茲發聲，至於主角為王牌大賤諜的麥克麥爾斯
+擔任幕後配音；電影官方網站提供電影製作、原聲帶、畫片、小遊戲
+與片段等豐富有趣的內容。
+
+相關網址：
+1、Linux席捲好萊塢
+   http://www.zdnet.com/zdnn/stories/news/0,4586,2761566,00.html
+2、「Shrek」官方網站
+   http://www.shrek.com/
+3、Maya影像處理
+   http://www.aliaswavefront.com/en/Community/Special/shockwave/shockwave_m.html
+
+──────────────────────────────
+■ IBM以Hard Hat Linux為網路裝置作業平台
+
+沈美君/編譯
+2001/05/17
+
+基於降低開發成本與提升效能的考量，IBM將以MontaVista 的嵌入式
+Linux系統「Hard Hat Linux」，作為第三代機上盒控制器以及Power
+NP NP4GS3網路處理器的作業平台。
+
+------
+
+IBM於16日宣布與MontaVista的合作計畫，將以MontaVista 所發展的
+嵌入式Linux作業系統「Hard Hat Linux 」，作為機上盒控制器以及
+IBM PowerNP NP4GS3網路處理器的作業平台。
+
+基於成本的考量， IBM選擇以Hard Hat Linux作為第三代機上盒控制
+器的作業平台。法國互動電視軟體發展者Netgem也應允，將為以Hard
+Hat Linux為平台的IBM機上盒發展可用的產品，目前Netgem的旗艦產
+品Netgem 4.0版支援多種互動電視應用，包含隨選視訊音訊、電子節
+目導覽、多媒體電子郵件、上網功能等。
+
+此外，IBM PowerNP 網路處理器的進階開發工具及軟體，已經被移植
+到Hard Hat Linux上，提供客戶作為NP4GS3相關應用的測試、部署與
+最佳化。Hard Hat Linux與IBM PowerNP網路處理器的結合，讓OEM製
+造商能夠快速開發網路系統相關應用。
+
+MontaVista公司結合嵌入式系統與Linux ，專為嵌入式系統市場提供
+開放原始碼解決方案，其主要產品Hard Hat Linux是一套因應軟體開
+發者需求發展的嵌入式Linux作業系統。 IBM表示，以Linux為嵌入式
+平台的第三代機頂盒，樣本將於今年 6月釋出，正式產品可望於下半
+年推出。
+
+相關網址：
+1、IBM以Hard Hat Linux作為機上盒作業系統
+   http://www.pcworld.com/news/article/0,aid,50167,00.asp
+2、MontaVista嵌入式Linux系統Hard Hat Linux支援IBM PowerNP NP4GS3網路處理器
+   http://biz.yahoo.com/bw/010516/2054.html
+
+
+──────────────────────────────
+■ MontaVista與DTI合作資訊家電解決方案
+
+翁千婷/編譯
+2001/05/18
+
+MontaVista與Diversified﹙DTI ﹚宣布雙方合作的消息，結合DTI硬
+體的專業技術與MontaVista的軟體服務，為電信、數據通訊、工業與
+醫療嵌入式市場提供軟體與硬體上的解決方案。
+
+------
+
+開放原始碼解決方案供應商 MontaVista 與硬體設計商 Diversified 
+Technology ﹙DTI﹚日前宣布雙方合作的消息，計畫提供MontaVista
+Hard Hat Linux使用者發展資訊家電系統環境。
+
+DTI專精嵌入式平台與系統的設計製造， MontaVista則為嵌入式系統
+開發者提供開放原始碼軟體解決方案。兩者的合作可為嵌入式資訊家
+電應用程式提供高效能的解決方案。
+
+此外，在15日美國聖克拉拉的應用電腦研討會上，將會展示一項結合
+DTI Compact PCI、MontaVista Hard Hat Linux與Hard Hat Net所開
+發的影像傳送應用程式。這項技術可以在Compact  PCI後台傳輸壓縮
+編碼過的影像，將會是Intel Booth的特色。而MontaVista Hard Hat
+Net 讓CompactPCI控制系統與電腦週邊設備可以透過標準的網路通訊
+協定彼此溝通。
+
+針對此合作計畫，MontaVista商業行銷副總Brian Grega表示，DTI是
+嵌入式電腦的主要供應廠商，擁有CompactPCI上的專業技術。兩間公
+司合作的目標在於通信基礎設施應用市場。與 DTI合作，可以幫助客
+戶建立高延展性、網路密集度高的基礎建設應用程式。DTI 的技術長
+Mike Dempsey則認為，雙方合作將可以提供開發者低成本、開放式架
+構的軟體解決方案。讓代工廠商發展團隊在專注發展核心競爭力的同
+時，也加速產品進入市場的時間。
+
+這兩家公司也會推動他們的夥伴一起發展DTI所推出的英特爾Pentium
+III Zeon 系統的Linux支援套件，Zeon是為電信與數據通訊代工業者
+所設計的系統。
+
+相關網址：
+1、MontaVista與Diversified Technology合作發展CompactPCI通訊平台
+   http://linuxpr.com/releases/3706.html
+2、Diversified Technology Inc〔DTI〕官方網頁
+   http://www.dtims.com/about_company.htm
+3、MontaVista官方網頁
+   http://www.mvista.com/
+4、GDC 適用範圍與照片展覽
+   http://www.hardwarecentral.com/hardwarecentral/reviews/1596/4/
+
+
+
+──────────────────────────────
+■ Progeny Debian Linux志在成為企業平台首選
+
+謝鎮澤/編譯
+2001/05/14
+
+Debian  Linux的主要用戶通常是學生及電腦玩家，但是隨著Progeny
+Debian的出現，這個情形可能改觀。Progeny Debian目標為企業用戶
+，它為系統設計了良好的管理工具，能有效地更新套件，減少管理花
+費，並增加網路安全。然而，用於產品更新的重要組件—「 Progeny
+服務網路」，必須等到7月之後才能推出。
+
+------
+
+Ian Murdock在建立Debian計畫之後，最近又發起Progeny  Debian。
+Debian是普受歡迎的Linux套件，而Progeny基本上是Debian在商業支
+援上的分支，目前已進入beta測試。
+
+Debian的主要用戶通常是學生及電腦玩家，主因是Debian中有將近五
+千套軟體的安裝、設定及更新工具。Debian幾乎全由自由軟體組成，
+並以其大量的自願性員工及非商業化的市場運作自豪，同時這些因素
+也是它廣受歡迎的原因。
+
+但過去Debian在企業應用上成長遲緩，主因是Debian的安裝介面對企
+業用戶而言仍嫌複雜，又缺乏官方的商業支援；再加上為了提供最新
+套件，而不斷產生許多套件，有些並不適合實際的生產環境。現在，
+Progeny的出現可望解決這些問題。
+
+Progeny 的安裝程式具有文字及圖形兩種模式，能由磁片或光碟機啟
+動，也可以經由網路安裝。而值得注意的是，Progeny採用GNU計畫的
+GRUB﹙GRand Unified Bootloader﹚作為多重開機程式，而非延用已
+久的LILO 。由於LILO無法指向超過1024柱面﹙約8.4GB左右﹚的啟動
+磁區，在大容量硬碟的支援上有其限制。而GRUB則無此情況，只要安
+裝時硬碟設定在LBA﹙Logical Block Address﹚模式，GRUB就可以引
+導啟動磁區在8GB以上的作業系統。
+
+Progeny所採用的系統核心是2.2.18版，若要使用最新的2.4版，使用
+者必須自行升級。Progeny在GNOME操作環境的改良上著力頗多，其預
+設的視窗管理程式是GNOME1.2版。而其內建套件則特別適合於伺服器
+應用，其中包括Xfree86 4.0.2、GIMP 1.2、AbiWord 0.7、XMMS 1.2
+.4、Netscape 4.77，以及Mozilla 0.7等。
+
+不論使用者是以約五十美元訂購盒裝的Progeny Debian，或在網站上
+以近四十美元註冊，都可取得三十天的電話支援，以及九十天的電子
+郵件詢問。而在7月之後，還可存取九十天的「Progeny服務網路」。
+
+相關網址：
+1、Progeny 1.0預覽：新生代
+   http://www.debianplanet.org/debianplanet/article.php?sid=220
+2、Progeny Debian
+   http://www.zdnet.com/products/stories/reviews/0,4161,2718081,00.html
+3、GNU GRUB--GNU專案
+   http://www.gnu.org/software/grub/grub.en.html 
+4、GRUB多重啟動管理器
+   http://www.cm-tech.com.hk/techdoc/8.htm
+
+──────────────────────────────
+■ 紅帽與Penguin Computing 建立夥伴關係
+
+李孟諺/編譯
+2001/05/20
+
+經濟不景氣，生意難做，提供更好的服務吸引顧客上門，變成諸多公
+司經營的方向之一。全球另一重量級Linux 套件公司紅帽，在17日對
+外宣佈與 Penguin Computing建立事業夥伴關係，以增加競爭力。
+
+------
+
+開放原始碼界重量級Linux套件供應商紅帽公司傳出與專門開發Linux
+平台網路架構系統的廠商Penguin  Computing結盟的消息。以後只要
+是Penguin  Computing產品的客戶，除了可以享受到該公司的服務外
+，還可以獲得紅帽的產品支援保證。
+
+Penguin Computing公司於1998年在舊金山成立，主要鎖定開發Linux
+平台的網路服務系統，原本Penguin Computing 只是紅帽的經銷商之
+一，而且當紅帽在去年推出紅帽Linux 7.0 時，就已經宣佈將在部份
+電腦主機當中配備紅帽Linux 7.0。
+
+但是隨著事業夥伴關係的建立，紅帽Linux將成為Penguin Computing
+電腦產品主要配備的作業系統。此外，這樁合作案可以說是個雙贏的
+策略，Penguin Computing 將擁有便於使用紅帽的產品的管道與技術
+支援。而紅帽公司則能獲得來自Penguin Computing 有關紅帽系統的
+表現報告與客戶需求的資訊。
+
+Penguin Computing執行長Marty Seyer表示，該公司的策略一向專注
+於開發Linux 作業平台的系統，並提供硬體科技與最佳的軟體解決方
+案。該公司與紅帽事業夥伴關係的建立，代表兩家公司將會更密切的
+合作，開發更高品質的解決方案。
+
+紅帽技術長Michael Tiemann則指出，與Penguin Computing的合作關
+係強化了紅帽要提供給客戶絕佳產品與服務的目標。運用他們的專業
+技術紅帽的產品能有更好的表現，也會加速紅帽發表新套件或升級版
+本的速度。
+
+在經濟不景氣的情況下，與更多廠商建立合作關係不但可以多方獲利
+，也能以更多的服務吸引更多的消費者，而對消費者來說也不必再花
+額外的金錢換取更多的服務。
+
+相關網址：
+1、Penguin Computing 與紅帽公司宣佈合作案
+   http://biz.yahoo.com/bw/010517/0401.html
+2、Penguin Computing將在部分產品中採用最新的紅帽Linux 7.0 
+   http://linuxpr.com/releases/2592.html
+
+──────────────────────────────
+■ 微軟「Shared Source」授權模式，ESR有話說
+
+沈美君/編譯
+2001/05/18
+
+微軟所謂能夠「保障智慧財產權以創造獲利」的新授權模式「Shared
+Source」，保障的是誰的智慧財產權？創造的是誰的利益？ Eric S. 
+Raymond對「Shared Source」授權有不同的的詮釋。
+
+------
+
+微軟副總裁Craig  Mundie於3日在紐約大學發表演說，攻擊開放原始
+碼將商業應用軟體，損害智慧財產權。開放原始碼社群回應微軟說法
+，由重量級人物Bruce Perens代表發起聯合聲明，得到了如 Richard 
+Stallman、Eric Raymond與托瓦茲等人的連署，聲明中針對Mundie的
+說法提出反擊。
+
+Mundie此次演說，也提到微軟的新授權架構：Shared  Source。根據
+微軟的說法，「Shared  Source」授權模式是介於目前微軟授權與開
+放原始碼授權的中庸之道，能夠將原始碼分享給客戶和協力廠商，同
+時也能捍衛軟體本身的智財權。微軟進一步表示，「Shared  Source
+」 授權模式是能夠創造企業價值、加速科技創新的架構，「 Shared
+Source」包含多種原始碼授權模式，針對客戶及協力廠商不同的需求
+，給予不同層級的原始碼授權方式。
+
+根據微軟的「Shared Source」授權模式，Eric S. Raymond於18日在
+Linuxtoday 網站發表專文，針對微軟新授權提出個人看法。Eric S.
+Raymond 是「教堂觀與市集觀﹙The Cathedral and the Bazaar﹚」
+一文以及多篇Linux HOWTO的作者，也是促使網景決定公開 Netscape 
+Communicator 5.0原始碼的驅動力。 
+
+Eric詮釋「Shared  Source」授權模式的精義為：微軟讓使用者付錢
+來取得軟體的原始碼、臭蟲以及其他；微軟將會利用研發者所貢獻的
+開發成果來提高下一版軟體的價錢。研發者對於所貢獻的成果不保有
+任何權力，也不會拿到任何一毛錢；或許微軟將在新版軟體釋出時，
+給研發者一點折扣，如果研發者願意的話。此外，如果研發者為了己
+身利益，試圖使用和微軟合作所學到的技術，微軟最後會提出訴訟。
+
+Eric 在專文中強調一點，微軟不斷地宣稱Shared Source是為「保障
+智慧財產權以創造可獲利的商業模式」，仍固守「軟體的銷售價值就
+是一切」。最大的問題是，微軟在 Shared Source模式下所謂的「智
+慧財產權」，事實上是集結微軟以及其他發展者所創造出來的智慧財
+產權，但Shared Source 授權卻只保障「微軟的商業模式」，至於其
+他協助開發或修正臭蟲的發展者利益何在，保障的又是誰的商業利益
+，卻不得而知。
+
+相關網址：
+1、微軟的「Shared Source」授權模式
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-17-009-20-PS-MS
+2、微軟副總裁Mundie：開放原始碼仍為: Why open source is still questionable 
+   http://www.zdnet.com/zdnn/stories/comment/0,5859,2761605,00.html
+3、Eric S. Raymond：微軟的「Shared Source」原來是這麼一回事
+   http://linuxtoday.com/news_story.php3?ltsn=2001-05-18-003-20-OP-MS
+
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

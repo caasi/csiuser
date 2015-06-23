@@ -1,0 +1,492 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０２.１９
+
+╰════════════════════════════╯
+               http://www.openscope.net
+
+═《本期內容》═══════════════════════
+
+■ 昇陽將以Jxta P2P應用對抗微軟！
+
+■ 微軟巨額投資Corel  遭反托辣斯調查
+
+■ SSH向OpenSSH下商標保衛戰帖
+
+■ Mozilla 0.8版釋出  1.0正式版5月前完成
+
+■ 首套開放原始碼的OMS DVD播放器
+
+■ ALICE結合JAVA與AIML  朝網路知識庫邁進
+
+■ 訪談Debian專案領導人─Wichert Akkerman
+
+■ Lineo推出嵌入式系統開發工具套餐
+
+═《編者的話》═══════════════════════
+
+昇陽在15日O'Reilly P2P會議上宣佈全新P2P 網路應用技術「Jxta」
+，並視其為對抗微軟.Net的利器！
+
+以推出跨平台語言Java與Jini著名的昇陽，希望此次推出Jxta，能比
+Java更為成功。Jxta將會以開放原始碼的方式公佈，方便大家使用、
+重製及散佈這套軟體，此外Jxta也將適用於Sun One 綜合網路服務。
+
+至於微軟則因為對Corel 的巨額投資案，再度遭到美國司法部反托拉
+斯部門的關切，調查微軟將辦公室套裝軟體競爭對手Corel 買下後，
+是否降低了辦公室套裝軟體市場的競爭力？看來最近批評開放原始碼
+軟體阻礙創新的微軟，本身的行為似乎也不能讓美國司法部信服。
+
+SSH的發明人Tatu Ylonen，發信向OpenSSH社群表示，他擁有SSH的註
+冊商標，並要求OpenSSH停止使用SSH作為名稱的一部份。 OpenSSH的
+創作人除了表示極度不解外，也希望 SSH商標爭議能交由社群而非法
+院決定。至於SSH商標爭議後續詳情，請繼續收看我們的報導。
+
+此外本期精采新聞尚有：Mozilla0.8版釋出，1.0版可望於5月問世；
+開放原始碼的OMS DVD播放器；可談心也可哈拉的聊天機器人ALICE、
+Debian專案領導者Wichert Akkerman 談Debian發展，以及Lineo推出
+嵌入式系統開發工具套餐，這麼豐盛的內容，你一定不能錯過！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ 昇陽將以Jxta P2P應用對抗微軟！
+
+李孟諺/編譯
+2001/02/16
+
+挑戰不斷，又有新軟體衝著微軟而來。去年12月中旬曾經宣佈要開發
+JAVA P2P﹙peer-to-peer，點對點架構﹚方案的昇陽公司，在15日公
+佈了這個方案的成果。稱為Jxta的點對點應用被昇陽視為對抗微軟的
+最佳利器，而且會運用在不久前公佈的Sun One 綜合網路服務。Jxta
+預計在4月亮相。
+
+------
+
+在去年12月中旬宣佈要開發結合Java與P2P﹙peer-to-peer， 點對點
+架構﹚方案的昇陽公司，15日在舊金山的O'Reilly P2P會議中，宣佈
+其Jxta P2P應用。並且視其為對抗微軟.Net的利器。
+
+所謂的P2P應用，主要的功能是用來傳輸檔案。如同當紅的Napster公
+司和Gnutella公司，讓許多人能藉由桌上型電腦互相交換音樂或影片
+檔案的P2P軟體。
+
+昇陽公司首席科學家Bill Joy表示，希望外界的程式設計師協助建立
+Jxta的標準，使其成為P2P應用的基礎。而且該計劃將對微軟的 .Net
+帶來直接威脅。此外，Jxta將會是一個開放原始碼軟體，任何人可以
+無限制的修改、散佈該軟體。
+
+Joy亦表示，Jxta的功能包括確認P2P網路內的裝置，並結合在一起。
+此外，還有一項安全機制能確保分散式的程式不會對運作的裝置帶來
+損害。此與電子郵件病毒會使視窗作業系統受到感染恰好相反。
+
+Joy透露Jxta將會適用昇陽不久前公佈的Sun One綜合網路服務。而且
+不會將Jxta變成像微軟.Net般如此複雜。但是，Joy 否認昇陽企圖控
+制新的市場，也不想成為P2P 應用的中心發展者，僅止於提供使用者
+妥善的P2P服務。
+
+相較於昇陽公司之前所推出的Java與Jini，昇陽希望Jxta能比Java或
+Jini更為成功，而且能促進開放原始碼運動。除了昇陽之外，英特爾
+亦成立一個小組研發P2P應用標準。Jxta預計在4月亮相，並且放置在
+CollabNet網站供人下載。
+
+相關網址：
+1、昇陽將用P2P應用對抗微軟
+   http://news.cnet.com/news/0-1003-200-4836102.html?tag=tp_pr
+2、昇陽展開Java P2P計劃
+   http://news.cnet.com/news/0-1003-200-4044537.html?tag=rltdnws
+
+──────────────────────────────
+■ 微軟巨額投資Corel  遭反托辣斯調查
+
+蕭喜那/編譯
+2001/02/16
+
+屋漏偏逢連夜雨，微軟在遭到公司必須一分為二的反托辣斯一審判決
+後，上個月又受到美國司法部反托辣斯部門的調查，審查微軟去年10
+月在Corel 所投資的一億三千五百萬美元，是否降低了辦公室套裝軟
+體市場的競爭力。
+
+------
+
+美國司法部反托辣斯官員從上個月起對微軟投資Corel 一案，展開反
+托辣斯調查。查明微軟在其競爭對手 Corel的一億三千五百萬美元投
+資，是否會降低文字處理與試算表商業軟體市場的競爭力。
+
+美國司法部在三週前發出民事傳票給微軟，要求該公司提出去年10月
+投資Corel的所有內部文件。Corel以生產WordPerfect和CorelDRAW軟
+體著稱，最近剛公布第四季虧損額。
+
+反托辣斯官員正在調查，微軟在Corel 的投資，是否會降低辦公室套
+裝軟體包括文字處理、試算表與圖形等市場的競爭力。微軟的Office
+軟體在該市場有90％以上的佔有率，而Corel 的WordPerfect Office
+軟體之所以具有競爭力，是因為它也提供Linux版本，而Linux正是與
+微軟Windows競爭的作業系統。
+
+在微軟投資Corel後不久， Corel即傳出不再涉足Linux作業系統市場
+的消息，因而引發反托辣斯的爭議。聯邦官員也正在檢視Corel 與微
+軟的一項契約規定，亦即Corel 同意在它為其他作業系統撰寫相同的
+程式之前，它會先致力於為微軟的新.Net網路軟體方案開發相關的軟
+體。
+
+微軟、美國司法部與Corel 都證實這項反托辣斯的調查，但是仍不肯
+透露相關的細節。微軟說它會配合政府的調查，而Corel 的發言人也
+說該公司正提供所有與微軟投資交易相關的資料給司法部。目前，微
+軟2000年的反托辣斯案，在遭到地方法院法官裁定將微軟分成兩家公
+司之後，微軟提起上訴，預定在26與27日，由美國哥倫比亞地區巡迴
+上訴法院的七位法官所組成的小組共同聽取微軟的口頭辯論。
+
+相關網址：
+1、微軟在Corel的投資遭反托辣斯官員的調查
+   http://news.cnet.com/news/0-1003-200-4813794.html
+2、法律專家：微軟在Corel的投資是「危險的」
+　 http://www.zdnet.com/enterprise/stories/linux/0,12249,2686475,00.html
+3、微軟與Corel和Great Plains的交易面臨反托辣斯調查
+   http://www.zdnet.com/enterprise/stories/linux/0,12249,2685571,00.html
+
+──────────────────────────────
+■ SSH向OpenSSH下商標保衛戰帖
+
+蕭喜那/編譯
+2001/02/15
+
+SSH﹙Secure Shell﹚的原創公司SSH Communications Security，該
+公司董事長暨科技長Ylonen在14日時發一封公開電子郵件給 OpenSHH
+開發成員，要求OpenSHH停止使用SSH作為它名稱的一部分，因為 SSH
+是該公司的註冊商標。
+
+------
+
+SSH Communications Security公司是SSH﹙Secure Shell﹚的開發廠
+商，自從1995年起，該公司就已經開始使用SSH 這一個用語，包括公
+司名稱，以及公司所有的產品行銷都使用SSH 作為品牌名稱，並且獲
+得全球的品牌知名度。因此，該公司的董事長暨科技長 Tatu Ylonen
+於14日時，寄給OpenSSH開發成員一封公開信，要求OpenSSH停止使用
+SSH作為它名稱的一部分。
+
+針對Yloen的要求，OpenSSH 的共同創作人之一Theo de Raadt提出反
+駁，他指出在Ylonen於1996年取得SSH 的商標專用權之前，有一項允
+許獨立SSH版本成立的授權協議，並且他也質疑為何Yloen要花5 年的
+時間，才決定要行使商標專用權。
+
+1995年時，Ylonen在ssh 1.2.12版本的著作權告示中聲明：「目前我
+所關心的是，我為這個軟體所撰寫的程式碼可以被免費地用於任何目
+的。任何從這個軟體衍生而來的版本必須清楚地標示出 SSH，並且如
+果某一衍生作品與RTF 檔案內的協定說明書有所不符時，它必須以其
+他名稱命名，而非'SSH'或'Secure Shell'。」OpenSSH即以此一聲明
+作為根據。
+
+也就是說，OpenSSH與上述協定是相容的，de Raadt並且認為SSH早就
+像HTTP或FTP一樣，已經成為社群的財產。SSH是一種安全的，以Unix
+為基礎的協定，可允許網路管理員用來存取遠端的電腦。de Raddt並
+且說他不確定為何Ylonen現在想要行使商標專用權。
+
+Alberta大學的一項研究發現，17.4％的網際網路SSH使用者將會改用
+OpenSSH，而80.3％的人正在使用的是SSH Communications Security
+的產品。
+
+另外de Raddt也指出，對於OpenSSH與SSH Communications Security
+產品的使用者而言，名稱改變會造成他們的困擾，並且也會破壞 SSH
+相容性修正提案。該案是由OpenSSH的共同創作人之一Markus Friedl
+所推動，並由IETF Secure Shell 工作小組所同意，該工作小組正在
+嘗試將Ylonen所原作的SSH制定為一項開放標準。
+
+de Raddt指出他希望SSH 所提出的商標爭議能交由社群而非法院決定
+。Ylonen則聲明SSH是SSH Communications Security公司的註冊商標
+，他們不允許第三者的產品名稱上，出現未經授權使用的SSH。
+
+相關網址：
+1、OpenSSH：讓社群決定商標糾紛
+   http://www.newsforge.com/article.pl?sid=01/02/14/1838201&mode=nocomment
+2、SSH主張OpenSSH侵害其商標專用權
+　 http://slashdot.org/article.pl?sid=01/02/14/1120247&mode=thread
+
+──────────────────────────────
+■ Mozilla 0.8版釋出  1.0正式版5月前完成
+
+張書銘/編譯
+2001/02/16
+
+由於Mozilla M18、Galeon與Netscape等著名瀏覽器都使用Mozilla引
+擎，因此 Mozilla 0.8版的釋出格外引人注目，許多使用者也對它進
+行熱烈討論。
+
+------
+
+Mozilla開發組織釋出Mozilla Milestone 0.8，表示除加強 Mozilla
+在各平台的效能外，也提供原始碼讓使用者能自行編譯程式。此外，
+Mozilla開發團隊也表示後續版本的釋出計劃已經完成，0.9 版將在3
+月19日推出，而1.0版在5月前可以完成。
+
+Mozilla 開發計劃的重點是跨平台的特性。由於在1998年，瀏覽器跨
+平台的能力還不太受重視，導致網頁設計人員必須在不同的作業系統
+與不同版本的瀏覽器上檢驗自己的作品。而 Mozilla瀏覽器提供的跨
+平台能力網頁，可節省設計人員時間，同時也可有效利用各種不同的
+網路技術。
+
+在 Mozilla Milestone 0.8中進行了許多的改良，包括提供新郵件抵
+達提示音效、瀏覽記錄清單與書籤管理員可以依連線的進行排序、郵
+件目錄支援拖曳功能、提供新的隱藏偏好設定、在 Linux上可以單點
+滑鼠來開啟選單及內容、改善在Mac OS的外觀、可選擇關閉動畫格式
+檔案或只撥放一次、微軟視窗或 MacOS版，下載檔案完畢時可直接開
+啟檔案所在之資料夾等。
+
+不過 Mozilla的引擎被利用在多種開放原始碼的瀏覽器上，使用人數
+相當多，因此使用該引擎的瀏覽器都引起相當多的使用心得討論與批
+評，目前已知的問題有：使用 Linux版時郵件附件中若有中文檔名，
+將附件存到硬碟後，中文檔名部份可能變成亂碼；觀賞 FLASH動畫時
+會沒有音效等。
+
+相關網址：
+1、Mozilla Milestone 0.8釋出
+   http://mozillaquest.com/Mozilla_News_01/Moz0-8_released_Story01.html
+2、Mozilla 0.8 說明文件
+   http://www.mozilla.org/releases/mozilla0.8/
+
+──────────────────────────────
+■ 首套開放原始碼的OMS DVD播放器
+
+張書銘/編譯
+2001/02/16
+
+LiViD計劃推出完全開放原始碼的DVD播放程式─OMS，配合Linux 2.4
+以後的核心，其硬體支援從完全無硬體加速，到完整的 DVD解碼，讓
+Linux系統也能順利使用DVD硬體。
+
+------
+
+LiViD計劃釋出Linux系統專門的DVD播放器─Open Media System DVD
+Player。 在LinuxVideo組織大力推動Linux多媒體應用的相關計劃下
+，此OMS DVD播放器提供多種硬體支援，並配合Linux 2.4.x後的核心
+，讓Linux系統也能順利使用DVD硬體。
+
+LiViD計劃醞釀以久，為LinuxVideo組織 OMS﹙Open Media System﹚
+計劃中關於DVD的開發計劃，由於Linux在多媒體應用上較弱，因此，
+LiViD計劃以推動 Linux環境下開放原始碼的DVD、影像捕捉軟體為主
+，吸引開發者為Linux進行多媒體技術的研究。
+
+OMS  DVD播放器的釋出版本分為使用者等級與開發者等級兩種，使用
+者等級的內容是單純的播放器與部份 DVD的公用驅動程式等；開發者
+等級的內容除了包含使用者級所有的程式外，還提供各程式的原始碼
+及部份開發工具，對於Linux 多媒體應用開發有興趣者可至其網站下
+載。
+
+此播放器目前的硬體支援的DVD解碼介面卡包括Matrox DVD 模組、創
+鉅的Dxr2兩種；也支援繪圖卡的硬體加速，包括Matrox G200/G400、
+ATI Rage Pro等，未來將會支援3dfx和Nvidia晶片，此外，這套軟體
+也支援MMX、3D Now!、MVI等指令集。
+
+相關網址：
+1、Open Media System DVD播放器
+   http://www.linuxvideo.org/oms/
+2、OMS釋出說明文件
+   http://www.linuxvideo.org/lists/livid-dev/2001-February/msg00130.html
+3、LinuxVideo網址
+   http://www.linuxvideo.org/
+
+──────────────────────────────
+■ ALICE結合JAVA與AIML  朝網路知識庫邁進
+
+沈美君/編譯
+2001/02/16
+
+曾經玩過IRC﹙Internet Relay Chat﹚的讀者，應該對聊天室機器人
+﹙Chat Bots﹚不陌生，Chat Bots可能存在於某些聊天室中，有自己
+的暱稱，使用者可能也不知道：和你討論最近有沒有好電影的IRC 網
+友，居然只是個有著豐富詞彙庫的機器人。
+
+------
+
+以GPL 授權進行的開放原始碼計畫「ALICE」，全名為「 Artificial
+ Linguistic Internet Computer Entity」，是少數智慧型chat bot
+s的應用實例。創始人Dr. Richard Wallace曾經以ALICE贏得2000年
+「Loebner Prize 」比賽，此殊榮是頒給最能模擬人類反應的電腦軟
+體應用，以前從來沒有chat bots得過這個獎項。
+
+ALICE建構於「Artificial Intelligence Markup Language﹙AIML，
+人工智慧標記語言﹚」的基礎之上，屬於XML 的其中一種應用，目前
+的ALICE版本為Program D，可以JAVA編譯執行。以AIML與JAVA來實作
+，讓ALICE變得相當具有彈性；同時，也因為 ALICE以開放原始碼GPL
+執照發行，是吸引越來越多感興趣發展者的重要原因。
+
+Joost是第一位協助ALICE發展網站的設計師，他表示，許多人對於創
+造具有人性特質、可以模擬日常對話的電腦應用很有興趣。「這是相
+當浪漫，而且具有科幻意味的概念！」
+
+此外，ALICE 需要各種不同層級的發展者一起合作，AIML適合入門者
+，具備JAVA或C 能力的進階開發者，也是團隊不可或缺的角色。負責
+經營ALICE討論區的Wallace指出，AIML的簡單易懂、也是使得 ALICE
+平易近人的重要因素，「只要懂一些HTML，我馬上可以教你一些AIML
+，創造自己的bots。」
+
+Wallace特別強調，要發展一個好的bots，不只需要程式設計師，「
+一個主修英文，能寫出符合文法句子的人，或許比一個程式設計師還
+要能讓ALICE變得更棒。」他認為bots 的對話內容必須生活化、風趣
+幽默，還要具有娛樂效果。和其他非開放原始碼的chat bots 比起來
+，ALICE還佔了低成本的價錢優勢。
+
+雖然ALICE為開放原始碼社群的資產之一，但 Wallace對ALICE有絕對
+明確的未來計畫。「當數以萬計的獨立 chat bots相互連結後，可以
+把網頁結合成一個有統一規格的龐大知識庫，類似 Napster這樣的分
+享機制。」Wallace 舉了一個例子：如果本地端的bots不知道該如何
+回答一個問題，它會去詢問最近的 bots，是否有相同或類似的 AIML
+ tag，如果沒有，就再繼續詢問下一個。
+
+如果想要和ALICE聊一聊，請到http://neo-ego.com/alicebot/chat/
+chat.html。
+
+相關網址：
+1、ALICE 社群正以極快的速度成長
+   http://www.botspot.com/news/news021401.html
+2、ALICEbot.org 官方網站
+   http://neo-ego.com/alicebot/index7.html
+
+──────────────────────────────
+■ 訪談Debian專案領導人─Wichert Akkerman
+
+謝良奇/編譯
+2001/02/16
+
+連續擔任兩年的Debian專案領導人後，Wichert Akkerman決定不再參
+選此Debian最高職務，在或許是Debian專案領導人任內的最後一次訪
+問中，他談到關於Debian GNU/Linux套件的過去，以及專案中自己所
+扮演的角色，此外，更涉及到Debian社群當前的問題、目前自己投入
+的dpkg v2發展等主題。
+
+------
+
+連續擔任兩年Debian最高職務，Debian專案領導人Wichert Akkerman
+專訪中談到自己參與Debian GNU/Linux專案的開端，他表示會接觸該
+套件是由於朋友給他的系統，對於能一路升任到專案領導人的位子，
+他說基本上他只是做事與張貼郵件，不久人們開始知道他的名字，他
+笑稱人們乃因一時瘋狂所以才投他一票。
+
+關於專案領導一職，Wichert 表示，基本上他所要作的只有充份授權
+一事，然而說到這兩年內他的最大貢獻時，Wichert 謙虛的表示，專
+案成果都是由多人群力完成，作為一個專案領導人，儘管會試著決定
+正確的方向，不過就算沒有領導人，一切還是會照樣完成。
+
+被問到組織章程是否有必須解決的基本缺陷，Wichert 指出，目前可
+以見到表決政策改變的相關討論，這是為了解決現行系統的兩難窘境
+案例。除此之外，另一項計畫改變的是社群合約的表決法。
+
+相較於Debian GNU/Linux的蓬勃發展，Wichert對Debian GNU/HURD的
+進度仍表示肯定。此外，針對外界對Debian GNU/BSD的批評，他認為
+GNU/BSD 停滯是由於人力不足的緣故。除Debian GNU/BSD外，另一項
+抱怨是有關於新維護程序的延誤。Wichert 指出，該現象顯示出系統
+瓶頸所在，儘管已任用相當應用軟體管理者，讓開發者記錄管理者的
+工作減輕，但該職務的特殊性質使得在適任者的遴選上加倍困難。
+
+就卸下Debian專案領導人一職，與加入VA Linux的是否有關，他表示
+兩件事並不相干，而加入VA Linux後，Wichert 則計畫繼續發展套件
+管理dpkg，另外也考慮投入叢集系統開發。
+
+在專訪中，Wichert 談到目前dpkg v2的發展工作。他表示，dpkg v2
+仍不完整，當前最重要的事是希望能獲得較目前原始碼更為彈性、更
+易維護的基礎程式碼，以便對支援多重套件格式有所助益。
+
+關於近來Stormix倒閉、Corel 退出以Debian為基礎的Linux套件市場
+的消息，是否會影響Debian開發者陣營士氣，Wichert認為Stormix擁
+有許多不錯的開發者，過去對Debian也有諸多協助，因此希望消息只
+是空穴來風。至於Corel，Wichert說他們總是有些局外人的味道，他
+們的確在套件發展上投注不少心力，然而從未真正實際參與該社群。
+
+最後當要求Wichert舉出在專案領導人任內的最大成就時，Wichert表
+示，雖然Debian有所成長並更加成熟，但難以指出一項最大成就，他
+認為Debian過去的發展歷程以及持續的邁進，也許就是最好的成果，
+Debian的成長過程即是Debian最吸引人及最具示範性之處。
+
+相關網址：
+1、Wichert Akkerman: 回顧過去，展望未來
+   http://www.debianplanet.org/debianplanet/article.php?sid=130&mode=thread&order=0
+2、專訪Wichert Akkerman
+   http://www.linux.com/interviews/20000224/41/
+
+──────────────────────────────
+■ Lineo推出嵌入式系統開發工具套餐
+
+梁天佐/編譯
+2001/02/16
+
+Lineo 於2月14日同時推出多款開發嵌入式系統的軟、硬體工具組合
+，項目包括：硬體開發平台uCevolution、插槽式擴充控制組模 uCdi
+mm DragonBall VZ，及嵌入式列陣應用開發軟體 Lineo Embedded Ra
+pidDevelopment Suite。
+
+------
+
+uCevolution 開發平台系列，以更換DIMM式插槽控制組模的設計方式
+，使開發人員能針對各種不同的處理器核心研發嵌入式設備，此外在
+設計上，uCevolution提供一組包括：乙太網路、序列埠、USB各兩個
+的接頭，與超過7 平方英吋可連接測試原型設備的空間，機體還可以
+外接觸控式LCD螢幕，讓開發人員能夠研發測試各項功能。
+
+uCdimm DragonBall VZ是專為目前應用甚廣的 Motorola DragonBall
+VZ晶片組設計的控制組模，本身具有電源管理功能，可以電池操作，
+除DIMM組模版外，也有內建於作業系統的版本;此組模針對 Motorola
+DragonBall VZ 核心33MHz的執行速度與LCD顯示功能有特別的支援。
+uCdimm系列控制組模專為嵌入式設備設計，Lineo 也計劃推出FPGA、
+ARM7、ARM9、M68K/ColdFire、SuperH與StrongARM等封裝版本。
+
+uCevolutio的作業系統為Lineo公司以開放原始碼方式公開的uClinux
+，其核心小於512k；由於能在沒有記憶體管理功能的硬體順暢運行，
+與Lineo所提供的專業研發服務，使如 Axis Network Camera、Adomo
+、ApiloInternet phone、Crossport Pivio Secure Broadband 等公
+司所生產的設備大量採用。
+
+同時推出的開發軟體Lineo Embedded Rapid Development Suite則主
+要由四款技術工具構成。分別是：就設備所需重複使用與分開維護的
+軟體零件 Componet Object Model、讓不同設備的軟體元件與處理器
+溝通協同工作的Componet Access Broker、使瀏覽器軟體成為不同資
+料庫之間存取管理客戶端的Data Access Broker、以及協調跨平台相
+連與開發工作的Platform Harmony。
+
+新硬體將與作業系統uClinux 的其他開發工具同捆包裝上市，售價九
+九五美元，內含uCdimm DragonBall微控制組模、uCevolution主平台
+、支援CD與文件；軟體正式發售日期與價格未定。
+
+Lineo公司提供代工廠商Linux系統嵌入式軟硬體設計與解決方案，代
+表性產品有：Emdedix、uClinux、SecureEdge與Availix。
+
+相關網址：
+1、Lineo公司首頁
+   http://www.lineo.com
+2、Lineo公開新版uClinux開發平台與Motorola DragonBall uCdimm
+   http://alllinuxdevices.com/news_story.php3?ltsn=2001-02-15-002-03-PL-LO
+3、Lineo公開嵌入式列陣應用程式開發軟體組合
+   http://www.lineo.com/news_events/announcements/2001/02.14.html
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

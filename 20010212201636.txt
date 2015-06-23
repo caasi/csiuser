@@ -1,0 +1,465 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０２.１２
+
+╰════════════════════════════╯
+
+                   問卷贈獎活動開跑囉！
+         記得到 http://www.openscope.net 填寫問卷哦
+
+═《本期內容》═══════════════════════
+
+■ SuSE美國分部裁員3/4
+
+■ 開放原始碼精神 不因大廠介入而消失
+
+■ Opera 5.0跨平台新戰略 Linux版本免費使用
+
+■ Linux Canada釋出多套軟體 提供企業財管解決方案
+
+■ Windows語音通訊軟體 移植Linux
+
+■ 多家廠商加入LynuxWorks協盟計劃
+
+■ 昇陽ONE WebTop 1.0  三月推出Linux版
+
+■ maddog預測Linux未來發展
+
+═《編者的話》═══════════════════════
+
+SuSE Linux舉大刀，美國分公司四分之三員工遭裁員。
+
+德國SuSE Linux近日證實，該公司已經裁掉美國分公司近四分之三的
+員工，但是SuSE強調此舉不會影響該公司經營美國市場的決心。SuSE
+的總裁Volker Wiegand認為， Linux在商業上還沒有找到成功的方法
+，並稱呼Linux是不合理期待之下的受害者；Wiegand並表示，SuSE的
+業務最需要的是Linux的主流化。
+
+SuSE Linux裁員，IBM及眾多資訊大廠則是不斷支援並投資Linux，這
+股巨大的商業力量會威脅Linux原本的自由精神嗎？ InternetWeek的
+技術專欄作者Oliver Rist 提出開放原始碼的原生力量不會因為資訊
+大廠介入而消失的觀點。他表示大廠的支援反而可以協助 Linux的獨
+立研發。關心開放原始碼發展的您千萬不要錯過這則報導。
+
+Opera 5.0推出了！為了提高競爭力，新版Opera 5.0宣佈免費下載。
+雖然免費但品質不變，Opera 5.0有什麼特色及優點？本期OpenScope
+有詳盡的報導喔！另外，LinuxCanada公司為了在Linux系統上提供企
+業財務管理的解決方案，陸續釋出了連鎖商銷售點軟體以及會計軟體
+，讓企業能快速建置必要的資訊系統。 LynuxWorks 於 5日推出一項
+SynergyWorks計畫，可供第三協力解決方案供應商與LynuxWorks技術
+及服務進行合作。 OpenScope開放視界，提供您開放原始碼最廣角的
+報導！
+
+問卷贈獎活動開跑！為了感謝諸位支持 OpenScope的讀者提供寶貴的
+意見以及熱情參與， OpenScope將抽出六十五名幸運讀者，贈送精美
+獎品。此次問卷調查活動將到2月18日截止， 請即刻連結至電子報的
+首頁www.openscope.net參加！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ SuSE美國分部裁員3/4
+
+蕭喜那/編譯
+2001/02/09
+
+德國SuSE Linux近日證實，該公司已經裁掉美國分公司近四分之三的
+員工，只留下十二名員工。此次裁員可以替SuSE每年至少省下四百或
+五百萬美元。SuSE強調此舉不會影響該公司經營美國市場決心。
+
+------
+
+歐洲Linux作業系統軟體領導廠商 SuSE Linux，近日證實該公司已經
+裁掉美國分公司近四分之三的員工，只留下十二名職員。但是，該公
+司強調這次的裁員不會影響它對美國市場的企圖心。
+
+SuSE的總裁Volker Wiegand證實了這項報導，但是他拒絕討論SuSE這
+次的裁員行動可以節省多少錢。不過，據推測至少每年應該可以節省
+四百或五百萬美元以上。他指出現在十二名員工的組合，應該可以在
+六個月內就使公司獲利，取代原先所預期的2002年年底。
+
+Wiegand認為Linux在商業上還沒有找到成功的方法，他稱呼 Linux是
+不合理期待之下的受害者。顧客一直被騙去相信，他們可以不用付出
+任何代價，就可以得到某些東西，但是事實上，他們現在正要依據不
+同的價格，來購買Linux了。
+
+同時，Wiegand還指出SuSE的業務需要的是Linux主流化。SuSE的要努
+力的就是要在市場上儘量待得久一點，以等到 Linux成為主流的那一
+刻到來，但是還要多久，他也不知道。Wiegand並表示，雖然Linux零
+售市場正在萎縮，SuSE還是會加強它的零售業務，它唯一的對手將只
+有紅帽與Mandrake。
+
+德國SuSE在不久之前才應美國分公司的要求，把它的產品分成三十美
+元的個人版本與七十美元的專業版本。這些產品全部由SuSE德國總公
+司製造，並將它們運送到美國。據報導指出，SuSE在每一件出貨的盒
+裝軟體上，都是虧損的。
+
+相關網址：
+1、SuSE Linux裁掉美國員工
+   http://www.zdnet.co.uk/news/2001/5/ns-20816.html
+2、美國SuSE解雇四分之三的員工
+　 http://www.linuxgram.com/newsitem.phtml?sid=109&aid=11712
+
+──────────────────────────────
+■ 開放原始碼精神 不因大廠介入而消失
+
+沈美君/編譯
+2001/02/09
+
+藍色巨人IBM及眾多資訊大廠紛紛採取支援Linux具體行動，這樣的商
+業力量會主導市場並威脅Linux的自由嗎？InternetWeek 的技術專欄
+作者Oliver Rist 提出「開放原始碼的原生力量不會因為資訊大廠介
+入而消失」的觀點。
+
+------
+
+在各資訊大廠紛紛採取支援 Linux 行動的同時，卻有人以「 icicle
+ lights」的故事，暗示在不久之後的未來，研發 Linux的自由力量
+將會因為大廠的介入而逐漸式微。InternetWeek的Oliver Rist 認為
+，開放原始碼的原生力量不會消失，大廠的支援反而可以協助Linux 
+的獨立研發。
+
+曾有篇文章以「icicle lights」故事來暗喻Linux的自由力量將會因
+為大廠的介入而逐漸式微。「icicle lights 」是冰柱狀的垂吊式小
+燈泡，耶誕節時常被用來掛在屋頂上裝飾，是美國中西部的兩位女士
+發明的。後來大公司發現商機，投入發明者缺少的資金支援來發展事
+業，如今已成為每年有四億美元的生意。
+
+日前也有來自Gartner Group的消息，對IBM 支援Linux這件事情做出
+類似的預測。藍色巨人儼然已將Linux 奉為發展指導原則之一，不但
+在德州成立Linux技術中心，更欲整合Linux與AIX，成為代號為 AIXL
+的新作業平台。有人認為，再這樣下去的話，IBM 總有一天會主導市
+場並威脅Linux的自由。
+
+Oliver認為，Linux 來自開放原始碼的自由國度，儘管有越來越多廠
+商將Linux帶入商業市場，但是Linux在社群人士的努力下仍持續地發
+展，廠商的介入並沒有停止這樣的趨勢，就像Red Hats、Calderas、
+Corels 等公司雖然推出各自的套件，或者Oliver 幽默地預測微軟將
+來可能推出名為Black Hat Linux 套件，傾盡其行銷全力，還是不能
+阻止Linux發展：因為Linux的靈魂，也就是核心的發展，並不全然被
+廠商操控。
+
+或許又有人會質疑：IBM 是直接介入核心的發展，這又是怎麼一回事
+？Oliver語帶輕鬆地表示，縱使會有一種新的，叫做AIXL的系統平台
+出現，並不表示它會取代既有的核心或其他套件，再者，有全世界太
+多人以及組織與核心的發展，有直接及間接的關連，任何一種介入，
+都不會造成太嚴重的阻斷力量。Oliver強調，IBM對Linux及開放原始
+碼的支援，會讓事情變得更好。
+
+相關網址：
+1、開放原始碼的原生力量不會因為資訊大廠介入而消失
+   http://www.internetweek.com/reviews01/rev020501-4.htm
+2、IBM 擁抱 Linux 
+   http://www.upside.com/texis/mvm/story?id=3a6899318
+
+──────────────────────────────
+■ Opera 5.0跨平台新戰略 Linux版本免費使用
+
+梁天佐/編譯
+2001/02/09
+
+在微軟的IE與美國線上/網景的Netscape 兩強夾擊下，其他瀏覽器軟
+體實在難有生存空間，尤其它們的功能完備，而且免費。市場的反應
+終於讓Opera Software覺悟，瀏覽器軟體的利基並不在於銷售利潤，
+而是在使用者的普及率。
+
+------
+
+雖然Opera 還有許多其他為人稱道的特色，但還是不敵諸多公司的免
+費戰略，此次隨著新版Opera 5.0 推出，也改弦易轍宣佈免費下載。
+不過，免費下載的版本上面會出現贊助商的廣告，若不想看到廣告，
+就必須以三十九美元註冊。
+
+Opera 正積極與相關廠商洽商或推銷它們的瀏覽器，希望能在嵌入式
+設備的網路應用上取得決定性的地位，這在強敵環伺的瀏覽器市場中
+，不失為一種突破性的策略。
+
+Opera是一款跨作業系統平台的瀏覽器，為區隔市場，Opera瀏覽器向
+來標榜體積小、網頁下載快速，同時號稱是地球上最快的瀏覽器。之
+前的Opera除Windows之外，也有Linux、Mac OS、BeOS 等版本。
+
+目前Opera 5.0可供下載的僅有Windows版，Linux版與Mac版仍在測試
+除錯階段，Opera公司執行人員表示，Opera打算視Windows 版下載的
+狀況，來決定是否其他版本也採取相同的做法，他們相信兩百萬人次
+的下載量是一個顯示可行的指標；至於其他平台則未公佈具體計劃。
+
+新版Opera的瀏覽介面大幅改進，也支援如 Cascading Style Sheets
+﹙CSS﹚、XML與HTML等通用標準、及內建下載續傳功能，擺脫之前只
+能瀏覽陽春畫面的的形象。但即使如此，Opera 5.0 還是十分精巧，
+以Windows版為例，不含Java的Opera 5.0 大小是2MB，支援版也只有
+9.5MB。Opera公司的著眼點在於小型或攜帶式的上網設備，如Sony的
+eVilla便即將內建Opera的瀏覽器。
+
+相關網址：
+1、Opera Software公司
+   http://www.opera.com
+2、Opera 5.0改弦易轍、提昇競爭力
+   http://www.zdnet.com/eweek/stories/general/0,11011,2664148,00.html
+3、Linux、Mac版Opera即將免費
+   http://news.cnet.com/news/0-1006201-4673656-0.html?tag=mn_hd
+
+──────────────────────────────
+■ Linux Canada釋出多套軟體 提供企業財管解決方案
+
+張書銘/編譯
+2001/02/09
+
+Linux Canada公司為了在 Linux系統上提供企業必要的解決方案，陸
+續釋出了連鎖商銷售點軟體以及會計軟體，讓企業能快速建置必要的
+資訊系統。
+
+------
+
+Linux Canada公司宣佈釋出該公司的會計系統Quasar，提供企業一套
+完全採用圖形界面的會計管理軟體。搭配該公司的 POS﹙連鎖商銷售
+點﹚系統LinuxPOS，可提供連鎖企業以Linux 做為基礎的完善資訊系
+統解決方案。
+
+由於過去連鎖企業在採用POS以及會計系統時最常選用的UNIX-BASE﹙
+以UNIX作業系統為基礎﹚伺服器，往往有硬體售後服務上得不到足夠
+支援，以及每年必須付出的高額授權費的問題。因此擁有承襲大部分
+UNIX特性、有更多參與研究人士提供技術研究成果以及價格上更便宜
+的Linux，便成為POS與會計系統供應商所青睞的對象。Linux Canada
+公司也在這樣的風潮下，開發了多套與企業財務管理相關的軟體。包
+括了LinuxPOS以及最新釋出的Quasar等。
+
+Linux Canada公司最新釋出的Quasar Beta 版，是使用Qt技術所開發
+的會計軟體，它提供了完整的進銷存管理功能，搭配LinuxPOS則可以
+同時處理來自各家營業點的營運資料。同時，這套系統完全採用圖形
+化界面，而且與Lotus Notes 的外觀很相似，使用上並不困難，因此
+無論是剛開始要進行電子化的企業，或是想從舊系統昇級的公司，都
+可以快速引進此系統，無需花太多時間在架設與使用訓練上。
+
+不過由於目前Quasar在Linux平台上仍在測試期，因此 Linux Canada
+除了表示Quasar的測試版本下載以及疑難詢問的服務都可在公司網頁
+上取得外，也希望使用測試版的用戶經由公司網頁提供使用心得，以
+便改進。
+
+相關網址：
+1、Linux Canada釋出Quasar for Linux測試版本
+   http://linuxpr.com/releases/3294.html
+2、關於Linux Canada公司
+   http://www.linuxcanada.com/company.html
+3、LinuxPOS測試報告
+   http://www2.linuxjournal.com/cgi-bin/frames.pl/lj-issues/issue59/3287.html
+
+──────────────────────────────
+■ Windows語音通訊軟體 移植Linux
+
+張書銘/編譯
+2001/02/09
+
+微軟視窗系統語音通訊解決方案供應商1stCTI，決定將該公司產品移
+植到Linux平台。在網路能力上，Linux一向都有極佳的效能表現，在
+目前網路用於影音傳輸方面的需求也大為增加，因此1stCTI公司決定
+提供Linux更多支援，開發更穩定的語音傳輸解決方案。
+
+------
+
+由於網路傳輸能力提昇，平均價格也不斷下降，因此資料量較大的影
+像及語音傳輸應用也開普及。在微軟視窗系統上推出相關解決方案的
+1stCTI公司為了開拓更多更穩定的解決方案，決定在產品與技術上提
+供Linux平台支援，讓Linux在語音傳輸上有更好的表現。
+
+在1stCTI這次的開發計劃中，主要提供全新的 Innovator 8lx以及強
+化原本在微軟視窗系統上推出的CommLink對 Linux支援的能力。在微
+軟視窗系窗系統上推出的Commlink是一套可以管理電子郵件及語音訊
+息傳輸的軟體，一共提供三套模組供使用者利用。
+
+首先是處理來電用的 Call Manager Module，透過這個模組，使用者
+可在有來電時，決定接聽、轉接分機或語音信箱等。同時也可以建立
+連絡簿，管理所有的電話通信。
+
+其次的 E-mail Module則類似一般的郵件管理軟體，透過此模組可以
+收取並管理來自不同裝置的訊息，如PC的電子郵件、手機語音信箱的
+留言等。最後的則是 Text-To-Speech Module，這個模組則是提供使
+用者經由各種電話來查詢電子郵件信箱的相關訊息，在沒有可上網設
+備的地方，利用此模組可以聽到信箱內目前的郵件總數、主旨以及內
+容。
+
+而Innovator 8lx則是1stCTI新開發的軟體，是專門針對Linux平台所
+設計，目前預計3月份可以完成並釋出更多相關資料，據1stCTI 公司
+表示，Innovator 8lx正式上市的日期大約會在7月份。
+
+相關網址：
+1、1st CTI將針對Linux開發新語音處理軟體
+   http://linuxpr.com/releases/3293.html
+2、低成本高效能─Innovator 8lx
+   http://www.1cti.com/products/i8lx.asp
+
+──────────────────────────────
+■ 多家廠商加入LynuxWorks協盟計劃
+
+謝良奇/編譯
+2001/02/09
+
+LynuxWorks推出一項計畫，能幫助產品開發以及對LynuxWorks技術的
+服務整合。SynergyWorks計畫成員依產品整合程度可區分為三類，成
+員將可獲得LynuxWorks旗下LynxOS、BlueCat嵌入式Linux作業系統的
+開放環境、技術支援等。
+
+------
+
+開放原始碼與即時嵌入式解決方案供應商 LynuxWorks，5日推出一項
+SynergyWorks計畫，可供第三協力解決方案供應商與LynuxWorks技術
+及服務進行合作。
+
+SynergyWorks 乃用以取代過去SynergyPartners計畫的加強版本，設
+計用意在於為系統的開發散佈、服務相容性、對LynuxWorks系列產品
+的整合提供協助，整合產品包括LynuxWorks旗下LynxOS即時作業系統
+及開放原始碼BlueCat嵌入式Linux。SynergyWorks為參與成員注入數
+項市場及工程上的創新動力，預料將在垂直市場提出全新觀點，同時
+催生更多以用戶為導向的應用軟體。
+
+目前SynergyWorks成員包括： Apogee Software、Centura Software
+ Corporation 、Cetia、 FairCom Corporation、Force Computers
+、Rappore Technologies等眾家廠商。成員將可享有 LynxOS及BlueC
+at開放發展環境、技術授權、認證程序、技術支援等等。
+
+SynergyWorks合作成員依照產品整合程度，可分為三層次：Sapphire
+、Emerald、Diamond。Sapphire僅需展現對LynuxWorks的基本技術承
+諾，擁有產品、技術相容性，但不需整合 LynuxWorks技術。Emerald
+成員可整合LynuxWorks產品，以開發組合解決方案。Diamond 成員更
+進一步分享、貢獻LynuxWorks視野及市場策略。
+
+在SynergyWorks推出當天，計畫成員Rappore Technologies即宣佈將
+移植藍芽 ﹙Bluetooth﹚技術至LynuxWorks的BlueCat嵌入式Linux。
+同為成員之一的嵌入式資料庫技術開發廠FairCom亦表示將為BlueCat
+、LynxOS即時作業系統，移植包括c-tree Plus、FairCom資料庫伺服
+器在內的資料庫解決方案。
+
+相關網址：
+1、LynuxWorks推出Synergyworks
+   http://linuxpr.com/releases/3300.html
+2、Rappore Technologies移植藍芽協定堆疊至BlueCat嵌入式Linux
+   http://www.lynuxworks.com/news/pr/pr_rappore.html
+
+──────────────────────────────
+■ 昇陽ONE WebTop 1.0  三月推出Linux版
+
+沈美君/編譯
+2001/02/07
+
+ASP﹙應用服務提供者﹚ 逐漸成為企業使用辦公室套件的另一種選擇
+，昇陽釋出Sun ONE解決方案之一的「 WebTop 1.0」，協助廠商部署
+網路應用程式，使企業可透過網路或掌上型裝置，存取所需的應用程
+式。新版本適用於昇陽的Solaris平台，Linux版本可望於三月發佈。
+
+------
+
+昇陽﹙Sun Microsystems, Inc.﹚於本月5日宣布釋出Sun ONE解決方
+案之一的「WebTop 1.0」，使企業可透過網路或掌上型裝置，來使用
+辦公室套件，新版本適用於昇陽的Solaris平台，Linux版本可望於三
+月發佈。
+
+因應客戶對於網路應用程式的需求，昇陽在一年多前就已經著手進行
+「StarPortal」計畫，此計畫隸屬於「Sun Open Net Environment﹙
+開放網路環境，簡稱 Sun ONE﹚」架構之下，除了提供一系列網路應
+用程式解決方案，也包含開放標準技術﹙例如 Java、XML﹚的發展藍
+圖。Sun ONE 更欲利用智慧網路服務的特性，簡化發展者在建置、部
+署網路應用程式的過程，讓企業可以在更快的時間內，發展高可用性
+的網路服務。
+
+StarPortal改名成為WebTop，是在Sun ONE 架構下發展的網路應用程
+式部署解決方案之一，讓服務提供者﹙service provider﹚、或ISVs
+等公司，可以透過網路，提供顧客所需的辦公室套件、企業應用程式
+等，就如一般在桌上型電腦的本機執行應用一樣，所以稱為WebTop。
+和微軟的辦公室套件﹙例如Word或Excel ﹚不同的是，客戶不需要在
+本地端電腦安裝所有的應用程式，只要透過瀏覽器，經由網路存取服
+務和檔案，WebTop甚至可以經由PDA或WAP手機來使用。服務提供者亦
+可根據客戶需求，客製化應用程式包含的元件、介面。
+
+昇陽副執行長Pat Sueltz表示，Sun ONE Webtop為昇陽智慧服務策略
+的核心元件之一，讓發展者可以將應用程式部署至各種不同的網路設
+備上，結合傳統使用者桌面的親和特性，以及瀏覽器的便利性，對於
+想創造市場機會，以及想贏得使用者青睞的企業，頗有幫助。由服務
+提供者經由統一的中央管理，調整軟體套件的安裝、版本更新、臭蟲
+修正，也可免除使用者必須自己調較軟體、安裝的麻煩。
+
+目前釋出的WebTop版本，適用於昇陽的 Solaris平台，昇陽表示，下
+一階段的研發重點就是支援其他平台，Linux版本可望於3月發佈，而
+微軟視窗兩千版本則要等到第三季結束才釋出。
+
+相關網址：
+1、昇陽將StarPortal改名為Webtop
+   http://linuxtoday.com/news_story.php3?ltsn=2001-02-06-021-04-PS-DT-SW
+2、昇陽釋出「Sun ONE WebTop 1.0」協助部署網路應用程式
+   http://www.businesswire.com/cgi-bin/f_headline.cgi?bw.020601/210370063&ticker=SUNW
+
+──────────────────────────────
+■ maddog預測Linux未來發展
+
+李孟諺/編譯
+2001/02/09
+
+Jon 'maddog' Hall是位傑出的Linux推動者。同時也是Linux Inter-
+national的執行董事 。maddog 認為：發展更多的應用程式，以及更
+多的整合與更簡便的操作，是未來的趨勢。
+
+------
+
+Jon 'maddog' Hall是位傑出的Linux推動者，同時也是Linux Inter-
+national的執行董事 。他近日接受LinuxWorld 專訪，訪問內容涵蓋
+傳播Linux 對他的意義，以及個人對 Linux未來發展趨勢的看法。
+
+身為VA Linux系統主要的傳播者，maddog認為推廣Linux 作業系統與
+推廣開放原始碼或自由軟體是不同的，雖然他身為這兩者的信仰者，
+但是他並不同意所有的應用程式都必須是開放原始碼；當然，也不同
+意所有的應用程式都可以被自由的取得。
+
+至於Linux未來的發展趨勢， maddog強調，更多的應用程式，以及更
+多的整合與更簡便的操作，當然是未來的走向之一。現在有許多廠商
+試著將Linux帶入PDA領域，撰寫適合在PDA上執行的Linux應用。這表
+示廠商必須撰寫出適合各種靠電腦運作產品的Linux應用。那麼Linux
+便可以發揮它在各類應用的影響力。
+
+談到Linux International，maddog表示，Linux International是一
+個非營利組織，散佈有關Linux的消息，以及Linux對商業上或是個人
+使用上的消息。例如：保護Linux商標的使用、向廠商說明 GPL 的涵
+義、如何在Linux市場上獲利、提供媒體平衡且合理的Linux新聞報導
+、以及與其他產業的聯繫等。
+
+訪問最後，討論到對Linux 使用者而言，去年最具影響性的事件為何
+？他表示，對他而言，有兩件是讓他印象最為深刻，一件是中國政府
+採用Linux作業系統，另一個是Linux在嵌入式系統市場上大幅成長。
+
+相關網址：
+1、Jon 'maddog' Hall預測Linux未來趨勢
+   http://www.linuxworld.com/linuxworld/lw-2001-02/lw-02-maddog.html
+2、關於Linux國際
+   http://www.li.org/aboutli.php
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

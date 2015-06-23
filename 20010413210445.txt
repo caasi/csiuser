@@ -1,0 +1,383 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０４.１３
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ 結合Perl與Python  「Komodo IDE」新登場！
+
+■ Lineo成立矽谷研發中心  推出多套嵌入式開發工具
+
+■ 嵌入式系統是微軟與Linux的下一個戰場？
+
+■ TUXIA推出嵌入式Linux套裝軟體
+
+■ ActiveState推出程式設計師網站—ASPN
+
+■ Corel董事會通過股票選擇權修正案
+
+═《編者的話》═══════════════════════
+
+連日來動作積極的開放原始碼軟體公司ActiveState ，日前推出結合
+Perl與Python的整合發展環境工具「Komodo」！
+
+依據Mozilla應用程式架構開發的Komodo ，是第一套用來開發Perl及
+Python的商業級跨平台整合發展環境；隸屬公司旗下的ASPN程式設計
+師網站，則提供最新的技術消息和發展工具。
+
+此外本期OpenScope為您提供多則關於嵌入式Linux發展消息，包括嵌
+入式大廠Lineo 於矽谷設立研發中心，同時推出多款嵌入式系統開發
+工具，TUXIA也推出適用於網路應用與設備的嵌入式Linux套裝軟體；
+Linux 在嵌入式系統發展深具潛力，軟體巨人微軟也不坐視商機流失
+，消息指出微軟將推出嵌入式版本的Windows XP，嵌入式裝置與設備
+是否將成為微軟與Linux 下一個競爭的站場呢？預知後續詳情，請繼
+續鎖定OpenScope電子報！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ 結合Perl與Python  「Komodo IDE」新登場！
+
+沈美君/編譯
+2001/04/11
+
+協助程式設計師開發應用軟體的整合發展環境﹙IDE﹚ 種類越來越多
+，也支援不同的作業平台。除了有Zend公司開發、用以撰寫 PHP的「
+Zend IDE」外，ActiveState最新發表「Komodo IDE」，是結合 Perl
+與Python的整合發展環境。
+
+------
+
+開放原始碼程式發展工具商ActiveState，4月10日發表「Komodo IDE
+」整合發展環境1.0版本，依據Mozilla應用程式架構開發的Komodo，
+可用來撰寫Perl及Python，具備全功能的多語言整合開發環境，支援
+Windows及Linux兩種平台。
+
+「Komodo IDE」是第一套用來開發Perl及Python的商業等級、跨平台
+整合發展環境，也是第一套依據 Mozilla應用程式架構設計、並且由
+第三協力廠商所開發的程式發展工具。 ActiveState公司旗下的程式
+設計師網站﹙ActiveState Programmer Network，簡稱ASPN﹚，則提
+供最新的技術消息和發展工具。
+
+Mozilla.org是由Netscape 公司資助的開放原始碼計畫，專注於研發
+網際網路客戶端軟體，包括瀏覽器、郵件及新聞閱讀軟體，及開發網
+頁應用程式的工具。該公司總裁Dick Hardt指出， Mozilla應用程式
+架構為元件導向﹙component-oriented﹚，將使Komodo在未來的開發
+過程中，容易加入對其他程式語言的支援和額外功能，也更適合用來
+作為開發跨平台網頁應用程式的工具。
+
+「Komodo IDE」具備相當完整的IDE整合發展環境特色， 「Editor」
+編輯區提供語法校正、顏色區分、自動完成等功能，其中的背景語法
+檢查功能，被稱為極具威力的「Early Warning System」預先警告機
+制，讓程式設計師及早發現語法的錯誤。「Debugger」除錯機制除了
+包含一般的斷點控制、變數觀察功能外，程式設計師可以透過指令行
+﹙command-line﹚傳變數給程式來進行除錯，此外，Komodo更支援遠
+端除錯機制。另外，「Rx Toolkit」工具和「Rx Library」函式庫，
+可以幫助程式設計師來針對正規表示式﹙ regular expressions﹚作
+建立、測試、除錯、參考的工作，Komodo的線上求助文件也可以提供
+發展者在撰寫成程式時的參考。
+
+ActiveState 公司以開發跨平台、開放原始碼的程式發展工具聞名，
+涵蓋的關鍵技術，包括網路環境最普遍的程式語言Perl、最具親和力
+的描述語言Python與Tcl、動態網頁開發工具PHP、XML 的樣版格式語
+言XSLT等。
+
+使用者可至ASPN網站訂閱ASPN Komodo ，定價約二百九十五美元，包
+含完整的Komodo IDE開發工具及更新程式、參考文件、範例程式、技
+術支援等。ActiveState也提供教育版Komodo，可免費下載。目前1.0
+版的Komodo適用於Windows平台，Linux平台的版本為預先發表的測試
+版。
+
+相關網址：
+1、ActiveState發表結合Perl與Python的「Komodo IDE」整合發展環境
+   http://news.linuxprogramming.com/news_story.php3?ltsn=2001-04-10-002-06-DT-PL-PH
+2、關於ASPN Komodo
+   http://www.activestate.com/ASPN/About/Komodo
+
+──────────────────────────────
+■ Lineo成立矽谷研發中心  推出多套嵌入式開發工具
+
+張書銘/編譯
+2001/04/13
+
+儘管市場景氣不佳，使得知名嵌入式Linux供應商Lineo公司年初時撤
+回股票上市的申請，但針對產品開發Lineo 仍大動作不斷，除了在矽
+谷正式設立嵌入式系統開發中心外，並連續推出多項嵌入式系統相關
+軟體，充分表露公司對嵌入式系統市場的企圖心。
+
+------
+
+知名系統供應商 Lineo公司於矽谷正式成立嵌入式系統中心，積極進
+行產品開發。同時也推出多款新產品 SecureEdge Network Attached
+Storage、SecureEdge Firewall以及 Lineo Embedix Board開發工具
+組，讓嵌入式設備能夠有更快更安全的開發與使用環境。
+
+在 Lineo的新產品中，分別包含提供資料儲存安全控管的SecureEdge
+Network  Attached  Storage； 用於網路服務供應商的 SecureEdge
+Firewall以及程式開發人員的 Lineo Embedix Board開發工具組等三
+項。藉由SecureEdge  Network  Attached  Storage以及SecureEdge
+ Firewall，使用者可針對不同的應用程式與資料進行權限控制，並
+使用 PPTP或IPSec VPN網路協定，讓網路服務供應商能針對嵌入式設
+備使用者提供完整安全的網路服務。
+
+而 Lineo Embedix Board開發工具組，則是可應用於多種硬體架構上
+的嵌入式軟體開發工具，包括 PowerPC、x86、MIPS與ARM都可使用。
+同時它支援多套Linux產品，如OpenLinux和 Red Hat Linux等，此外
+這款開發工具提供了完整的 tollchain、必要的開發套件及原始碼，
+並號稱僅需十五分鐘就可安裝完成，相當精簡好用。
+
+根據 Lineo公司表示，藉由在矽谷成立嵌入式系統中心，可讓 Lineo
+公司對高科技產業動向更為敏感，這樣不但讓公司在軟體設計能力更
+上一層樓，也可讓Lineo開發資訊家電產品市場更為有力。
+
+相關網址：
+1、Lineo釋出全新SecureEdge系列軟體
+   http://alllinuxdevices.com/news_story.php3?ltsn=2001-04-10-009-03-PL-LO
+2、Lineo公開Embedix Board開發工具組
+   http://alllinuxdevices.com/news_story.php3?ltsn=2001-04-11-002-03-PL-DV-LO
+3、Lineo於矽谷成立嵌入式系統中心
+   http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/04-10-2001/0001466452&EDATE=
+
+──────────────────────────────
+■ 嵌入式系統是微軟與Linux的下一個戰場？
+
+梁天佐/編譯
+2001/04/11
+
+後PC時代現象逐漸顯現，在各種嵌入式設備與商品的需求與風潮驅動
+下，市場大開；這類產品的特性是：從設計到由代工廠商大量生產的
+過程對時效與成本的敏感度高，而且硬體資源比較簡單，因此開放原
+始碼軟體相當適合需要。雖然如此，商業軟體公司如微軟對嵌入式系
+統的市場仍然野心勃勃，不斷推出相關產品與Linux競爭。
+
+------
+
+Linux與Windows下一個競爭的戰場顯然是在嵌入式裝置與設備的市場
+。由開放原始碼的特性與業界的發展來看， Linux正趁著它在檔案、
+網頁等網路伺服器與企業應用順利發展之勢，有可能在嵌入式市場上
+大獲全勝。
+
+嵌入式應用市場從手持式設備如PDA、IA機器到SOC﹙System On Chip
+﹚設備，相當廣範，是後PC時代廠商兵家必爭之地。代工廠商需要以
+時效與價格優勢取勝， Linux無需授權費用與開放的特色讓廠商能以
+較低的成本製造與研發產品；ZF Linux Devices商務發展與市場副總
+裁Chris Gill解釋：「到市場的時間短；成本是另一個因素， Linux
+是免費的，而且你可以為你的需要量身訂做。」
+
+在開放原始碼社群與眾多相關廠商的支援下， Linux提供了適合各種
+使用者一系列且規模連續的解決方案，廠商可以採取其中符合需要的
+應用到產品裏，單是在嵌入式Linux 解決方案上，就有成打以上的服
+務公司，其中不乏如昇陽這樣的大廠，最近也開始提供嵌入式 Linux
+的支援。
+
+客觀的因素也有利嵌入式Linux 應用的發展；由於嵌入式產品對網路
+連接存取的需要，而且一般嵌入式設備硬體較為精簡，開發人員需要
+在極小的記憶體空間塞進所需功能的作業系統，使嵌入式設備能在網
+路上存取，嵌入式Linux在這方面也有相當優越的功能。 MontaVista
+Software市場指導Bill  Weinberg便說：「嵌入式硬體就是做來搭配
+Linux的。」
+
+另一方面，軟體巨人微軟也不坐視商機流失，除Windows CE之外，消
+息指出，微軟將在新一代作業系統Windows XP推出後不久，推出嵌入
+式版本的Windows XP  Embedded並且已經與幾家大型廠商建立合作關
+係，在產品中採用Windows產品。
+
+微軟不斷的調整 Windows產品，包括功能、價格與程式的大小，企圖
+在嵌入式市場上攻城掠地；不過環境與當初PC作業系統市場，微軟得
+天獨厚的狀況已有所不同，Linux甚至比Windows的起跑得更早。微軟
+的帝國大反擊，將不會一帆風順。
+
+相關網址：
+1、微軟用嵌入式作業系統吸引大型廠商
+   http://news.cnet.com/news/0-1003-200-5551781.html?tag=tp_pr
+2、嵌入式設備是Linux的下一場大勝仗
+   http://www.spectrum.ieee.org/WEBONLY/resource/mar01/nlinu.html
+
+──────────────────────────────
+■ TUXIA推出嵌入式Linux套裝軟體
+
+梁天佐/編譯
+2001/04/12
+
+資訊產業從上游到下游的垂直與平行面上，都顯現對嵌入式解決方案
+與技術的需求，由於市場愈來愈大，以Linux 為基礎的產品也愈來愈
+多；TUXIA日前推出TASTE套裝軟體，便是一款針對網際網路應用與網
+路資訊設備市場，以Linux技術為基礎的產品。
+
+------
+
+TUXIA公司於4月11日宣布推出該公司針對網路應用與設備，如WebPAD
+、電視機上盒、低成本伺服器介面處理PC﹙thin clients﹚與螢幕電
+話等適用的Linux嵌入式平台套裝軟體TUXIA  Appliance  Synthesis
+Technology Embedded─TASTE。
+
+TASTE 以Linux 2.4版核心為基礎開發，主要是以Mozilla瀏覽器、應
+用程式─作業系統中介軟體、外掛程式元件與一些附加強化套件組合
+而成，提供設備模擬熟悉的終端環境、遠端管理與調整管理組態等功\r
+能，此外以 RAM為基礎的防止軟體當機、快速開機與升級機制等設計
+也相當獨到。
+
+為配合嵌入式硬體，TUXIA以區塊壓縮技術大幅縮小TASTE體積，據稱
+能在目前大部分嵌入式Linux核心版本上執行，TUXIA另外也提供相關
+的軟體設計參考服務，可替不同的個案狀況進行最佳化處理，以加速
+產品上市時間。
+
+產品開發廠商可視產品本身性質選配TASTE 其他功能，如嵌入式版本
+，具E-mail功能的Netscape瀏覽器、Java、是否支援HTML 4.0與 CSS
+、安全機制、SmartCard讀卡功能、Acrobat Flash與RealPlayer外掛
+元件、串流MP3播放、機上盒圖形使用者介面、TV-out與TV-in、觸控
+式螢幕、通訊協定、各式網路頻寬、Windows與X windows存取相容介
+面等，應有盡有。
+
+TUXIA公司甫於2000年，由知名創投公司Apax Partners投資成立，主
+要業務為提供代工廠商與加值型經銷商嵌入式linux 解決方案，除代
+表性產品TASTE外，該公司也以TSE﹙TUXIA Sythesis Environment﹚
+開發工具為客戶設計調整個別的解決方案。
+
+相關網址：
+1、TUXIA首頁
+   http://www.tuxia.com
+2、TUXIA宣布為網路應用與低成本設備推出嵌入式Linux技術
+   http://news.wideopen.com/fc/2-118,209-119,470447
+3、關於TUXIA
+   http://www.tuxia.com/CompanyOverview.htm
+4、TASTE簡介
+   http://www.tuxia.com/TASTE.htm
+
+──────────────────────────────
+■ ActiveState推出程式設計師網站—ASPN
+
+李孟諺/編譯
+2001/04/12
+
+為了讓程式設計師能結合開放原始碼技術開發應用程式，領先的開放
+原始碼程式設計公司 ActiveState，於11日推出結合開放原始碼技術
+進行程式撰寫的ASPN﹙ActiveState Programmer Network﹚，並針對
+不同程式語言使用者推出不同的ASPN單元。
+
+------
+
+以Perl、Python、Tcl等開放原始碼程式語言發展著名的ActiveState
+公司，11日對外公開能結合開放原始碼技術進行程式設計的ASPN網站
+﹙ActiveState Programmer Network﹚與相關資訊。
+
+ActiveState 公司創辦人兼執行長Dick Hardt表示，ASPN提供全面整
+合的多語言、跨平台與其他技術，以後使用開放原始碼技術撰寫程式
+將更為簡便，程式設計者則可使用他們最喜愛的平台和語言進行開發
+工作。
+
+ASPN的特色有：適用於採用PHP、Tcl、Perl、Python與XSLT的Komodo
+IDE，以及適用 Perl、Python與XSL的整合Visual Studio.Net。線上
+查詢O'Reilly相關技術。ActivePerl、ActivePython、ActiveTcl 與
+二進位套件的FAQ 功能。而且對使用不同程式語言的使用者開發不同
+版本的ASPN。
+
+ASPN Open 是一個免費線上資源，新進程式設計師可在此接觸廣泛的
+程式語言基礎，如相關技術參考、CookBooks、樣本碼和ActiveState
+技術文件等都加以完善分類，且可進行線上搜尋。 APSN Open也包含
+ActiveState 廣受歡迎與品質保證的二進位開放原始碼程式設計語言
+，而且去年被下載超過百萬次。對於學習程式設計的人， ASPN Open
+則提供非商業授權的Komodo。
+
+ASPN Komodo是特為專業程式設計師量身訂作，並依據 Moziia架構設
+計的跨平台介面，以及提供最受歡迎的開放原始碼程式設計語言支援
+，並提供一年的更新下載。
+
+根據ASPN與ASPN Komodo高標準設計的ASPN Perl，包含先進的程式設
+計技術與Perl專業設計師所需的資訊，並可在線上搜尋與回復。ASPN
+ Perl並釋出Perl utilities 與 Visual Perl兩種版本，熟悉 Visua
+l Studio的開發者現在可以使用Visual  Perl更快速地開發Perl應用
+程式。同樣在一年內也可以獲得升級版本。
+
+相關網址：
+1、ActiveState發表 ASPN Initiative
+   http://www.newsforge.com/article.pl?sid=01/04/11/2224228&mode=nocomment
+2、關於 ASPN
+   http://www.activestate.com/ASPN/About/
+
+──────────────────────────────
+■ Corel董事會通過股票選擇權修正案
+
+李孟諺/編譯
+2001/04/11
+
+以WordPerfect與CorelDraw軟體知名的Corel 公司，受到整體經濟下
+滑影響，銷售量銳減，造成公司財務狀況陷入困境。但在星期二的年
+度股東大會上，通過了新的股票選擇權修正案，希望藉此激勵員工的
+士氣，為公司創造更多的利潤。
+
+------
+
+本週二在Corel 公司年度股東大會上，股東以壓倒性的支持，通過在
+去年9月間由包括現任執行長Derek J. Burney等多位公司決策高層提
+出的股票選擇權修正案。有許多股東認為此舉有助於改善公司財務狀
+況，但也有股東對此項措施採取保留性的態度。
+
+為了希望激勵員工努力工作為公司帶來更多的利潤，相較於之前訂定
+的每股十五點二五美元的下限，新的股票選擇權方案將金額調降至五
+點七美元，但此舉目前無法為該公司帶來利益。因為Corel 股價星期
+二以每股三點四美元坐收，上漲九美分，必須上漲至五點七美元時，
+執行股票選擇權才可獲利。
+
+然而在星期二的決議之中，獲利最多的無非是公司決策高層。執行長
+Burney就握有一半的股票選擇權。但Burney表示他首要的責任是對股
+東負責，而增加他們利益的最佳方式是照顧員工。而且最有成本效益
+的方式就是透過股票選擇權代表股東。
+
+雖然公司營收不理想，但Corel公司財務長John Blaine表示，一些預
+期的支出經費將提前執行，但能否獲利仍不可預測。但該公司先前預
+測會計年度的營業額會成長 8％至12％，並且能在夏季轉虧為盈。加
+上微軟公司先前投資一億三千五百萬美元，有效地協助擺脫了低獲利
+的影響。
+
+Bluestone Capital分析師Jean Orr也詢問Corel執行長Derek Burney
+是否對低迷的銷售量感到沮喪。Burney表示，該公司不再期望銷售量
+大幅度的提升，因為他們專注於穩定的成長。而且已經停止一些在上
+一季創造兩百萬營業額的消費性圖像應用產品的行銷工作。並且預估
+WordPerfect 的銷售量應會增加。此外，還將投入比第一季多50％的
+研發費用。雖然收支不理想，但執行長Burney表示，對經營多年加上
+產品競爭力不足的公司，降低研發費用只會帶來麻煩。
+
+相關網址：
+1、Corel股東贊成公司高層提出修正過的股票選擇權計畫
+   http://www.canada.com/cgi-bin/cp.asp?f=/news/cp/stories/20010410/technology-484019.html
+2、收入是Corel最大的敵人 
+   http://linuxtoday.com/news_story.php3?ltsn=2001-03-30-005-20-NW-BZ-CL
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。

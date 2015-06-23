@@ -1,0 +1,447 @@
+網基科技
+╭════════════════════════════╮
+
+  《 OpenScope    開放視界電子報 》   ２００１.０４.０４
+
+╰════════════════════════════╯
+            ---  http://www.openscope.net  ---
+
+═《本期內容》═══════════════════════
+
+■ 夏普與Amiga軟硬體雙管齊下 點燃Linux PDA戰火
+
+■ 駭客齊聚一堂  Linux 2.5核心高峰會強強滾
+
+■ To Be or Not to Be─Be Inc.的經營困境
+
+■ Mission Critical Linux執行長將在Comdex發表演說
+
+■ 網頁維護程式新選擇─Velocity樣板引擎1.0登場
+
+■ P2P新寵Gnutella  RIAA如臨大敵
+
+■ 結合Python與Perl的Parrot語言  Perl.org的愚人節玩笑
+
+═《編者的話》═══════════════════════
+
+夏普宣佈與Amiga結盟，軟硬體雙管齊下，引爆Linux PDA市場戰火！
+
+居日本國內PDA市佔率冠軍的夏普，於3月30日宣佈將與 Amiga合作，
+未來由Amiga 推動的開發社群，將以其在遊戲、2D、3D、動畫、影像
+與音樂方面豐富的資源與技術，為夏普的新一代Linux PDA 開發新的
+、或移植現有的應用程式與內容軟體。夏普預計明年3月前，新PDA將
+可望擁有包括 Amiga在內，超過一萬款以上的軟體與應用程式，軟硬
+體雙管齊下的結果，預估將掀起另一波Linux PDA風潮！
+
+夏普公司曾在2月份時宣佈， 將於今年第三季在美國推出該公司日本
+市場的暢銷PDA機種─Zaurus ，作為夏普全球 PDA行銷佈局的第一步
+，且將以Linux為作業系統。新款 Zaurus採用Linux 作為作業系統，
+是夏普首次使用自行開發作業系統之外的硬體，作業系統的國際性、
+接受性與知名度，是夏普在海外版Zaurus採用 Linux作業系統的主要
+原因之一。這次的合作案，能否讓夏普在美國 PDA市場也奪下冠軍，
+值得觀察。
+
+為期兩天的Linux 2.5 核心高峰會日前在加州舉行。這次的會議主要
+討論未來Linux 2.5版核心的開發方向，OpenScope為您實況報導這場
+精采的會議； Be Inc.傳出經營危機，縮小公司規模度小月；一年一
+度的Comdex盛會，Mission Critical Linux執行長發表了 Linux作為
+企業平台的演說。本期OpenScope繼續給你看不完的精采報導！
+
+另外，若您只想收到不含廣告的純文字版本，或是HTML版本、 PDA版
+本的電子報，可以直接至 OpenScope開放視界電子報網站上的
+「訂戶專區」訂閱。﹙網址：http://www.openscope.net﹚。
+
+═《本期新聞》═══════════════════════
+
+■ 夏普與Amiga軟硬體雙管齊下 點燃Linux PDA戰火
+
+梁天佐/編譯
+2001/04/03
+
+從任天堂到 PlayStation 2，消費性電子資訊產品在市場上要成功，
+除了要有優秀的硬體，豐富多樣的軟體絕不可少；夏普計畫中的 PDA
+Zaurus除了作業系統採用Linux，日前更與軟體資源豐富的Amiga達成
+長期合作協議，Amiga將為夏普PDA Zaurus開發製作軟體。
+
+------
+
+夏普在日本國內PDA的市佔率第一，它的 Zaurus系列新一代產品，除
+將以 Linux為作業系統進軍國際之外，在年底正式發售上市之前，夏
+普也積極運作尋求業界聯盟。Amiga便於3月30日在美國聖路易市所舉
+行的Gateway Amiga 2001展中，宣布 Amiga開發的軟體將與夏普的新
+Linux PDA同時亮相，兩家公司並將在PDA平台上長期合作。
+
+夏普與Amiga主要合作的方式，是由Amiga推動相關的開發社群，以其
+在遊戲、2D、3D、動畫、影像與音樂方面豐富的資源與技術，為夏普
+新PDA 開發新的，或是移植現有的應用程式與內容軟體，這些軟體可
+以從桌上型電腦與無線網路下載，或者直接隨機附在新硬體內。夏普
+預計明年3月前，新PDA將可望擁有包括 Amiga在內，超過一萬款以上
+的軟體與應用程式，這對硬體銷售會有爆炸性的加速作用。
+
+夏普與Amiga合作的淵源在於 Java技術的共通點上：新Zaurus所操作
+的Java版本正好是Amiga開發環境Amiga Digital Environment﹙DE﹚
+的基本架構，Amiga DE基本上是一款物件導向，在小如行動電話、大
+到個人電腦的各式硬體上都能運用多媒體設計開發的操作環境，因此
+軟體移植相當容易快速；這個策略與微軟以個人電腦架構設計 X-BOX
+進軍遊戲機市場類似。
+
+觀察家認為，除了技術背景相同之外，合作將為兩家公司各自帶來所
+需的利益；Amiga 的遊戲主機硬體在市場上佔有率極低，與夏普合作
+可為 Amiga軟體開發社群找到新舞台與獲利來源，同時也可藉由夏普
+PDA的流行將Amiga DE介紹給軟、硬體開發製造商。
+
+兩家公司對彼此的合作模式深具信心並且相當滿意。夏普通訊系統集
+團，行動系統部門總經理宇野廣志博士說：「有了 Amiga當作我們的
+內容夥伴，我們將可為我們的新器械擴展可用的應用程式與內容軟體
+。」Amiga執行長兼總裁Bill McEwen則說：「我們想研發一些真正好
+的應用程式，讓消費者充分了解Amiga社群的潛力與技術。」
+
+相關網址：
+1、Amiga首頁
+   http://www.amiga.com/
+2、夏普Zaurus官方網頁
+   http://www.sharp.co.jp/sc/excite/zaurus/zaurus-index.htm
+3、Amiga與夏普相互提攜
+   http://alllinuxdevices.com/news_story.php3?ltsn=2001-04-02-003-03-PL-HH
+4、夏普Linux PDA是Amiga第一個次世代舞台
+   http://www.theregister.co.uk/content/4/18035.html
+5、夏普新推Linux PDA 目標國際市場
+   http://www.cyberworksolution.com:8080/openscope/inside/inside.htm?sn=735
+
+──────────────────────────────
+■ 駭客齊聚一堂  Linux 2.5核心高峰會強強滾
+
+張書銘/編譯
+2001/04/02
+
+為期兩天的Linux 2.5 核心高峰會日前在加州舉行。這次的會議一共
+有六十五名Linux核心開發者參與，討論未來Linux 2.5版核心的開發
+方向。在兩天的會議中，針對 Linux多項軟硬體能力進行了討論，其
+中以資料庫相關議題的討論最為熱烈。
+
+------
+
+由六十五名Linux核心開發人員共同參與的Linux 2.5版核心高峰會，
+日前於加州舉行。在這次的核心研討會議當中，對於 Linux的未來走
+向進行了相當縝密的研討，討論的議題包羅了軟硬體各層面，如高效
+能資料庫的需求、SCTP串流控制傳輸協定、重新設計 Block層、整合
+高效能檔案系統、網路驅動程式API以及熱抽換裝置等。
+
+在會議中引起最大迴響的就是資料庫方面的議題。由於與會者中有來
+自甲骨文公司的開發人員，因此在 Linux與資料庫的搭配上，甲骨文
+提出了相當多的問題及建議：大筆資料運算的輸出入受快取憶體的支
+援能力影響而使效能下降；系統本身的輸出入排程與資料庫的輸出入
+排程功能重疊，使得系統多做了無謂的資料排程動作等。甲骨文公司
+的開發者表示，為了提昇 Linux與資料庫系統的效能，這些問題必須
+盡快解決。
+
+會議中提到的議題還包括：加強支援SCTP串流控制傳輸協定，利用此
+一協定來整合舊有 TCP與UDP的優點，提昇網路效能；重新設計Block
+層以使系統輸出入效能提昇；提昇對熱插拔裝置的支援能力。整合高
+效能檔案系統部分，則討論在核心中導入delayed write allocation
+技術，讓系統將在將連續性的資料寫入鄰近的儲存裝置空間，達到類
+似檔案重組的效果。
+
+會後會議的代表人物Ted Ts'o表示，本次核心高峰會相當成功。除了
+與會者的熱烈討論，許多 Linux網站上也陸續有使用者提出意見與技
+術指導，顯示2.5版核心受到大眾的期待。 
+
+相關網址：
+1、Linux 2.5核心高峰會
+   http://lwn.net/2001/features/KernelSummit/
+2、預覽Linux 2.5
+   http://slashdot.org/article.pl?sid=01/03/31/1317236
+
+──────────────────────────────
+■ To Be or Not to Be─Be Inc.的經營困境
+
+梁天佐/編譯
+2001/04/02
+
+上週甫與消費性電子產品巨擘Sony締結合作關係，以BeOS作業系統與
+BeIA網際網路應用軟體平台著稱的 Be Inc.傳出經營危機，公司財務
+吃緊，若無法取得新的財務支援，將以裁員與減少新技術研發計畫等
+經營策略緊縮公司開支。 
+
+------
+
+Be Inc. 於3 月28 日提交給美國債卷交換委員會﹙ Securities and
+ Exchange Commission  ﹚的年度報告中說，該公司財務狀況出現危
+機，報告中指出，公司目前所持有的現金與其他現金等值物品將不足
+以在本年度第二季結束前，因應目前的營運模式。
+
+Be Inc. 歷年累積的損失問題於去年年底浮現，截至去年12月31日止
+，該公司的赤字達九千四百四十萬美元，不過由於之前的花費大多在
+於軟體研發，目前Be Inc. 多項產品已進入回收階段，因此該公司表
+示，增資將可以解決2001年第二季以後的經營問題。
+
+報告中說，Be Inc. 正在考慮幾種增資或金援的替代方案，不過一切
+都尚無把握，且都還未有任何取得資金的安排。該公司並表示，若無
+法取得資金，勢必將無法維持目前的營運模式， Be Inc.只好縮小經
+營規模，包括停止部分研發計畫與裁員。
+
+Be Inc.於1990年由Jean-Louis Gassee創立，以研發作業系統、網路
+應用與相關技術應用軟體為主，總部設於美國加州Menlo Park，巴黎
+與日本都設有分公司；BeOS即為該公司專為桌上型電腦所設計的高效
+能作業系統，開放個人免費下載使用，另一項產品BeIA則以網路相關
+技術提供軟體平台解決方案。Be Inc.與Sony於3月22日共同宣布簽署
+Be Inc.授權Sony於Sony的 e Villa Network Entertainment Center
+代工生產與發行BeIA客端平台。
+
+BeIA於網路資訊傳遞、娛樂與互動功能應用甚廣，提供功能完備的瀏
+覽器軟體與支援大部分串流影音標準，可在低階設備下發揮高能表現
+，由於整合易於使用的介面與技術，因此非常適合相關消費性產品使
+用。
+
+相關網址：
+1、Be Inc.經營疑慮升高，損失來自營運
+   http://news.excite.com/news/dj/010328/20010328-000678
+2、be Inc.提交年度財務報告
+   http://www.benews.com/story/3902
+3、Be宣布與Sony的授權與發行
+   http://www.benews.com/story/3886
+4、漢諾瓦CeBIT電腦展BeIA應用裝置圖片
+   http://www.benews.com/story/3895
+5、Be Inc.首頁
+   http://www.be.com
+
+──────────────────────────────
+■ Mission Critical Linux執行長將在Comdex發表演說
+
+李孟諺/編譯
+2001/04/03
+
+在德國漢諾威舉辦的全球規模最大資訊暨通訊展電腦展剛落幕，美國
+Comdex電腦展又將展開。目前已有Mission Critical Linux公司執行
+長Moiz Kohari將在電腦展上發表演說，而且Linux Show與Caldera國
+際將舉行Linux使用者團體的專屬派對。
+
+------
+
+在德國漢諾威資訊暨通訊電腦展中大放異彩的Linux 最近移師美國，
+準備在即將展開的Comdex電腦展上再次釋放Linux 的魅力。目前已有
+Mission Critical Linux執行長將在電腦展上發表演說；Linux Show
+與Caldera國際將舉行Linux使用者團體的專屬派對。
+
+提供Linux企業環境專業服務支援與技術的 Mission Critical Linux
+，3 日表示該公司執行長Moiz Kohari將在電腦展上發表題為「Linux
+作為企業平台」的演說。
+
+Kohari將探討成熟的Linux 作業系統在商業需求的平台功能服務。並
+將重點放在成長中的企業市場與Linux 的特色以及能帶給企業的利益
+。此外，他亦會提及技術層面，如世界級的穩定性與可靠性。以及從
+長程獲利的角度分析使用Linux作業系統的企業。與Linux在多種硬體
+平台上的相容性；選擇Linux企業的成本優勢。並提供採用Linux作業
+系統的公司可獲得的一些相關產品、系統工具與Linux系統支援。
+
+在另一方面，於漢諾威電腦展中大動作不斷的公司Caldera ，這回放
+出的消息則是輕鬆有趣多了，它將與Linux Show合辦第四屆的 Linux
+使用者團體派對。 Linux Show共同創辦人Jeff Gerhardt表示，該派
+對主要邀請對象是Linux 使用者團體的會員。時間是4月3日晚間7 點
+半開始。門票可以在Linux Show或Caldera 的攤位取得。此外，他們
+也歡迎Linux廠商的員工與會，但必須支付相關費用。
+
+相關網址：
+1、Linux Show與Caldera將在芝加哥電腦展辦派對
+   http://linuxpr.com/releases/3530.html
+2、Mission Critical Linux執行長將在芝加哥電腦展發表演說 
+   http://news.wideopen.com/fc/2-118,209-119,455143
+
+──────────────────────────────
+■ 網頁維護程式新選擇─Velocity樣板引擎1.0登場
+
+沈美君/編譯
+2001/04/03
+
+除了JSP、PHP等最常被拿來作網站應用程式設計的伺服器端敘述語言
+，開發者又多了一個新選擇：Velocity Template Engine，程式設計
+師和網頁設計師可以透過Velocity，愉快地開發並維護網站。
+
+------
+
+Jakarta Velocity 計畫成員，於4月2日宣布釋出 Velocity樣版引擎
+ ﹙Template Engine﹚ 1.0版，讓程式設計人員與網頁設計師，可透
+過MVC的模型機制來合作，快速地開發更容易維護的網頁應用程式。
+
+Velocity計畫屬於Jakarta計畫之一。隸屬於Apache.org的Jakarta計
+畫﹙Jakarta  Project﹚，其實是眾多計畫的集合稱呼，目的是為了
+提供以Java平台為基準的企業級伺服器解決方案，透過開放原始碼與
+聯合發展的方式進行。除了 Velocity之外，Jakarta旗下還有許多子
+計畫，例如Turbine、Ant、Watchdog等。
+
+Velocity是以Java寫成的樣版引擎﹙Template Engine﹚，透過Model
+-View-Controller﹙模型檢視控制器﹚的機制，當網頁設計師和程式
+設計師要合作開發同一個網站時，前者可以使用樣版語言﹙template
+  language﹚來存取後者以Java所開發的內容物件，因此，網頁設計
+師可以專心設計網站的外觀介面，程式設計師所撰寫的程式碼，也不
+會和HTML標籤混在一起。這對網頁的維護和開發而言，的確相當便利
+，Velocity提供了JSP、PHP等伺服器端描述語言外另一種新選擇。
+
+Velocity可由樣版來整合並產生SQL敘述、PostScript文件和XML文件
+，也可作為XML文件的樣式處理器﹙stylesheet  processor﹚。此外
+，Velocity可單獨被使用﹙standalone﹚來整合網站後端的原始碼與
+前端外觀，也可以作為其他系統的整合式原件，例如可以與 Turbine
+網站應用架構合作，提供實作 MVC模型的樣版服務。而且Velocity可
+以在任何支援JSDK和J2EE的平台上執行。
+
+相關網址：
+1、Jakarta計畫宣布釋出「Velocity Template Engine」版本1.0
+   http://apachetoday.com/news_story.php3?ltsn=2001-04-02-001-06-NW-SW-DT
+2、「Velocity Template Engine」版本1.0釋出
+   http://dcb.sun.com/practices/profiles/velocity.jsp
+3、關於Velocity
+   http://jakarta.apache.org/velocity/xjournal.com
+4、Jakarta Project官方網站
+   http://jakarta.apache.org/
+
+──────────────────────────────
+■ P2P新寵Gnutella  RIAA如臨大敵
+
+李孟諺/編譯
+2001/04/02
+
+Napster的興起代表著P2P﹙Peer-to-Peer﹚應用將會是另一個電子商
+務的商機所在，但也加速了盜版的猖獗。雖然MP3交換公司Napster在
+官司案中頻頻落敗，但是它只是快速成長的P2P 檔案交換的冰山一角
+。其他如Gnutella與Freenet是正在成長中的P2P應用軟體。
+
+------
+
+MP3交換公司Napster的官司案撼動全球P2P應用的使用者。但Napster
+只是快速成長的P2P檔案交換的冰山一角。Gnutella與Freenet是眾多
+P2P 應用中的兩種技術，此兩種技術重新定義我們分享檔案的方式。
+
+任何P2P應用都有可能造成盜版的猖獗。Gnutella與Freenet亦會影響
+對Napster採取強硬態度的美國唱片工業協會﹙ Recording Industry
+ Association of America，RIAA﹚打擊盜版的決心。
+
+但根據RIAA反盜版執行長Frank Creighton的說法，Gnutella 目前還
+不夠成熟，不會對唱片工業有嚴重影響。不過他也表示，RIAA正嚴密
+觀查Gnutella活動的情形。RIAA已有擬定一套尚未執行的策略，如果
+Gnutella侵犯到他們的權益，他們將採取行動。
+
+RIAA所謂的尚未執行的策略，是透過ISP業者追查在該ISP網域內架設
+的音樂交換網站，以及追蹤各別使用者。但ISP 業者反應此舉超過著
+作權法規定的範圍。不過對RIAA來說卻是有利的，因為只要一封信函
+就可以要求ISP關閉使用OpenNap伺服器等的相關下載中心網站，以及
+提供各別使用者名單。然而此舉是否可行，還需透過立法規範 ISP業
+者。
+
+木星媒體﹙Jupiter Media Metrix﹚資深分析師Aram Sinnreich表示
+，Gnutella是一個分散式系統，沒有一個單一的伺服器會告訴使用者
+誰得到何種檔案的訊息，因此沒有辦法強制誰必須撤站關門。如果有
+一半的使用者使用Gnutella，另外一半的使用者也將平安無事。
+
+目前也有公司如Bearshare.com採用Gnutella 技術提供服務，使用者
+可以搜索的檔案不局限於MP3 ，還可以找到影音檔案、圖片與文本。
+Gnutella的缺點是該軟體無法如Napster 同時服務許多使用者。但另
+一個採取開放原始碼的P2P軟體Freenet卻可以做到這一點， Freenet
+宣稱有能力接受Napster全部的使用者，這點是 Gnutella無法作到的
+。只是Freenet目前還無法做到如Bearshare網站提供的使用者友善﹙
+user friendly﹚的前端終止﹙front end﹚服務。
+
+相關網址：
+1、Gnutella還不構成威脅
+   http://news.cnet.com/news/0-1005-200-5383626.html?tag=mn_hd 
+2、數百萬使用者使用P2P技術
+   http://www.cnn.com/2001/TECH/internet/03/03/peer2.peer/index.html
+
+──────────────────────────────
+■ 結合Python與Perl的Parrot語言  Perl.org的愚人節玩笑
+
+沈美君/編譯
+2001/04/02
+
+4月1日當天，包含Perl.org、Python.org、Oreilly.com 等網站都宣
+佈了Perl與Python將共同發展新程式語言「Parrot」的消息，其實這
+是三方網站聯合精心策劃的愚人節獻禮，讓大家輕鬆一下。
+
+------
+
+在4月1日時，Perl.org網站發布消息，Perl作者Larry Wall與Python
+作者Guido van Rossum，宣布將發展新一代的程式語言「Parrot」，
+未來兩人將結合Perl與Python的長處，發展下一代的程式語言，代號
+「Parrot」﹙鸚鵡﹚。Wall與Guido所屬的ActiveState公司對此表示
+樂觀，但否認這個發展計畫是由公司提出。
+
+根據Simon Cozens對兩位作者的訪談，這項聯合發展計畫的構想，起
+源於去年的開放原始碼大會。Wall表示在參加Perl開發者會議時，有
+感於應該為Perl及其開發者社群尋找新方向，也在當時發表以此為目
+標的Perl 6計畫；同時，Guido也正在思考Python2.0的未來走向，於
+是兩人在去年七月開始產生聯合發展的構思。
+
+兩種程式語言各有優點：Perl 有快速的正規化表示式引擎﹙regular
+ expression engine﹚、可攜性高；而 Python普遍被認為可讀性較
+高、支援safe signals handling與 coherent Unicode。當Wall欲重
+新設計Perl的架構時，發現Perl需要加強之處，幾乎都是Python原來
+舊有的特性。
+
+Guido表示，微軟的.NET計畫和共同語言執行環境﹙Common Language
+ Runtime﹚讓兩人有了新想法：讓Perl與 Python的bytecode可以使
+用同樣的解譯器，在同樣的平台環境下執行。因此，Wall與Guido 的
+企圖，是要讓Perl和Python同時在語言架構的層級上，與解譯器的層
+級上，作緊密的結合。
+
+「Parrot」為Perl與Python結合後的新一代程式語言名稱，Guido 指
+出，構思Parrot的架構時，除了希望它能擁有彈性、延展性與簡潔的
+語法，同時也能讓原來的Perl和Python開發者社群，都能很快上手。
+Parrot發展成員為原來開發Python 3000的團隊與Perl6團隊的組合，
+Guido表示希望在今年底前的Parrot 發展者大會上，能展示部分成果
+。發展文件將由O'Reilly集結成「Programming Parrot」一書，原來
+的Python軟體基金會﹙Python Software Foundation﹚則可能與 YAS
+﹙Yet Another Society﹚合併。
+
+對於Python與Perl的結合，對原來分屬兩個社群的程式設計師，當然
+有不小的影響。Wall信心十足地表示，Perl宣稱集所有程式語言之大
+全，為什麼獨漏Python所擁有的優點？Wall相信Perl社群樂見Parrot
+計畫的進行。相對於Wall 的樂觀，Guido表示原來Python的使用者，
+比起Perl社群可能較難習慣新的程式語言，不過既然Python 2的設計
+一直朝向Perl所擁有的長處邁進，Guido相信Python 社群亦能樂見合
+併計畫的進行。
+
+不過，細心的網友可能會發現宣布「Parrot」消息的時間正好是4月1
+日，也就是西洋的愚人節，事實上在原始消息的標題處，即註明這篇
+文章是「April Fools Issue ﹙1 Day only﹚」，Python.org也在事
+後於網站首頁上更正表示，所有關於Parrot的訊息、Perl與Python作
+者的聯合訪談等都是編造的文章。不少使用者在發現其實這是一場精
+心策劃的惡作劇後都感覺又好氣又好笑，並在網路論壇上繼續後續的
+討論。
+
+相關網址：
+1、Perl 與 Python 宣布聯合發展計畫
+   http://use.perl.org/article.pl?sid=01/03/31/206248
+2、新一代程式語言 Parrot
+   http://www.perl.com/pub/2001/04/01/parrot.htm
+3、Python首頁
+   http://www.python.org
+
+──────────────────────────────
+
+═《互動信箱》═══════════════════════
+關於OpenSource，您還有什麼想知道的嗎？
+或者對這份電子報有任何意見，歡迎寫信到互動信箱：
+editor@cyberworksolution.com
+
+-----【OpenScope  開放視界】電子報，給您最精采的內容！-----
+
+══════════════════════════════
+
+
+※ 本電子報字型預設值為「細明體」，如果您使用Outlook收看我們
+的電子報，因為預設值不同的關係，新聞格式可能會有誤差，您可在
+Outlook 的工具→選項→閱讀中，將文字格式改為「細明體」，即可
+順利閱讀我們的新聞。
+
+※ 這是【OpenScope開放視界】電子報。若您想取消訂閱，請至本電
+子報首頁的「訂戶專區」取消訂閱。﹙網址：http://www.openscope.net﹚
+
+※ OpenScope電子報新聞每月轉載於Linuxer雜誌《開放視界　零客觀點》專欄
+
+
+──────────────────────────────
+             網基科技股份有限公司(C)版權所有 2001 
+
+本文著作權為網基科技股份公司所有，歡迎非為商業目的而重製本文
+之一部或全部，但重製時須完整引用本著作權說明及本文網址
+﹙www.openscope.net﹚，且不得改變本文之標題與內文。
+非經著作權人同意不得為商業目的重製、改作或引用。
